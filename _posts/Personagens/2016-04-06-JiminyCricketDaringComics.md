@@ -40,7 +40,7 @@ header: no
 + **I've Read about That! (FC 115)** - Using _Knowledge_
 + **Power mind:** Uses _Knowledge_ to control all his _Project Name: Jiminy Cricket_'s Powers. Don't apply for Powers from any other Power Set, even being similar
 
-## Power Set - _Project Code: Jiminy Cricket_
+## Power Set - _Project Name: Jiminy Cricket_
 
 + Boost (2)
 	+ Multi-Targeting (2)
