@@ -12,8 +12,8 @@ permalink:        /:categories/:title/
 title:            Os Cacarecos do Fábio
 tagline:          'Onde coloco tudo o que dá na telha'
 description:      ''
-url:              http://hufflepuffbr.github.io/
-baseurl:          /
+url:              http://hufflepuffbr.gitlab.io/
+baseurl:          /public
 
 author:
   name:           'Fábio Emilio Costa'

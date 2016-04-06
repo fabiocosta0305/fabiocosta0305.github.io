@@ -6,9 +6,9 @@ pages:
   - gem install jekyll
   - gem install redcarpet
   - gem install jekyll-paginate
-  - jekyll build -d site/
+  - jekyll build -d public/
   artifacts:
     paths:
-    - site
+    - public
   only:
   - master
