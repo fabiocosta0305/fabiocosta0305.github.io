@@ -1,13 +1,14 @@
+image: ruby:2.3
+
 pages:
   stage: deploy
-  image: ruby:2.1
   script:
   - gem install jekyll
   - gem install redcarpet
   - gem install jekyll-paginate
-  - jekyll build -d public
+  - jekyll build -d site/
   artifacts:
     paths:
-    - public
+    - site
   only:
   - master
