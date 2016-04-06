@@ -2,7 +2,6 @@
 title: Jiminy Cricket
 subheadline: A Genetically Modified Mastermind Child for Daring Comics
 layout: personagens
-date: 2015-07-30 15:09
 categories:
  - characters
 tags:
