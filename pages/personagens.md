@@ -28,7 +28,8 @@ Alguns personagens exemplos que eu criei
 {% for tag in taglist %}
    <li><h3> {{ tag }} </h3></li>
    <ul>
-   {% for post in site.categories.personagens %}
+   {% assign sorted_pages = (site.categories.personagens | sort: 'title') %}
+   {% for post in sorted_pages %}
    {% if post.tags contains tag %}
    <li><a href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }} </a> </li>
    {% endif %}
@@ -79,7 +80,8 @@ Some characters I did (in English)
 {% for tag in taglist %}
    <li><h3> {{ tag }} </h3></li>
    <ul>
-   {% for post in site.categories.characters %}
+   {% assign sorted_pages = (site.categories.characters | sort: 'title') %}
+   {% for post in sorted_pages %}
    {% if post.tags contains tag %}
    <li><a href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }} </a> </li>
    {% endif %}
