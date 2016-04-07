@@ -142,3 +142,4 @@ An organization that exists since the Humanity Dawn (or they think so), the _Toy
 
 The enigmatic real main force into _Toybox_, this man (or woman, or whatever) doesn't want power for domination or destruction or everything. He just wants power because reasons. He's almost as crazy as _Mother Goose_, but there's method into his madness. No one knows who he really is, but looks like he's a shapeshifter, although he have the same big, crooked nose and wrinked-skinned fingers into any of his form. Some says that he's a superb shapeshifter, but he likes to play cat-and-mouse with those he wants to scare or harm, so the crooked nose and wrinked fingers were _deliberated_ maintained as this when he wants.
 
+ 
