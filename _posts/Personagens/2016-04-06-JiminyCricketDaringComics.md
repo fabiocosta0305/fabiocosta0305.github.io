@@ -11,7 +11,7 @@ header: no
 
 ## Aspects
 
-| **Concept:**        | Genetically Modified Runaway _"Kid"_-to-be-tured weapon    |
+| **Concept:**        | Genetically Modified Runaway _"Kid"_-to-be-turned weapon   |
 | **Motivation:**     | _"I'll fight for justice and discover my past!"_           |
 | **Inner Strenght:** | _"They'll not take me back to that lab!"_                  |
 | **Core Values:**    | Childish naïve sense of justice                            |
@@ -22,8 +22,8 @@ header: no
 ## Skills
 
 | **Superb (+5)** | Knowledge | Technology  |   |   |   | 
-| **Great (+4)** | Will | Rapport |  Resources |  |   |   
-| **Good (+3)** | Investigate |Notice  | Empathy |   |   |  
+| **Great (+4)** | Will | Rapport |  Resources |  |   |
+| **Good (+3)** | Investigate |Notice  | Empathy |   |   |
 | **Fair (+2)** |  Treatment | Provoke | Vehicles |   |   | 
 | **Average (+1)** | Athletics | Leadership | Physique |  Stealth | Thief |
 
@@ -142,4 +142,3 @@ An organization that exists since the Humanity Dawn (or they think so), the _Toy
 
 The enigmatic real main force into _Toybox_, this man (or woman, or whatever) doesn't want power for domination or destruction or everything. He just wants power because reasons. He's almost as crazy as _Mother Goose_, but there's method into his madness. No one knows who he really is, but looks like he's a shapeshifter, although he have the same big, crooked nose and wrinked-skinned fingers into any of his form. Some says that he's a superb shapeshifter, but he likes to play cat-and-mouse with those he wants to scare or harm, so the crooked nose and wrinked fingers were _deliberated_ maintained as this when he wants.
 
-Cc: Fábio Emilio Costa <fabiocosta0305@gmail.com>
