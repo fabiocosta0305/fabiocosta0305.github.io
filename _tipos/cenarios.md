@@ -11,9 +11,9 @@ Alguns cenários que eu criei
     {% for post in site.pages %}
     {% if post.categories contains 'cenarios' %}
     <li><a href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></li>
-    {% comment %}
-    {{ post.content }}
-    {% endcomment %}
     {% endif %}
+    {% endfor %}
+    {% for post in site.tags.cenarios %}
+    <li><a href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></li>
     {% endfor %}
 </ul>
