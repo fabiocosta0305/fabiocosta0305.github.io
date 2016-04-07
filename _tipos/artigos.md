@@ -10,7 +10,7 @@ Artigos que escrevi ou traduzi
         
 <ul>
     {% for post in site.tags.Artigos %}
-    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
 
