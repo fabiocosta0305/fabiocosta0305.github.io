@@ -3,6 +3,8 @@ layout: page
 show_meta: false
 subheadline: "Fate Core"
 title: "Destino de Gaia 400x"
+categories:
+  - cenarios
 teaser: "Esses são alguns materiais do Destino de Perry Rhodan que tenho aqui nos meus cacarecos. Fique a vontade para se Servir"
 header:
     image_fullwidth: FundoBlog.png
