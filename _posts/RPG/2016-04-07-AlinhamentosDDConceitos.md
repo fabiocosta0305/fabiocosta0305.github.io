@@ -1,5 +1,5 @@
 ---
-title: Alinhamentntos de D&D como Aspectos
+title: Alinhamentos de D&D como Aspectos
 layout: post
 categories:
  - RPG
