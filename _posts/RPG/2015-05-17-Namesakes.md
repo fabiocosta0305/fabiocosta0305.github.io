@@ -11,6 +11,7 @@ tags:
   - FAE
   - Cenário
   - namesakes
+  - cenarios
 header:
  image_fullwidth: FundoBlog.png
 ---

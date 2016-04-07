@@ -10,6 +10,7 @@ tags:
  - Fate-Core
  - Personagens
  - Kurosagi - Corpse Delivery Service
+ - cenarios
 header: no
 ---
 ## Baseado no Mangá “Kurosagi Corpse Delivery Service”
