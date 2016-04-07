@@ -13,7 +13,7 @@ header: no
 
 [Link original](http://reddicediaries.com/all-about-aspects/all-about-aspects-dd-alignments-as-an-aspect/)
 
-Alguém, acho que no Google+ (desculpem por não lembrar quem ou encontrar o post original) sugeriu em resposta a um dos meus recentes artigos da série _[_Tudo Sobre Aspectos_](http://reddicediaries.com/category/all-about-aspects/)[^1] que o conceito de alinhamentos de D&D poderisa ser usado como Aspectos.
+Alguém, acho que no Google+ (desculpem por não lembrar quem ou encontrar o post original) sugeriu em resposta a um dos meus recentes artigos da série [_Tudo Sobre Aspectos_](http://reddicediaries.com/category/all-about-aspects/)[^1] que o conceito de alinhamentos de D&D poderisa ser usado como Aspectos.
 
 Goste-se ou não, alinhamentos fazem parte do RPG mais popular do mundo desde sua origem.
 
