@@ -53,7 +53,7 @@ Os Espíritos Ajudantes não usam as mesmas Abordagens dos personagens normais p
 
 Um Espírito Ajudante possui uma Abordagem em _Bom (+3)_, uma em _Razoável (+2)_, uma em _Regular (+1)_ e uma em _Medíocre (+0)_
 
-> **Exemplo:** Agora é hora de Erika escolher as quatro Abordagens de Vanilla. Ela opta por **Espírito** ser a abordagem _Boa (+3)_ de  Vanilla, pois ela tem muita convicção de suas escolhas e afins, além  de ser muito sociável (ainda que ocasionalmente explosiva). A Abordagem _Razoável (+2)_ vai para  **Foco**, pois ela conhece muito sobre doces, em especial os que envolvem baunilha, além de ter um > poder mágico bem forte. A Abordagem _Regular (+1)_ vai para  **Corpo** já que ela não é tão ágil, mas consegue fazer as coisas razoavelmente bem. A Abordagem _Medíocre (+0)_ dela é **Mente**: não que Vanilla seja burra, mas ela acabou de chegar no mundo real, então tem muita coisa que ela realmente não sabe como funciona.
+> **Exemplo:** Agora é hora de Erika escolher as quatro Abordagens de Vanilla. Ela opta por **Espírito** ser a abordagem _Boa (+3)_ de  Vanilla, pois ela tem muita convicção de suas escolhas e afins, além  de ser muito sociável (ainda que ocasionalmente explosiva). A Abordagem _Razoável (+2)_ vai para  **Foco**, pois ela conhece muito sobre doces, em especial os que envolvem baunilha, além de ter um  poder mágico bem forte. A Abordagem _Regular (+1)_ vai para  **Corpo** já que ela não é tão ágil, mas consegue fazer as coisas razoavelmente bem. A Abordagem _Medíocre (+0)_ dela é **Mente**: não que Vanilla seja burra, mas ela acabou de chegar no mundo real, então tem muita coisa que ela realmente não sabe como funciona.
 
 #### Façanhas
 
