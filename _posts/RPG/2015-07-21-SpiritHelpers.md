@@ -75,7 +75,7 @@ Espíritos Ajudantes recebem o mesmo número de Pontos de Destino, Estresse e Co
 
 #### Auxiliando
 
-Um Espírito Ajudante recebe +2 ao tentar ajudar a pessoa a quem ela está Associada (Aspecto _Associação_). Para efeito de regras, é como se ela fosse ao mesmo tempo Compelida a ajudar a pessoa e invocasse esse Aspecto logo em seguida. 
+Um Espírito Ajudante recebe +2 ao tentar ajudar a pessoa a quem ela está Associada (Aspecto _Associação_) e, vice-versa, recebe +2 ao ser ajudada pela pessoa à qual está Associada, ao invés do +1 tradicional por _Trabalho em Equipe_. Para efeito de regras, é como se ela fosse ao mesmo tempo Compelida a ajudar a pessoa e invocasse esse Aspecto logo em seguida. 
 
 #### Amplificando Façanhas
 
@@ -85,7 +85,7 @@ Vários Espíritos Ajudantes similares, com Façanhas similares, podem acumular 
 
 #### Humanos como Companheiros (Regra Opcional)
 
-Se você for focar a campanha nos Espíritos Ajudantes, você tem a possibilidade de "inverter" a situação, sendo o personagem humano a ser o companheiro. Nesse caso, a Abordagem _Foco_ reflete a confiança do personagem no Espírito e sua capacidade de interação com o mesmo. Qualquer personagem deverá ter ao menos _Medíocre (+0)_ em _Foco_ para interagir com o personagem Espírito: qualquer coisa abaixo disso se torna uma Descrença, e isso anula o Aspecto de Associação do Humano em questão.
+Se você for focar a campanha nos Espíritos Ajudantes, você tem a possibilidade de "inverter" a situação, sendo o personagem humano a ser o companheiro. Nesse caso, a Abordagem _Foco_ reflete a confiança do personagem no Espírito e sua capacidade de interação com o mesmo. Qualquer personagem deverá ter ao menos _Regular (+1)_ em _Foco_ para interagir com o personagem Espírito: qualquer coisa abaixo disso se torna uma Descrença, e isso anula o Aspecto de Associação do Humano em questão.
 
 ### Exemplo de Personagem 
 
@@ -93,51 +93,58 @@ Se você for focar a campanha nos Espíritos Ajudantes, você tem a possibilidad
 
 Normalmente, os Espíritos dos Doces se focam em aprender o melhor para
 se tornarem  Pattisieres reais, parte dos  mais importantes pattisiere
-do  Reino dos  Doces.  Mas outros  Espíritos  possuem outras  missões…
+do  Reino dos  Doces.  Mas  outros Espíritos  possuem outras  missões…
 Afinal  de contas,  existem  situações que  exigem uma  característica
 diferente…
 
-Sucrelose,  ou Sucre,  como se  chama, nasceu  com o  que poderia  ser
+_Sucrelose_, ou _Sucre_,  como se chama, nasceu com o  que poderia ser
 considerada uma das piores coisas para  um Espírito dos Doces: ele era
-diabético.  Seus pais,  pattisiere  reais, ficaram  preocupados com  o
+diabético.   Seus pais,  pattisiere reais,  ficaram preocupados  com o
 futuro  e até  mesmo com  a saúde  de seu  filho. Com  o tempo,  foram
-estudando como fazer doces que o filho poderia comer… E foi quando ele
-decidiu  que  iria tornar-se  um  pattisiere  para outros  como  eles,
-pessoas que tivessem  algum tipo de restrição  alimentar que impedisse
-os mesmos de comer doces. O que não é pouca coisa: doença celíaca (não
-poder comer  glutem), intolerância  a lactose, diabetes,  entre outras
-condições, não são tão pouco presentes assim, mesmo entre os Espíritos
-dos Doces.
+estudando como fazer doces que o filho poderia comer… 
 
-Foi  quando ele  precisou descer  à  Terra, para  se aperfeiçoar.  Ele
+Foi  quando Sucre  decidiu  que iria  tornar-se  um _pattisiere_  para
+outros  como  eles,  pessoas  que tivessem  algum  tipo  de  restrição
+alimentar que impedisse  os mesmos de comer doces.  O  que não é pouca
+coisa:  doença  celíaca  (não  poder  comer  glutem),  intolerância  a
+lactose, diabetes, entre outras condições, não são tão pouco presentes
+assim, mesmo entre os Espíritos  dos Doces. Ao compreender seu desejo,
+a Rainha do Mundo dos Espíritos  dos Doces permitiu que Sucre seguisse
+sua ambição, dizendo que ela o  aceitaria como um _patissiere_ Real se
+alcançasse seu objetivo.
+
+Foi  quando ele  precisou descer  à  Terra para  se aperfeiçoar.   Ele
 encontrou alguém como ele: Takeru  Shirosaki, um garoto que, apesar de
 adorar doces, também  possui diabetes. Desde então,  eles formaram uma
 grande parceria,  procurando criar  doces para  aqueles que  não podem
 comer doces.
 
-- **Aspectos:**
-  - **Conceito:** Espírito  dos Doces  focado em  doces para  quem não
-    pode com doces
-  - **Dificuldade:** Diabético - Açucar é veneno para ele
-  - **Associação:** _"Eu e Takeru iremos levar felicidade para aqueles
-    que os demais_ patissiere _esquecem"_
-  - Extremamente focado
-  - Conhecedor de ingredientes incomuns
-- **Abordagens:**
-  - **Corpo:** _Medíocre (+0)_
-  - **Mente:** _Regular (+1)_
-  - **Espírito:** _Razoável (+2)_
-  - **Foco:** _Bom (+3)_
-- **Façanhas:**
-  - **Magic  Decoration:** com  essa  Façanha, ele  recebe  +2 em  seu
+**Aspectos:**
+
+| **Conceito:** | Espírito  dos Doces  focado em  doces para  quem não    pode com doces |
+| **Dificuldade:** | Diabético - Açucar é veneno para ele |
+| **Associação:** | _"Eu e Takeru iremos levar felicidade para aqueles  que os demais_ patissiere _esquecem"_ |
+| | Extremamente focado |
+| | Conhecedor de ingredientes incomuns devido à sua condição de diabético |
+
+**Abordagens:**
+
+| **Corpo:** | _Medíocre (+0)_ |
+| **Mente:** |  _Regular (+1)_ |
+| **Espírito:** | _Razoável (+2)_ |
+| **Foco:** | _Bom (+3)_ |
+
+ **Façanhas:**
+
+- **Magic  Decoration:** com  essa  Façanha, ele  recebe  +2 em  seu
     _Foco_ para _Criar Vantagens ao realizar decorações (seja de doces
     ou locais relacionados a doces)_;
-   - **Magic Sweet Pictures:** com essa Façanha, ele cria _uma vez por
+- **Magic Sweet Pictures:** com essa Façanha, ele cria _uma vez por
      sessão_ uma **Carta  Doce** (que funciona como um  Aspecto) com a
      imagem de um Doce que ele fez  e que ele pode guardar ou enviar a
      outros.  Aquele  que estiver  com a mesma  recebe +2  para _Criar
      Vantagens ao tentar reproduzir tal doce_;
-   - **Magic Sweet Scales:** _uma vez  por sessão_ Sucre pode convocar
+- **Magic Sweet Scales:** _uma vez  por sessão_ Sucre pode convocar
      uma balança  mágica que  ajuda ele  a substituir  ingredientes da
-     maneira adequada, dando _+2 em todos os testes para fazer um doce
-     que não leve determinado tipo de ingredientes_
+     maneira adequada, dando _+2 em todos os testes para fazer doces
+     sem ter os ingredientes esperados (seja por necessidade ou mudança da receita)_ durante aquela cena
