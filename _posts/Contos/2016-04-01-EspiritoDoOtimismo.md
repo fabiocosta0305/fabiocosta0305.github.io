@@ -590,9 +590,9 @@ Mary correu para Nicola e o abraçou de maneira totalmente maternal, lembrando a
 
 \- _Espírito do Otimismo?_ - disse Nicola, enquanto os valentões eram levados pelos policiais da cidade
 
-\- _Digamos que você é especial, Nicola. Você nasceu em 1° de Janeiro e tem, agora, 12 anos, sendo que estamos em 1912, certo?_ - disse Frederick
+\- _Digamos que você é especial, Nicola. Você nasceu em 1° de Janeiro e tem, agora em 1910, 10 anos, estou certo?_ - disse Frederick
 
-\- _Sim... Isso mesmo: segundo o que dizem, nasci ainda quando tocavam as badaladas do Ano Novo._
+\- _Sim... Isso mesmo: segundo o que dizem, nasci ainda quando tocavam as badaladas do Ano Novo na virada do século._
 
 \- _Exato! Isso mesmo... Isso quer dizer que você tem algo especial... Mas vamos primeiro lavar esse seu rosto todo cheio de baba do Khan e aí conversaremos._ - disse Frederick, retirando Nicola do picadeiro, em direção a uma nova vida.
 
