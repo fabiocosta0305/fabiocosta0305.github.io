@@ -162,10 +162,12 @@ a.sidebar-nav-item:focus {
   padding-bottom: 4rem;
 }
 
+
 .content img {
-    max-width: 50%;
+    max-width: 100%;
     float: center;
 }
+
 
 @media (min-width: 48em) {
   .content {
