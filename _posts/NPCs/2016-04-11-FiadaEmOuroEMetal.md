@@ -1,5 +1,5 @@
 ---
-title: "NPCs para a carta Fiada de Metal e Ouro (Spun of Metal and Gold)"
+title: "NPCs para a carta _Fiada de Metal e Ouro_ (___Spun of Metal and Gold___)"
 layout: personagens
 categories:
   - npcs

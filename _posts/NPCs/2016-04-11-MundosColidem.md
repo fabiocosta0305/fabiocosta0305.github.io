@@ -1,5 +1,5 @@
 ---
-title: "NPCs para a carta Mundos Colidem (The Worlds Collide)"
+title: "NPCs para a carta _Mundos Colidem_ (___The Worlds Collide___)"
 layout: personagens
 categories:
   - npcs

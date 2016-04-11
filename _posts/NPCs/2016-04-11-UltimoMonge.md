@@ -1,5 +1,5 @@
 ---
-title: "NPCs para a carta O Último Monge? (One Last Monk?)"
+title: "NPCs para a carta _O Último Monge?_ (___One Last Monk?___)"
 layout: personagens
 categories:
   - npcs

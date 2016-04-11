@@ -1,5 +1,5 @@
 ---
-title: "NPCs para a carta O Rei Peregrino (The Pilgrim King)"
+title: "NPCs para a carta _O Rei Peregrino_ (___The Pilgrim King___)"
 layout: personagens
 categories:
   - npcs

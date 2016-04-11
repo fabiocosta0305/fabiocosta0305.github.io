@@ -1,5 +1,5 @@
 ---
-title: "NPCs para a carta Os Perdidos (The Lost Ones)"
+title: "NPCs para a carta _Os Perdidos_ (___The Lost Ones___)"
 layout: personagens
 categories:
   - npcs
