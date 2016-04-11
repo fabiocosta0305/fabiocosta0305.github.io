@@ -1,6 +1,5 @@
 ---
-subheadline: "Um Peregrino Caído para Do - Destino do Templo Voador" 
-title: "Ling Dao, o Rei Peregrino (antigo Peregrino Lótus de Aço)"
+title: "NPCs para a carta O Rei Peregrino (The Pilgrim King)"
 layout: personagens
 categories:
   - npcs
@@ -9,6 +8,24 @@ tags:
 header: no
 ---
 
+
+### Jin Shui
+
++ **Juiz de Winterhold; Preocupado com o Futuro; Defensor das Tradições**
++ _**Perito (+2) Em**: Demonstrar sua Preocupação; Tradições_
++ _**Ruim (-2) Em**:  Aceitar ordens de outros_
+
+---
+
+### Soldados do Rei Peregrino
+
++ **Leais até a morte; Adoradores de Ling Dao**
++ _**Perito (+2) Em**: Obedecer ordens, lutar_
++ _**Ruim (-2) Em**:  Desobedecer Ling Dao_
+
+---
+
+### Ling Dao, o Rei Peregrino (antigo _Peregrino Lótus de Aço_)
 
 #### Aspectos
 
