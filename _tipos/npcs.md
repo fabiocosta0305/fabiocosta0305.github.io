@@ -8,8 +8,14 @@ permalink: "/NPCs/"
     
 Alguns NPCs exemplos que eu criei
 
-{% capture site_tags %}{% for post in site.categories.npcs %}{% for tag in post.tags %}{{ tag | lstrip | rstrip }},{% endfor %}{% endfor %}
+{% capture site_tags %}
+{% for post in site.categories.npcs %}
+{% for tag in post.tags %}
+{{ tag | lstrip | rstrip }}{% unless tag == "" %},{% endunless %}
+{% endfor %}
+{% endfor %}
 {% endcapture %}
+
 
 <!-- `tag_words` is a sorted array of the tag names. -->
 {% assign tag_words = site_tags | strip_newlines | strip | split:',' | sort %}
@@ -17,7 +23,7 @@ Alguns NPCs exemplos que eu criei
 
 
 {% for item in tag_words %}
-    {% unless tags contains item %}
+    {% unless tags contains item  %}
         {% capture tags %}{{ tags }}|{{ item }}{% endcapture %}
     {% endunless %}
 {% endfor %}
@@ -26,6 +32,9 @@ Alguns NPCs exemplos que eu criei
 
 <ul> 
 {% for tag in taglist %}
+   {% if tag == "" or tag == nil %}
+   {% continue %}
+   {% endif %}
    <li><h3> {{ tag }} </h3></li>
    <ul>
    {% assign sorted_pages = (site.categories.npcs | sort: 'title') %}
@@ -41,8 +50,14 @@ Alguns NPCs exemplos que eu criei
 
 Some NPCs I did (in English)
 
-{% capture site_tags %}{% for post in site.categories.npcs-english %}{% for tag in post.tags %}{{ tag | lstrip | rstrip }},{% endfor %}{% endfor %}
+{% capture site_tags %}
+{% for post in site.categories.npcs-english %}
+{% for tag in post.tags %}
+{{ tag | lstrip | rstrip }}{% unless tag == "" %},{% endunless %}
+{% endfor %}
+{% endfor %}
 {% endcapture %}
+
 
 <!-- `tag_words` is a sorted array of the tag names. -->
 {% assign tag_words = site_tags | strip_newlines | strip | split:',' | sort %}
@@ -50,7 +65,7 @@ Some NPCs I did (in English)
 
 
 {% for item in tag_words %}
-    {% unless tags contains item %}
+    {% unless tags contains item  %}
         {% capture tags %}{{ tags }}|{{ item }}{% endcapture %}
     {% endunless %}
 {% endfor %}
@@ -59,6 +74,9 @@ Some NPCs I did (in English)
 
 <ul> 
 {% for tag in taglist %}
+   {% if tag == "" or tag == nil %}
+   {% continue %}
+   {% endif %}
    <li><h3> {{ tag }} </h3></li>
    <ul>
    {% assign sorted_pages = (site.categories.npcs-english | sort: 'title') %}

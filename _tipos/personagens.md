@@ -26,6 +26,9 @@ Alguns personagens exemplos que eu criei
 
 <ul> 
 {% for tag in taglist %}
+   {% if tag == "" or tag == nil %}
+   {% continue %}
+   {% endif %}
    <li><h3> {{ tag }} </h3></li>
    <ul>
    {% assign sorted_pages = (site.categories.personagens | sort: 'title') %}
@@ -78,6 +81,9 @@ Some characters I did (in English)
 
 <ul> 
 {% for tag in taglist %}
+   {% if tag == "" or tag == nil %}
+   {% continue %}
+   {% endif %}
    <li><h3> {{ tag }} </h3></li>
    <ul>
    {% assign sorted_pages = (site.categories.characters | sort: 'title') %}
