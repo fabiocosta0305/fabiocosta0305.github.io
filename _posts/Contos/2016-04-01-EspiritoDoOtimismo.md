@@ -360,7 +360,7 @@ Pyg começou a rir, o que fez Nicola se envergonhar, enquanto Pyg o conduzia a a
 
 \- _Ok... Agora já tenho ideia de como podemos trabalhar o nosso número com você. Vou explicar sua posição no número logo. Primeiro, deixe-me ver como vamos fazer sua maquiagem._ - ele disse.
 
-\- _Todo palhaço precisa de maquiagem?_ - disse Nicola.
+\- _Todo palhaço precisa de maquiagem?_ - disse Nicola, ao ver sobre a penteadeira uma série de pequenos potes coloridos.
 
 \- _Sim... Mas essa maquiagem não é para esconder nosso rosto, mas, ao contrário, para enfatizar nossas expressões mais engraçadas. Lembre-se que nossa função, além de chamar a atenção, é fazer rir. Primeiro, quero que demonstre, com o rosto, os sentimentos que eu pedir para você._
 
@@ -470,7 +470,7 @@ Foi quando ele começou a ouvir _Stars and Stripes Forever_.
 
 Isso acionou na cabeça dele uma coisa que Pyg lhe disse enquanto ele perguntava sobre o circo, enquanto o mesmo o maquiava pela primeira vez.
 
-> \- _Se, a qualquer momento no show, você ouvir a música_ "Stars and Stripes Forever", _aconteça o que acontecer, mantenha a compostura. Essa é uma música de alerta para todos do circo de que algo realmente sério aconteceu. Normalmente, nessas horas nós temos que fazer nossas palhaçadas para manter o público calmo para que todos saiam do circo em segurança... Acho que só ouvi essa música uma vez, antes de um furacão daqueles vir na direção do circo. Essa é única situação em que a banda toca essa música. Não a toa a chamamos de_ "A Marcha do Desastre"
+> \- _Se, a qualquer momento no show, você ouvir a música_ "Stars and Stripes Forever", - disse Pyg, enquanto passava o dedo com a maquiagem sobre o rosto de Nicola -  _aconteça o que acontecer, mantenha a compostura. Essa é uma música de alerta para todos do circo de que algo realmente sério aconteceu. Normalmente, nessas horas nós temos que fazer nossas palhaçadas para manter o público calmo para que todos saiam do circo em segurança... Acho que só ouvi essa música uma vez, antes de um furacão daqueles vir na direção do circo. Essa é única situação em que a banda toca essa música. Não a toa a chamamos de_ "A Marcha do Desastre"
 
 E ali estava a banda do circo tocando... _"A Marcha do Desastre"_
 
