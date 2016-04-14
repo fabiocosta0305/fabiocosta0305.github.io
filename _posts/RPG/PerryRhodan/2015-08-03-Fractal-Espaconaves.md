@@ -228,7 +228,7 @@ Toda nave possui o mesmo número de Manobras iniciais, 3.
 
 > _Exemplo:_ Agora  está na hora  de decidir  as Manobras que  a _Good
 > Hope_  possui. No  caso,  decidimos por  apenas  uma (assim  podendo
-> deixar  duas em  aberto  para o  futuro_, que  é  a _Adaptação  Para
+> deixar  duas em  aberto  para o  futuro), que  é  a _Adaptação  Para
 > Operadores  Humanos_.  Como  essa  nave  é  uma  nave  originalmente
 > Arconita, todo  personagem que não conhecesse  a tecnologia Arconita
 > (ou  seja,  sem _**Treinamento  Especial**_  na  mesma) sofreria  um
@@ -314,7 +314,7 @@ deslocamento humano, cada Setor é considerado uma Zona.
   ação. Outros veículos são armazenados como _Suprimentos_
 - _**Compensador Estrutural**  (Energia/Escudos):_ auxilia  evitando a
   detecção da mesma;
-- _**Dectetor  de  Abalos**  (Energia/Radares):_ auxilia  a  localizar
+- _**Detector  de  Abalos**  (Energia/Radares):_ auxilia  a  localizar
   naves que estejam saindo do hiperespaço
 
 O Mestre pode criar novos setores,  sendo que cada Setor deve oferecer
@@ -327,7 +327,7 @@ uma bonificação para aquele que estiver no mesmo
 > (6)**_.
 >
 > Antes de definir os Setores, vamos definir a Estrutura: ele possui o
-> equivalente a 15 em bônus nas Capacidades (+1  (2 x +2) + (2 x +3) +
+> equivalente a 15 em bônus nas Capacidades (+1 +  (2 x +2) + (2 x +3) +
 > +4), com um total de 15 pontos de Estrutura portanto.
 >
 > Agora falta dividir os Setores:
