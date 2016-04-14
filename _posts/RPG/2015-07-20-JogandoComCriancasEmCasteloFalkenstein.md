@@ -148,7 +148,7 @@ Esse sistema de regras pode ser aplicado para criar-se “Fadas Crianças” nor
 
 Demais habilidades do Módulo Básico não são modificadas. Habilidades específicas de outros módulos têm seu comportamento determinado pelo Anfitrião.
 
-###Experiência e Idade:
+### Experiência e Idade:
 
 > _Onde o Anfitrião é apresentado aos benefícios da maturidade para os infantes_
 
