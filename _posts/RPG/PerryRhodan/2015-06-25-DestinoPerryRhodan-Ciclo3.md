@@ -5,6 +5,7 @@ layout: post
 comments: true
 categories:
  - RPG
+ - Perry-Rhodan
 tags:
  - Fate
  - Fate Core
