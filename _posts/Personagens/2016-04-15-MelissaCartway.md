@@ -14,7 +14,7 @@ header: no
 | ***Tipo***       | ***Aspecto***                                          |
 |------------------|--------------------------------------------------------|
 | __Conceito__     | _Inventiva Garota que se vira como pode_               |
-| __Dificuldade__  | _"Não posso fazer isso?! Como assim?!_                 |
+| __Dificuldade__  | _"Não posso fazer isso?! Como assim?!"_                |
 |                  | _Sabe das etiquetas sociais_                           |
 |                  | _Orfanato e Educandário da Madame Sheridan_            |
 |                  | _Apesar de tudo, não tem medo de meter a mão na massa_ |
