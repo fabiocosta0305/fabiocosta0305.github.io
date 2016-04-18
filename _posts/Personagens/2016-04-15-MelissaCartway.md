@@ -32,7 +32,7 @@ header: no
 
 ## Façanha Centuriã
 
-+ _Se a vida te dá limões...:_ Melissa é adepta de utilizar tudo o que pode para sobreviver e se dar bem, desde a época das ruas até atualmente. Se Melissa puder explicar como vários objetos ou pessoas podem _conjuntamente_ lhe ser úteis em determinado momento, ela poderá tentar _Criar Vantagens sendo Esperta_ envolvendo esses objetos/pessoas, recebendo +3 no rolamento.
++ _Se a vida te dá limões...:_ Melissa é adepta de utilizar tudo o que pode para sobreviver e se dar bem, desde que entrou no orfanato até atualmente. Se Melissa puder explicar como vários objetos ou pessoas podem _conjuntamente_ lhe ser úteis em determinado momento, ela poderá tentar _Criar Vantagens sendo Esperta_ envolvendo esses objetos/pessoas, recebendo +3 no rolamento.
 
 ## Façanhas comuns [ Recarga: 2 ]
 
