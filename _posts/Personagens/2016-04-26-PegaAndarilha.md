@@ -39,8 +39,8 @@ header: no
 
 Muitos dos Peregrinos são enviados em suas peregrinações apenas quando adolescentes, para que conheçam o mundo fora do Templo antes de poderem realmente decidir se a vida no Templo é o que desejam realmente.
 
-Entretanto, alguns acabam saindo mais cedo, devido à uma necessidade enorme de conhecer o mundo, mesmo que seja para depois voltarem mais sábios ao Templo. E Águia Andarilha é uma dessas Peregrinas.
+Entretanto, alguns acabam saindo mais cedo, devido à uma necessidade enorme de conhecer o mundo, mesmo que seja para depois voltarem mais sábios ao Templo. E Pega Andarilha é uma dessas Peregrinas.
 
-Mal conseguia falar, andar e voar, Águia Andarilha começou a sua peregrinação, apenas de tempos em tempos voltando ao Templo Voador, seja para aprender novas coisas, seja para obter novas cartas. Águia Andarilha esteve em muitos dos Muitos Mundos, e é uma colecionadora prática de Anedotas, Contos e Histórias dos Muitos Mundos, sendo que nos últimos anos contribuiu sozinha com novos registros muito mais do que a grande maioria dos Peregrinos JUNTOS!
+Mal conseguia falar, andar e voar, Pega Andarilha começou a sua peregrinação, apenas de tempos em tempos voltando ao Templo Voador, seja para aprender novas coisas, seja para obter novas cartas. Pega Andarilha esteve em muitos dos Muitos Mundos, e é uma colecionadora prática de Anedotas, Contos e Histórias dos Muitos Mundos, sendo que nos últimos anos contribuiu sozinha com novos registros muito mais do que a grande maioria dos Peregrinos JUNTOS!
 
 Como viajante costumaz, ela sempre está vestindo roupas adequadas para o local para onde está viajando, e não carrega muitas coisa: na realidade, ela consegue se virar bem com uma grande quantidade de pequenos cacarecos úteis, como bolas de gude, palitos e coisas similares.
