@@ -1,5 +1,4 @@
 ---
-subheadline: "Mentor de Nicola e Espírito da Educação do Século XIX" 
 title: "_Lady_ Brighit Danaan, _velhota louca (_ Bag Lady _) e Espírito da Comunidade do Século XIX_"
 layout: personagens
 categories:
