@@ -14,7 +14,7 @@ header: no
 | ***Tipo***       | ***Aspecto***                                          |
 |------------------|--------------------------------------------------------|
 | __Conceito__     | _Inventiva Garota que se vira como pode_               |
-| __Dificuldade__  | _"Não posso fazer isso?! Como assim?!_                 |
+| __Dificuldade__  | _"Não posso fazer isso?! Como assim?!"_                |
 |                  | _Sabe das etiquetas sociais_                           |
 |                  | _Orfanato e Educandário da Madame Sheridan_            |
 |                  | _Apesar de tudo, não tem medo de meter a mão na massa_ |
@@ -32,7 +32,7 @@ header: no
 
 ## Façanha Centuriã
 
-+ _Se a vida te dá limões...:_ Melissa é adepta de utilizar tudo o que pode para sobreviver e se dar bem, desde a época das ruas até atualmente. Se Melissa puder explicar como vários objetos ou pessoas podem _conjuntamente_ lhe ser úteis em determinado momento, ela poderá tentar _Criar Vantagens sendo Esperta_ envolvendo esses objetos/pessoas, recebendo +3 no rolamento.
++ _Se a vida te dá limões...:_ Melissa é adepta de utilizar tudo o que pode para sobreviver e se dar bem, desde que entrou no orfanato até atualmente. Se Melissa puder explicar como vários objetos ou pessoas podem _conjuntamente_ lhe ser úteis em determinado momento, ela poderá tentar _Criar Vantagens sendo Esperta_ envolvendo esses objetos/pessoas, recebendo +3 no rolamento.
 
 ## Façanhas comuns [ Recarga: 2 ]
 
