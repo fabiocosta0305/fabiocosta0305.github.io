@@ -11,13 +11,13 @@ header: no
 
 ## Aspectos
 
-| ***Tipo***       | ***Aspecto***                                                                       |
-|------------------|-------------------------------------------------------------------------------------|
-| __Conceito__     | Empolado e talentoso tutor expatriado português e Bibliotecário do _Clube do Século |
-| __Dificuldade__  | _"Hei de voltar a minha querida terra, nem que seja no túmulo!"_                    |
-|                  | _"Perigo Vermelho? Desde quando o mensageiro é o perigo?"_                          |
-|                  | Os senhores Wright precisam entender o mal que podem fazer a Mayfield               |
-|                  | As provas empíricas são tão importantes quanto a comprovação científica             |
+| ***Tipo***       | ***Aspecto***                                                                        |
+|------------------|--------------------------------------------------------------------------------------|
+| __Conceito__     | Empolado e talentoso tutor expatriado português e Bibliotecário do _Clube do Século_ |
+| __Dificuldade__  | _"Hei de voltar a minha querida terra, nem que seja no túmulo!"_                     |
+|                  | _"Perigo Vermelho? Desde quando o mensageiro é o perigo?"_                           |
+|                  | Os senhores Wright precisam entender o mal que podem fazer a Mayfield                |
+|                  | As provas empíricas são tão importantes quanto a comprovação científica              |
 
 ## Abordagens
 
