@@ -26,7 +26,7 @@ Quer um exemplo? Vamos lá: rosa é cor de menina e azul de menino, certo? E men
 
 Sim... Mas só a partir do início do século XX. E isso não é uma teoria conspiracional de feminazis ou coisas do gênero, usando as terminologias adoradas pelos _Homens de Bem™_[^1], mas sim estudos publicados por _sites_ como [Smithsonian.com][smithsonian] e [TodayIFoundOut][today]. Antes desse período, era normal que colocassem todas as crianças de uma idade baixa (até uns 7 anos) com vestidos (porque facilitava a troca de fraldas) e com cores neutras (branco ou amarelo, em especial em tons pastéis). Os artigos são bem mais interessantes do que eu explicando, e vale gastar um tempo para a leitura.
 
-Mas o que eu quero dizer aqui é que, enquanto pessoas que realmente sofremos no passado (e sim, eu sou de antes de The Big Bang Theory_ e _Mark Zuckenberg_, onde você ser _nerd_ - e pior, ter orgulho disso - era pedir para _"apanhar para virar homem"_) deveríamos ser mais abertas a essas situações.
+Mas o que eu quero dizer aqui é que, enquanto pessoas que realmente sofremos no passado (e sim, eu sou de antes de _The Big Bang Theory_ e _Mark Zuckenberg_, onde você ser _nerd_ - e pior, ter orgulho disso - era pedir para _"apanhar para virar homem"_) deveríamos ser mais abertas a essas situações.
 
 Sim, esse é um post de _Chamado às armas_, embora não tenham armas envolvidas.
 
