@@ -1,12 +1,12 @@
 ---
-title: Fortivitus - _Uma Aventura dos **Jovens Centuriões do Século XX**_
-#subtitle: 
+title: Fortivitus
+subtitle: _Uma Aventura dos **Jovens Centuriões do Século XX**_
 layout: post
 categories:
- - RPG
+ - Aventuras
 comments: true
 tags:
-  - Artigos
+  - Young Centurions
 header: no
 ---
 
