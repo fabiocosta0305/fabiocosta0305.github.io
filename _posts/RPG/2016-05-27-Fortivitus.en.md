@@ -273,18 +273,18 @@ A character that had (or provoke on yourself intentionally) a _Fortivitus_ overd
 
 ## Appendix 2 - NPCs
 
-### Pessoas Ensandecidas
+### Crazy People
 
-+ _Pessoas Ensandecidas; Querem provocar violência e caos; Parecem fora de si; Sob Efeito do Fortivitus_
-+ _**Perito (+2) em:** Lutar; Intimidar_
-+ _**Ruim (-2) em:** Parecerem Lúcidos; Falar Coisa com coisa_
++ _Crazy People; Chaotic; Out of their mind; Under Fortivitus effects_
++ _**Skilled (+2) at:** Fight; Intimidate_
++ _**Bad (-2) at:** Look sane; Put two words together_
 
-### Valentões violentos (Por grupo)
+### Local Bullies (Group)
 
-+ _Um gosto por sangue; "O que você disse, seu tampinha?", "Acha que eu sou burro?! ACHA QUE EU SOU BURRO?!"_
-+ _**Perito (+2) em:** Lutar; Intimidar os outros; Não serem complacentes_
-+ _**Ruim (-2) em:** Serem controlados quando estão levando a pior_
-+ _**Estresse:**_ [][] (Quatro Valentões)
++ _Bloodshoted; "What are you sayin', shrimp?", "Do you think I'm stupid?! DO YOU THINK I'M STUPID?!"_
++ _**Skilled (+2) at:** Fight; Intimidation; Gang up; Have no mercy_
++ _**Ruim (-2) em:** Being reasonable when on the losing side_
++ _**Stress:**_ `2`{: .fate_font} (4 Bullies)
 
 ### Niels Olufssen
 
