@@ -14,7 +14,7 @@ header: no
 
 This adventure is written to be a introductory one for 2 to 6 _20th Century Young Centurions_, US-estabilished, although this is not obligatory.
 
-**PS:** I want to say a warm _Thank You_ Tricia "Pricilla Mooseburger" Manuel, for the tips about circuses and clowning in the 1910s US, via [her Twitter](http://twitter.com/pmooseburger). She was very kind and helpful with my questions.
+**PS:** I want to say a warm _Thank You_ to Tricia _"Pricilla Mooseburger"_ Manuel, for the tips about circuses and clowning in the 1910s US, via [Twitter](http://twitter.com/pmooseburger). She was very kind and helpful with my questions.
 
 ---
 
@@ -34,8 +34,6 @@ This adventure is written to be a introductory one for 2 to 6 _20th Century Youn
 + Madam Esther Sheridan
 + Jonah Pendrik
 + Crazy People
-
-### The Scene
 
 New York, 1911. Next to a big building where the New York HQ for the international philantrophic institution called _The Century Club_, in the _Washington Square Park_ bandshell, the _McNash & Sullivan Circus and Shows_ company is holding one of their winter presentations, in a _Vaudeville_-style show, with juggling and tumbling, clowning and comedy, mentalism and magic, and some singing and operettas in the acts of the matinee presentation. The rest of the circus, like the animals and so, are into the show's winter's HQ, at Newark, NJ.
 
@@ -288,359 +286,360 @@ A character that had (or provoke on yourself intentionally) a _Fortivitus_ overd
 
 ### Niels Olufssen
 
-+ _O Valentão da Região; Força é Poder; No fundo, filhinho da mamãe; Esse negócio vai me fazer um bom dinheiro_
-+ _**Poderoso** Bom (+3); **Ágil** Razoável (+2); **Cuidadoso** Regular (+1)_
-+ **Façanhas:**
-    + _Fortivitus:_ Possui uma dose de _Fortivitus_ que pode usar uma vez por cena.
-+ _**Estresse:**_ [][]
-+ **Consequencias:** 
-    + _Suave (+2):_
++ _The leader bully; Might is Right; In the end, a mama boy; This thing will give me some money_
++ _**Forceful** Good (+3); **Quick** Fair (+2); **Careful** Average (+1)_
++ **Stunts:**
+    + _Fortivitus:_ He have doses of _Fortivitus_ he can use once per scene
++ _**Stress:**_ `2`{: .fate_font}
++ **Consequences:** 
+    + _Mild (+2):_
 
-### Warren McLaggen, Detetive da Polícia de Nova Iorque e Patrocinador do _Clube do Século_
+### Warren McLaggen, NY Police lieutenant and _Century Club_ Retainer
 
-#### Aspectos
+#### Aspects
 
-| **Tipo** | **Aspecto** |
+| **Kind** | **Aspect** |
 |-|-|
-| **Conceito:** | Um Tenente da Polícia de uma família de policiais |
-| **Dificuldade:** | _"Filho, nunca entre em uma briga que não queira comprar."_ |
-| | Preocupado com a comunidade da cidade |
-| | _"Não bastasse o ópio e os tais cigarros índios, ainda tem essa coisa."_ |
-| | Intuição Extremamente precisa para pessoas - Patrocinador do Clube do Século |
+| **High Concept:** | A Police Lieutenant from a police men family |
+| **Trouble:** | _"Son, don't get into fights you don't want to ."_ |
+| | Worried with the city |
+| | _"Opium... The indian cigars... And now this thing."_ |
+| | Extremely precise intuition for people - _Century Club Retainer_ |
 
-#### Abordagens
+#### Approaches
 
-| **Abordagem** | **Nível** |
+| **Approach** | **Level** |
 |-|-|
-| __Ágil__        | _Regular (+1)_  |
-| __Cuidadoso__   | _Bom (+3)_      |
-| __Esperto__     | _Bom (+3)_      |
-| __Estiloso__    | _Regular (+1)_  |
-| __Poderoso__    | _Razoável (+2)_ |
-| __Sorrateiro__  | _Razoável (+2)_ |
+| __Careful__   | _Good (+3)_      |
+| __Clever__     | _Good (+3)_      |
+| __Flashy__    | _Average (+1)_  |
+| __Forceful__    | _Fair (+2)_ |
+| __Quicky__        | _Average (+1)_  |
+| __Sneaky__  | _Fair (+2)_ |
 
-#### Façanhas
+#### Stunts
 
-+ _"Solicitos Reforços!!":_ Como _Tenente da Polícia_ posso, _uma vez por cena_, solicitar alguns reforços na forma de _Oficiais de patrulha_ para me auxiliar 
-+ _O Velho e Bom Um-e-Dois:_ Como sou _veterano na luta corpo a corpo_, sempre que _Ataco_ com os punhos livres _sendo Poderoso_, eu recebo +2
-
++ _"Asking for Reinforments!!":_ As a _Police Lieutenant_, I can, _once per session_, asking for reinforcement to help me, as _Patrol officers_
++ _Good old one-two:_ As I'm a _boxing veteran_, I receive +2 when _Attacking being Forceful_ with bare hands
 
 ### Joshua Pelgrane
 
-+ _Descendente de Ex-Escravos; "No_ Green Pint _minha palavra é lei"; Normas de Hospitalidade; Minha Mãe foi viciada em ópio e isso a levou à morte_
-+ _**Perito (+2) em:** Servir clientes; Passar fofocas adiante; Ouvir_
-+ _**Ruim (-2) em:** Tolerar aqueles que não aceitam suas regras no_ Green Pint;
-+ **Façanhas:**
-    + _A Casa de Um Homem é Seu Castelo:_ +1 em todos os testes quando dentro do _Green Pint_;
-    + _Amigo do Amigo:_ +2 para _Criar vantagens_ relacionadas aos seus contatos no Porto;
-    + _Rodada da Casa:_ +2 para _Criar Vantagens_ que ele possa usar para extrair algum conhecimento útil;
-+ **Estresse:** [][][]
++ _Ex-slave descendant; "In_ Green Pint _my word is law"; Hospitality laws; I lost my mom for the opium_
++ _**Skilled (+2) at:** Attending in the bar; Gossip; Hearing_
++ _**Bad (-2) at:** Being nice with those who don't accepted_ Green Pint_'s rules_;
++ **Stunts:**
+    + _The home of a man is his castle:_ +1 in all tests in the _Green Pint_;
+    + _Know someone that know someone:_ +2 to _Create Advantages_ related to his contacts in the docks;
+    + _My treats:_ +2 to _Create Advantages_ he could use to obtain some useful knowledge;
++ _**Stress:**_ `3`{: .fate_font}
 
 ### Lórcan Ó Buachalla (Lawrence Buckley)
 
-+ _Recém-Chegado à América; Um tipo Esquivo; Sotaque de Limerick; Sorte dos Leprechauns; Sabe mais do que quer admitir;_
-+ _**Sorrateiro** Bom (+3); **Ágil** Razoável (+2); **Poderoso** Regular (+1)_
-+ **Façanhas:**
-    + _Sorte dos Leprechauns:_ Uma vez por Cena, pode solicitar uma re-rolagem de um teste de Defesa sem pagar Pontos de Destino por isso;
-    + _Pugilista bêbado:_ Recebe +2 ao _Defender-se_ de maneira _Poderosa_ contra qualquer ataque Físico que sofra, desde que ele esteja _Suficientemente Bêbado_
-    + _Amigos no populacho:_ Pode, Uma vez por Cena, chamar alguns _Rufiões do Porto_ como Subalternos. Considere que cada Passo adiciona um Estresse ao grupo de Rufiões do Porto;
-    + _Fortivitus:_ Possui uma dose de _Fortivitus_ que pode usar uma vez por cena.
-+ **Estresse:** [][][]
-+ __Consequências:__
-    + _Suave (+2):_
++ _Recently arrived into America; A Sneaky guy; Limerick accent; Leprechauns' Luck; Knows more than shows;_
++ _**Sneaky** Good (+3); **Quick** Fair (+2); **Forceful** Average (+1)_
++ **Stunts:**
+    + _Leprechaun's Luck:_ _Once Per session_, can ask for a rerrol in a _Defense_ test without pay a Fate Point for this;
+    + _Drunken Boxer:_ Receive +2 while _Defending being Forceful_ against Physical Attacks, as soon he's _Drunk as a Skunk_
+    + _Friends in the Riffraff:_ Can, _once in a session_, call some _Dock riffraff_ as Mooks. Each shift on a _Sneaky_ Roll adds one Stress for the _Dock riffraff_;
+    + _Fortivitus:_ He have doses of _Fortivitus_ he can use once per scene
++ _**Stress:**_ `3`{: .fate_font}
++ __Consequences:__
+    + _Mild (+2):_
     
-### Rufiões do Porto
+### Dock riffraff
 
-+ _Rufiões do Porto; Várias Nacionalidades; Navalhas e Sorrisos Perigosos_
-+ _**Perito (+2) em:** Intimidar com Navalhas; Atacar em Bando_
-+ _**Ruins (-2) em:** Serem Espertoso ou Corajosos em menor número_
-+ __Estresse:__ Variável (veja a Façanha de Lórcan _Amigos no populacho_)
++ _Dock Riffraff; From many countries; Blades and sneaky smiles_
++ _**Skilled (+2) at:** Using their blade for intimidation; Grouping on_
++ _**Bad (-2) at:** Being clever or corageous when in less numbers_
++ __Stress:__ Variable (See Lórcan's _Friends in the riffraff_ stunt)
 
-### Lemont Fitzlefevre - Sombra da Nobreza do Século XX
+### Lemont Fitzlefevre - 20th Century Shadow of Noblesse Obligue
 
-#### Aspectos
+#### Aspects
 
 
-| **Tipo** | **Aspecto** |
+| **Kind** | **Aspect** |
 |-|-|
-| **Conceito:** | Herdeiro caído de uma casa de nobres |
-| **Dificuldade:** | Maquiavélico demais para a idade  |
-| | Uma mente brilhante, mas arrogante |
-| | _"Plebeus são recursos"_ |
-| | _Le Monstre aux Yuex Verts_, uma Fonte de Inspiração |
+| **High Concept:** | Heir from a broken french noble house |
+| **Trouble:** | Machiavellian sage beyond age   |
+| | A Brilliant, although arrogant, ming |
+| | _"Common people is resource"_ |
+| | _Le Monstre aux Yuex Verts_, an Inspiration |
 
-#### Abordagens
+#### Approaches
 
-| **Abordagem** | **Nível** |
+| **Approach** | **Level** |
 |-|-|
-| __Ágil__        | _Bom (+3)_      |
-| __Cuidadoso__   | _Regular (+1)_  |
-| __Esperto__     | _Razoável (+2)_ |
-| __Estiloso__    | _Razoável (+2)_ |
-| __Poderoso__    | _Regular (+1)_  |
-| __Sorrateiro__  | _Medíocre (+0)_ |
+| __Careful__   | _Average (+1)_  |
+| __Clever__     | _Fair (+2)_ |
+| __Flashy__    | _Fair (+2)_ |
+| __Forceful__    | _Average (+1)_  |
+| __Quicky__        | _Good (+3)_      |
+| __Sneaky__  | _Mediocre (+0)_ |
 
-#### Façanha Centuriã -  _Conhecimento de Alquimia_ 
+#### Centurion Stunt -  _Alchemical Knowledge_ 
 
-+ Herdeiro de uma grande coleção de documentos e tomos sobre Álquimia, Lemont é adepto de como utilizar tais conhecimentos a seu favor, em especial, criando todo tipo de químicos que dificulte seus adversários. Recebe +3 ao _Criar Vantagens sendo Esperto_ envolvendo o uso de produtos alquímicos contra seus alvos
++ Heir of a great collection of documents and tomes from Alchemy, Lemont is an adept on how to use their knowledge in his favor, specially, creating all kind of chemicals that difficult his adversaries. Receive +3 on _Create Advantages being Clever_ involving the use of Alchemical mixings agains his targets
 
-#### Façanhas Comuns
+#### Commons Stuntss
 
-+ _Savate:_ +2 ao _Atacar sendo Ágil_ com as Mãos Nuas;
-+ _Tropas de Viciados_: pode invocar os _Viciados no Fortivitus_ como Subalternos 
-+ _"Sabe com quem está falando?"_: +2 ao _Superar sendo Esperto_ obstáculos sociais
++ _Savate:_ +2 while _Attack being Quick_ with bare hands;
++ _Addict troops_: can invoke _Fortivitus Addicts_ as mooks
++ _"Do you know with when you are asking for?"_: +2 on _Overcome_ social obstacles _while being Clever_
 
-### Capangas de Lemont
+### Lemont's Goons
 
-+ _Tão nessa pela grana; Dispensáveis; Corajosos com suas **Tommy Guns**_
-+ _**Perito (+2) em:** Lutar; Sentirem prazer em serem maus_
-+ _**Ruim (-2) em:** Serem espertos_
++ _In this for the money; Expendables; Bold with their **Tommy Guns**_
++ _**Skilled (+2) at:** Fight; Feeling good while do bad_
++ _**Bad (-2) at:** Being Clever_
 
-### Viciados em Fortivitus (Grupo)
+### Fortivitus Addicts (Group)
 
-+ _Viciados em Fortivitus; Fazem de tudo por uma nova dose_
-+ _**Perito (+2) em:** Obedecer as ordens de Lemont; Lutar; Parecer desesperados_
-+ _**Ruim (-2) em:** Ter autocontrole_
-+ **Estresse:** [][][] (6 Viciados)
++ _Fortivitus Addicts; Do everything for a new dose_
++ _**Skilled (+2) at:** Obey Lemont; Fight; Being desperate_
++ _**Bad (-2) at:** Self-control_
++ _**Stress:**_ `3`{: .fate_font} (6 Addicted)
 
-### Mutante Atavista
+### Atavic Mutant
 
-+ _Forte e Selvagem; Quase Irracional;_
-+ _**Perito (+2) em:** Lutar; Destruir tudo ao redor;_
-+ _**Ruim (-2) em:** Todo o resto_
-+ **Façanhas:**
-    + _**Garras e Presas:**_ +2 ao _Atacar_ com as mãos limpas;
-    + _**Urro amedrontador:**_ +2 ao _Criar Vantagens_ por medo;
-+ **Estresse:** [][][][]
-+ **Consequencias:**
-    + _Suave (2):_
-    + _Suave (2):_
++ _Strong and Savage; Almost Irrational;_
++ _**Skilled (+2) at:** Fight; DESTROY!!!;_
++ _**Bad (-2) at:** Everything else_
++ **Stunts:**
+    + _**Claws and Teeth:**_ +2 when _Attack_ with bare hands;
+    + _**Fearful ROAR!!!:**_ +2 when _Creating Advantages_ by fear;
++ _**Stress:**_ `4`{: .fate_font}
++ **Consequences:**
+    + _Mild (2):_
+    + _Mild (2):_
+    
+### Nicola Castrogiovanni, The Spirit of Optimism
 
-## Nicola Castrogiovanni - O Espírito do Otimismo
+#### Aspects
 
-### Aspectos
-
-| ***Tipo***       | ***Aspecto***                                                |
+| ***Type***       | ***Aspect***                                                |
 |------------------|-------------------------------------------------------------|
-| __Conceito__     | _Garoto do Circo Extremamente Otimista e Ingênuo_           |
-| __Dificuldade__  | _Duas, Três, Quatro... Quantas chances forem necessárias_   |
-|                  | _Don Cagliostro sempre me protege_                          |
-|                  | _Nicolino_ - Uma vida no circo para mim       |
-|                  | _O Escapulário de Minha Mãe, e a Boina de Meu Pai_          |
+| __High Concept__ | _Over-Optimistic, almost naïve, Circus Boy Orphan_          |
+| __Trouble__      | _Second, Third, Fourth... As many chances as needed_        |
+|                  | _Don Cagliostro looks for me_                               |
+|                  | Lil'nico - _A Circus Life for me_                           |
+|                  | _The Scapulary of My Mother and the Casquette of my Father_ |
 
-### Abordagens
+#### Approaches
 
-| ***Abordagem*** | ***Nível***     |
-|-----------------|-----------------|
-| __Ágil__        | _Regular (+1)_  |
-| __Cuidadoso__   | _Bom (+3)_      |
-| __Esperto__     | _Regular (+1)_  |
-| __Estiloso__    | _Razoável (+2)_ |
-| __Poderoso__    | _Medíocre (+0)_ |
-| __Sorrateiro__  | _Razoável (+2)_ |
+| ***Approach*** | ***Level***     |
+|----------------|-----------------|
+| __Careful__    | _Good (+3)_     |
+| __Clever__     | _Average (+1)_  |
+| __Flashy__     | _Fair (+2)_     |
+| __Forceful__   | _Mediocre (+0)_ |
+| __Quicky__     | _Average (+1)_  |
+| __Sneaky__     | _Fair (+2)_     |
 
-### Façanha Centuriã - _Jogo do "Bom o Bastante"_
+#### Centurion Stunt - _The "Good Enough" Game_
 
-+ Por ser extremamente otimista quanto a tudo na vida, Nicola pode, duas vezes por sessão, obter ajuda dos outros, desde que seja capaz de pedir por ela, seja previamente ou na hora. Essa ajuda entra em jogo como Aspectos de Cena (como _"Coitadinho! Você precisa de uma roupas limpas!"_ ou _Um teto protegendo do sereno_), com uma Invocação Gratuita. Ele não pode usar isso para machucar outras pessoas, mas pode usar para se ajudar e a outros. Esses Aspectos permanecem em jogo enquanto for razoável, e as Invocações Gratuitas podem ser combinada em um Aspecto com duas Invocações, seguindo as mesmas regras.
++ Because Nicola is very optimistic in all things, twice a session he can ask and receive some needed help from others, as long he can ask for it or he talked with those people before. This help came in play as an Scenario Aspect (like _My Goodness, you need some clean clothes!_ or _A Place to Stay at those freezing nights_), with one Free Invocation. He can't use this to do harm to others, but he can use this to help himself and/or others. Those Aspects stays as long as reasonable. He can combine the two uses into a Aspect with two invocations, under the same rules.
 
-### Façanhas comuns
+#### Other Stunts
 
-+ Como acredito que _Todo mundo é bom no fim das contas_, recebo +2 para _Criar Vantagens_ ao descobrir (ou criar) Aspectos bondosos em alguém _sendo Cuidadoso_.
-+ _Ator:_ Como Nicola é um ator costumaz, ele não sofre penalidades ao tentar se passar por pessoas muito mais velhas, altas ou baixas que ele mesmo, com sotaques diferentes, e por aí afora.
++ Because I believe that _Everyone have a Good Heart_, I receive +2 to _Create Advantages_ by discovering (or creating/putting) good Aspects on someone _Carefully_
++ _Thespian:_ Because Nicola's a consummate actor, he has no penalty when attempts to impersonate someone much older , much taller or shorter than himself, with a radically different accent than himself, or the like.
 
-## Don Cagliostro (_nome verdadeiro: Frederick Van Der Merwe_) - Espírito da Educação do Século XIX
 
-### Aspectos
+### Don Cagliostro (_real name: Frederick Van Der Merwe_) - 19th Century Spirit of Literacy
 
-| ***Tipo***       | ***Aspecto***                                                 |
-|------------------|--------------------------------------------------------------|
-| __Conceito__     | _Espírito da Educação Mentalista_                            |
-| __Dificuldade__  | _Um Charlatão Honesto_                                       |
-|                  | _"Faça da maneira certa e a vitória será certa"_             |
-|                  | _Meu tempo acabou. Esse é o século de Nicola_               |
-|                  | _Parece que o Dr. Matusalém voltou às sombras... Felizmente_ |
+#### Aspects
 
-### Abordagens
+| ***Type***       | ***Aspect***                                                      |
+|------------------|-------------------------------------------------------------------|
+| __High Concept__ | _Mentalist Spirit of Literacy_                                    |
+| __Trouble__      | _A Good-Hearted Charlatan_                                        |
+|                  | _"If you know the right thing, you always have the right win"_    |
+|                  | _My Time is over, it's a Century for Nicola_                      |
+|                  | _Gladly looks like Doctor Methuselah cast himself in the shadows_ |
 
-| ***Abordagem*** | ***Nível***     |
-|-----------------|-----------------|
-| __Ágil__        | _Regular (+1)_  |
-| __Cuidadoso__   | _Regular (+1)_  |
-| __Esperto__     | _Razoável (+2)_ |
-| __Estiloso__    | _Razoável (+2)_ |
-| __Poderoso__    | _Medíocre (+0)_ |
-| __Sorrateiro__  | _Bom (+3)_      |
+#### Approaches
 
-### Façanha Centuriã -  _O Verdadeiro Munchhausen_ 
+| ***Approach*** | ***Level***     |
+|----------------|-----------------|
+| __Careful__    | _Average (+1)_  |
+| __Clever__     | _Fair (+2)_     |
+| __Flashy__     | _Fair (+2)_     |
+| __Forceful__   | _Mediocre (+0)_ |
+| __Quicky__     | _Average (+1)_  |
+| __Sneaky__     | _Good (+3)_     |
 
-+ Como ele é o _Espírito da Educação_, ele pode usar seu conhecimento para fazer as pessoas acreditarem em qualquer coisa que ele diga, ao "ler" as pessoas e descobrir como as influenciar ao incluir alguma verdade no meio de mentiras. Ele recebe +3 para _Criar Vantagens sendo Sorrateiro_ ao fazer as pessoas acreditarem em alguma mentira, desde que ela inclua alguma verdade, não importa o quão pequena (_"Podem acreditar, o povo Sotho me tornou seu rei! Eu sou nascido na África do Sul, o Rei Branco da África Negra das profecias, e vocês não vão querer ter a ira do poderoso povo Sotho contra vocês!"_)
+#### Centurion Stunt - _The Real-Life Munchausen_
 
-### Façanhas em Geral
++  Because he's a _Spirit of Literacy_, he can use his knowledge to make people believe things that he's talking is true, by "reading" them and discover how to influence them via lies into some truth. He receive +3 to _Sneakily_ _Create Advantages_ by deceive people into believing something he's talking is true, as far there's some truth, no matter how small, into it (_"Yes, the Sotho people made me their king, you know! I'm the profetized White King of the Black Africa! You don't want to be target of the wrath of the Might Sotho people!"_)
 
-+ **Divinação:** Recebe +2 ao tentar _Criar Vantagens sendo Cuidadoso_, ao ler sinais e portentos nas estrelas, por cartas de tarô, ou usando algum outro tipo de prática divinatória.
-+ **Místico de Palco:** Recebe +2 ao tentar _Criar Vantagens sendo Estiloso_, quando tentar fazer uma cena ao prever o futuro de alguém
-+ **A Cavalaria:** Como você é capaz de sentir quando seus amigos estão encrencados, _uma vez por sessão_ você pode colocar-se em uma cena onde um aliado está em grave perigo (a não ser que você não consiga chegar lá por estar preso, em Timbuktu, em Marte ou qualquer outro motivo).
-+ **Faro da Verdade:** Recebe +2 ao _Defender-se sendo Esperto_ de ações quando os outros tentarem lhe passar a perna.
+#### Other Stunts
 
-## Jonah Pendrik - Espírito da Comunicação do Século XIX
++ **Divination:** Gain +2 to attempts to create an advantage by reading signs and portents in the stars, or in tarot cards, or using some other divination practice, made while being Careful.
++ **Stage Psychic:** Gain +2 to attempts to create an advantage, made while being Flashy, when
+you make a show of predicting someone’s fortune.
++ **The Cavalry:** Because you can sense when your friends are in trouble, once per session you can insert yourself into a scene in which an ally is in serious danger (unless you’re in jail, stuck on Mars, or otherwise physically incapable of getting there).
++ **Lie Detector:** Gain +2 to defend actions made to detect lies when you’re being Clever.
 
-### Aspectos
+### Jonah Pendrik - 19th Century Spirit of Communication
 
-| ***Tipo***       | ***Aspecto***                                                   |
+#### Aspects
+
+| ***Kind***       | ***Aspect***                                                    |
 |------------------|-----------------------------------------------------------------|
-| __Conceito__     | _Dono da_ Pendrik Press _e jornalista investigativo no passado_ |
-| __Dificuldade__  | _Uma vela que está se apagando_                                 |
-|                  | _Procurando tornar-se tutor de Oregon Cadmus_                   |
-|                  | _Dado a filosofias_                                             |
-|                  | _Pena é tão poderosa quanto a espada, e duas vezes mais afiada_ |
+| __Conceito__     | Pendrik Press _owner, a investigative journalist in the past_   |
+| __Dificuldade__  | _A candle in the last burning_                                  |
+|                  | _A Philosophical Mind_                                          |
+|                  | _The pen is as powerful than the sword, and two times sharper_  |
 
-### Abordagens
+#### Approaches
 
-| ***Abordagem*** | ***Nível***     |
+| ***Approachm*** | ***Level***     |
 |-----------------|-----------------|
-| __Ágil__        | _Regular (+1)_  |
-| __Cuidadoso__   | _Bom (+3)_      |
-| __Esperto__     | _Bom (+3)_      |
-| __Estiloso__    | _Razoável (+2)_ |
-| __Poderoso__    | _Regular (+1)_  |
-| __Sorrateiro__  | _Razoável (+2)_ |
+| __Careful__   | _Good (+3)_      |
+| __Clever__     | _Good (+3)_      |
+| __Flashy__    | _Fair (+2)_ |
+| __Forceful__    | _Average (+1)_  |
+| __Quicky__       | _Average (+1)_  |
+| __Sneaky__  | _Fair (+2)_ |
 
-### Façanha Centuriã - _Panopticon_ 
+#### Centurion Stunt - _Panopticon_ 
 
-+ Dado que Jonah consiga explicar como obteve tais informações, _uma vez por cena_ ele pode gerar automaticamente um Aspecto relativo a informações comprometedoras, constrangedoras ou que de outro modo colocariam um oponente em apuros, com uma Invocação Gratuita.
++ _Once per scene_, he can place an Aspect with a Free Invoke, based on compromising or otherwise hurtful information, as long Jonah can explain how he obtained it.
 
-### Façanhas comuns
+#### Common Stunts
 
-- _Primeiras Impressões:_ Recebe +2 ao _Criar Vantagens sendo Ágil_ para criar uma primeira impressão positiva em alguém.
-- _Leitura Fria:_ Recebe +2 ao _Criar Vantagens sendo Cuidadoso_ quando tentar descobrir aspectos de Outro personagem o observando.
-- _Obtendo Favores_: Uma vez por sessão, você pode declarar que alguém lhe deve um favor. Você pode obter esse favor na forma de informação secreta, um encontro com uma pessoa importante a qual você não conseguiria de outra forma encontrar, ou qualquer outro tipo de efeito interessante e útil;
-- _Elementar, Meu Caro_: Recebe +2 ao _Superar obstáculos sendo Esperto_ relativos a charadas, quebra-cabeças ou de outras formas sair de apuros.
-- _Detalhes importam_: Recebe +2 para _Criar Vantagens sendo cuidadoso_ quando o seu profundo conhecimento de algum assunto revelar detalhes que lhe sejam vantajosos;
++ _First Impressions_: Gain +2 to attempts to _create an advantage by acting Quickly_ and making a positive first impression on someone.
++ _Cold Read:_ Gain +2 to _Careful_ attempts to _create an advantage_ when you try to assess another character’s aspects by observing them.
++ _Call in a Favor:_ _Once per session_, you may declare that _someone owes you a favor_. You can call that favor in to get some secret information, or a meeting with an important person who wouldn’t otherwise give you the time of day, or some other interesting and useful effect.
++ _It’s Elementary:_ Gain +2 to _overcome_ actions when you’re _being Clever_ and must figure out a puzzle, solve a riddle, or otherwise reason your way out of a tight spot.
++ _Details Matter:_ Gain +2 to attempts to _create an advantage_ when you’re _being Careful_ and your deep knowledge of a subject reveals a detail that you can take advantage of.
 
-## Esther Sheridan - Dama da Sociedade de Nova Iorque e Patrocinadora do _Clube do Século_
+### Esther Sheridan - New York high-society dame and _Century Club Retainer_
 
-### Aspectos
+#### Aspects
 
-| ***Tipo***       | ***Aspecto***                                                                              |
-|------------------|--------------------------------------------------------------------------------------------|
-| __Conceito__     | _Uma Filantropa inglesa Expatriada, diretora do Orfanato e Educandário da Madame Sheridan_ |
-| __Dificuldade__  | _Preocupação apenas com seu Educandário e com Melissa_                                     |
-|                  | ___Maxima potentia persona, Educatio est__ (A Educação é a arma suprema da pessoa)_        |
-|                  | _Não mede esforços para oferecer __a todos__ uma boa educação_                             |
-|                  | _O_ Clube do Século _é sobre cortesia, respeito e evolução humana_                         |
+| ***Kind***       | ***Aspect***                                                                         |
+|------------------|--------------------------------------------------------------------------------------|
+| __High Concept__ | _Philantropist from England and_ Century Club _retainer_                             |
+| __Trouble__      | _Only with the_ Madam Sheridan's Orphan House and Boarding School                    |
+|                  | *__Maxima potentia persona, Educatio est__ (Education is a person's supreme weapon)* |
+|                  | _No effort is great enough to provide_ __everyone__ _good education_                 |
+|                  | _"The_ Century Club _is all about courtesy, respect and human evolution"_            |
 
-### Abordagens
+#### Approaches
 
-| ***Abordagem*** | ***Nível***     |
+| ***Approach***  | ***Level***     |
 |-----------------|-----------------|
-| __Ágil__        | _Regular (+1)_  |
-| __Cuidadoso__   | _Razoável (+2)_ |
-| __Esperto__     | _Razoável (+2)_ |
-| __Estiloso__    | _Bom (+3)_      |
-| __Poderoso__    | _Regular (+1)_  |
-| __Sorrateiro__  | _Bom (+3)_      |
+| __Careful__     | _Fair (+2)_     |
+| __Clever__      | _Fair (+2)_     |
+| __Flashy__      | _Good (+3)_     |
+| __Forceful__    | _Average (+1)_  |
+| __Quicky__      | _Average (+1)_  |
+| __Sneaky__      | _Good (+3)_     |
 
-### Façanhas comuns 
+#### Stunts
 
-+ _Não mexa comigo:_ Recebe +2 ao tentar _Criar Vantagens sendo Poderosa_ por intimidação
-+ _Leitura Fria:_ Recebe +2 ao _Criar Vantagens sendo Cuidadosa_ quando tentar descobrir aspectos de Outro personagem o observando.
-+ _Já te contei sobre...:_ Recebe +2 quanto tentar _Criar Vantagens sendo Estilosa_ tentando irritar ou confundir alguém com baboseiras irrelevantes.
-+ _Obtendo Favores:_ _Uma vez por sessão_, você pode declarar que alguém lhe deve um favor. Você pode obter esse favor na forma de informação secreta, um encontro com uma pessoa importante a qual você não conseguiria de outra forma encontrar, ou qualquer outro tipo de efeito interessante e útil;
++ _Don’t Mess With Me:_ Gain +2 to attempts to _create an advantage_ by intimidating someone while _being Forceful._
++ _Cold Read:_ Gain +2 to _Careful_ attempts to _create an advantage_ when you try to assess another character’s aspects by observing them. 
++ _Hey Did I Ever Tell You About...:_ Gain +2 to attempts to _create an advantage_ when you’re _being Flashy_ and you try to distract or confuse someone with irrelevant nonsense.
++ _Call in a Favor: Once per session_, you may declare that _someone owes you a favor_. You can call that favor in to get some secret information, or a meeting with an important person who wouldn’t otherwise give you the time of day, or some other interesting and useful effect.
 
-## _Lady_ Brighit Danaan, _velhota louca (_ Bag Lady _) e Espírito da Comunidade do Século XIX_
+### _Lady_ Brighit Danaan, _Bag Lady_ and 19th Century Community Spirit
 
-### Aspectos
+#### Aspects
 
-| ***Tipo***       | ***Aspecto***                                                            |
-|------------------|--------------------------------------------------------------------------|
-| __Conceito__     | Uma velha que vive o resto de seus dias em sua comunidade                |
-| __Dificuldade__  | _"Eu sou louca? Você me Acha louca? Você não sabe nem da metade!"_       |
-|                  | Viveu uma vida e meia, lutou por três vidas, recebeu ingratidão por tudo |
-|                  | Espero deixar bons ensinamentos e um mundo mais complacente para Mairead |
-|                  | Não-batizada: seguidora do Culto Antigo                                  |
+| ***Kind***       | ***Aspect***                                                                       |
+|------------------|------------------------------------------------------------------------------------|
+| __High Concept__ | A old woman who just wants to live his last days with his community                |
+| __Trouble__      | _"I'm craze? Do you think I'm crazy? You don't know half the truth!"_              |
+|                  | Lived a life and a half, fought for three lives, and had a bitter payment for this |
+|                  | Follower from the traditional Irish religion                                       |
 
-### Abordagens
+#### Approaches
 
-| ***Abordagem*** | ***Nível***     |
-|-----------------|-----------------|
-| __Ágil__        | _Regular (+1)_  |
-| __Cuidadoso__   | _Razoável (+2)_ |
-| __Esperto__     | _Razoável (+2)_ |
-| __Estiloso__    | _Bom (+3)_      |
-| __Poderoso__    | _Regular (+1)_  |
-| __Sorrateiro__  | _Bom (+3)_      |
+| ***Approach*** | ***Level***     |
+|----------------|-----------------|
+| __Careful__    | _Fair (+2)_     |
+| __Clever__     | _Fair (+2)_     |
+| __Flashy__     | _Good (+3)_     |
+| __Forceful__   | _Average (+1)_  |
+| __Quicky__     | _Average (+1)_  |
+| __Sneaky__     | _Good (+3)_     |
 
-### Façanha Centuriã -  _A Tríplice Benção_ 
+#### Centurion Stunt -  _The Blessing__ 
 
-Brighit é alguém que defende o equilíbrio no mundo, e portanto ela conhece como abençoar ou amaldiçoar alguém. _Duas vezes por sessão_, ela pode invocar A Tríplice Benção/Maldição, como um Aspecto com uma Invocação gratuíta. A Benção/Maldição tem que ser algo baseado em alguma coisa boa/ruim que foi feita com ela ou com os que ela ama, e permanece em jogo por quanto tempo for necessário.
++ Brighit is someone that defends the world's balance, so she can bless/curse someone very effectively. _Twice  per session_, she can bring the Celtic Blessing/Curse as an Aspect with a Free Invoke. The Blessing/Curse can be something related with something good or bad the target did with her or someone she love. The Aspect stays in game as far as needed.
 
-### Façanhas comuns
+#### Façanhas comuns
 
-+ _Não mexa comigo:_ Recebe +2 ao tentar _Criar Vantagens sendo Poderosa_ por intimidação
-+ _Já te contei sobre...:_ Recebe +2 quanto tentar _Criar Vantagens sendo Estilosa_ tentando irritar ou confundir alguém com baboseiras irrelevantes.
-+ _Elementar, Meu Caro_: Recebe +2 ao _Superar obstáculos sendo Esperta_ relativos a charadas, quebra-cabeças ou de outras formas sair de apuros.
-+ *A Cavalaria:* Como você é capaz de sentir quando seus amigos estão encrencados, _uma vez por sessão_ você pode colocar-se em uma cena onde um aliado está em grave perigo (a não ser que você não consiga chegar lá por estar preso, em Timbuktu, em Marte ou qualquer outro motivo).
++ _Don’t Mess With Me:_ Gain +2 to attempts to _create an advantage_ by intimidating someone while _being Forceful._
++ _Cold Read:_ Gain +2 to _Careful_ attempts to _create an advantage_ when you try to assess another character’s aspects by observing them. 
++ _Call in a Favor: Once per session_, you may declare that _someone owes you a favor_. You can call that favor in to get some secret information, or a meeting with an important person who wouldn’t otherwise give you the time of day, or some other interesting and useful effect.
++ _It’s Elementary:_ Gain +2 to _overcome_ actions when you’re _being Clever_ and must figure out a puzzle, solve a riddle, or otherwise reason your way out of a tight spot.
++ *The Cavalry:* Because you can sense when your friends are in trouble, _once per session_ you can insert yourself into a scene in which an ally is in serious danger (unless you’re in jail, stuck on Mars, or otherwise physically incapable of getting there).
 
 
-## Esopo - Espírito Milenar da História
+### Aesop - Millenium Spirit of History
 
-### Aspectos
+#### Aspects
 
-| ***Tipo***       | ***Aspecto***                                                           |
+| ***Kind***       | ***Aspect***                                                           |
 |------------------|-------------------------------------------------------------------------|
-| __Conceito__     | _Um milenar que registra a história_   |
-| __Dificuldade__  | _Age nas sombras_                                                 |
-|                  | _Cada um deve conhecer apenas sua história_        |
-|                  | _Vaticinado: está no fim do seu tempo_   |
-|                  | _O último Espírito Milenar?_            |
+| __High Concept__ | _Millenium Spirit that registers the history_ |
+| __Trouble__      | _In the shadows_                                                 |
+|                  | _Each one should know only his history_        |
+|                  | _In the end of his time_   |
+|                  | _The last Millenium Spirit?_            |
 
-## Façanha Milenar -  _Todos e Nenhum_ 
+#### Millenium Stunt -  _Everyone and No one_ 
 
-Como Esopo é basicamente um observador, alguém que age por trás dos panos, Esopo pode, _a qualquer momento_, assumir uma aparência totalmente comum na região, seja humana ou animal, se misturando em meio à multidão. Isso funciona até mesmo em florestas e fazendas, desde que ele possa assumir a forma do animal mais presente.
 
-+ **Nota:** Esopo é um Espírito Milenar extremamente poderoso. Por isso não colocamos suas abordagens: a única coisa que freia Esopo em termos de poder é o fato de o mesmo agir muito mais nas sombras, como um observador. Caso fosse mais ativo (como já foi), seria de um nível de poder tão impressionante quanto o do Doutor Matusalém.
+As a destined observer, someone that works in the shadows, Aesop can, _at any time_, take a completely common appearance and behavior in the place he is, no matter human or animal, mingling in the crowd. This works even in forests and farms, by assuming the most common animal's form.
 
-## Mary Alethea
++ **PS:** Aesop is a really powerful Millenium Spirt. Because this we didn't described the his approaches: the only thing that put some reins on Aesop is the fact that he works in the shadows, as a observer. If he was more active (as he was in the past), he would be as powerful as Doctor Methuselah.
 
-### Aspectos
+### Mary Alethea
 
-| Tipo            | Aspecto                                         |
+#### Aspects
+
+| ***Kind***       | ***Aspect***                                                           |
 |-----------------|-------------------------------------------------|
-| **Conceito**    | Vidente do _McNash & Sullivan Circus and Shows_ |
-| **Dificuldade** | Instinto Maternal, em especial por Nicola       |
-|                 | Patrocinadora do _Clube do Século_              |
-|                 | _"Fred pode contar sempre comigo"_              |
+| **High Concept** | _McNash & Sullivan Circus and Shows_' Seer |
+| **Trouble    ** | Motherly instinct, specially with Nicola       |
+|                 | _Century Club_ Retainer |
+|                 | _"Fred can lean on me"_              |
 
-### Abordagens
+#### Approaches
 
-| Abordagem       | Nível                                           |
+| ***Approach*** | ***Level***     |
 |-----------------|-------------------------------------------------|
-| **Ágil**        | Regular (+1)                                    |
-| **Cuidadosa**   | Razoável (+2)                                   |
-| **Esperta**     | Regular (+1)                                    |
-| **Estilosa**    | Bom (+3)                                        |
-| **Poderosa**    | Medíocre (+0)                                   |
-| **Sorrateira**  | Razoável (+2)                                   |
+| **Quicky**      | Average (+1)                                    |
+| **Careful**   | Fair (+2)                                   |
+| **Clever**     | Average (+1)                                    |
+| **Flashy**    | Good (+3)                                        |
+| **Forceful**    | Mediocre (+0)                                   |
+| **Sneaky**  | Fair (+2)                                   |
 
-### Façanhas 
+#### Stunts
 
-+ **Divinação:** Recebe +2 ao tentar _Criar Vantagens sendo Cuidadoso_, ao ler sinais e portentos nas estrelas, por cartas de tarô, ou usando algum outro tipo de prática divinatória.
-+ **Faro da Verdade:** Recebe +2 ao _Defender-se sendo Esperto_ de ações quando os outros tentarem lhe passar a perna.
-+ **Leitura Fria:** Recebe +2 ao _Criar Vantagens sendo Cuidadoso_ quanto tentar descobrir Aspectos de outros personagens ao observá-los
-+ **Sexto Sentido:** Recebe +2 ao _Defender_ aliados de ações de maneira  _Ágil_
-+ **Jogos Mentais:** Recebe +2 ao _Superar de Maneira Sorrateira_ obstáculos para fazer alguém acreditar em algo que não é uma verdade
++ _Cold Read:_ Gain +2 to _Careful_ attempts to _create an advantage_ when you try to assess another character’s aspects by observing them. 
++ _Divination:_ Gain +2 to attempts to _create an advantage_ by reading signs and portents in the stars, or in tarot cards, or using some other divination practice, made while _being Careful_.
++ _Mind Trick:_ Gain +2 to _Sneaky_ attempts to _overcome_ an obstacle by making someone believe something that isn’t true.
++ _Sixth Sense:_ Gain +2 to _defend_ actions to stop attacks against allies while you’re acting _Quickly_.
++ _Lie Detector:_ Gain +2 to _defend_ actions made to detect lies when you’re being _Clever_. 
 
-## Alvin McNash
+### Alvin McNash
 
-**Dono e Apresentador do _McNash & Sullivan Circus and Shows_**, **Tudo deve estar no lugar**, **Sem Paciência com come-e-dormes**
+**_McNash & Sullivan Circus and Shows_' Owner and ringmaster**, **Everything in its place**, **No patience with hoodlums**, **_Century Club_ Retainer**
 
-+ **Perito (+2) em:** Cuidar das coisas, Manter tudo no lugar
-+ **Ruim (-2) em:** Manter a compostura quando tudo começa a dar errado
++ **Skilled (+2) at:** Take care of thing; Make things stays in place
++ **Bad (-2) at:** Being calm whe things goes wrong
 
-## Pygmalion "Pyg" Donovan III
+### Pygmalion "Pyg" Donovan III
 
-**Palhaço do _McNash & Sullivan Circus and Shows_**, **Anão descontraído**, **Pau para toda obra**, **Professor dedicado**
+**_McNash & Sullivan Circus and Shows_' master clown**, **A nonchalantly midget**, **Jack of all trades**, **A dedicated tutor**
 
-+ **Perito (+2) em:** Palhaçadas, auxiliar os outros, cuidar do circo
-+ **Ruim (-2) em:** Fazer coisas que não deveria
++ **Skilled (+2) at:** Clowning; Helping People; Caring in the Circus
++ **Bad (-2) at:** Do things he should not
 
