@@ -44,7 +44,7 @@ Near the bandshell Mr. Alvin McNash put a cordon, but there's no impediment for 
 
 _Newsies_ can be seen selling their newspapers or bartering some of them with the artists and circus crew for tickets. Mr. McNash is not against this, as far the _newsies_ respects the cordon and doesn't mess with audience's entertainment.  The tickets for the circus are very cheap and, specially in this matinee, is very affordable for any PC.
 
-The matinee is a very polite, clean, elegant show, without dirty jokes and obscenities at all: the main acts are _Don Cagliostro_'s mentalism act, and the _McNash_'s newest kid star: _Lil'nico_, stage name for little _Nicola Castrogiovanni_, an angel boy that presents himself as singer and _Vaudeville_ comedy artiste.
+The matinee is a very polite, clean, elegant show, with no dirty jokes and obscenities at all: the main acts are _Don Cagliostro_'s mentalism act, and the _McNash_'s newest kid star: _Lil'nico_, stage name for little _Nicola Castrogiovanni_, an angel boy that presents himself as singer and _Vaudeville_ comedy artiste.
 
 However, during _Lil'nico_ show, a group of people came and start to attack everyone in the bandshell and the crowd in it. Those _Crazy People_ has no play other than cause the biggest mess possible, just because. Those on them armed, are with metal bars, crowbars, broken glasses and other kind of _Improvised Weapons_. Some could even have baseball bats and knives.
 
