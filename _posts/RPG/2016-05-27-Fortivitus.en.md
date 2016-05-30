@@ -42,7 +42,7 @@ As in all times _McNash & Sullivan Circus and Shows_ presented in NYC, many orph
 
 Near the bandshell Mr. Alvin McNash put a cordon, but there's no impediment for people get near and see the show further those cordon. The Circus' alleys are installed behind the bandshell as a backstage, and many people nearby try to peek some look in the circus' people, that stays there while not in the stage.
 
-_Newsies_ can be seen selling their newspaper or bartering some of them with the artists and circus crew for tickets. Mr. McNash is not against this, as far the _newsies_ respects the cordon and doesn't mess with other entertainment.  The tickets for the circus are very cheap and, specially in this matinee, is very affordable for any PC.
+_Newsies_ can be seen selling their newspapers or bartering some of them with the artists and circus crew for tickets. Mr. McNash is not against this, as far the _newsies_ respects the cordon and doesn't mess with audience's entertainment.  The tickets for the circus are very cheap and, specially in this matinee, is very affordable for any PC.
 
 The matinee is a very polite, clean, elegant show, without dirty jokes and obscenities at all: the main acts are _Don Cagliostro_'s mentalism act, and the _McNash_'s newest kid star: _Lil'nico_, stage name for little _Nicola Castrogiovanni_, an angel boy that presents himself as singer and _Vaudeville_ comedy artiste.
 
