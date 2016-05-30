@@ -40,13 +40,15 @@ New York, 1911. Next to a big building where the New York HQ for the internation
 
 As in all times _McNash & Sullivan Circus and Shows_ presented in NYC, many orphanages, schools and boarding houses had been cleared for free shows, and they sold some tickets with low cost for people from some of the poorest regions. That is because, of course, some of the biggest stars in the show, like _Don Cagliostro, Master of Mentalism, Hypnosis and Mystics_, and even _Mr. Alvin McNash_, the circus owner, have links with the _Century Club_. Also, the circus' NY season is sponsored by _Pendrik Press_, from the Press Tycoon _Jonah Pendrik_, a jolly rolly, but very strong and focused in business, man.
 
-The Circus' alleys are installed behind the bandshell as a backstage, and many people nearby try to peek some look in the circus' people, that stays there. The ticket is cheap and, specially in this matinee, is very affordable for any PC.
+Near the bandshell Mr. Alvin McNash put a cordon, but there's no impediment for people get near and see the show further those cordon. The Circus' alleys are installed behind the bandshell as a backstage, and many people nearby try to peek some look in the circus' people, that stays there while not in the stage.
+
+_Newsies_ can be seen selling their newspaper or bartering some of them with the artists and circus crew for tickets. Mr. McNash is not against this, as far the _newsies_ respects the cordon and doesn't mess with other entertainment.  The tickets for the circus are very cheap and, specially in this matinee, is very affordable for any PC.
 
 The matinee is a very polite, clean, elegant show, without dirty jokes and obscenities at all: the main acts are _Don Cagliostro_'s mentalism act, and the _McNash_'s newest kid star: _Lil'nico_, stage name for little _Nicola Castrogiovanni_, an angel boy that presents himself as singer and _Vaudeville_ comedy artiste.
 
 However, during _Lil'nico_ show, a group of people came and start to attack everyone in the bandshell and the crowd in it. Those _Crazy People_ has no play other than cause the biggest mess possible, just because. Those on them armed, are with metal bars, crowbars, broken glasses and other kind of _Improvised Weapons_. Some could even have baseball bats and knives.
 
-Some will try to wreck everything amok, including the canvas-covered backstage. Treat this as a _Challenge_: if the _Crazy People_ wins, they'll break amok everything, complicating PCs' life.
+Some will try to wreck everything amok, including the canvas-covered backstage. Treat this as a _Contest_: if the _Crazy People_ wins, they'll break amok everything, complicating PCs' life.
 
 In the moment the attack starts, the circus' band will attack on _Stars and Stripes Forever_. A _Clever_ roll with _Good (+3)_ difficult will be enough to remember that it is called the _Disaster March_ in circus lingo, being played only in the most dire situations, so the clowns and other artists could help the audience to remain calm and get out the circus. This can be the sign PCs needs to see something is wrong.
 
@@ -56,10 +58,11 @@ Describe them and show they are people they know: one could be the butcher, anot
 
 They don't look able to put two words together or look sane, but anyway the PCs should not go for a kill or hurt those people: the looks like _took by the Spirits_, in fact, had gone mad by the excess of booze. Which, in fact, is not that away from truth.
 
-Remember them they are _Spirits of the Century_ to avoid them to go hard on the _Crazy people_: it sounds tempting to go all out and justify using the self-defense card, but this is not a hero, even more a _Centurion_, behavior, to be that harsh wit innocent people.
+Remember them they are _Spirits of the Century_ to avoid them to go hard on the _Crazy people_: it sounds tempting to go all out and justify using the self-defense card, but this is not a hero, even more a _Centurion_, behavior, to be that harsh with innocent people.
+
+Something they may want to do (or you can make their acquaintances force them to do) is to protect people that are running away from the park: treat this as a _Contest_ or _Challenge_, were the PCs will try to avoid the _Crazy people_ from get near and attack innocent people. Remember that any _Attack_ action make things goes into a _Conflict_.
 
 There's one _Crazy person_ each PC and NPC (if you're counting them). They are treated as mooks, without Stress: one hit take them out. Try to make them think into creative ways to take them out without hurt them, like using the protection net to catch them, or even bring them back the backstage and undo the canvas' cords, or try to lasso them.
-
 
 Anyway, as soon they are all taken out, the Police will take them all to jail. Next the bandshell, if the PCs wants to investigate, they'll see some empty bottles of cod liver oil (_YUCK!!!!_) without labels. If they look for the contents, they'll see that it has some kind of liquid on each other: orange juice, water, root-beer, Ginger Ale, and so on. They will not be able to prove the contents by the adults in the place, like the policemen, _Don Cagliostro_, Jonah Pendrik or _Madam Esther Sheridan_. The police will take the clues with them.
 
@@ -90,15 +93,15 @@ Next day, the PCs wake up and get themselves ready for the school. Everyone live
 
 Anyway, when they go to the school, they are stopped, surprise surprise, by the local bullies, with his leader, _Niels Olufssen_, a spoiled brat that, because his family is in a little better situation, believes that everyone should do all his whims. The problem is, that time, they look meaner than normal.
 
-Without previous calling, they go against the PCs, 1 group for each 2 characters. And Niels will try to take advantage on the fight to take the smaller ones and, after beating them out, take everything he could. If the PCs are in advantage, he'll take a bottle of Ginger Ale and gulp his content down, getting _Stronger and Meaner_ than normal. _Appendix 1 - Fortivitus_ will show how to adjust his stats.
+Without previous calling, they go against the PCs, 1 group for each 2 PCs. And Niels will try to take advantage on the fight to take the smaller ones and, after beating them out, take everything he could. If the PCs are in advantage, he'll take a bottle of Ginger Ale and gulp his content down, getting _Stronger and Meaner_ than normal. _Appendix 1 - Fortivitus_ will show how to adjust his stats.
 
-Normally, the bullies will be unarmed (if you want, Niels will have a baseball bat or broom's stick) and would not be a good idea for the PCs to hurt the bullies, even they being what they are. Give the PCs a chance to Take them Out by pushing them to the ground and running the hell out to _Madam Sheridan's Boarding School_. If they are in trouble (what would not be a surprise: they are kids, after all), make _Madam Sheridan_ getting into the fight with some Constables to stop the bullies. This could be a good _Take Out_ or _Give In_ situation for the PCs.
+Normally, the bullies will be unarmed (if you want, Niels will have a baseball bat or broom's stick) and would not be a good idea for the PCs to hurt the bullies, even they being what they are (although, in a PG situation, you can let them give a good one-two on some of them). Give the PCs a chance to _Take them Out_ by pushing them to the ground and running the hell out to _Madam Sheridan's Boarding School_. If sounds they would not be able to deal with them  (what would not be a surprise: they are kids, after all), make _Madam Sheridan_ getting into the fight with some Constables to stop the bullies. This could be a good _Take Out_ or _Give In_ situation for the PCs.
 
 If they have time, they will be able to see the bottle Niels have(d) with him: in the Ginger Ale label there's a handwritten scratching saying _Fortivitus_ . If they had not brought Niels out, they could asks him where he bought this, and he'll say he bought the bottle with a guy in a bar called the _Green Pint_, in the _East Side_, where Hudson River get into the sea.
 
-As soon they get into the room, they'll be presented to a temp student: _Nicola Castrogiovanni_, a.k.a. _Lil'nico_
+As soon they get into the room, they'll be presented to a temp student: _Nicola Castrogiovanni_, a.k.a. _Lil'nico_.
 
-This is a good time for the PCs to exchange gossip between them (thinking they knew each other previously or they accept to help each other)
+This is a good time for the PCs to exchange gossip between them (thinking they knew each other previously or they accept to help each other).
 
 Anyway, they don't know, but soon their mentors or acquaintances in the _Century Club_ will go for them, because it's time for them to do something about this. The reason: the explosion in _Fortivitus_ Consumption and the link between it and the violence growing in NY.
 

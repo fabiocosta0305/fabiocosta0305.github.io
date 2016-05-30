@@ -39,7 +39,9 @@ A Aventura começa na Nova Iorque de 1911. Próximo a um grande prédio onde fic
 
 Como costume da _McNash & Sullivan Circus and Shows_, vários orfanatos e educandários receberam ingressos gratuitos, e certas regiões mais pobres recebem apresentações especiais com os ingressos a custo reduzido. Claro, isso deve-se a muitos dos artistas mais importantes, como _Don Cagliostro, Mestre do Mentalismo, da Hipnose e do Místico_, e o dono do mesmo _Alvin McNash_ serem ligados ao _Clube do Século_. Além disso, o circo também é patrocinado pela _Pendrik Press_, do Barão da Imprensa Jonah Pendrik, um homem bonachão, mas muito seguro e forte nos negócios.
 
-A tenda do Circo está armada atrás da Concha Acústica servindo de camarim, e muitos da região são vistos observando os artistas, que por lá ficam. O custo do ingresso é baixo, e qualquer personagem pode pagar, ainda mais na matinê.
+A região mais próxima à Concha Acústica está isolada com um cordão de acesso. Entretanto, não há impedimento para as pessoas ficarem observando o show para além desse cordão. A tenda do Circo está armada atrás da Concha Acústica servindo de camarim, e muitos da região são vistos observando os artistas, que por lá ficam.
+
+_Newsies_ (crianças vendedoras de jornais) podem ser vistas vendendo seus jornais ou mesmo regateando jornais por ingressos junto aos artistas e funcionários do circo, o que o Senhor Alvin McNash não proibe, enquanto eles mantêm-se além do cordão de isolamento estabelecido.  O custo do ingresso é baixo, e qualquer personagem pode pagar, ainda mais na matinê.
 
 A matinê é um show bastante tranquilo, sem nenhum tipo de obscenidade ou piadas sujas: além dos diversos artistas, os pontos altos são a apresentação de _Don Cagliostro_ e do mais novo artista do circo: _Nicolino_, nome de palco do pequeno _Nicola Castrogiovanni_, apresentando-se como cantor e artista em números de comédia de _Vaudeville_.
 
@@ -56,6 +58,8 @@ Procure descrever por alto alguns deles: talvez um seja o padeiro, outro o açou
 Elas não falam coisa com coisa ou parecem estar lúcidos, mas de qualquer modo os personagens não deveriam tentar matar ou machucar seriamente essas pessoas: elas parecem estar _Tomadas pelos Espíritos_, ou seja, estarem furiosas devido ao excesso de bebida. O que, para falar a verdade, não é muito fora da verdade. 
 
 Force o fato dos personagens serem todos _Espíritos do Século_ para impedir os mesmos de pegarem pesado: pode ser tentador sentar o braço e usar a desculpa de autodefesa para isso, mas esse não é o comportamento de um herói, ainda mais um _Espírito do Século_, ao menos contra pessoas inocentes.
+
+Uma ação que eles podem fazer, ou então serem obrigadas por seus patronos e mentores a fazerem, é protegem as pessoas que estão fugindo do parque: nesse caso, trate a situação como um _Desafio_ ou como uma _Disputa_, não como um _Conflito_, onde os personagens deverão impedir as _Pessoas Ensandecidas_ de atacarem pessoas inocentes. Lembre-se que, pelas regras de Desafio, uma ação clara de Ataque faz com que o mesmo descambe para um _Conflito_. 
 
 Considere que os personagens são atacados por uma Pessoa Ensandecida cada um. Elas são consideradas _Capangas_ comuns, sem Estresse: um Ataque bem sucedido será o suficiente para as Derrotar. Procure estimular formas criativas, como atrair as mesmas para próximo de uma rede de proteção e a levantar/derrubar, ou então até mesmo trazer todas para dentro da lona do circo e derrubar as Estacas de sustentação (isso vai machucar um pouco as Pessoas Ensandecidas, mas nada sério), ou usar das várias cordas e cabos no picadeiro para Derrotar as Pessoas Ensandecidas sem as machucar.
 
