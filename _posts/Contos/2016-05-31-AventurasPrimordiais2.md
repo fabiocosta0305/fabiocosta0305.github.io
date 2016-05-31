@@ -68,7 +68,7 @@ E fez-se escuridão.
 
 ---
 
-### Cidade do Natal, Polo Norte 20:00 hora local
+### Cidade do Natal, Polo Norte, Dia Seguinte, 20:00 hora local
 
 > _"… ela está bem? Por Ceridwen, diga que ela está bem…"_
 >
