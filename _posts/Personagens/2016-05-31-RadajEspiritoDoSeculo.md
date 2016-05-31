@@ -40,7 +40,9 @@ Bem, temos uma das cinco fases cumpridas. Sigamos em frente para a Segunda Fase.
 Normalmente, a segunda fase indica como os personagens se envolveram na Grande Guerra (caso tenham o feito) e como. No caso de Radaj, será necessário "aprofundar um pouco as coisas" para explicar como ele veio parar em nosso tempo. Desculpas esfarrapadas existem aos montes (isso é _pulp_, por Deus!) mas fazer uma boa história para que a coisa seja coesa e não uma grande "colcha de retalhos" é muito importante, embora seja problemático.
 
 > _Radaj estava enfrentando alguns Xenomorfos, monstros mutantes que atacam os metrocentros, em uma montanha a alguns quilômetros do metrocentro. Nesse momento, um estranho portal se abre e suga Radaj do nada._
+>
 > _Quando ele acorda, Radaj está em um local extremamente estranho, onde um homem com uma capa escura se identifica com Rudolph Scheitzel, Grão-Mestre da Ordem Ariana Estoica, que o chamou para lutar do lado deles para a purificação do mundo daqueles que eles consideram indignos. Revoltado, Radaj rompe o círculo místico e enfrenta o Grão-Mestre e consegue, a muito custo, fugir da Ordem Ariana Estoica._
+>
 > _Sem saber como voltar, tudo o que ele sabe é que a Ordem Ariana é maligna, e ele torna objetivo de vida proteger esse mundo estranho da ameaça deles. E percebe que sua tecnologia é suficiente para enfrentá-los, embora vencê-los vá envolver mais que isso. Nesse momento, é contactado por Angelus, que explica-lhe sobre o que lhe aconteceu e diz, com pesar, que é incapaz de levá-lo de volta à sua realidade. Desse modo, cabe a Radaj tornar esse novo mundo em seu lar._
 
 Dito isso, temos uma ideia de que Radaj foi invocado à força para lutar em uma causa que vai totalmente contra seus princípios, conseguiu fugir mas torna-se incapaz de voltar para seu mundo. Então jura que irá proteger o mundo contra o mal que o invocou.

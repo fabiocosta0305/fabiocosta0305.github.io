@@ -71,8 +71,10 @@ E fez-se escuridão.
 ### Cidade do Natal, Polo Norte 20:00 hora local
 
 > _"… ela está bem? Por Ceridwen, diga que ela está bem…"_
-_"… ela vai ficar bem… Deixe ela descansar…"_
-_"… pelos Cristais, se ela morrer, nunca me perdoarei!"_
+>
+> _"… ela vai ficar bem… Deixe ela descansar…"_
+:
+> _"… pelos Cristais, se ela morrer, nunca me perdoarei!"_
 
 Hannah começou a voltar a si:
 
