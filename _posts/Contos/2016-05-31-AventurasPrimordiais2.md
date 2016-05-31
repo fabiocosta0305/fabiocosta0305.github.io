@@ -73,7 +73,7 @@ E fez-se escuridão.
 > _"… ela está bem? Por Ceridwen, diga que ela está bem…"_
 >
 > _"… ela vai ficar bem… Deixe ela descansar…"_
-:
+>
 > _"… pelos Cristais, se ela morrer, nunca me perdoarei!"_
 
 Hannah começou a voltar a si:
