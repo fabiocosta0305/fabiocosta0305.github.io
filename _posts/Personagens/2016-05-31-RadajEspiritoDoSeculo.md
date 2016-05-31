@@ -139,7 +139,7 @@ Homem de Outra Era e Primordial
 + **Características Marcantes:** roupas futuristas, acessórios "bizarros"
 + **Aventura:** Radaj o Guerreiro do Futuro em… O Mestre dos Xenomorfos
 
-### **Aspectos: **
+### **Aspectos:**
 
 + Homem do Futuro
 + Espada de Gel Cinético
