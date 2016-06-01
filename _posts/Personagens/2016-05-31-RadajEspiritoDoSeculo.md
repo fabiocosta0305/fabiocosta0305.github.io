@@ -6,6 +6,7 @@ categories:
  - personagens
 comments: true
 tags:
+  - Primordiais (Espírito do Século)
   - Espírito do Século
 ---
 
