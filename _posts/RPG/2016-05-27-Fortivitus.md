@@ -8,11 +8,16 @@ comments: true
 tags:
   - Young Centurions
 header: no
+excerpt_separator: <!-- excerpt -->
 ---
+
+> _"Respeitável Público! Senhoras e Senhores, meninos e meninas, crianças de todas as Idades_! McNash and Sullivan Circus and Shows _tem o prazer de lhe apresentar um espetáculo de garbo e elegância, um show que irá fazer vocês rirem, chorarem, se segurarem na cadeira, prender o fôlego, e acima de tudo, irá emocioná-los além da conta. Por apenas 5 cents, vocês verão coisas que nem mesmo **O Maior Espetáculo da Terra** é capaz de apresentar. Venham, venham, o circo chegou ao Washington State Garden!_"
+
+Essa é uma aventura introdutória para _Young Centurions_. Aconselha-se que todos os personagens sejam _Espíritos do Século XX_, focados nos Estados Unidos, embora não seja obrigatório. Aconselha-se 2 a 6 personagens.
 
 + **Nível:** G / PG 
 
-Essa é uma aventura introdutória para _Young Centurions_. Aconselha-se que todos os personagens sejam _Espíritos do Século XX_, focados nos Estados Unidos, embora não seja obrigatório. Aconselha-se 2 a 6 personagens.
+<!-- excerpt -->
 
 ---
 

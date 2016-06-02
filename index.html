@@ -13,9 +13,12 @@ title: Home
     </h1>
 
     <span class="post-date">{{ post.date | date_to_string }}</span>
-
+    {% if post.categories contains "Aventuras" or post.categories contains "Adventures" %}
+    {{ post.excerpt }}
+    {% else %}
     {{ post.content }}
-  </div>
+{% endif %}
+</div>
   {% endfor %}
 </div>
 

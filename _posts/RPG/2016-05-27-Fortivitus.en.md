@@ -9,13 +9,18 @@ comments: true
 tags:
   - Young Centurions
 header: no
+excerpt_separator: <!-- excerpt -->
 ---
 
-+ **Rating:** G / PG 
+> _"Ladies and Gentlemen, boys and girls, children of all ages_! McNash and Sullivan Circus and Shows _is proud to present you the most charming and fun show, that will make you laugh, cry, hold your breath, hold yourself in you chair, and above all, enthrall you in magic, fantasy and glamour. By just 5 cents, you'll see things that even **The Biggest Show on Earth** would not show. Come everyone, the circus is in New York, at the Washington State Garden's bandshell!_"
 
 This adventure is written to be a introductory one for 2 to 6 _20th Century Young Centurions_, US-established, although this is not obligatory.
 
 **PS:** I want to say a warm _Thank You_ to Tricia _"Pricilla Mooseburger"_ Manuel, for the tips about circuses and clowning in the 1910s US, via [Twitter](http://twitter.com/pmooseburger). She was very kind and helpful with my questions.
+
++ **Rating:** G / PG 
+
+<!-- excerpt -->
 
 ---
 
