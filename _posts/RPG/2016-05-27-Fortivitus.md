@@ -1,7 +1,7 @@
 ---
 title: Fortivitus
-subtitle: _Uma Aventura dos **Jovens Centuriões do Século XX**_
-layout: post
+subtitle: Uma Aventura dos *Jovens Centuriões do Século XX*
+layout: aventuras
 categories:
  - Aventuras
 comments: true

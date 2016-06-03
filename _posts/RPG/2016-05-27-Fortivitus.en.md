@@ -1,7 +1,7 @@
 ---
 title: Fortivitus
 subtitle: An Adventure for the 20th Century Young Centurions
-layout: post
+layout: aventuras
 date: 2016-05-27 23:15:00 -0300
 categories:
  - Adventures
