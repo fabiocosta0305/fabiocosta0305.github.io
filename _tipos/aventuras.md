@@ -7,7 +7,11 @@ permalink: "/aventuras/"
 
 Alguns aventuras exemplos que eu criei
 
-{% capture site_tags %}{% for post in site.categories.aventuras %}{% for tag in post.tags %}{{ tag | lstrip | rstrip }},{% endfor %}{% endfor %}
+{% capture site_tags %}
+{% for post in site.categories.Aventuras %}
+{% for tag in post.tags %}{{ tag | lstrip | rstrip }},
+{% endfor %}
+{% endfor %}
 {% endcapture %}
 
 
@@ -31,7 +35,7 @@ Alguns aventuras exemplos que eu criei
    {% endif %}
    <li><h3> {{ tag }} </h3></li>
    <ul>
-   {% assign sorted_pages = (site.categories.aventuras | sort: 'title') %}
+   {% assign sorted_pages = (site.categories.Aventuras | sort: 'title') %}
    {% for post in sorted_pages %}
    {% if post.tags contains tag %}
    <li><a href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }} </a> </li>
@@ -45,7 +49,7 @@ Alguns aventuras exemplos que eu criei
 <ul> 
   {% assign tag = "" %}
   {% assign first = "" %}
-  {% for post in site.categories.aventuras %}
+  {% for post in site.categories.Aventuras %}
   {% if post.tags != tag %}
   {% if first != "" %}
   </ul>
@@ -61,9 +65,9 @@ Alguns aventuras exemplos que eu criei
 </ul>
 {% endcomment %}
 
-Some characters I did (in English)
+Some adventures I did (in English)
 
-{% capture site_tags %}{% for post in site.categories.characters %}{% for tag in post.tags %}{{ tag | lstrip | rstrip }},{% endfor %}{% endfor %}
+{% capture site_tags %}{% for post in site.categories.Adventures %}{% for tag in post.tags %}{{ tag | lstrip | rstrip }},{% endfor %}{% endfor %}
 {% endcapture %}
 
 <!-- `tag_words` is a sorted array of the tag names. -->
@@ -86,7 +90,7 @@ Some characters I did (in English)
    {% endif %}
    <li><h3> {{ tag }} </h3></li>
    <ul>
-   {% assign sorted_pages = (site.categories.characters | sort: 'title') %}
+   {% assign sorted_pages = (site.categories.Adventures | sort: 'title') %}
    {% for post in sorted_pages %}
    {% if post.tags contains tag %}
    <li><a href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }} </a> </li>
