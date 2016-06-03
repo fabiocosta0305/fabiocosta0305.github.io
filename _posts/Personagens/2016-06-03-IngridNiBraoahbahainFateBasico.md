@@ -51,7 +51,7 @@ Como Primordial, apenas recentemente conheceu outros, principalmente Hannah Stri
 
 ### Façanhas [ Recarga: 5 ]
 
-+ **Conhecimento de Ervas:** +2 em testes de _Conhecimento_ para realizar curas por meio do uso de ervas
++ **Herbalismo:** pode utilizar _Mistérios_ no lugar de _Conhecimento_ para testes de Cura de Consequências Físicas;
 + **Cosmopolita:** +2 ao _Superar Obstáculos_ com _Comunicação_ ao interagir com pessoas em cidades grandes
 + **Virtuoso (Harpa):** +2 em todos os testes de _Ofícios_ ao se apresentar artísticamente usando harpa
 + **Poliglota:** +2 em testes de _Superar Obstáculos_ com  _Conhecimento_ relativos a idiomas

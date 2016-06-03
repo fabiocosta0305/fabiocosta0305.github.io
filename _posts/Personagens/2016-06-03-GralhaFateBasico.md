@@ -1,5 +1,5 @@
 ---
-title: "O Gralha"
+title: "Gralha"
 subheadline: Um Exemplo de criação de personagem de Espírito do Século, usando meu cenário pessoal Primordiais
 layout: personagens
 categories:
