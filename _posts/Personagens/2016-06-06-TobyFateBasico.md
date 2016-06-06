@@ -21,7 +21,7 @@ Tanto Jen quanto Tobby sabem da existência dos Primordiais, e embora não sejam
 
 ---
 
-## O Gralha
+## Thomas "Tobby" O'Malley 
 
 ### Aspectos
 
