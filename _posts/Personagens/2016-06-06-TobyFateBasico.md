@@ -28,7 +28,7 @@ Tanto Jen quanto Tobby sabem da existência dos Primordiais, e embora não sejam
 | **Tipo** | **Aspecto** |
 |-|-|
 | _Conceito_ | _Agente Exorcista da_ Militia _da Ordem de Santa Magdala_ |
-| _Dificuldade_ | Costuma conversar apenas com sua irmã, a quem protege |
+| _Dificuldade_ | Costuma conversar apenas com sua irmã Jen, a quem protege |
 | _Infância_ |  _Pais mortos por demonologistas_ |
 | _Guerra!_ | _Sempre lembra das lendas irlandesas_ |
 | _Aventura!_ | "In Nomine Pater et Filii et Spiritu Sancto" |
