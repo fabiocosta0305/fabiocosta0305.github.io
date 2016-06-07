@@ -56,26 +56,26 @@ _Baseado no Mangá/Anime Chrno Crusade_
 
 | **Nível** | **Perícia** | **Perícia** | **Perícia** | **Perícia** | **Perícia** |
 |-|-|-|-|-|-|
-| __Soberbo (+5)__ | Armas Brancas | | | | |
-| __Ótimo (+4)__ | Determinação | Resistência | | | |
-| __Bom (+3)__ | Mistérios | Investigação | Briga | | |
-| __Adequado (+2)__ | Engenharia | Armas de Fogo | Fascinar | Ciência | |
-| __Mediano (+1)__ | Dirigir | Estudos | Ladinagem | Enganar | Esportes |
+| __Excepcional (+5)__ | Armas Brancas | | | | |
+| __Espetacular (+4)__ | Determinação | Resistência | | | |
+| __Ótimo (+3)__ | Mistérios | Investigação | Briga | | |
+| __Bom (+2)__ | Engenharia | Armas de Fogo | Comunicação | Ciência | |
+| __Regular (+1)__ | Direção | Estudos | Arrombamento | Enganar | Esportes |
 
 ### Façanhas
 
-+ Ciência Ensandecida: _Tecnologia de Exorcismo da Ordem de Santa Magdala_
-+ Aparar com Precisão
-+ Armas de Todo Mundo
-+ Segredos Arcanos: _Demonologia e Exorcismo_
-+ Arma destinada: _Espada de Santa Brigite_ 
-   + _Obra Prima_;
-   + _Sagrada:_ +2 contra seres malignos, com um Ponto de Destino permite emular contra seres malignos a Façanha **Golpe Especial**
++ Ciência Estranha: _Tecnologia de Exorcismo da Ordem de Santa Magdala_
++ Aparar Perfeito
++ Armas do Mundo
++ Segredos do Arcano: _Demonologia e Exorcismo_
++ Arma do Destino: _Espada de Santa Brigite_ 
+   + _Habilidade_;
+   + _Sagrada:_ +2 contra seres malignos, com um Ponto de Destino permite emular contra seres malignos a Façanha **Golpe Assinatura**
 
-### **Trilha de Dano:** 
+### **Linha de Tensão:** 
 
-+  **Saúde:** `7`{: .fate_font}
-+  **Compostura:** `7`{: .fate_font}
++  **Vitalidade:** `7`{: .fate_font}
++  **Auto-Controle:** `7`{: .fate_font}
 
 
 

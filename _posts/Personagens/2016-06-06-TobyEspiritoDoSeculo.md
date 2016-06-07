@@ -57,27 +57,27 @@ _Baseado no Mangá/Anime Chrno Crusade_
 
 | **Nível** | **Perícia** | **Perícia** | **Perícia** | **Perícia** | **Perícia** |
 |-|-|-|-|-|-|
-| __Soberbo (+5)__ | Determinação | | | | |
-| __Ótimo (+4)__ | Armas de Fogo | Resistência | | | |
-| __Bom (+3)__ | Mistérios | Dirigir | Pilotagem | | |
-| __Adequado (+2)__ | Armas Brancas | Liderança | Engenharia | Estudos | |
-| __Mediano (+1)__ | Ciência | Fascinar | Ladinagem | Enganar | Esports |
+| __Excepcional (+5)__ | Determinação | | | | |
+| __Espetacular (+4)__ | Armas de Fogo | Resistência | | | |
+| __Ótimo (+3)__ | Mistérios | Condução | Pilotar | | |
+| __Bom (+2)__ | Armas Brancas | Liderança | Engenharia | Estudos | |
+| __Regular (+1)__ | Ciência | Comunicação | Ladinagem | Enganar | Esports |
 
 ### Façanhas: 
 
-+ Segredos Arcanos: Demonologia e Exorcismo;
-+ Recarga Rápida;
++ Segredos do Arcano: Demonologia e Exorcismo;
++ Recarregar Rápido;
 + Saque Rápido;
-+ Chuva de Balas;
++ Chuva de Chumbo;
 + Munição Especial: _Sacred_;
     + _Façanha de Armas de Fogo_
-    + Exige **Ciência Exótica** _ou_ um Aspecto de Patrono ou da Munição Especial
+    + Exige **Ciência Estrana** _ou_ um Aspecto de Patrono ou da Munição Especial
     + Você é capaz de produzir ou tem acesso a munição voltada para um tipo especial de alvo. Esse tipo especial de alvo sofre +2 de dano ao ser atingido por essa munição. Porém, essa munição recebe -2 de dano contra qualquer outro alvo. No caso da _Sacred_ de Tobby, a munição causa +2 de dano contra demônios, demonologistas e criaturas sobrenaturais malignas em geral.
 
-### **Trilha de Dano:** 
+### **Linha de Tensão:** 
 
-+  **Saúde:** `7`{: .fate_font}
-+  **Compostura:** `8`{: .fate_font}
++  **Vitalidade:** `7`{: .fate_font}
++  **Auto-controle:** `8`{: .fate_font}
 
 
 

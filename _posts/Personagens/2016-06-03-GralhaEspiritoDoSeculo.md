@@ -61,23 +61,23 @@ Ladrão Redimido, Espião e Primordial
 
 | **Nível** | **Perícia** | **Perícia** | **Perícia** | **Perícia** | **Perícia** |
 |-|-|-|-|-|-|
-| __Soberbo (+5)__ | Ladinagem | | | | |
-| __Ótimo (+4)__ | Esportes | Furtividade | | | |
-| __Bom (+3)__ | Empatia | Prestidigitação | Sobrevivência | | |
-| __Adequado (+2)__ | Armas Brancas | Briga | Resistência | Determinação | |
-| __Mediano (+1)__ | Mistérios | Engenharia | Estudos | Ciência | Fascinar |
+| __Excepcional (+5)__ | Arrombamento | | | | |
+| __Espetacular (+4)__ | Esportes | Furtividade | | | |
+| __Ótimo (+3)__ | Empatia | Punga | Sobrevivência | | |
+| __Bom (+2)__ | Armas Brancas | Briga | Resistência | Determinação | |
+| __Regular (+1)__ | Mistérios | Engenharia | Estudos | Ciência | Comunicação |
 
 ### Façanhas: 
 
-+ Intuição para Armadilhas
-+ Invasão Cronometrada
-+ Mapa Mental
-+ O Grande Golpe
++ Sensibilidade para Armadilhas
++ Sentido Temporal
++ Diagrama Mental
++ O Grande Roubo
 + Nocaute Furtivo 
-   + _Façanha de Furtividade - Exige Furtividade Bom, Briga Adequado e Mapa Mental_ 
+   + _Façanha de Furtividade - Exige Furtividade Bom, Briga Adequado e Diagrama Mental_ 
    + Gastando um Ponto de Destino, o Gralha tem direito a um ataque contra um alvo usando Furtividade ao invés de Briga. Se acertar, provoca imediatamente uma Conseqüência Severa "Inconsciente". À exceção disso, não gera nenhum outro tipo de dano. 
 
-### **Trilha de Dano:** 
+### Linha de Tensão:
 
-+  **Saúde:** `6`{: .fate_font}
-+  **Compostura:** `6`{: .fate_font}
++  **Vitalidade:** `6`{: .fate_font}
++  **Auto-Controle:** `6`{: .fate_font}

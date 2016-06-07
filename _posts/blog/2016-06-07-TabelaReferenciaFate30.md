@@ -275,6 +275,11 @@ De qualquer modo, fique à vontade para usar a tabela abaixo conforme sua necess
 | Cavaleiro veloz | Determinado pelo Couro |
 | Monta qualquer coisa | Montar em qualquer coisa |
 | Domando | Domar |
+| Intuição para Armadilhas | Sensibilidade para Armadilhas |
+| Invasão Cronometrada | Sentido Temporal |
+| Maestria com Grampo de Cabelo | Mestre do Improviso |
+| Mapa Mental | Diagrama Mental |
+| O Grande Golpe | O Grande Roubo |
 
 ## Artefatos
 

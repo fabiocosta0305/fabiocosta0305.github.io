@@ -51,29 +51,28 @@ Primordial e estudante do sobrenatural
 
 | **Nível** | **Perícia** | **Perícia** | **Perícia** | **Perícia** | **Perícia** |
 |-|-|-|-|-|-|
-| __Soberbo (+5)__ | Mistérios | | | | |
-| __Ótimo (+4)__ | Determinação | Empatia | | | |
-| __Bom (+3)__ | Prontidão | Prestidigitação | Investigação | | |
-| __Adequado (+2)__ | Esportes | Artes | Enganar | Furtividade | |
-| __Mediano (+1)__ | Recursos | Armas Brancas | Armas de Fogo | Ciência | Sobrevivência |
+| __Excepcional (+5)__ | Mistérios | | | | |
+| __Espetacular (+4)__ | Determinação | Empatia | | | |
+| __Ótimo (+3)__ | Prontidão | Punga | Investigação | | |
+| __Bom (+2)__ | Esportes | Artes | Enganar | Furtividade | |
+| __R4egular (+1)__ | Recursos | Armas Brancas | Armas de Fogo | Ciência | Sobrevivência |
 
 ### Façanhas: 
 
-+ Psiquismo 
++ Psiquíco
 + Vozes do Além
-+ Herbalismo
-+ Leitura da Sorte
-+ Familiar Espiritual: _Antonov, o Espírito de Luz_
++ Remédio de Ervas
++ Leitor de Mãos 
++ Companheiro Espiritual: _Antonov, o Espírito de Luz_
 
 ### **Familiar Espiritual:** Antonov, o Espírito de Luz; 
 
 + Qualidade: Adequado;
 + Foco: Mental;
 + Independente;
-+ Perito: Mistérios;
++ Hábil: Mistérios;
 
+### **Linha de tensão:**
 
-**Trilha de Dano:**
-
-+  **Saúde:** `5`{: .fate_font}
-+  **Compostura:** `7`{: .fate_font}
++  **Vitalidade:** `5`{: .fate_font}
++  **Auto-Controle:** `7`{: .fate_font}
