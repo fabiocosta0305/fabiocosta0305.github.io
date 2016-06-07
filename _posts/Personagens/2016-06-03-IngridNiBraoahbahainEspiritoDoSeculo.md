@@ -55,21 +55,21 @@ Sacerdotisa de Avalon e Primordial
 
 | **Nível** | **Perícia** | **Perícia** | **Perícia** | **Perícia** | **Perícia** |
 |-|-|-|-|-|-|
-| __Soberbo (+5)__ | Mistérios | | | | |
-| __Ótimo (+4)__ | Empatia | Artes | | | |
-| __Bom (+3)__ | Determinação | Sobrevivência | Fascinar | | |
-| __Adequado (+2)__ | Contatos | Enganar | Estudos | Liderança | |
-| __Mediano (+1)__ | Enganar | Ladinagem | Furtividade | Prestidigitação | Prontidão |
+| __Excepcional (+5)__ | Mistérios | | | | |
+| __Espetacular (+4)__ | Empatia | Artes | | | |
+| __Ótimo (+3)__ | Determinação | Sobrevivência | Comunicação | | |
+| __Bom (+2)__ | Contato | Enganar | Estudos | Liderança | |
+| __Razoável (+1)__ | Enganar | Arrombamento | Furtividade | Punga | Prontidão |
 
 ### Façanhas:
 
-+ Herbalismo
-+ Segredos Arcanos: Magia Sagrada de Avalon
-+ Cosmopolita
++ Remédios de Ervas
++ Segredos do Arcano: Magia Sagrada de Avalon
++ Internacional
 + Virtuoso (Harpa)
-+ Poliglota
++ Línguistica
 
-### Trilha de Dano:
+### Linha de Tensão:
 
-+  **Saúde:** `6`{: .fate_font}
-+  **Compostura:** `6`{: .fate_font}
++  **Vitalidade:** `6`{: .fate_font}
++  **Auto-controle:** `6`{: .fate_font}

@@ -102,15 +102,15 @@ Terminamos com os Aspectos… Mas ainda não acabamos! Falta agora selecionar su
 
 ## Perícias
 
-Vamos para a seleção de Perícias. De cara, como a proposta é que Radaj seja um combatente, podemos imaginar que suas perícias _Briga_, _Armas Brancas_, _Armas de Fogo_ e _Resistência_ sejam elevadas. Então o jogador opta por _Armas Brancas_ como _Soberbo_, devido à Espada de Gel Cinético, colocando _Resistência_ e _Briga_ como _Ótimas_ e o primeiro _Bom_ em _Armas de Fogo_ (o Mestre pode vir a autorizar que Radaj tenha algumas armas de fogo, mas devido a seu _Cavalheirismo em Combate_ ele dificilmente a utilizará). Os dois _slots_ que restam de Bom ele irá colocar para _Determinação_ (colocando aqui sua força de vontade) e _Esportes_ (para esquiva, corridas e perseguições). Quatro _slots_ estão disponíveis no nível _Adequado_, para os quais optamos em _Prontidão_, _Furtividade_, _Empatia_ e _Investigação_ (como complemento para a suas perícias de guerreiro e soldado)
+Vamos para a seleção de Perícias. De cara, como a proposta é que Radaj seja um combatente, podemos imaginar que suas perícias _Briga_, _Armas Brancas_, _Armas de Fogo_ e _Resistência_ sejam elevadas. Então o jogador opta por _Armas Brancas_ como _Excepcional_, devido à Espada de Gel Cinético, colocando _Resistência_ e _Briga_ como _Espetaculares_ e o primeiro _Ótimo_ em _Armas de Fogo_ (o Mestre pode vir a autorizar que Radaj tenha algumas armas de fogo, mas devido a seu _Cavalheirismo em Combate_ ele dificilmente a utilizará). Os dois _slots_ que restam de Bom ele irá colocar para _Determinação_ (colocando aqui sua força de vontade) e _Esportes_ (para esquiva, corridas e perseguições). Quatro _slots_ estão disponíveis no nível _Bom_, para os quais optamos em _Prontidão_, _Furtividade_, _Empatia_ e _Investigação_ (como complemento para a suas perícias de guerreiro e soldado)
 
-Temos cinco _slots_ Medianos, mas todas as perícias que precisávamos já foram mais ou menos cobertas. Podemos optar aqui por _Sobrevivência_ (Radaj sabia como se cuidar fora dos metrocentros, e muito desse conhecimento ainda é útil), _Ciência_ (tanto para a Super-Ciência de Gaia 400x quanto para a ciência "moderna"), _Estudos_ (valendo o mesmo de Ciência), _Engenharia_ (o mesmo de Ciência e Estudos) e  _Mistérios_ (alguma coisa do seu conhecimento de Xenomorfos e da super-ciência de Gaia 400x pode acabar caindo aqui, como os Cristais de Poder e sua sintonização).
+Temos cinco _slots_ Razoáveis, mas todas as perícias que precisávamos já foram mais ou menos cobertas. Podemos optar aqui por _Sobrevivência_ (Radaj sabia como se cuidar fora dos metrocentros, e muito desse conhecimento ainda é útil), _Ciência_ (tanto para a Super-Ciência de Gaia 400x quanto para a ciência "moderna"), _Estudos_ (valendo o mesmo de Ciência), _Engenharia_ (o mesmo de Ciência e Estudos) e  _Mistérios_ (alguma coisa do seu conhecimento de Xenomorfos e da super-ciência de Gaia 400x pode acabar caindo aqui, como os Cristais de Poder e sua sintonização).
 
 Na maioria das fichas "faltariam" algumas coisas, mas Radaj não sente falta, por exemplo, de Ladinagem e Liderança (ele era um soldado "comum" de Gaia 400x) e não teria como conseguir Recursos ou Fascinar. Então, vamos às Façanhas.
 
 ## Façanhas
 
-No caso das Façanhas, é razoavelmente fácil pensar: de cara, temos a Façanha _Arma Destinada_. Ela exige um Aspecto com o nome da Arma, o que já temos para a Espada de Gel Cinético (outras armas não são relevantes). Essa benção já impede que Radaj fique sem a mesma por muito tempo. E como se isso não fosse pouco, a Espada de Gel Cinético recebe a melhora _Obra-Prima_ (+1 em todos os usos dela). Adicionamos a ela _Inacreditável_, uma vez que o Gel Cinético é um material que só poderia ser sintetizado com o uso de _Ciência Ensandecida_. Como a Arma Destinada é tratada como um Artefato, não é necessário "pagar" um extra por usar Ciência Ensandecida. Como forma de "turbinar" esse efeito, compramos também _Engenhoca Pessoal_: nesse caso, recebemos mais 3 melhorias para adicionar à Espada de Gel Cinético. Essas melhorias são aplicadas em _Aprimoramento: Efeito Cinético_ de Ataque que aumenta o potencial de ataque da arma devido às características do Gel Cinético (+2 em todos os testes de ataque), _Aprimoramento: Efeito Cinético de Defesa_ para o mesmo na defesa (+2 em todos os testes de Aparar) e _Uso Alternativo: Trespassar_, que permite usar a Espada de Gel Cinético para derrubar paredes (substitui Engenharia por Armas Brancas em testes de Demolição para escapar de recintos ou arrombar paredes ou portas). Por fim, para torná-lo um Espadachim extremamente mortal, compramos _Aparar com Precisão_, _Contragolpe_ e _Reviravolta_. Essa combinação mostra a capacidade mortífera de Radaj, ainda mais somando-se os poderosos benefícios da Espada de Gel Cinético.
+No caso das Façanhas, é razoavelmente fácil pensar: de cara, temos a Façanha _Arma do Destino_. Ela exige um Aspecto com o nome da Arma, o que já temos para a _Espada de Gel Cinético_ (outras armas não são relevantes). Essa benção já impede que Radaj fique sem a mesma por muito tempo. E como se isso não fosse pouco, a Espada de Gel Cinético recebe a melhora _Habilidade_ (+1 em todos os usos dela). Adicionamos a ela _Inacreditável_, uma vez que o Gel Cinético é um material que só poderia ser sintetizado com o uso de _Ciência Louca_. Como a Arma Destinada é tratada como um Artefato, não é necessário "pagar" um extra por usar Ciência Ensandecida. Como forma de "turbinar" esse efeito, compramos também _Aparato Pessoal_: nesse caso, recebemos mais 3 melhorias para adicionar à Espada de Gel Cinético. Essas melhorias são aplicadas em _Melhoria: Efeito Cinético_ de Ataque que aumenta o potencial de ataque da arma devido às características do Gel Cinético (+2 em todos os testes de ataque), _Melhoria: Efeito Cinético de Defesa_ para o mesmo na defesa (+2 em todos os testes de Aparar) e _Melhoria: Trespassar_, que permite usar a Espada de Gel Cinético para derrubar paredes (substitui Engenharia por Armas Brancas em testes de Demolição para escapar de recintos ou arrombar paredes ou portas). Por fim, para torná-lo um Espadachim extremamente mortal, compramos _Aparar Perfeito_, _Contra-Ataque_ e _Reviravolta_. Essa combinação mostra a capacidade mortífera de Radaj, ainda mais somando-se os poderosos benefícios da Espada de Gel Cinético.
 
 ## Equipamento e Detalhes afins
 
@@ -157,31 +157,32 @@ Homem de Outra Era e Primordial
 
 | **Nível** | **Perícia** | **Perícia** | **Perícia** | **Perícia** | **Perícia** |
 |-|-|-|-|-|-|
-| _Soberbo:_  | Armas Brancas | | | | | 
-| _Ótimo:_ | Resistência | Briga | | | | 
-| _Bom:_ |Armas de Fogo | Determinação | Esportes | | | |
-| _Adequado:_ | Prontidão | Furtividade | Empatia | Investigação | |
-| _Mediano:_ | Ciência | Sobrevivência | Estudos | Engenharia | Mistérios |
+| __Excepcional (+5):__  | Armas Brancas | | | | | 
+| __Espetacular (+4):__ | Resistência | Briga | | | | 
+| __Ótimo (+3):__ |Armas de Fogo | Determinação | Esportes | | | |
+| __Bom (+2):__ | Prontidão | Furtividade | Empatia | Investigação | |
+| __Razoável (+1):__ | Ciência | Sobrevivência | Estudos | Engenharia | Mistérios |
 
 ###  Façanhas
 
-+ Arma Destinada
++ Arma do Destino
 + Engenhoca Pessoal: Espada de Gel Cinético
-+ Aparar com Precisão
-+ Contragolpe
++ Aparar Preciso
++ Contra-Ataque
 + Reviravolta
 
 ###   **Engenhoca Pessoal:** Espada de Gel Cinético
 
-+ _Obra-Prima:_ +1 em Armas Brancas ao usá-la (por _Arma Destinada_);
-+ _Inacreditável_ (por _Arma Destinada_);
-+ _Aprimoramento:_ Efeito Cinético de Ataque (+2 em todos os testes de ataque)
-+ _Aprimoramento:_ Efeito Cinético de Defesa (+2 em todos os testes de Aparar)
-+ _Uso Alternativo:_ Trespassar (substitui _Engenharia_ por _Armas Brancas_ em testes de Demolição para escapar de recintos ou arrombar paredes ou portas)
++ _Habilidade:_ +1 em Armas Brancas ao usá-la (por _Arma do Destino_);
++ _Inacreditável_ (por _Arma do Destino_);
++ _Melhoria:_ Efeito Cinético de Ataque (+2 em todos os testes de ataque)
++ _Melhoria:_ Efeito Cinético de Defesa (+2 em todos os testes de Aparar)
++ _Melhoria:_ Trespassar (substitui _Engenharia_ por _Armas Brancas_ em testes de Demolição para escapar de recintos ou arrombar paredes ou portas)
 
-###   Trilha de Dano:
-+ **Saúde:** `7`{: .fate_font}
-+ **Compostura:** `6`{: .fate_font}
+###   Linha de Tensão:
+
++ **Vitalidade:** `7`{: .fate_font}
++ **Auto-Controle:** `6`{: .fate_font}
 
 
 

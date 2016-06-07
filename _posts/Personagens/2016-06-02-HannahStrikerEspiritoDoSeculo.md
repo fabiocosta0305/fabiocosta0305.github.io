@@ -62,18 +62,18 @@ Piloto, Órfã e Primordial
 
 | **Nível** | **Perícia** | **Perícia** | **Perícia** | **Perícia** | **Perícia** |
 |-|-|-|-|-|-|
-| __Soberbo (+5)__ | Pilotagem | | | | |
-| __Ótimo (+4)__ | Ladinagem | Fascinar | | | |
-| __Bom (+3)__ | Esportes | Resistência | Determinação | | |
-| __Adequado (+2)__ | Prontidão | Estudos | Ciência | Engenharia | |
-| __Mediano (+1)__ | Mistérios | Empatia | Enganar | Armas Brancas | Briga |
+| __Excepcional (+5)__ | Pilotar | | | | |
+| __Espetacular (+4)__ | Arrombamento | Comunicação | | | |
+| __Ótimo (+3)__ | Esportes | Resistência | Determinação | | |
+| __Bom (+2)__ | Prontidão | Estudos | Ciência | Engenharia | |
+| __Razoável (+1)__ | Mistérios | Empatia | Enganar | Armas Brancas | Briga |
 
 ### Façanhas: 
 
-+ Aeronave Pessoal
++ Avião Pessoal
 + Aeronave Protótipo (x2)
-+ Mecânico de Avião
-+ Piloto Audaz
++ Mecânica de Avião
++ Piloto Preciso
 
 ### Aeronave Pessoal: Lollipop - Hidro-avião
 
@@ -83,11 +83,12 @@ Piloto, Órfã e Primordial
 + Capacidades Adicionais: 
     + **Autonomia Ampliada** - Ele pode passar mais tempo no ar do que um avião convencional
     + **Adaptaçõe**s - Lollipop teve o conjunto de comandos do piloto adaptado para o tamanho de Hannah, portanto ela pode pilotar esse avião sem redutores. O comando do co-piloto e os demais comandos são do tamanho adequado para pessoas adultas (por _Aeronave Pessoal_);
-    + Obra-Prima (por _Aeronave Pessoal_)
+    + Habilidade (por _Aeronave Pessoal_)
     + Uso Alternativo: 
         + Hidro-Avião - Permite pousar na Água tanto quanto na terra (_Pilotagem Ótimo_ para passar de um modo a outro)
-+ Resistência: `6`{: .fate_font}
++ Tensão: `6`{: .fate_font}
 
-### **Trilha de Dano:**
-  + **Saúde:** `6`{: .fate_font}
-  + **Compostura:** `6`{: .fate_font}
+### **Linha de Tensão:**
+
++ **Vitalidade:** `6`{: .fate_font}
++ **Auto-Controle:** `6`{: .fate_font}
