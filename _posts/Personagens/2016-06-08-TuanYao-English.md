@@ -1,7 +1,7 @@
 ---
 teaser: O Podcast dos Algozes dos Jogadores!
 subheadline: A Ficha do Monge Usato de Masters of Umdaar
-title: Tu'an-Yao - o Monge Usato
+title: Tu'an-Yao - the Usato Monk
 layout: personagens
 categories:
   - characters
