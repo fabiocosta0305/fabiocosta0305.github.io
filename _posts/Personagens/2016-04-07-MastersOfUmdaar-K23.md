@@ -39,7 +39,7 @@ header: no
 ### Façanhas: [Recarga: 3]
 
 + _Visão Raio-X:_ _Uma vez por cena_, ao tentar _Superar sendo  Cuidadoso_ obstáculos relativos à obstrução da visão, você pode utilizar o _Outcome Surge_ para melhorar seu resultado final
-+ _Memória Enciclopédica:_ Recebe +2 ao _Criar Vantagens sendo Cuidadoso_ questões relacionadas ao conhecimento volumosos que ele possui
++ _Memória Enciclopédica:_ Recebe +2 ao _Superar sendo Cuidadoso_ questões relacionadas ao conhecimento volumosos que ele possui
 + _Análise Tática:_ _Uma vez por cena_, sacrificando totalmente suas ações (incluindo Defesas), pode oferecer +2 a todos os aliados em uma mesma zona durante um turno.
 
 Ninguém sabe quando K-23 foi criado, e nem mesmo se ele é "nascido" em Umdaar. O que Shukul e os demais sabem é que K-23 foi encontrado em uma antiga ruina dos Demiurgos pelos mesmos e foi "reativado" após uma série de botões terem sido acionados. K-23 não lembra direito de seu passado, pois passaram-se centenas de anos desde o desaparecimento dos Demiurgos e a Ascenção dos Mestres de Umdaar. K-23 possui uma grande quantidade de conhecimentos do passado de Umdaar, da Era dos Demiurgos e mesmo de antes, o que fascina Grace, a Domadora de Elementos do Monastério de Alemtempo. 

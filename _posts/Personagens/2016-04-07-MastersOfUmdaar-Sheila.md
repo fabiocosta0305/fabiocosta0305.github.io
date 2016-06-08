@@ -14,7 +14,7 @@ header: no
 ### Informações Iniciais
 
 + _Bioforma:_ Numana - _Mutabeast (Cat)_
-+ _Classe:_ Rogue
++ _Classe:_ Batedora - _Rogue_
 
 ### Aspectos
 

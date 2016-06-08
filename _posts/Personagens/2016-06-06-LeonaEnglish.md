@@ -39,13 +39,6 @@ However, she'll stay with them until the Masters were overthrown. Then, she'll g
 |                   | That K-23 thing is dangerous, even being "at our side"                  |
 |                   | Ta'reen still is my best companion                                      |
 
-| __Cuidadoso:__  | Bom (+3)      |
-| __Esperto:__    | Razoável (+2) |
-| __Estiloso:__   | Razoável (+2) |
-| __Poderoso:__   | Regular (+1)  |
-| __Ágil:__       | Medíocre (+0) |
-| __Sorrateiro:__ | Regular (+1)  |
-
 ### Approaches
 
 | **Approach**    | **Level**     |
