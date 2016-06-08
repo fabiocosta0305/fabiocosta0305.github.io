@@ -36,7 +36,7 @@ Atualmente Vicky veste um vestido rosa já desbotado e roto e seu bem mais preci
 | _Infância_ |  _Odiava o Colégio St. Sophie (Newark/NJ)_ |
 | _Guerra!_ | _Desejo de Liberdade_ |
 | _Aventura!_ | _O Velho chapéu com girassol que minha mãe me deu_ |
-| _Participação Especial_ | "Por que Don sempre tem que sempre querer bancar o machão?" |
+| _Participação Especial_ | "Por que Don sempre tem que bancar o machão?" |
 | _Participação Especial_ | “Eu ainda tenho alguma dignidade!” |
 
 ### Perícias

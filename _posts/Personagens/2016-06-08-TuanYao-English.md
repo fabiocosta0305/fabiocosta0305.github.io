@@ -47,7 +47,7 @@ header: no
 
 The Usato are a pacific people that lives into almost-autossuficient communes in the deep of the Green Valley, a distant region, almost unaffected by the Masters. However this didn't made them close their eyes for the suffering and evil provoked by the masters. 
 
-So, occasionally, anyone can see Usato rangers, warriors, rogues and monks all around Umdaar. They are easily recongnized by the long feets, powerful haunches that made them powerful when jumping or kicking, big eyes with big, many time albino-pink, pupils, big faces with big muzzles and nostrils, that some of them uses to discern things by their smells, and big ears that in many of them sizes at least a fifth of their total height, with is a big thing on them, considering the common Usato has no more than 1.60m (5'4" - ears not counting)
+So, occasionally, anyone can see Usato rangers, warriors, rogues and monks all around Umdaar. They are easily recognized by the long feets, powerful haunches that made them powerful when jumping or kicking, big eyes with big, many time albino-pink, pupils, big faces with big muzzles and nostrils, that some of them uses to discern things by their smells, and big ears that in many of them sizes at least a fifth of their total height, with is a big thing on them, considering the common Usato has no more than 1.60m (5'4" - ears not counting)
 
 Tu'an-Yao is one of those Usato monks: since he finished his basic training as monk, learning also some basic, but useful, mind powers, he was charged by his own order to go around the world, self-discovering and also collecting all kind of knowledge that could help the Usato to better the life of everyone, specially those people near the Green Valley.
 
