@@ -17,13 +17,13 @@ header: no
 
 ### Aspects
 
-| **Type**         | **Aspect**                                                              |
-|------------------|-------------------------------------------------------------------------|
-| __High Concept:_ | A Wise Monk with mind powers                                            |
-| __Motivation:__  | I must obtain even more knowledge to protect people                     |
-| __Personal:__    | Wanderlust - In a voyage of self-knowledge                              |
-|                  | Shukul has the strength to chance the world... He just needs the Wisdom |
-|                  | Sheila is still very childish and need to learn to refrain herself      |
+| **Type**          | **Aspect**                                                              |
+|-------------------|-------------------------------------------------------------------------|
+| __High Concept:__ | A Wise Monk with mind powers                                            |
+| __Motivation:__   | I must obtain even more knowledge to protect people                     |
+| __Personal:__     | Wanderlust - In a voyage of self-knowledge                              |
+|                   | Shukul has the strength to chance the world... He just needs the Wisdom |
+|                   | Sheila is still very childish and need to learn to refrain herself      |
 
 ### Approaches
 
