@@ -10,9 +10,9 @@ tags:
 header: no
 ---
 
-### Informações Iniciais
+### Informações Básicas
 
-+ _Bioforma:_ Usato (Homens-coelho) - _Mutabeast (Rabbit)_
++ _Bioforma:_ Usato (Homem-Coelho) - _Mutabeast (Rabbit)_
 + _Classe:_ Monge 
 
 ### Aspectos
