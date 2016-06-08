@@ -10,9 +10,6 @@ header: no
 ---
 
 
-## Um diário vitoriano para Castelo Falkenstein – Matheus Ortiz
-
-
 Olá!
 
 Esse post recupera um antigo diário de um _Dramatis Persona_ (PC) meu de Castelo Falkenstein. Pode servir de inspiração para quem quiser saber como escreve-se um diário em Castelo Falkenstein. [Postado originalmente](http://www.orkut.com.br/Main#CommMsgs?cmm=202511&tid=1997091) na [comunidade de Castelo Falkenstein do Orkut](http://www.orkut.com.br/Main#Community?cmm=202511).
