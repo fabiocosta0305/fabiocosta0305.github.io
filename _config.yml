@@ -43,3 +43,4 @@ collections:
   tipos:
     output: true
 
+#excerpt_separator: "\n---\n"
