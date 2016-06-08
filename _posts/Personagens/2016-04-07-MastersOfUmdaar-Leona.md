@@ -51,7 +51,7 @@ Leona foi treinada desde o princípio como uma druida, entendendo os elementos, 
 
 Foi quando teve os primeiros contatos com os Mestres de Umdaar, e entendeu que eles são ainda piores do que eram os Demiurgos. 
 
-Os Demiurgos, ainda que brincassem com a natureza, ainda eram pessoas que tinham algum respeito. Para os Demiurgos, não existe nada exceto o poder.
+Os Demiurgos, ainda que brincassem com a natureza, ainda eram pessoas que tinham algum respeito. Para os Mestres, não existe nada exceto o poder.
 
 Leona acabou decidindo por postergar o retorno à sua tribo, e procurou libertar o máximo de criaturas possíveis. Foi quando encontrou um tigre rajado da planície extremamente ferido, chamado Ta'reen, que estava para ser comercializada por traficantes que a haviam capturado.
 
