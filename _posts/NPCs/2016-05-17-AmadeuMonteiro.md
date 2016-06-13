@@ -36,7 +36,7 @@ header: no
 + **Divinação:** Recebe _+2 ao tentar Criar Vantagens sendo Cuidadoso_ ao ler sinais e portentos nas estrelas, por cartas de tarô, ou usando algum outro tipo de prática divinatória.
 + **Jogos Mentais:** Recebe _+2 ao Superar de Maneira Sorrateira_ obstáculos para fazer alguém acreditar em algo que não é uma verdade
 + **Faça as contas:** Recebe _+2 ao Defender-se_ quando você puder descrever _como ser Ágil_ e realizar cálculos mentais rápidos puder ajudar a determinar o momento certo de evitar o golpe.
-+ **Já li sobre isso:** _Uma vez por sessão**, você pode declarar como um fato conveniente pode lhe ajudar em qualquer situação em que você estiver envolvido. Discuta com o Narrador qual fato é esse.
++ **Já li sobre isso:** _Uma vez por sessão__, você pode declarar como um fato conveniente pode lhe ajudar em qualquer situação em que você estiver envolvido. Discuta com o Narrador qual fato é esse.
 
 ## Aparência
 
@@ -54,6 +54,8 @@ O jovem Amadeu Monteiro nasceu no dia 1° de Janeiro de 1890, portanto tornou-se
 
 Entretanto, com a sucessiva instabilidade econômica e de governo, e suas idéias consideradas excessivamente progressistas e até mesmo representantes do _Perigo Vermelho_, fez com que ele decidisse por deixar para trás Lisboa (pela qual sente saudade até hoje) e ir para Nova Iorque trabalhar junto ao _Clube do Século_ como bibliotecário.
 
-Como patrocinadores importantes, o senhor e a senhora Wright decidiram contratar Amadeu para que ele fosse tutor de  sua filha Mayfield. Foi Amadeu quem confirmou que Mayfield seria um Espírito do Século XX, por meio de uma série de leituras divinatórias que ele próprio realizou, apesar de ser um homem de ciência. Desde então, ele tem dividido suas atividades no _Clube do Século_ de Nova Iorque, no Educandário da Madame Sheridan, onde ensina Latim, e no _Wright Estate_, a mansão dos Wright. E em todos esses lugares ele gasta uma parte do seu tempo tutelando a pequena Mayfield, além de ocasionalmente impedir a mesma de se meter em apuros, como da vez que ele teve que procurar ela entre os _newsies_.
+Como patrocinadores importantes, o senhor e a senhora Wright decidiram contratar Amadeu para que ele fosse tutor de  sua filha Mayfield. Foi Amadeu quem confirmou que Mayfield seria um Espírito do Século XX, por meio de uma série de leituras divinatórias que ele próprio realizou, apesar de ser um homem de ciência. 
+
+Desde então, ele tem dividido suas atividades no _Clube do Século_ de Nova Iorque, no Educandário da Madame Sheridan, onde ensina Latim, e no _Wright Estate_, a mansão dos Wright. E em todos esses lugares ele gasta uma parte do seu tempo tutelando a pequena Mayfield, além de ocasionalmente impedir a mesma de se meter em apuros, como da vez que ele teve que procurar ela entre os _newsies_ e para isso fez-se de parte do populacho do _East River_.
 
 Mas Amadeu está satisfeito por agora com tudo. Entretanto, ele ainda sonha com o dia que poderá voltar a Lisboa, e quem sabe levar Mayfield para conhecer a Torre do Marquês de Pombal, o Alentejo e outros belos locais das terras lusitanas.
