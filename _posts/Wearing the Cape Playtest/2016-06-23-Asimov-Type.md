@@ -43,7 +43,8 @@ Asimovs can take some Stunts from Teslas, Projector, Ajax and Atlas types. Howev
 + __Wireless:__ Normally an Asimov needs to hook themselves into a system somewhat physically (for example, via a connector jack or via nanomachines that estabilishes the interface). This Asimov has some kind of non-phisical connection (like WiFi, Bluetooth or 3G) that make it capable to connect itself to a system remotely. He still need to do _Interface_ checks to hook itself on them, and still need to know any information needed to do the connection (IP address, phone numbers, etc...).
 + __Multitask:__ Normally, an hooked up Asimov is defenseless. However, those who have _Multitask_ can React (and only React) by other skills while connected. 
 + __Multi-acct:__ Normally an Asimov can connect to only a system per time. A _Multi-acct_ Asimov can control a number of connections equals his Discernment bonus. This, however, doesn't mean that he could do actions on all of them. For this, there's the Power Stunt _Master Control Processor_
-+ __Master Control Processor:__ the most powerful of Asimov's Stunts, by using this an Asimov can go and works as a central controller for all the systems he's hooked on the time (via _Multitask_). So, he can do an Action per system he's hooked on (via _Multi-acct_). He can also spare one of those actions to save it to _React_ to outside (Requires _Privilege Escalation_, _Multitask_ and _Multi-acct_)
++ __Master Control Processor:__ the most powerful of Asimov's Stunts, by using this an Asimov can go and works as a central controller for all the systems he's hooked on the time. So, he can do an Action that don't require rolls on each system him control and can choose on which system he'll do his roll action each round. He can also _React_ to outside actions on all those systems, except by Block (Requires _Privilege Escalation_, _Multitask_ and _Multi-acct_)
+
 
 ## Power Class Requirement
 
