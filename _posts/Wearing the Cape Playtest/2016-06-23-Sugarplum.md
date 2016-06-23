@@ -93,3 +93,16 @@ The magic from the fairies from the past (or some people says that) is a magic r
 + `D`{: .fate_font}: normally you can't _React_ via Glamour, however you can do it using _Avalon's Mist_ Stunt
 
 
+## Stress and Consequences
+
+| Stress | Bar |
+|-|-|
+| _Physical_ | `2`{: .fate_font} |
+|  _Mental_ | `4`{: .fate_font} |
+| _Resources_ | `2`{: .fate_font} |
+
+| Consequences | Normal | Extra Physical | Extra Mental | Extra Resource |
+|-|-|
+| _Mild (+2)_ |  `1`{: .fate_font} | | `1`{: .fate_font} | |
+| _Moderate (+4)_ | `1`{: .fate_font} | | | | 
+| _Severe (+6)_ | `1`{: .fate_font} | | | |

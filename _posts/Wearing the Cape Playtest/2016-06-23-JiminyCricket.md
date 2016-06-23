@@ -84,3 +84,16 @@ Anyway, although not a combatant, Jiminy is very useful with his heightend mind,
 + _Shield of Reason_ (FC 115, applied to _Academics_) (1 SFP)
 
 
+## Stress and Consequences
+
+| Stress | Bar |
+|-|-|
+| _Physical_ | `2`{: .fate_font} |
+|  _Mental_ | `3`{: .fate_font} |
+| _Resources_ | `1`{: .fate_font} |
+
+| Consequences | Normal | Extra Physical | Extra Mental | Extra Resource |
+|-|-|
+| _Mild (+2)_ |  `1`{: .fate_font} | | | |
+| _Moderate (+4)_ | `1`{: .fate_font} | | | | 
+| _Severe (+6)_ | `1`{: .fate_font} | | | |
