@@ -38,7 +38,7 @@ Anyway, although not a combatant, Jiminy is very useful with his heightend mind,
 | Background | _"No more bullies if I can do something on it!"_ |
 | Background | A Hero Costume from Dress-Up Game |
 
-### Attributes
+## Attributes
 
 | Attribute | Level |
 |-|-|
@@ -49,7 +49,7 @@ Anyway, although not a combatant, Jiminy is very useful with his heightend mind,
 | Willpower | Fair (+2) |
 | Presence | Great (+4) |
 
-### Skills
+## Skills
 
 | Skill | Level |
 |-|-|

@@ -34,7 +34,7 @@ However, she should not be taken as a little Pollyanna, a Goody Two-Shoes. Sure,
 | Background | I'm more than my cape |
 | Background | Need to learn more about _Glamour_ |
 
-### Attributes
+## Attributes
 
 | Attribute | Level |
 |-|-|
@@ -45,7 +45,7 @@ However, she should not be taken as a little Pollyanna, a Goody Two-Shoes. Sure,
 | Willpower | Good (+3) |
 | Presence | Great (+4) |
 
-### Skills
+## Skills
 
 | Skill | Level |
 |-|-|
