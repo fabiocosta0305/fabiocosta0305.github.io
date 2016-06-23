@@ -89,7 +89,8 @@ Some characters I did (in English)
    {% assign sorted_pages = (site.categories.characters | sort: 'title') %}
    {% for post in sorted_pages %}
    {% if post.tags contains tag %}
-   <li><a href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }} </a> </li>
+   <li><a href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }} </a>
+</li>
    {% endif %}
    {% endfor %}
    </ul>
