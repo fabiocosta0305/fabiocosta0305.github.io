@@ -50,7 +50,7 @@ Now, five years after his judgement he was alloted to Genebra, to be placed into
 
 | Type | Aspect |
 |-|-|
-| Power Aspect | Ajax-Type |
+| Power Aspect | A-Class Ajax-Type |
 | Hero Aspect | Regenerated gang member |
 | Trouble  | _"Bronx Sholder"_, the past that haunts me - life sentence, under parole |
 | Background | Caring heart, powerful punch |
