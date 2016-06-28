@@ -108,7 +108,7 @@ Now, five years after his judgement he was alloted to Genebra, to be placed into
 |-|-|
 | _Physical_ | `4`{: .fate_font} |
 | _Mental_ | `3`{: .fate_font} |
-| _Resources_ | `2`{: .fate_font} |
+| _Resources_ | `1`{: .fate_font} |
 
 | Consequences | Normal | Extra Physical | Extra Mental | Extra Resource |
 |-|-|
