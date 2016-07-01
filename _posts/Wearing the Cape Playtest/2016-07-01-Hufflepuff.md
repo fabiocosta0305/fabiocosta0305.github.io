@@ -10,7 +10,7 @@ tags:
 header: no
 ---
 
-_Hufflepuff_ was born Juan Manuel Acierdo. His father was a _luchador_ in Oaxaca, a scifi fan that used the name _Tolot_ (from a character from a german scifi series) and, although not as famous as _Santo_ or _Parka_, was a _Tecnico_, and taught him how to fight for _La Passion de La Lucha_. 
+_Hufflepuff_ was born Juan Manuel Acierdo. His father was a _luchador_ in Oaxaca, a scifi fan that used the name _Tolot_ (from a character from a german scifi series) and, although not as famous as _Santo_ or _Parka_, was a somewhat successful _Tecnico_, and taught him how to fight for _La Passion de La Lucha_. 
 
 In the Event, he was into a fighting arena, as anytime, seeing his father fighting, using a _Harry Potter_-themed T-Shirt. With the Event, the arena had been shaken by the impact of an airplane that hit the ground some blocks away. During this, his father was hit directly by an pole and died instantly. He didn't had the same fate just because he undergone into his _breakthrough_, lifting the rabble and saving as much people as he could. Even the _Rudo_ his dad was fighting of helped in the process and condoled the little now-orphan.
 
