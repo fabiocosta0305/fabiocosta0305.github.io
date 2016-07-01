@@ -22,7 +22,7 @@ He looks a little nerdy when not using the yellow and black _Lucha_ mask he uses
 
 | Type | Aspect |
 |-|-|
-| Power Aspect | A-Class Luchador (_Tecnico_) |
+| Power Aspect | A-Class _Tecnico Luchador_ |
 | Hero Aspect | A Nerdy Hero that looks a little underdeveloped |
 | Trouble  | The tradition of _Lucha_ |
 | Background | Make my deceased father proud |
