@@ -49,11 +49,10 @@ He looks a little nerdy when not using the yellow and black _Lucha_ mask he uses
 | Drive |  |
 | Engineering | Average (+1) | 
 | Fight |  Average (+1) |  
-| Interface | Fair (+2) |
 | Investigate | Average (+1) |
 | Larceny | Fair (+2) | 
 | Provoke | Fair (+2) |
-| Rapport | Average (+1) |
+| Rapport | Fair (+2) |
 | Shoot |  | 
 | Stealth | | 
 | Survival |   | 
@@ -63,7 +62,7 @@ He looks a little nerdy when not using the yellow and black _Lucha_ mask he uses
 | Attribute | Level |
 |-|-|
 | Contacts | |
-| Reputation | |
+| Reputation | Average (+1) |
 | Wealth | |
 
 ## Stunts [ SFP Remaining: 1 ]
