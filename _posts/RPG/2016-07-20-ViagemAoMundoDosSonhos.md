@@ -11,7 +11,7 @@ tags:
   - Fate Core
 ---
 
-![Cartaz de Viagem ao Mundo dos Sonhos](/_assets/Explorersposter1985.jpg)
+![Cartaz de Viagem ao Mundo dos Sonhos](/assets/Explorersposter1985.jpg)
 
 Os personagens, garotos de 8 a 10 anos, se conhecem da escola (o Narrador decide como). Um deles em especial (ou vários, se o Narrador desejar) tem tido sonhos estranhos, onde se imagina voando pelos céus, vendo a cidade pelo ar, e a cidade se tornando algo similar a placas de computador (perceba que estamos falando de _Computadores da década de 80_, cheios de CIs e capacitores e resistores visíveis).
 
