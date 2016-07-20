@@ -34,7 +34,7 @@ Com o tempo, eles poderão chegar à conclusão de que esse Campo Energético po
 
 Caso os personagens continuem, eles irão (cedo ou tarde) para fora do planeta. Na metade da distância da Terra para a Lua, eles serão tragados automaticamente (o computador irá _"pirar"_ novamente) para um _Wormhole_, indo parar em algum local da galáxia, onde uma espaçonave os esperará. Eles serão descontaminados (faça parecer muito estranho) e poderão caminhar pela nave, até que o Narrador decida que é o suficiente. Faça com que pequenas coisas sejam estranhas e gestos e objetos comuns tenham relevância. Por fim, eles encontrarão dois alienígenas, _Wak_ e _Neek_. 
 
-> + Wak e Neek
+> + ### Wak e Neek
 > + _Alienígenas Estranhos_, _Crianças em Sua Cultura_, _Cultura Terrestre_, _Irmãos_, _Cultura da TV_ (apenas Wak), _Levemente desconfiada de humanos_ (apenas Neek)
 > + **Peritos (+2) em:** Cultura da TV; Tecnologia Avançada; Divertir-se
 > + **Ruins (-2) em:** Serem "obedientes"
@@ -43,7 +43,7 @@ Wak é um macho (ao menos até onde os personagens são capazes de distinguir) q
 
 Porém, tão logo os personagens estejam convencendo os irmãos alienígenas, uma nave gigantesca ataca e puxa a nave onde os personagens estão. Eles avançam (esperamos) pela nave, junto com Wak e Neek, até que são encontrados por uma criatura bastante alta, um tanto assustadora e (os personagens perceberão com testes bem fáceis de _Cuidadoso_) um tanto parecida com Wak e Neek... Para falar a verdade, parecida demais!
 
-> + **Pai de Wak e Neek**
+> + ### **Pai de Wak e Neek**
 > + _Alienígena adulto_; _"Essas crianças que perdem seu tempo!"_; _Não fala o idioma terráqueo_
 > + **Perito (+2) em:** Se preocupar; Parecer Nervoso; Fazer barulhos assustadores
 > + **Ruim (+2) em:** Fazer-se entender para terráqueos
