@@ -8,6 +8,8 @@ tags:
   - Adventure
   - Do - Fate of the Pilgrim Temple
   - Little Wizards
+  - Fate
+  - FAE
 ---
 
 __Stamps:__ Knot, Pen, Lotus
