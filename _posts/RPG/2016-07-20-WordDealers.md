@@ -199,7 +199,10 @@ A Projection has the same Approaches the PCs have, distributed normally. However
 
 #### Factors
 
-+ _Every dog has his day; I will never cry again; I didn't ask for all this; No more humiliations_
++ _Every dog has his day_
++ _I will never cry again_
++ _I didn't ask for all this_
++ _No more humiliations_
 
 #### Approaches
 
