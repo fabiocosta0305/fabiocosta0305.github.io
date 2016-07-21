@@ -12,33 +12,61 @@ tags:
 ---
 
 > _"You don't believe on what is happening now... I know..._
+>
 > _But believe me: you have a power that can be used to help others._
+>
 > _Since the very past, before the written history,  time after time, people are chosen by someone or something, which neither I know. They are able to travel through the memories of others ...  memories written in stationary paper like the one you hold in your hand. Furthermore, they can assume stanger forms, like those drawn on the papers._
+>
 > _How do I know that? I am a stationery paper. And you're not crazy._
+>
 > _Your parents also doubted when I shown myself to them..._
+>
 > _I know it's weird... But have you never wondered why your mother hold that large folder with sheets and more sheets of stationery paper? We can say that that folder is the source of her power, that she uses to help people._
+>
 > _And you might be asking yourself:_ "She fights what?"
+>
 > _She didn't fight something physical ... at least not normally._
+>
 > _Sometimes, people drown themselves into sadness and depression;  anger, and hatred and rancor; envy and excessive ambition; and when they write all this in the stationery paper, thinking they can send such negative feelings to others, they may end up trapping themselves into turning grotesque representations of what the hate or despise more, their worst fears and ambitions. We call these forms that they take_ **Projections**
+>
 > _And is them that your mother faced and fought against ... And now you must face and fight against._
+>
 > "And how I'll do it?" _you might be asking?_
+>
 > _I'll be your guide on this journey: call me Lully the little cat_
+>
 >  _Everything you write and draw in paper, each drop of ink dipped into it, has power. The words, the pictures made on them, have power. Never wondered you when sometimes you say_ "I just want him to get hurt" _and that person got hurt? In your modern times, people have lost the feeling about the power of words. But in the ancient times, people took very careful about what they said:_ "Promises are as good as gold" _is an old saying with much more reason than you can understand ... This is why the_ **Fairies** _never take promises that easy, because once they made one, they must kept them._
+>
 >  "And there are really fairies?" _**(giggles)** Of course they are! The case is that humans no longer accept them. In the rational, logical, mathematical world with that people surronded themselves with due to fear of the unknown, they don't find explanations, therefore being end up "eliminated" by common sense. The normal attitude is: if you can't explain something, it does not exist within that rational mathematical world. Or ... How is that saying? Ah ..._ "Among competing hypotheses, the one with the fewest assumptions should be selected." _Occam's Razor, or_ lex parsimoniae. _This is a really true fact in many things. But for those who understand **The Power of Words** about saying the right word  the right way and in the right place, as you will still understand sooner or later, these creatures, aliens to those concepts, still exist and have power, a power that is accessible to those who understand the Power of the Words._
+>
 > _Is this power magic? No more than send someone into the space with a rocket or using a cellphone to communicate with people around the world. What you're learning, in fact, is something that anyone can learn. We can say that this is, in fact, Science, although onenot yet tamed, or that was pioneered and ignored by those who feared the Unknown. You are only being chosen by a fact: you listen more than talk and read more than write, so is more willing to understand that Power._
+>
 > _Take my paw ... Don't worry, you will not be hurt. I'm putting my stationery on the floor. Come on. We'll get into my world ..._
+>
 > _Welcome to **The World Within the Stationery** ... Are you wondering why you're into this cat form? Don't worry: in this world, within what you call stationery paper, your current form is the one of a cat, bacuse it's a  representation of the original intention the stationery artist wanted to give to this world, so you, like me, are subject to such representation. We can say that, unconsciously, these **Rules** are part of a isolated "reality", where we could live. After all, in the mathematical "main" reality, cats can't normally speak._
+>
 > _You got so cute in that Angora form. Take some moments understanding your form before we continue. By the rules of this world you are subject to be in this form. You could be asking yourself what would happen if we had get into a stationary with dogs drawn into it. Then we should be subject to those representations and rules, but also in a manner that respects our own personality. The Rules don't overcome your personality at all. In my case, probablyI would had taken the shape of a cute little Schnautzer puppy. And about you ... How about a little gracious basset? Not your cup of tea? Well, maybe a Dalmatian, I don't know ..._
+>
 >  _Anyway, each stationery World partially restricts your power. You see, your power involves the representations of something. Not only by creating them, but by understanding them. That's the most important part of this power and that's this way you will face and fight against **Projections**._
+>
 > _Why am I showing you all this? The best way to fight the **Projections** is by entering into their past. Dealing with them through the common methods of the logical-mathematical reality, by simply trying to eliminate them in the fastest way, is ineffective: being pushed apart from it, they don't comply with its rules, so those rules don't work against them, although they can use them the when they are convenient. Thus, you need to outsmart them, and use the principle of mathematical logical elimination will not eliminate the problem, which is in fact to discover and remove the **Factors** that led to the **Projection** showing itself. There are methods to solve this, to facilitate the discovery and removal of the projection. They are many ways to do this, and I'll  show you now  of the most effective._
+>
 > _That is be bringing them into a_ **Stationery World** _and trying to understand what kind of negative feelings materialized and growing to a level that could be converted into such force capable of, by breaking through the reality rules, bringing the **Projection** on. Having done so, you can face them and thus having a chance to rescue the real person engulfed into the Projection, breaking the negative feelings' illusion._
+>
 > _Yes, it is exactly this, because, in fact, there's no negative feelings: as the name implies,  negative feelings in fact are the absence of a positive feeling: hatred arising by the absence of love, while anger arises by the absence of peace, and so on. If you read about Francis of Assisi, you'll understand a lot this and whi he was one of the most powerful **Among Those Who Deal with Words**._
+>
 > _How strong the Projections are? Well, the big majority of them are easy to be defeated, but there are some so powerful and evil that existed since the **Time Before History**, being **Stuff of Legends**. And here we have something important: Projections feed on fear, hate, greed and other negative feelings. Many powerful Projections lives since ancient times through the power of myths and legends. Gobelins, Redcaps, Hags... They all exist because their words exists._
+>
 > _And are against those monsters that you will fight._
+>
 >  _Let's keep going ... I see you are more comfortable now with the cat form ... You can lick yourself clean if you want, no problem. By walking into this little **Stationery World**, your "natural" form is this one, then there is nothing wrong on it. You are subject to the rules of this reality, and thus the desire to lick yourself in this cat form, as part of this rule, is completely valid._
+>
 > _You see that creature there? That little green monster? It's probably a someone else's Projection. Let get out to to find what made it ..._
+>
 > _See that little purse which it's clinging with itself? It must be something he didn't want to give someone else. Probably a toy or candy. Anyway, our goal is to break down this barrier of him and make him let this feeling bad go away, by giving away that. Because otherwise that bad feeling will grow, and the more it grows, the more "real" and powerful the Projection is._
+>
 > _Come on. We can do this all by choosing the right words._
+>
 > _And soon you will learn to master the Power of Words._
 
 Our world is logical-mathematical: everything is measured, classified, valued, taxed. Everyone and everything must be measured and classified, and everything not measured or below the ideal should be ignored and even discarded as inefficient or obsolete. Things, objects, values, ideals, people ... Everything and everyone can (and will eventually be) left behind if seen as ineffective or obsolete.
@@ -98,6 +126,7 @@ The _**Power of Words**_.
 ## Character Creation
 
 Except said other way, as by _Fate Accelerated Edition (FAE)_
+
 + ### Aspects
 	+ High Concept, Trouble, Epiphany, Vision and a Free one
 		+ **Epiphany:** how the character discovered his Word Dealer ability
@@ -132,6 +161,7 @@ Except said other way, as by _Fate Accelerated Edition (FAE)_
 ### Character Example - David Cesar
 
 #### Aspects
+
 | **Aspect Type**| **Aspect** |
 |-|-|
 | _High Concept_ | Heir of Magic Words |
