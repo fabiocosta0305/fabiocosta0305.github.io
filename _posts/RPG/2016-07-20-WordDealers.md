@@ -229,7 +229,7 @@ The Destroyer is one of the most common and dangerous Projections that can be se
 When a Projection arises, it usually target (at least in theory) the one that caused the most pain and/or those who did "the last straw." 
 As an optional rule, the Storyteller can create projections on thugs system Fate Accelerated, the aspects being the same factors. However, she will never stop, and you start to expand their targets to everyone and everything else nearby.
 
-### Turning into a Projection
+## Turning into a Projection
 
 Every time a character flips one of their Good Approaches to a Bad one (see below, in _Flipping Approaches_), it has a chance to become a _Projection_. Make a _Dilligence/Laziness_ roll against the number of Bad Approaches the character has at the time an Approach is flipped to Bad. If the character fails, it will turn into a _Projection_, receiving a _Factor_ for each Bad Approach it have at the time.
 
