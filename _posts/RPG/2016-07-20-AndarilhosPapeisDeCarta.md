@@ -176,11 +176,11 @@ O Poder das Palavras.
 | _Caridade_ |  Razoável (+2) |
 | _Temperança_ | Regular (+1) |
 | _Paciência_ | Bom (+3) |
-| __Inveja__ |: Regular (+1) |
+| __Inveja__ | Regular (+1) |
 | __Ira__ | Regular (+1) |
 | _Humildade_ | Medíocre (+0) |
 
-### **Façanhas [Recarga: 3] **
+### **Façanhas [Recarga: 3]**
 
 + _Análise profunda da Projeção:_ quando precisar investigar uma _Projeção_, recebe +2 ao Superar com **Paciência** para obter informações sobre a **Projeção**
 + _Esfregando na Cara:_ +2 ao Criar Vantagens com **Ira** para descobrir algum dos Fatores que levou a Projeção a se formar;
