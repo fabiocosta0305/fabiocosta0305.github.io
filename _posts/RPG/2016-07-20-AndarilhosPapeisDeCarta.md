@@ -154,28 +154,37 @@ O Poder das Palavras.
 + Façanhas
 	+ Mesmo sistema de criação do Fate Acelerado;
 
-## Exemplo de Personagem
+## Exemplo de Personagem - Davi César
 
-+ Davi César
-	+ **Aspectos:**
-		+ **Conceito:** Herdeiro de Palavras Mágicas
-		+ **Dificuldade:** Um Boi para Não entrar em uma Briga, uma Boiada para não sair
-		+ **Epifania:** Vi meu melhor amigo tornar-se uma *Projeção*
-		+ **Visão:** Criaturas estranhas por todos os lados.
-		+ **Livre:** Lully é simpática, mas complacente demais
-	+ **Abordagens:**
-		+ Pureza: Razoável (+2)
-		+ Caridade: Razoável (+2)
-		+ Temperança: Regular (+1)
-		+ Paciência: Bom (+3)
-		+ Inveja: Regular (+1)
-		+ Ira: Regular (+1)
-		+ Humildade: Medíocre (+0)
-	+ **Façanhas:**
-		+ _Análise profunda da Projeção:_ quando precisar investigar uma _Projeção_, recebe +2 ao Superar com **Paciência** para obter informações sobre a **Projeção**
-		+ _Esfregando na Cara:_ +2 ao Criar Vantagens com **Ira** para descobrir algum dos Fatores que levou a Projeção a se formar;
-		+ _Disposição ao Sacrifício:_ +2 ao Criar Vantagens com __Caridade__ para proteger outras pessoas;
-	+ **Pontos de Destino:** 3
+### **Aspectos:**
+
+| **Tipo** | **Aspecto** |
+|-|-|
+| **Conceito** | Herdeiro de Palavras Mágicas |
+| **Dificuldade** | Um Boi para Não entrar em uma Briga, uma Boiada para não sair |
+| **Epifania** | Vi meu melhor amigo tornar-se uma *Projeção* |
+| **Visão** | Criaturas estranhas por todos os lados. |
+| **Livre** | Lully é simpática, mas complacente demais |
+
+### **Abordagens**
+
+**Negrito** são as Abordagens ruins, *Itálico** são as Abordagens Boas
+
+| **Abordagem** | **Nível** |
+|-|-|
+| _Pureza_ | Razoável (+2) |
+| _Caridade_ |  Razoável (+2) |
+| _Temperança_ | Regular (+1) |
+| _Paciência_ | Bom (+3) |
+| __Inveja__ |: Regular (+1) |
+| __Ira__ | Regular (+1) |
+| _Humildade_ | Medíocre (+0) |
+
+### **Façanhas [Recarga: 3] **
+
++ _Análise profunda da Projeção:_ quando precisar investigar uma _Projeção_, recebe +2 ao Superar com **Paciência** para obter informações sobre a **Projeção**
++ _Esfregando na Cara:_ +2 ao Criar Vantagens com **Ira** para descobrir algum dos Fatores que levou a Projeção a se formar;
++ _Disposição ao Sacrifício:_ +2 ao Criar Vantagens com __Caridade__ para proteger outras pessoas;
 
 ## Projeções
 
@@ -183,22 +192,34 @@ Toda Projeção possui uma série de Aspectos (chamados _Fatores_) que determina
 
 As Abordagens de uma Projeção são distribuidas normalmente. Entretanto, qualquer Abordagem boa não pode ser usada.
 
-### Exemplo de Projeção
+### Exemplo de Projeção - O Destruidor
 
-+ O Destruidor:
-	+ **Fatores:** Uma hora da Caça, outra do Caçador; Nunca mais irei chorar; Não pedi por isso; Basta de humilhação
-	+ **Abordagens:**
-		+ Luxúria: Regular (+1)
-		+ Avareza: Razoável (+2)
-		+ ~~Temperança: Regular (+1)~~
-		+ Inveja: Razoável (+2)
-		+ ~~Persistência: Regular (+1)~~
-		+ Ira: Bom (+3)
-		+ ~~Humildade: Medíocre (+0)~~
-	+ **Nota:** As Abordagens "cortadas" representam os valores da pessoa original, que a Projeção não pode usar
-	+ **Façanhas:**
-		+ _Espalhar a Cizânia:_ +2 ao Criar Vantagens com **Inveja** para gerar Aspectos relativos a coisas que os outros invejem;
-		+ _Mostrando o Pior Lado:_ +2 ao Criar Vantagens com **Ira** para descobrir algum dos Aspectos de um alvo e o mostrar de maneira distorcida aos outros;
+#### **Fatores** 
+
++ Uma hora da Caça, outra do Caçador
++ Nunca mais irei chorar
++ Não pedi por isso
++ Basta de humilhação
+
+#### **Abordagens**
+
+**Nota:** As Abordagens ~~"cortadas"~~ representam os valores da pessoa original, que a Projeção não pode usar por serem _boas_. As em **Negrito** são as Abordagens Ruins.
+
+
+| **Abordagem** | **Nível** |
+|-|-|
+| __Luxúria__ | Regular (+1) |
+| __Avareza__ | Razoável (+2) |
+| _~~Temperança~~_ | ~~Regular (+1)~~ |
+| __Inveja__ | Razoável (+2) |
+| _~~Persistênciaa~~_ | ~~Regular (+1)~~ |
+| __Ira__ | Bom (+3) |
+| _~~Humildade~~_ | ~~Medíocre (+0)~~ |
+
+#### **Façanhas**
+
++ _Espalhar a Cizânia:_ +2 ao Criar Vantagens com **Inveja** para gerar Aspectos relativos a coisas que os outros invejem;
++ _Mostrando o Pior Lado:_ +2 ao Criar Vantagens com **Ira** para descobrir algum dos Aspectos de um alvo e o mostrar de maneira distorcida aos outros;
 
 O Destruidor é uma das mais típicas, e mais perigosas, **Projeções** que aparecem: ela surge quando uma pessoa sofre muito devido à humilhação, em especial as feitas de maneira gratuita. Nesses tempos atuais, é uma das que mais surge. Quando uma **Projeção** surge, ela costuma alvejar (ao menos na teoria) aquela que mais a provocou, ou que resultou na "gota d'água". Normalmente ela irá atacar de maneira muito violenta, usando para isso sua _Ira_, ou então ela própria irá utilizar sua _Inveja_ ou _Avareza_ para desmoralizar seu alvo. Apesar de tudo, ela não irá se limitar ao alvo original, tratando tudo e todos ao redor como seus alvos.
 

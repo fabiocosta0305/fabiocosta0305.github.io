@@ -158,9 +158,9 @@ Except said other way, as by _Fate Accelerated Edition (FAE)_
 + ### Refresh
 	+ As By _Fate Accelerated_, three Free Refresh
 
-### Character Example - David Cesar
+## Character Example - David Cesar
 
-#### Aspects
+### Aspects
 
 | **Aspect Type**| **Aspect** |
 |-|-|
@@ -170,7 +170,7 @@ Except said other way, as by _Fate Accelerated Edition (FAE)_
 | _Vision_  | There are of those creatures everywhere |
 | _Free_ | Lully is a good friend Guardian, but a too much goody two-shoes |
 
-#### Approaches
+### Approaches
 
 Those in _italics_ are Good ones, those in __bold__ are Bad Ones
 
@@ -184,7 +184,7 @@ Those in _italics_ are Good ones, those in __bold__ are Bad Ones
 | __Wrath__ | Average (+1)|
 | _Humility_ | Mediocre (+0)|
 
-#### Stunts [ Refresh: 3 ]
+### Stunts [ Refresh: 3 ]
 + *__Projection Analyst__*: when you need to Investigate a projection, you receive +2 to _Overcome_ with _Kindness_ for obtaining the Projection's **Factors**
 + *__In your Face:__* +2 to _Create Adavntages_ with _Wrath_ to discover the Projection's **Factors**;
 + *__Martyr Spirit__*: +2 to _Create Advantages_ with _Charity_ to protect others from Projections;
@@ -198,7 +198,9 @@ A Projection has the same Approaches the PCs have, distributed normally. However
 ### Projection Example - The destroyer
 
 #### Factors
+
 + _Every dog has his day; I will never cry again; I didn't ask for all this; No more humiliations_
+
 #### Approaches
 
 Those in _italics_ are Good ones, those in __bold__ are Bad Ones. As a Projection, the Destroyer can't use any of their _~~Good Approaches~~_.
