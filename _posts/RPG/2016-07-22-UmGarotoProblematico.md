@@ -20,37 +20,37 @@ O que Joffrey disse é verdade: esse garoto Rodrigo é bem conhecido por todos o
 
 Algumas questões que os personagens possam fazer:
 
-1. _Sabemos porque esse tal Rodrigo é tão Malvado?_
+### ___Sabemos porque esse tal Rodrigo é tão Malvado?___
 
 > Os pais dele o mimaram demais, dando a entender que ele pode fazer o que quiser se ele for forte o bastante. Manja aquele lance _"Força é Direito"_?
 
 Os personagens sabem que Rodrigo vive em um parte muito rica da cidade, mas não sabiam desse detalhes. Se os personagens questionarem como o Velho Nick sabe disso, Joffrey dá de ombro (de asas?) e diz que "o Velho Nick tem seus modos". Isso quer dizer que outros _Strays_ da cidade estão vigiando o Rodrigo (e outras crianças Más, provavelmente) para o Velho Nick.
 
-2. _E por que Os Maiorais dos Malvados querem esse garoto?_
+### ___E por que Os Maiorais dos Malvados querem esse garoto?___
 
 > Sabem o que os Maiorais dos Malvados fazem com esses garotos que eles pegam de vez em quando, não? Eles viram serviçais como o Krampus para os mesmos.
 
 Uma das coisas que todo _Stray_ sabe é que essa Guerra Fria entre os Bons e os Maus existe e que cada lado trás para junto de si todas as forças que pode: os Bons com _Strays_ e outras criaturas bondosas, enquanto os Maus com criaturas como o Krampus e o Velho do Saco.
 
-3. _Alguma sugestão de como tirar o Rodrigo da Lista dos Malvados?_
+### ___Alguma sugestão de como tirar o Rodrigo da Lista dos Malvados?___
 
 > Sincreamente não sei, mas acho que um bom começo é fazer com que ele pare de ser um valentão com os que são menores que ele. Talvez um bom caminho seja por meio de Lancaster, mas vocês terão que tomar cuidado. Outra coisa é tentar convencer ele a ajudar alguns garotos mais novos, percebendo que é errado ser um valentão.
 
 É uma missão típica de um _Stray_ tentar convencer os humanos a deixarem de ser maus, por meio de seu carinho e tudo o mais. Então parece bastante razoável tentar de tudo para tirar Rodrigo da Lista dos Malvados.
 
-4. _Alguma chance do Krampus aparecer enquanto estivermos realizando a tarefa?_
+### ___Alguma chance do Krampus aparecer enquanto estivermos realizando a tarefa?___
 
 > Não sei, mas fica a dica: se ele aparecer, CORRAM! Não tentem interferir. O Krampus é muito forte e mais de um _Stray_ que achou que podia com ele acabou desaparecendo. Isso é uma coisa que o Velho Nick pediu para deixar bem claro: aconteça o que acontecer, **NÃO MEXAM COM O KRAMPUS!**. Ele é muito mais forte que vocês, é extremamente cruel e nunca joga fora das Regras. Então, se vocês interferirem, ele poderá, e com razão, fazer qualquer coisa contra vocês.
 
 Fica claro que a missão dos personagens deve ser tirar o garoto da Lista dos Malvados antes do Krampus aparecer. Caso isso aconteça, devem dar a missão por perdida.  
 
-5. _Teremos algum tipo de ajuda?_
+### ___Teremos algum tipo de ajuda?____
 
 > Acho que tem um camundongo perdido por aí que pode os ajudar: o nome dele é Govinda e vive na região da escola onde o Rodrigo vive.
 
 Govinda é um camundongo selvagem, e não é um _Stray_, ainda que seja Bom de coração. Ele vive perto de lá e já tentou convencer Rodrigo de que não é legal ser Mal. Mas como ele (assim como _nenhum Stray_) fala a língua dos humanos, fica muito difícil.
 
-6. _E quem esse Rodrigo tá judiando? Talvez a gente consiga ajudar ele primeiro e, por tabela, o Rodrigo_
+### ___E quem esse Rodrigo tá judiando? Talvez a gente consiga ajudar ele primeiro e, por tabela, o Rodrigo___
 
 > Existem dois humanos em especial que podem ser ajudados: uma menina chamada Helena, que ele pega no pé por ser menina, e um garoto chamado Raistlin que acabou de se mudar. Esse último é um garoto _nerd_ que sofre um _bullying_ pesado e se sente solitário.
 
@@ -68,25 +68,25 @@ Govinda é simpático com os demais, mesmo com _Strays_ que sejam predadores nat
 
 Os personagens podem desejar fazer perguntas a Govinda:
 
-1. _**Você já viu o tal Rodrigo?**_
+### ___Você já viu o tal Rodrigo?___
 
 > Sim... Já tentei me aproximar de outros garotos... Sabe, estou tentando a muito tempo conseguir um lar, porque não quero viver sozinho. Mas esse Rodrigo sempre fica fazendo _bullying_ com os outros.
 
 Rodrigo é bastante distinguível, e se eles convecerem Govinda a os ajudar, ele poderá oferecer uma _**Descrição de Rodrigo**_, mas a um Preço, que é os _Strays_ o ajudarem a conseguir um lar. O que não deveria ser difícil, já que Govinda é um camundongo bem limpinho para um camundongo de rua.
 
-2. **_E o tal do Lancaster?_**
+### ___E o tal do Lancaster?___
 
 > Ele é uma peste! Ataca qualquer um que apareça por perto, e já tivemos, eu e outros que vivem aqui por perto, de convencer algum humano a levar os que ele atacam ao veterinário! Eu mesmo não escapei do _"batismo"_ do Lancaster.
 
 Os personagens poderão ver que parte da orelha esquerda de Govinda foi arrancada a mordidas, e qualquer um poderá perceber que isso se deve a Lancaster.
 
-3. **_O Rodrigo tem ajuda?_**
+### ___O Rodrigo tem ajuda?___
 
 > Ele faz parte de uma pequena turma de valentões que fica depois da escola farreando próximo à quadra. Alguns deles até mesmo bebem e fumam à escondida. Esse não deveria ser o comportamento de garotos de escola.
 
 Essa é uma informação nova, que provavelmente nem mesmo Joffrey tinha, o fato de Rodrigo andar em turma. Porém, isso apenas piora as coisas, uma vez que são **_Vários Garotos Maus em uma turma_**, e isso apenas indica que ele não está afim de melhorar.
 
-4. **_Sabe de alguma coisa que o Rodrigo faça que não seja maldade?_**
+### ___Sabe de alguma coisa que o Rodrigo faça que não seja maldade?___
 
 > Sinceramente, considero aquele garoto um caso perdido. Eu sei que você devem estar querendo o proteger, e é a missão de vocês enquanto _Strays_. Mas sinceramente, acho que vocês estão perdendo seu tempo.
 
@@ -108,19 +108,19 @@ O Krampus chegou à cidade! O Tempo está se esgotando!
 
 Os personagens podem tentar conversar com Lancaster, mas antes deverão o convencer a se abrir, o que não é nada fácil: ele gosta de bancar o durão. Apenas uma intimidação bem séria ou uma vitória dos personagens em um conflito físico, ou descobrir sua *Dificuldade*, irá convencer Lancaster a conversar com os personagens.
 
-1. _**O que você vê no Rodrigo?**_
+### ___O que você vê no Rodrigo?___
 
 > Ele me encontrou por aí, quando meu antigo dono me treinava para brigas de cães, e me tirou de lá. Eu não imaginava que iria sobreviver àquele pesadelo: se olharem meu pelo, vão perceber as falhas que ainda tenho do _"treinamento"_
 
 É verdade: não é necessário sequer testes para perceber as falhas no pelo de Lancaster, além de cicatrizes de outras lesões.
 
-2. _**Então na realidade ele não é mau?**_
+### ___Então na realidade ele não é mau?___
 
 > Olha só: eu já ouvi o que os outros animais acham do Rodrigo, mas ele não é mau. Os outros meninos também abusam dele, sabia? Eles ficam dizendo que ele é tão Forte quanto um Touro e tão esperto quanto. Dizer que alguém é burro não é uma forma de _bullying_ também?
 
 Apesar de tudo, é inegável que Lancaster tem alguma razão, pelo menos: dizer que uma pessoa é burra não deixa de ser uma forma de ofensa. O problema, e os personagens deverão ter muito tato para explicar isso a Lancaster, é que apesar de tudo, ossos não são quebrados nesse momento. Se os personagens tiverem uma boa diplomacia, entretanto, eles poderão convencer Lancaster de que Rodrigo tem que demonstrar amizade de outras formas que não pelos punhos.
 
-3. **_Já ouviu falar no Krampus?_**
+### ___Já ouviu falar no Krampus?___
 
 Lancaster dá de ombros ao ouvir essa pergunta: nem ele nem Rodrigo ouviram falar no Krampus. Se os personagens decidirem explicar o objetivo final do Krampus na cidade, Lancaster ficará realmente assustado: chutar bundas de alguns bichinhos para ajudar na auto-confiança de Rodrigo é uma coisa, agora enfrentar uma criatura sobrenatural como o Krampus, muito mais forte e inteligente que **_os dois juntos_** é outros quinhentos! Ele então com certeza será convencido a agir ao lado dos personagens, embora mesmo Lancaster não possa fazer nada para impedir nesse momento.
 
