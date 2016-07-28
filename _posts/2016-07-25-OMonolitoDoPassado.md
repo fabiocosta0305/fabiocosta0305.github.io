@@ -25,7 +25,7 @@ header: no
 >
 > Você é um Arqueonauta: você utiliza suas habilidades e conhecimentos e capacidade de sobrevivência para entrar nas Zonas Selvagens e procurar os templos e centros de conhecimentos perdidos dos Demiurgos. 
 >
-> Você pode ser um dos Monges de algum dos Elíseos, os raros locais que, por tradição ou por poder, os Mestres não ousam invadir. Ou pode ser um dos povos dotados de poderes paranormais e formas estranhas às pessoas comuns, como os Usato, os homem coelhos do Vale Verde, sábios e guerreiros dotados de pernas poderosas e mentes ainda mais poderosas. Ou mesmo você pode ser um dos herdeiros de itens de poder da Era dos Demiurgos: armas ou equipamentos que só você sabe ou pode usar, heranças dos milênios passados, quando Umdaar era um planeta mais feliz.
+> Você pode ser um dos Monges de algum dos Elísios, os raros locais que, por tradição ou por poder, os Mestres não ousam invadir. Ou pode ser um dos povos dotados de poderes paranormais e formas estranhas às pessoas comuns, como os Usato, os homem coelhos do Vale Verde, sábios e guerreiros dotados de pernas poderosas e mentes ainda mais poderosas. Ou mesmo você pode ser um dos herdeiros de itens de poder da Era dos Demiurgos: armas ou equipamentos que só você sabe ou pode usar, heranças dos milênios passados, quando Umdaar era um planeta mais feliz.
 >
 > Seja o que for, seu Destino é procurar essas formas de poder para, quem sabe um dia, derrotar os...
 >
@@ -35,15 +35,15 @@ header: no
 
 Os Demiurgos foram um povo que existiu a muito tempo atrás, e de cuja existência pouco se conhece. Sabe-se que domaram a natureza com artefatos e conhecimentos que até hoje estão perdidos, e que desapareceram misteriosamente. Além disso, sabe-se que muito do que os Mestres de Umdaar usam de poder na verdade veio de Artefatos que os mesmos recuperam, usando de maneira cruel e arrivista os poderes dos Demiurgos.
 
-Por causa da crueldade dos Mestres e de sua arrogância em tomar para si populações inteiras de vilas e nações, vários grupos de _Arqueonautas_, pessoas que enfrentam os Mestres, sairam das _Vilas da Luz_, recantos sossegados onde a resistência aos Mestres pode fortalecer seus números, em busca dos Artefatos dos Demiurgos e de muitas outras coisas que possam ajudar as mesmas na resistência aos Mestres.
+Por causa da crueldade dos Mestres e de sua arrogância em tomar para si populações inteiras de vilas e nações, vários grupos de _Arqueonautas_, pessoas que enfrentam os Mestres, saíram das _Vilas da Luz_, recantos sossegados onde a resistência aos Mestres pode fortalecer seus números, em busca dos Artefatos dos Demiurgos e de muitas outras coisas que possam ajudar as mesmas na resistência aos Mestres.
 
-Uma das mais conhecidas _Vilas da Luz_ é a região próxima ao Monatério de Alemtempo, um local que há milhares de anos é respeitado como um dos raros _Elíseos_, locais onde a violência entre pessoas é terminantemente proibida. Tradição mantida pelos Monges e pelos Domadores de Elementos de Alemtempo, o raio de 60 quilômetros a partir do Monastério é considerado um _Solo Sagrado_ por tradições antigas, e um refúgio para qualquer um que deseje permanecer nessa região.
+Uma das mais conhecidas _Vilas da Luz_ é a região próxima ao Monatério de Alemtempo, um local que há milhares de anos é respeitado como um dos raros _Elísios_, locais onde a violência entre pessoas é terminantemente proibida. Tradição mantida pelos Monges e pelos Domadores de Elementos de Alemtempo, o raio de 60 quilômetros a partir do Monastério é considerado um _Solo Sagrado_ por tradições antigas, e um refúgio para qualquer um que deseje permanecer nessa região.
 
-Os Monges administram a justiça e provêem os camponeses da região com paz e justiça. O derramamento de Sangue no Elíseo sempre resulta na _Apostasia_, a declaração dos Monges de que a pessoa é _persona non grata_ e portanto digna de desconfiança e desprezo. E nem mesmo os Mestres possuem a coragem de enfrentar os Monges e destruir o Elíseo (ainda), pois sabe-se que os Monges são combatentes terríveis quando se faz necessário e que os mesmos possuem conhecimentos antigos que mesmo os Mestres consideram úteis ocasionalmente.
+Os Monges administram a justiça e proveem os camponeses da região com paz e justiça. O derramamento de Sangue no Elísio sempre resulta na _Apostasia_, a declaração dos Monges de que a pessoa é _persona non grata_ e portanto digna de desconfiança e desprezo. E nem mesmo os Mestres possuem a coragem de enfrentar os Monges e destruir o Elísio (ainda), pois sabe-se que os Monges são combatentes terríveis quando se faz necessário e que os mesmos possuem conhecimentos antigos que mesmo os Mestres consideram úteis ocasionalmente.
 
-Entretanto, recentemente apareceu na região do Elíseo um dos mais estranhos locais de Umdaar, uma lembrança dos Demiurgos que é sussurada em lendas e mistérios, e sobre os quais mesmo os Monges sabem muito pouco.
+Entretanto, recentemente apareceu na região do Elísio um dos mais estranhos locais de Umdaar, uma lembrança dos Demiurgos que é sussurrada em lendas e mistérios, e sobre os quais mesmo os Monges sabem muito pouco.
 
-O enorme monólito negro se ergue aos céus em uma altura capaz de fazer sombra ao Monastério e aparecer por cima do Pico das Sete Lanças, que delimita uma parte do Elíseo e funciona como fronteira para as Zonas Selvagens.
+O enorme monólito negro se ergue aos céus em uma altura capaz de fazer sombra ao Monastério e aparecer por cima do Pico das Sete Lanças, que delimita uma parte do Elísio e funciona como fronteira para as Zonas Selvagens.
 
 Sabe-se que o Monólito é uma construção da era dos Demiurgos e que sua grande forma branca é lisa e impossível de ser escalada ou invadida por qualquer direção. Ninguém nunca escalou o Monólito, e existem apenas _Quatro Entradas, uma em cada ponto cardeal_. 
 
@@ -53,9 +53,9 @@ Para evitar que pessoas que não pudessem ter acesso ao mesmo conseguissem entra
 
 A verdade sobre o Monólito é que ele é realmente ___A Última fonte de conhecimento sobre os Demiurgos___. Talvez sua biblioteca, talvez um arsenal, mas o que se sabe certamente é que muitos têm interesse em um dia entrarem no Monólito.
 
-É conhecido que o Monólito _Desaparece ocasionalmente_, sumindo de Umdaar como a miragem que some no deserto. Entretanto, ocasionalmente ele ressurge. Não se sabe porque isso ocorre, mas sabe-se que ocorre desde muito depois que os Demiurgos partiram e muito antes da ascenção dos Mestres de Umdaar. 
+É conhecido que o Monólito _Desaparece ocasionalmente_, sumindo de Umdaar como a miragem que some no deserto. Entretanto, ocasionalmente ele ressurge. Não se sabe porque isso ocorre, mas sabe-se que ocorre desde muito depois que os Demiurgos partiram e muito antes da ascensão dos Mestres de Umdaar. 
 
-Os personagens são Arqueonautas que estão em descanso no Elíseo, em alguma das estalagens da região, conhecidas pela sua comida saborosa e pelo nutritivo pão feito pelas pessoas do Elíseo. O Elíseo o é assim pois é um dos vales mais férteis de Umdaar, e o fluxo de viajantes mantem o Monastério bem provido de notícias, às quais registram em seus tomos que datam de muitos séculos antes da Era dos Demiurgos.
+Os personagens são Arqueonautas que estão em descanso no Elísio, em alguma das estalagens da região, conhecidas pela sua comida saborosa e pelo nutritivo pão feito pelas pessoas do Elísio. O Elísio o é assim pois é um dos vales mais férteis de Umdaar, e o fluxo de viajantes mantem o Monastério bem provido de notícias, às quais registram em seus tomos que datam de muitos séculos antes da Era dos Demiurgos.
 
 Os personagens certamente enfrentaram as tropas e lugares-tenentes de algum dos Mestres de Umdaar, como _Skarsh, senhor de K'tor_, o homem-serpente dotado de antigos poderes místicos que têm poucos rivais, ou _Sarin, o Grah'or_, líder de uma tribo de homens primitivos e gigantes, que possui uma sede de poder apenas maior que a sua sede de sangue. Ou mesmo _Rhangtor, o Antigo_, alguém que descobriu antigos segredos de vitalidade dos Demiurgos.
 
@@ -65,7 +65,7 @@ E nesse momento começa a aventura.
 
 ## Cena 1 - O Monge Bêbado
 
-Os personagens estão descansando em um dos vários vilarejos no Elíseo, talvez até mesmo tomando alguns goles do saboroso vinho local, aproveitando para curarem-se de suas últimas aventuras e contando vantagens (ou pensando no que deu errado nelas). Pergunte a cada jogador como eles vão agir: é um momento de descanso e de celebração (se por mais nada, por estarem vivos, o que é muita coisa em Umdaar). 
+Os personagens estão descansando em um dos vários vilarejos no Elísio, talvez até mesmo tomando alguns goles do saboroso vinho local, aproveitando para curarem-se de suas últimas aventuras e contando vantagens (ou pensando no que deu errado nelas). Pergunte a cada jogador como eles vão agir: é um momento de descanso e de celebração (se por mais nada, por estarem vivos, o que é muita coisa em Umdaar). 
 
 A aparição do Monólito é a notícia do dia: menestréis e bardos cantam aos quatro ventos sobre a lenda do Monólito do Passado, e de quantos já entraram lá e nunca voltaram. Algumas coisas que os personagens ouvirão:
 
@@ -74,19 +74,19 @@ A aparição do Monólito é a notícia do dia: menestréis e bardos cantam aos 
 > + Aparentemente o Monólito foi criado como um Teste de Coragem para os Demiurgos
 > + Ele é a Biblioteca Máxima do Conhecimento dos Demiurgos
 > + Um Juiz determina quem pode ou não deixar o Monólito
-> + Muitos heróis e vilões sairam do Monólito com riquezas, Artefatos e conhecimentos preciosos. Outro tantos deram graças por sairem vivos. Muitos sequer tiveram essa sorte
+> + Muitos heróis e vilões saíram do Monólito com riquezas, Artefatos e conhecimentos preciosos. Outro tantos deram graças por sairem vivos. Muitos sequer tiveram essa sorte
 > + O Monólito tem todo tipo de desafios: de Coragem, Caráter, Força, entre outros
 > + O Monólito é controlado por um louco sádico
 
-Uma boa parte disso é verdade, mas isso não interessa: em meio às canções, um _Monge Bêbado_ questionará os personagens sobre os Vales de Luz: apesar (ou talvez por causa) de no Elíseo não ser permitida a violência, _Ações de Espionagem e Aliciamento são bem comuns no Vale_. Os Monges de Alemtempo aprenderam a serem cuidadosos com as mensagens que passam, mesmo dentro do Elíseo: os Mestres podem (e estão, os personagens descobrirão) monitorando os Monges, em especial quando conhecimento útil contra os mesmos puder ser revelado ou obtido. Um teste _Cuidadoso Razoável (+2)_ será suficiente para que os personagens percebam que o Monge Bêbado está apenas parcialmente bêbado e que precisa conversar com os personagens a sós, convidando-os à _Taverna das Mil Léguas_.
+Uma boa parte disso é verdade, mas isso não interessa: em meio às canções, um _Monge Bêbado_ questionará os personagens sobre os Vales de Luz: apesar (ou talvez por causa) de no Elísio não ser permitida a violência, _Ações de Espionagem e Aliciamento são bem comuns no Vale_. Os Monges de Alemtempo aprenderam a serem cuidadosos com as mensagens que passam, mesmo dentro do Elísio: os Mestres podem (e estão, os personagens descobrirão) monitorando os Monges, em especial quando conhecimento útil contra os mesmos puder ser revelado ou obtido. Um teste _Cuidadoso Razoável (+2)_ será suficiente para que os personagens percebam que o Monge Bêbado está apenas parcialmente bêbado e que precisa conversar com os personagens a sós, convidando-os à _Taverna das Mil Léguas_.
 
-> ___Tarond, O Monge Bébado___
+> ___Tarond, O Monge Bêbado___
 >
 > _Monge de Alemtempo; Um Beberrão Incorrigível; Quanto mais bêbado, mais lúcido;_
 >
 > + **Perito (+2) em:** Beber; Lutar de Maneira Estranha; Lucidez
 > + **Ruim (-2) em:** Manter-se sóbrio
-> + _Técnica do Bébado:_ +2 em seus Ataques e Defesas enquanto __Bêbado__
+> + _Técnica do Bêbado:_ +2 em seus Ataques e Defesas enquanto __Bêbado__
 
 Tarond irá pedir dois jarros de vinho: um para si e um para os personagens. Apesar de beber copiosamente, ele é bem forte para bebida, e parece mais racional do que o normal, funcionando "ao contrário" do normal: quanto mais ele bebe, mais ele parece sóbrio. É como se a bebida liberasse sua sabedoria.
 
@@ -109,12 +109,12 @@ Personagens que sejam bem sucedidos em testes _Espertos Ótimos (+4)_ notarão q
 
 > + **Objetivos dos Personagens:** Evitar que todos os Mephita fujam
 > + **Objetivos dos Mephistas:** Ao menos um de seus grupos fugir
-> + **Tipo de cena recomendada:** Disputa. A Tradição do Elíseo não permite aos mesmos entrar em Combate físico aqui
-> + **Aspectos de Cena Recomendados:** _Não sangrar no Elíseo; "Que Cheiro Horrível!"_
+> + **Tipo de cena recomendada:** Disputa. A Tradição do Elísio não permite aos mesmos entrar em Combate físico aqui
+> + **Aspectos de Cena Recomendados:** _Não sangrar no Elísio; "Que Cheiro Horrível!"_
 > + **Sucesso:** Os personagens capturam os Mephistas e os convence a contar a verdade
 > + **Falha:** Os Mephistas escapam e revelam sobre o Monólito a seu Senhor
 
-Os Mephita (singular Mephitus)  são um povo de Gambás humanóides, similares aos Usato e outros povos meio-animais. Vivem no local chamado de _Solar do Gambá_, uma região de fontes sulfurosas cujo cheiro horrendo faz todos os que podem evitarem o local. Embora os Mephita não sejam ruins _per se_ e serem aliados ocasionais das Vilas da Luz, os Mephita são conhecidos por terem uma má-reputação pelo  número de ladrões e bandoleiros que são parte de seu povo. Inclusive existem algus Mesphitas que se alistam entre as forças dos Mestres de Umdaar. 
+Os Mephita (singular Mephitus)  são um povo de Gambás humanoides, similares aos Usato e outros povos meio-animais. Vivem no local chamado de _Solar do Gambá_, uma região de fontes sulfurosas cujo cheiro horrendo faz todos os que podem evitarem o local. Embora os Mephita não sejam ruins _per se_ e serem aliados ocasionais das Vilas da Luz, os Mephita são conhecidos por terem uma má-reputação pelo  número de ladrões e bandoleiros que são parte de seu povo. Inclusive existem alguns Mesphitas que se alistam entre as forças dos Mestres de Umdaar. 
 
 Esse grupo irá fugir e a ação começará.
 
@@ -122,7 +122,7 @@ Os Mephita irão dividir-se em Dois Grupos e portanto resolva Duas disputas Indi
 
 Seja como for, caso ao menos um dos Mephitus conseguir fugir, os Mestres saberão sobre o Monólito. Capturar os Mephita implicará também em Anular o Mau Cheiro: basta torcer bem a cauda do mesmo, provocando-lhe automaticamente uma _Consequência Suave_ __"Sem Mau Cheiro"__. 
 
-Os Mephitas dirão que foram contratados como Espiões por um dos Mestres (a critério do Narrador) para acompanhar os acontecimentos no Elíseo. Não obstante, eles deveriam sair apenas depois de descobrirem mais sobre o estranho Monólito.
+Os Mephitas dirão que foram contratados como Espiões por um dos Mestres (a critério do Narrador) para acompanhar os acontecimentos no Elísio. Não obstante, eles deveriam sair apenas depois de descobrirem mais sobre o estranho Monólito.
 
 Fica claro aos jogadores que eles devem seguir ao Monólito para descobrir mais sobre o mesmo e impedir que os Mestres de Umdaar coloque suas mãos sobre os mesmos.
 
@@ -130,9 +130,9 @@ Fica claro aos jogadores que eles devem seguir ao Monólito para descobrir mais 
 
 Os personagens não precisam correr: o Monólito gigante não desaparecerá tão cedo. Tão logo eles decidam que estão preparados (e deixe-os se preparar o quanto achar necessário) eles seguem o caminho para o Monólito, procurando seu Portão Sul. 
 
-Conforme eles vão se aproximando, a noção do tamanho do Monólito fica cada vez mais evidente: ele fica na fronteira do Elíseo com o Estreito das Sete Lanças, próximo ao Pico das Sete Lanças. Os personagens terão a terrível noção do tamanho ao ver que o Monólito parece _cada vez maior e maior_, conforme se aproximam do portão. O brilho branco do Monólito os _impede de olhar diretamente_ durante o dia, mas apesar disso a trilha possui muitos riachos e pequenos arbustos com frutinhas comestíveis. 
+Conforme eles vão se aproximando, a noção do tamanho do Monólito fica cada vez mais evidente: ele fica na fronteira do Elísio com o Estreito das Sete Lanças, próximo ao Pico das Sete Lanças. Os personagens terão a terrível noção do tamanho ao ver que o Monólito parece _cada vez maior e maior_, conforme se aproximam do portão. O brilho branco do Monólito os _impede de olhar diretamente_ durante o dia, mas apesar disso a trilha possui muitos riachos e pequenos arbustos com frutinhas comestíveis. 
 
-Quando os personagens chegam ao portão, eles verão que um grupo está se aproximando ao portão pelo Leste: é o Mestre de Umdaar que enviou os Mephitas. Se os personagens tentarem alguma coisa, deixe claro que eles ainda estão _Na Região do Elíseo_: o combate ainda é proibido. E que, de qualquer modo, talvez o melhor a ser feito seja deixar o Mestre seguir adiante e agir para chegar primeiro que ele seja lá onde ele estiver querendo chegar.
+Quando os personagens chegam ao portão, eles verão que um grupo está se aproximando ao portão pelo Leste: é o Mestre de Umdaar que enviou os Mephitas. Se os personagens tentarem alguma coisa, deixe claro que eles ainda estão _Na Região do Elísio_: o combate ainda é proibido. E que, de qualquer modo, talvez o melhor a ser feito seja deixar o Mestre seguir adiante e agir para chegar primeiro que ele seja lá onde ele estiver querendo chegar.
 
 O Portão parece um portão de um material prateado, meio vitrificado, e brilhos estranhos são visíveis no mesmo. À exceção do Portão, não existe nenhum tipo de janela ou porta no ciclópico  monólito, com sua cerca de _10 quilômetros de parede lisa como se fosse feita de água_. O portão tem cerca de 10 metros de altura e 5 de comprimento, mas parece não possuir nenhum tipo de tranca, fechadura ou maçaneta. Na verdade, _O portão parece parede sólida e lisa_ como o resto do Monólito. Entretanto, tão logo qualquer um dos personagens toque a porta, uma série de letras aparecerá diante dos mesmos e uma voz irá ecoar:
 
@@ -220,7 +220,7 @@ Estipule um limite de Falhas Totais que os personagens poderão sofrer antes de 
 > + **Falha Parcial (personagens Concedem):** Os Personagens recuam, mas podem se preparar melhor
 > + **Falha Total:** Os personagens sofrem ferimentos sérios devido ao calor. Podem não conseguir escapar.
 
-Assim que os personagens adentram a sala, como em todos os outros casos, a sala se fecha e eles vêem que a sala é um grande cubo de 10 metros de lado. Um fosso cheio de lava, com apenas algumas poucas plataformas estão próximas. O Juiz deixará claro o objetivo: chegar do outro lado. Ele deixará claro que apenas um dos personagens precisa passar pelo Desafio.
+Assim que os personagens adentram a sala, como em todos os outros casos, a sala se fecha e eles veem que a sala é um grande cubo de 10 metros de lado. Um fosso cheio de lava, com apenas algumas poucas plataformas estão próximas. O Juiz deixará claro o objetivo: chegar do outro lado. Ele deixará claro que apenas um dos personagens precisa passar pelo Desafio.
 
 Trate a travessia como uma _Disputa_ entre o _Risco_ da sala e a pior Abordagem entre _Cuidadoso_, _Esperto_ e _Sorrateiro_. Se o Personagem perder o Desafio, cada um dos Personagens será atingido por um Ataque _Excepcional (+5)_ da Sala e terão de correr para fora da sala. Em caso de Rendição, uma trilha se formará para o início da sala, e eles poderão refletir sobre como proceder com o desafio. Se o personagem Vencer a Disputa, uma trilha segura se abrirá para que o resto do grupo passe pelo mesmo.
 
@@ -238,7 +238,7 @@ Trate a travessia como uma _Disputa_ entre o _Risco_ da sala e a pior Abordagem 
 > + **Falha Parcial (personagens Concedem):** Os Personagens recuam, mas podem se preparar melhor
 > + **Falha Total:** Os personagens sofrem ferimentos sérios devido ao calor. Podem não conseguir escapar.
 
-Essa Sala é similar à da Cena 3a, mas ao invés do fogo causticante, o frio escruciante espera o grupo. Em termos de testes, segue o mesmo sistema e tem as mesmas circunstâncias que colocadas. A Sala é cheia de água extremamente gelada, capaz de provocar hipotermia em instantes. Um personagem que passe muito tempo na água pode morrer congelado. De resto, não existe diferenças mecânicias entre essas duas salas.
+Essa Sala é similar à da Cena 3a, mas ao invés do fogo causticante, o frio escruciante espera o grupo. Em termos de testes, segue o mesmo sistema e tem as mesmas circunstâncias que colocadas. A Sala é cheia de água extremamente gelada, capaz de provocar hipotermia em instantes. Um personagem que passe muito tempo na água pode morrer congelado. De resto, não existe diferenças mecânicas entre essas duas salas.
 
 #### Cenas 3c e 3d - Combate: Mutantes e Exércitos de Drones
 
@@ -298,11 +298,11 @@ As Salas são desafios mais mentais que físicos. Eles envolvem entender a si pr
 
 > _"Essa sala demanda entender o que precisa-se aprender. Apenas um de vocês deve fazer o teste"_
 
-Essa é a única coisa que o Juiz diz. Ela parece uma grande bibloteca, cheia de livros, e sobre a porta um contador de tempo. Trate como um Disputa entre um dos Personagens dos Jogadores e a Sala. O objetivo final é escapar da sala antes do contador estourar o tempo. Entretanto, a porta utiliza uma _Tranca dos Demiurgos_, uma aparelhagem que os Personagens desconhecem.
+Essa é a única coisa que o Juiz diz. Ela parece uma grande biblioteca, cheia de livros, e sobre a porta um contador de tempo. Trate como um Disputa entre um dos Personagens dos Jogadores e a Sala. O objetivo final é escapar da sala antes do contador estourar o tempo. Entretanto, a porta utiliza uma _Tranca dos Demiurgos_, uma aparelhagem que os Personagens desconhecem.
 
 O Teste da Sala é relativo à capacidade dos personagens de investigar, estudar e aprender rapidamente o que precisam. Qualquer tentativa de arrombamento baseada em Força Bruta ou técnicas ladinas automaticamente provocará a derrota na Disputa.
 
-Apesar do que o Juiz disse, os demais personagens podem ajudar a investigar os tomos sobre como arrombar tal porta. Basicamente, eles tem que descobrir o procedimento de operação da _Tranca dos Demiurgos_, e alguns dos livros das prateleiras contêm tal conhecimento. Entretanto, não será fácil, pois precisam de uma determinada senha e de um cartão especial. Se observarem os livros, verão sempre o mesmo nome, _Lakhmal_, escrito na primeira página dos mesmos. Isso dará uma pista para encontrar um diário com o cartão de _Lakhmal_ e uma determinada sequência de símbolos. Apesar de ser da Era dos Demiurgos, curiosamente todos os livros podem ser lidos por qualque um.
+Apesar do que o Juiz disse, os demais personagens podem ajudar a investigar os tomos sobre como arrombar tal porta. Basicamente, eles tem que descobrir o procedimento de operação da _Tranca dos Demiurgos_, e alguns dos livros das prateleiras contêm tal conhecimento. Entretanto, não será fácil, pois precisam de uma determinada senha e de um cartão especial. Se observarem os livros, verão sempre o mesmo nome, _Lakhmal_, escrito na primeira página dos mesmos. Isso dará uma pista para encontrar um diário com o cartão de _Lakhmal_ e uma determinada sequência de símbolos. Apesar de ser da Era dos Demiurgos, curiosamente todos os livros podem ser lidos por qualquer um.
 
 Qualquer personagem que seja Derrotado na Disputa será _Capturado pelo Monólito_ e deverá ser resgatado pelos demais, que ainda precisarão tentar novamente. Caso todos sejam _Capturados_, a aventura acaba aqui com os personagens precisando, na próxima aventura, Escapar do Monólito.
 
@@ -320,7 +320,7 @@ A Sala da Verdade parece uma sala simples, com uma mesa e duas cadeiras. Do outr
 
 Esse homem é o Inquisidor e de certa forma representa a Vontade da sala. Qualquer tentativa de o Atacar resulta em uma Falha automática e na _Captura_ do Atacante pelo Monólito. Os personagens podem render-se e sair da sala, procurando outro caminho ou se preparando melhor para o desafio da verdade.
 
-Dentro da Sala, o Inquisidor não precisa fazer nenhum teste para descobrir os Aspectos do Personagem, nem mesmo os mais secretos. E aí mora o perigo: o Inquisidor irá usar os Aspectos do Personagem contra ele, fazendo perguntas tão constrangedoras relativas ao mesmo que irá Forçar os Aspectos do mesmo. Nesse caso, o personagem tem duas opções: ou aceita a Forçada de Aspecto ou rola alguma de suas Abordagens. Se aceitar a Forçada, o personagem receberá o Ponto de Destino como normalmente, além de obter uma Vitória automática, embora receba também um Aspecto _Desconfiança_ que pode ser usado contra o mesmo no futuro, com uma Invocação Gratuita. Caso contrário, rola-se normalmente como em uma Disputa a Aborgadem do personagem contra o Risco da Sala.
+Dentro da Sala, o Inquisidor não precisa fazer nenhum teste para descobrir os Aspectos do Personagem, nem mesmo os mais secretos. E aí mora o perigo: o Inquisidor irá usar os Aspectos do Personagem contra ele, fazendo perguntas tão constrangedoras relativas ao mesmo que irá Forçar os Aspectos do mesmo. Nesse caso, o personagem tem duas opções: ou aceita a Forçada de Aspecto ou rola alguma de suas Abordagens. Se aceitar a Forçada, o personagem receberá o Ponto de Destino como normalmente, além de obter uma Vitória automática, embora receba também um Aspecto _Desconfiança_ que pode ser usado contra o mesmo no futuro, com uma Invocação Gratuita. Caso contrário, rola-se normalmente como em uma Disputa a Abordagem do personagem contra o Risco da Sala.
 
 Exemplos de perguntas:
 
@@ -369,7 +369,7 @@ Em caso de "Nada", a Máscara não muda nada no personagem.
 
 Além disso, a Máscara atua como um Aspecto que pode ser usada pelo personagem para reforçar ainda mais as Abordagens alteradas, mas que também pode prejudicar ainda mais os testes das Abordagens prejudicadas.
 
-De qualquer modo, não importa quanto desses inimigos os personagens derrotem, sempre aparecem mais. Anote todo o Estresse e Consequências que os personagens sofrerem, pois ele na realidade não existe (ainda que rendam PDs em caso de Rendição), desaparecendo tão logo os personagens dêem um jeito de atravessar a sala e sair. Assim que os personagens saem da sala, seus equipamentos voltam aos mesmos e as _Máscaras Brancas_ assumem sua verdadeira função de modificarem a forma do usuário. Os personagens precisarão pagar normalmente pela mesma como Façanhas assim que puderem, mas ficará a critério dos mesmos, segundo as regras para _Artefatos_ de ___Masters of Umdaar___, pg 46 a 49.
+De qualquer modo, não importa quanto desses inimigos os personagens derrotem, sempre aparecem mais. Anote todo o Estresse e Consequências que os personagens sofrerem, pois ele na realidade não existe (ainda que rendam PDs em caso de Rendição), desaparecendo tão logo os personagens deem um jeito de atravessar a sala e sair. Assim que os personagens saem da sala, seus equipamentos voltam aos mesmos e as _Máscaras Brancas_ assumem sua verdadeira função de modificarem a forma do usuário. Os personagens precisarão pagar normalmente pela mesma como Façanhas assim que puderem, mas ficará a critério dos mesmos, segundo as regras para _Artefatos_ de ___Masters of Umdaar___, pg 46 a 49.
 
 #### A Sala da Inventividade
 
@@ -383,13 +383,13 @@ De qualquer modo, não importa quanto desses inimigos os personagens derrotem, s
 
 Quando os personagens entram nessa grande sala cúbica, de quase cinquenta metros de lado, a sujeira é aparente, como se não fosse limpa a séculos. Felizmente o lixo aqui é basicamente sucatas, não tendo nada orgânico, ainda que o cheiro de podridão da ferrugem ainda se faça presente. Os personagens podem ver que existe um vão enorme entre onde os personagens estão e onde fica a porta, que é cercada por uma pequena plataforma de 2 metros por 2 metros. 
 
-O objetivo dos personagens aqui, que não ficará claro, é construir uma plataforma que permita aos mesmos atravessarem pelo abismo, ou ao menos um deles. Utilize aqui as regras de Desafio para que os mesmos obtenham as ferramentas e materiais para fazer a mesma a partir da sucata da sala. Os testes são feitos sempre contra o Risco da sala, e pode-se colocar todo tipo de pequenos entreveros (como cortes metálicos ou mesmo uma pequena ratazana) para que os mesmos sigam àdiante.
+O objetivo dos personagens aqui, que não ficará claro, é construir uma plataforma que permita aos mesmos atravessarem pelo abismo, ou ao menos um deles. Utilize aqui as regras de Desafio para que os mesmos obtenham as ferramentas e materiais para fazer a mesma a partir da sucata da sala. Os testes são feitos sempre contra o Risco da sala, e pode-se colocar todo tipo de pequenos entreveros (como cortes metálicos ou mesmo uma pequena ratazana) para que os mesmos sigam adiante.
 
 De qualquer modo, uma vez que ao menos um dos personagens cheguem do outro lado, o vão será fechado e os personagens poderão atravessar normalmente a sala. Qualquer ferramenta que o personagem tenha usado (e até mais) pode ser levado. Com resultados _Razoáveis (+2)_ em testes adequados, eles poderão encontrar algum tipo de arma ou equipamento útil (+1 em testes relevantes).
 
 ### Cena 2i - O Dróide
 
-Quando os personagens entram nessa sala, eles percebem que trata-se de uma arena, onde um Andróide espera os personagens. Ele será o único desafio da sala. Ele faz uma reverência aos personagens.
+Quando os personagens entram nessa sala, eles percebem que trata-se de uma arena, onde um Androide espera os personagens. Ele será o único desafio da sala. Ele faz uma reverência aos personagens.
 
 > Sejam bem-vindos, desafiantes. Eu sou Kabal, e esse é meu desafio: passarão por mim se me vencerem, simples assim. Além disso, caso me vençam terão direito às minhas armas. Entretanto, se forem derrotados por mim, levarei vocês capturados para o meu Mestre
 
@@ -431,7 +431,7 @@ A realidade é que não é tão simples: Kabal é muito poderoso e possui Artefa
 > + **Objetivos de Kabal:** Impedir os personagens de seguir adiante
 > + **Tipo de cena recomendada:** _Conflito_. 
 > + **Aspectos de Cena Recomendados:** _Arena de Kabal_
-> + **Sucesso:** Os Personagens atravessam a sala e obtem um ou mais Artefatos de Kabal como prêmio
+> + **Sucesso:** Os Personagens atravessam a sala e obtêm um ou mais Artefatos de Kabal como prêmio
 > + **Sucesso Parcial (Kabal concede):** como no Sucesso, e o Juiz notará a ação dos personagens
 > + **Falha Parcial (personagens Concedem):** Kabal permite que eles recuam
 > + **Falha Total:** Um dos personagens é __Capturado por Kabal__
@@ -452,7 +452,7 @@ Essa sala lembra a sala de Kabal... Mas do outro lado, próximo à porta, existe
 > + **Objetivos de Kabal:** Impedir os personagens de seguir adiante
 > + **Tipo de cena recomendada:** _Conflito_
 > + **Aspectos de Cena Recomendados:** _Clones dos Personagens_
-> + **Sucesso:** Os Personagens atravessam a sala e obtem um ou mais Artefatos como prêmio
+> + **Sucesso:** Os Personagens atravessam a sala e obtêm um ou mais Artefatos como prêmio
 > + **Falha Parcial (personagens Concedem):** Os Clones se desfazem e os personagens recuam
 > + **Falha Total:** Um dos personagens é __Capturado pelo Monólito__
 
@@ -476,7 +476,7 @@ Os personagens podem, para cumprir a tarefa imposta pelos Monges de Alemtempo, c
 
 > _Tecnicamente, sou o que poderia ser chamado de Leporinae Sapiens, e fui criado originalmente pelos meus Senhores... Ao qual vocês chamam de Demiurgos, a muito tempo. Essa é minha 1674ª Encarnação, mas conheço tudo desde minha primeira encarnação, inclusive minhas mortes. Obviamente, minhas funções são melhoradas pelos implantes que os Demiurgos criaram para mim._
 
-Nesse momento eles vêem _O Juiz_: ele é o equivalente a uma cruza de Numano (homem-gato) e Usato (homem-coelho), alto, com olhos albinos e grandes, um focinho residual e orelhas enormes com pelo malhado branco e cinza-claro. O corpo em si é humanóide, e bem forte. No crânio, onde deveria estar a orelha caso ele fosse humano, ele possui uma série de implantes tecnológicos, alguns deles com cabos conectados diretamente às estruturas computadorizadas do Monólito. Ele possui uma série de armas e equipamento em cintos. Suas roupas parecem feitos de algum de couro ou material sintético. 
+Nesse momento eles veem _O Juiz_: ele é o equivalente a uma cruza de Numano (homem-gato) e Usato (homem-coelho), alto, com olhos albinos e grandes, um focinho residual e orelhas enormes com pelo malhado branco e cinza-claro. O corpo em si é humanoide, e bem forte. No crânio, onde deveria estar a orelha caso ele fosse humano, ele possui uma série de implantes tecnológicos, alguns deles com cabos conectados diretamente às estruturas computadorizadas do Monólito. Ele possui uma série de armas e equipamento em cintos. Suas roupas parecem feitos de algum de couro ou material sintético. 
 
 + _"Qual é a sua função?"_
 
@@ -507,7 +507,7 @@ Nesse momento, seja qual for o Mestre que entrou no Monólito irá chegar com um
 > + **Tipo de cena recomendada:** _Conflito_
 > + **Aspectos de Cena Recomendados:** _Batalha até a morte; O Monólito não pode cair na mão dos Mestres de Umdaar_
 > + **Sucesso:** O Mestre de Umdaar irá fugir sem nenhum artefato
-> + **Sucesso Parcial (<estre Concede):** O Mestre de Umdaar irá fugir, levando consigo alguns artefatos conseguidos no Monólto
+> + **Sucesso Parcial (<estre Concede):** O Mestre de Umdaar irá fugir, levando consigo alguns artefatos conseguidos no Monólito
 > + **Falha:** Os personagens são mortos e o Mestre toma a posição de T-88
 
 A verdade é que aqui apenas existe uma solução: enfrentar e Derrotar o Mestre de Umdaar, mais talvez um ou dois de seus lugares-tenentes. Fica a critério do Narrador criar os mesmos. 
@@ -518,7 +518,7 @@ Esperamos que, no fim, os heróis tenham ganhado o dia para o lado do bem.
 
 ## Cena 5 - Epílogo e Experiência
 
-Se tudo correu bem, os personagens devem ter conseguido convencer T-88, o Juiz, dos perigos dos Mestres de Umdaar. Caso contrário, de qualquer modo, O Juiz continuará mantendo a atenção contra os Mestres de Umdaar. Se convenceram, ele irá manter o Monólito com uma terceira função de proteger o Elíseo contra os Mestres, enquanto o próprio Juiz sair para investigar mais sobre essa era de Umdaar.
+Se tudo correu bem, os personagens devem ter conseguido convencer T-88, o Juiz, dos perigos dos Mestres de Umdaar. Caso contrário, de qualquer modo, O Juiz continuará mantendo a atenção contra os Mestres de Umdaar. Se convenceram, ele irá manter o Monólito com uma terceira função de proteger o Elísio contra os Mestres, enquanto o próprio Juiz sair para investigar mais sobre essa era de Umdaar.
 
 Essa aventura deve ser considerada um Marco Menor, mas aumente para um Marco Significativo no caso de ao menos metade da lista abaixo ocorreu:
 
@@ -544,7 +544,7 @@ T-88 é o _Juiz_ do Monólito, e é ele quem decide, dentro do mesmo, que tipo d
 
 T-88 tem sido o _Juiz_ a vários séculos, morrendo e renascendo. Em suas mortes, o Monólito se oculta misteriosamente, voltando à aparecer quando o mesmo volta à assumir seu papel, treinado pelos próprios sistemas do Monólito. De certa maneira, o Monólito e o Juiz são um só.
 
-Muitos que invadem o Monólito, desde os tempos imemoriais, são apenas meros saqueadores e ladrões sem escrupulos. A esses, T-88 costuma ser brutal e até mesmo cruel, mandando hordas de criaturas criadas pelos próprios sistemas dos Demiurgos para matar a esses tolos. Outros, entretanto, são mais espertos, e percebem quando não podem mais invadir o Monólito, ou quando sua missão torna-se quase suicida. A esses, o _Juiz_ é mais benfeitor, permitindo aos mesmos que levem algum tomo ou artefato que os mesmos demonstrem interesse. Nas raras vezes em que o grupo em questaão aceita ir embora uma vez que tenham obtido o que desejavam ou precisavam, como um equipamento ou conhecimento, o _Juiz_ se apresenta por voz, dizendo aos mesmos que eles são dignos de obterem tal conhecimento e que, caso desejem retornar ao Monólito, serão bem-vindos a tentar novamente.
+Muitos que invadem o Monólito, desde os tempos imemoriais, são apenas meros saqueadores e ladrões sem escrúpulos. A esses, T-88 costuma ser brutal e até mesmo cruel, mandando hordas de criaturas criadas pelos próprios sistemas dos Demiurgos para matar a esses tolos. Outros, entretanto, são mais espertos, e percebem quando não podem mais invadir o Monólito, ou quando sua missão torna-se quase suicida. A esses, o _Juiz_ é mais benfeitor, permitindo aos mesmos que levem algum tomo ou artefato que os mesmos demonstrem interesse. Nas raras vezes em que o grupo em questão aceita ir embora uma vez que tenham obtido o que desejavam ou precisavam, como um equipamento ou conhecimento, o _Juiz_ se apresenta por voz, dizendo aos mesmos que eles são dignos de obterem tal conhecimento e que, caso desejem retornar ao Monólito, serão bem-vindos a tentar novamente.
 
 T-88 é um Numano, uma raça de serviçais dos Demiurgos que, com sua partida, tornou-se selvagem e sábia entre os povos de Umdaar. T-88, entretanto, nada conhece sobre os demais Numanos: ele é criado geneticamente pelo próprio Monólito, e basicamente é uno com o mesmo. Apenas ele tem controle total sobre o Monólito (podendo dizer-se que é o Senhor do mesmo) e total conhecimento sobre o tipo de coisas que os Demiurgos deixaram para trás nos Monólitos. E além disso, ele sabe sobre os "Mestres" de Umdaar: mais de um deles já tentou tomar-lhe o Monólito, e mais de um deles não voltou, ou voltou louco e sem seus poderes.
 
@@ -561,7 +561,7 @@ T-88 é um Numano, uma raça de serviçais dos Demiurgos que, com sua partida, t
 | __Motivação:__ | Devo respeitar a diretriz de meus senhores de guardar o Monólito        |
 | __Pessoal:__   | Apenas quando cumprir minha tarefa terei paz e liberdade                |
 |                | Não devo interferir nos planos fora do Monólito                         |
-|                | As regras sobre o Monólito são claras: quem for mais apto obtem poder   |
+|                | As regras sobre o Monólito são claras: quem for mais apto obtêm poder   |
 
 #### Abordagens
 
@@ -619,9 +619,9 @@ _Skarsh_ é um homem-serpente esguio e alto. Veste-se com robes sacerdotais e po
 
 ### _Rhangtor, o Antigo_
 
-Pouco se sabe sobre Rhangtor. Algumas lendas dizem que ele seria o Último Demiurgo, deixado para trás pelos seus próprios, talvez como andarilho e conselheiro, ou talvez como um renegado que os Demiurgos deciram abandonar. Outras dizem que ele seria o primeiro dos Mestres de Umdaar, um ser de tamanho poder e sapiência e maldade que qualquer um, mesmo os demais Mestres de Umdarr, temem o encontrar.
+Pouco se sabe sobre Rhangtor. Algumas lendas dizem que ele seria o Último Demiurgo, deixado para trás pelos seus próprios, talvez como andarilho e conselheiro, ou talvez como um renegado que os Demiurgos decidiram abandonar. Outras dizem que ele seria o primeiro dos Mestres de Umdaar, um ser de tamanho poder e sapiência e maldade que qualquer um, mesmo os demais Mestres de Umdaar, temem o encontrar.
 
-Ninguém sabe que tipo de coisa Rhangtor procura, embora saiba-se que ele não pode morrer por velhice ou doença: muitos dos boatos sobre Rhangtor ter descoberto uma série de misteriosos equipamentos e conhecimentos dos Demiurgos que o tornaram imortal. Outros sussuram que na realidade ele se tornou um morto-vivo, um desmorto, alguém que ofende a natureza ao permanecer ativo mesmo depois de morto.
+Ninguém sabe que tipo de coisa Rhangtor procura, embora sabr-se que ele não pode morrer por velhice ou doença: muitos dos boatos sobre Rhangtor ter descoberto uma série de misteriosos equipamentos e conhecimentos dos Demiurgos que o tornaram imortal. Outros sussurram que na realidade ele se tornou um morto-vivo, um desmorto, alguém que ofende a natureza ao permanecer ativo mesmo depois de morto.
 
 A realidade é que muito pouco se sabe sobre Rhangtor, exceto sua aparência: um velho em um capuz e capa, com calças de couro e tecido, reconhecível por uma tatuagem sobre o olho esquerdo. Ele nunca tira o capuz e nem a capa, e aparentemente os últimos que viram ele sem essas partes das roupas não foram mais vistos.
 
