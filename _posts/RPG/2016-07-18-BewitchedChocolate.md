@@ -1,15 +1,11 @@
 ---
 title: The Bewitched Chocolate
 subtilte: An new letter for _Do - Fate of the Pilgrim Temple_, based on a Tale from _Little Wizards_
-layout: default
+layout: page
 categories:
-  - RPG
+  - Adventures
 tags:
-  - Adventure
   - Do - Fate of the Pilgrim Temple
-  - Little Wizards
-  - Fate
-  - FAE
 ---
 
 __Stamps:__ Knot, Pen, Lotus
@@ -22,7 +18,7 @@ __Stamps:__ Knot, Pen, Lotus
 > 
 > I'm a Lil' Mage, that travels Coinworld to understand better my magic and people. My best friend is Sora, a Lil' Sorcerer (there's some differences between Lil' Mages and Sorcerers, but we live in peace) that looks like a clown all the time, because she was born with her face that way, and lived in Smiles Archipelago, from Heads, and is very cheerful, although somewhat clumsy (like me). I like too much Sora, because, as I lived into the so-called Skunk Haven, people somewhat thinks I smell like a skunk because my tail (I need to say that I don't smell like a skunk) and she's one of the few that don't think I smell. 
 >
-> My other friends are my familiar and Sora's. In ancient times only cats could be Mages and Sorcerers familiars, but this rule changed. The animal just need to be black (don't know why, it's Tradition, my dad said). My familiar is Puffer, a black skunk tha have sage eyes and help me a lot (although sometimes he could be stinky). Sora's is Horace, a black rabbit, very shy and meeky, that hides itself into Sora's hat. Yup, as Wizards we use also brooms, wands and hats, and Sora's is as flashy as flashy can be, and mine is made of some skunk hide, including the tail (that not smelll).
+> My other friends are my familiar and Sora's. In ancient times only cats could be Mages and Sorcerers familiars, but this rule changed. The animal just need to be black (don't know why, it's Tradition, my dad said). My familiar is Puffer, a black skunk that have sage eyes and help me a lot (although sometimes he could be stinky). Sora's is Horace, a black rabbit, very shy and meeky, that hides itself into Sora's hat. Yup, as Wizards we use also brooms, wands and hats, and Sora's is as flashy as flashy can be, and mine is made of some skunk hide, including the tail (that not smelll).
 > 
 > But enough on me or Sora.
 >

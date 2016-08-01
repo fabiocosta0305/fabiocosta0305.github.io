@@ -3,13 +3,9 @@ subheadline: Uma antiga ruína dos Demiurgos ressurge e começa uma caçada por 
 title: O Monólito do Passado
 layout: post
 categories:
-  - RPG
+  - Aventuras
 tags:
   - Masters Of Umdaar
-  - Aventura
-  - Fate
-  - Fate Acelerado
-  - Worlds of Adventure
 header: no
 ---
 

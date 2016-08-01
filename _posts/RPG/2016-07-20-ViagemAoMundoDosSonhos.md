@@ -3,12 +3,9 @@ title: Viagem ao Mundo dos Sonhos
 subtilte: Adaptação de um clássico da _Sessão da Tarde_ dos Anos 80 para Fate Acelerado
 layout: default
 categories:
-  - RPG
+  - Aventura
 tags:
-  - Adventure
-  - FAE
   - Fate
-  - Fate Core
 ---
 
 ![Cartaz de Viagem ao Mundo dos Sonhos](/assets/Explorersposter1985.jpg)

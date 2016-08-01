@@ -4,8 +4,7 @@ subheadline: "Uma Aventura Natalina para _Strays_"
 date: 2016-07-20 08:00:00 -0300
 layout: post
 categories:
-  - Mesas-Predestinadas
-  - Aventura
+  - Aventuras
 tags:
   - Strays
 ---
