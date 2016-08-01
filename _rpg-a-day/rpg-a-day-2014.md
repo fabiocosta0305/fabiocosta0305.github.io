@@ -10,7 +10,7 @@ permalink: "/rpg-a-day/2014/"
 
 RPG-a-Day é uma proposta do blog [Autocratik][1]  para postagens sobre RPG durante o mês de agosto, sobre assuntos específicos. Os assuntos sugeridos para este mês são
 
-[![As 31 perguntas do RPG-A-Day 2014](/images/rpg-a-day-2014.jpg)](/images/rpg-a-day-2014.jpg)
+[![As 31 perguntas do RPG-A-Day 2014](/assets/img/rpg-a-day-2014.jpg)](/assets/img/rpg-a-day-2014.jpg)
 
 Então, vamos nessa!
 

@@ -10,7 +10,7 @@ permalink: "/rpg-a-day/2015/"
 
 RPG-a-Day é uma proposta do blog [Autocratik][1]  para postagens sobre RPG durante o mês de agosto, sobre assuntos específicos. Os assuntos sugeridos para este mês são
 
-[![As 31 perguntas do RPG-A-Day 2015](/images/rpg-a-day-2015.jpg)](/images/rpg-a-day-2015.jpg)
+[![As 31 perguntas do RPG-A-Day 2015](/assets/img/rpg-a-day-2015.jpg)](/assets/img/rpg-a-day-2015.jpg)
 
 Então, vamos nessa!
 
@@ -125,9 +125,9 @@ Então, vamos nessa!
    [Atomic Robo RPG][42].
 1. **Ilustração  Favorita de  RPG:** Sem  sombra de  dúvidas... Todas,
    T-O-D-A-S, as de Castelo Falkenstein, por William Eaken. Veja só essas abaixo:
-   [![/images/falkdrag.JPG.jpeg](/images/falkdrag.JPG.jpeg)](/images/falkdrag.JPG.jpeg)
-   [![/images/falkenstein.jpg](/images/falkenstein.jpg)](/images/falkenstein.jpg)
-[![/images/Zamek-Falkenstein-Galeria-01.jpg](/images/Zamek-Falkenstein-Galeria-01.jpg)](/images/Zamek-Falkenstein-Galeria-01.jpg)
+   [![/assets/img/falkdrag.JPG.jpeg](/assets/img/falkdrag.JPG.jpeg)](/assets/img/falkdrag.JPG.jpeg)
+   [![/assets/img/falkenstein.jpg](/assets/img/falkenstein.jpg)](/assets/img/falkenstein.jpg)
+[![/assets/img/Zamek-Falkenstein-Galeria-01.jpg](/assets/img/Zamek-Falkenstein-Galeria-01.jpg)](/assets/img/Zamek-Falkenstein-Galeria-01.jpg)
 1. **Podcast de  RPG favorito:** Além dos óbvios  [Fate Masters][45] e
    [Rolando +4][46], gosto do [Teatro de Mesa][47], além dos vídeos do
    [Red                        Dice                       Diaries][48]
@@ -222,7 +222,7 @@ Então, vamos nessa!
    _geeks_. Já quanto a Matt Damon...  É difícil pensar que o cara que
    interpretou no cinema François Pienaar, Capitão dos _Springboks_ de
    95, seria um jogador de RPG
-   ![Vocês estão os ouvindo? Olhem nos meus olhos! Vamos entrar nessa masmorra! Magia, magia, magia!](/images/invictus_2009_f_001.jpg)
+   [![Vocês estão os ouvindo? Olhem nos meus olhos! Vamos entrar nessa masmorra! Magia, magia, magia!](/assets/img/invictus_2009_f_001.jpg)](/assets/img/invictus_2009_f_001.jpg)
 1. **A melhor  coisa que veio com  RPG mas não ligada a  RPG:** No meu
    caso,  acredito que  minha habilidade  de escrita  e descrição  não
    seria tão boa  se não fosse pelo RPG. Mesmo  sendo um leitor voraz,
