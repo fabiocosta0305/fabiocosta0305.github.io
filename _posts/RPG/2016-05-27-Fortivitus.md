@@ -288,7 +288,7 @@ Um personagem que tenha (ou provoque propositalmente em si mesmo) uma _Overdose 
 + _Um gosto por sangue; "O que você disse, seu tampinha?", "Acha que eu sou burro?! ACHA QUE EU SOU BURRO?!"_
 + _**Perito (+2) em:** Lutar; Intimidar os outros; Não serem complacentes_
 + _**Ruim (-2) em:** Serem controlados quando estão levando a pior_
-+ _**Estresse:**_ [][] (Quatro Valentões)
++ _**Estresse:**_ `2`{: .fate_font} (Quatro Valentões)
 
 ### Niels Olufssen
 
@@ -296,7 +296,7 @@ Um personagem que tenha (ou provoque propositalmente em si mesmo) uma _Overdose 
 + _**Poderoso** Bom (+3); **Ágil** Razoável (+2); **Cuidadoso** Regular (+1)_
 + **Façanhas:**
     + _Fortivitus:_ Possui uma dose de _Fortivitus_ que pode usar uma vez por cena.
-+ _**Estresse:**_ [][]
++ _**Estresse:**_ `2`{: .fate_font}
 + **Consequencias:** 
     + _Suave (+2):_
 
@@ -338,7 +338,7 @@ Um personagem que tenha (ou provoque propositalmente em si mesmo) uma _Overdose 
     + _A Casa de Um Homem é Seu Castelo:_ +1 em todos os testes quando dentro do _Green Pint_;
     + _Amigo do Amigo:_ +2 para _Criar vantagens_ relacionadas aos seus contatos no Porto;
     + _Rodada da Casa:_ +2 para _Criar Vantagens_ que ele possa usar para extrair algum conhecimento útil;
-+ **Estresse:** [][][]
++ **Estresse:** `3`{: .fate_font}
 
 ### Lórcan Ó Buachalla (Lawrence Buckley)
 
@@ -349,7 +349,7 @@ Um personagem que tenha (ou provoque propositalmente em si mesmo) uma _Overdose 
     + _Pugilista bêbado:_ Recebe +2 ao _Defender-se_ de maneira _Poderosa_ contra qualquer ataque Físico que sofra, desde que ele esteja _Suficientemente Bêbado_
     + _Amigos no populacho:_ Pode, Uma vez por Cena, chamar alguns _Rufiões do Porto_ como Subalternos. Considere que cada Passo adiciona um Estresse ao grupo de Rufiões do Porto;
     + _Fortivitus:_ Possui uma dose de _Fortivitus_ que pode usar uma vez por cena.
-+ **Estresse:** [][][]
++ **Estresse:** `3`{: .fate_font}
 + __Consequências:__
     + _Suave (+2):_
     
@@ -405,7 +405,7 @@ Um personagem que tenha (ou provoque propositalmente em si mesmo) uma _Overdose 
 + _Viciados em Fortivitus; Fazem de tudo por uma nova dose_
 + _**Perito (+2) em:** Obedecer as ordens de Lemont; Lutar; Parecer desesperados_
 + _**Ruim (-2) em:** Ter autocontrole_
-+ **Estresse:** [][][] (6 Viciados)
++ **Estresse:** `3`{: .fate_font} (6 Viciados)
 
 ### Mutante Atavista
 
@@ -415,7 +415,7 @@ Um personagem que tenha (ou provoque propositalmente em si mesmo) uma _Overdose 
 + **Façanhas:**
     + _**Garras e Presas:**_ +2 ao _Atacar_ com as mãos limpas;
     + _**Urro amedrontador:**_ +2 ao _Criar Vantagens_ por medo;
-+ **Estresse:** [][][][]
++ **Estresse:** `4`{: .fate_font}
 + **Consequencias:**
     + _Suave (2):_
     + _Suave (2):_
@@ -424,12 +424,12 @@ Um personagem que tenha (ou provoque propositalmente em si mesmo) uma _Overdose 
 
 ### Aspectos
 
-| ***Tipo***       | ***Aspecto***                                                |
+| ***Tipo***       | ***Aspecto***                                               |
 |------------------|-------------------------------------------------------------|
 | __Conceito__     | _Garoto do Circo Extremamente Otimista e Ingênuo_           |
 | __Dificuldade__  | _Duas, Três, Quatro... Quantas chances forem necessárias_   |
 |                  | _Don Cagliostro sempre me protege_                          |
-|                  | _Nicolino_ - Uma vida no circo para mim       |
+|                  | _Nicolino_ - Uma vida no circo para mim                     |
 |                  | _O Escapulário de Minha Mãe, e a Boina de Meu Pai_          |
 
 ### Abordagens
@@ -496,7 +496,7 @@ Um personagem que tenha (ou provoque propositalmente em si mesmo) uma _Overdose 
 | __Dificuldade__  | _Uma vela que está se apagando_                                 |
 |                  | _Procurando tornar-se tutor de Oregon Cadmus_                   |
 |                  | _Dado a filosofias_                                             |
-|                  | _Pena é tão poderosa quanto a espada, e duas vezes mais afiada_ |
+|                  | _A Pena é tão poderosa quanto a espada, e duas vezes mais afiada_ |
 
 ### Abordagens
 
