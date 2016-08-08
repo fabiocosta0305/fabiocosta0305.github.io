@@ -7,7 +7,7 @@ categories:
 tags:
  - Camundongos Aventureiros
 header: no
-
+excerpt_separator: <!-- excerpt -->
 ---
 
 ## Cena 1: A chegada dos primos de longe
@@ -23,6 +23,8 @@ Depois de algum tempo, faça com que os personagens sigam para a Vila do Queijo,
 Claro que existe queijo: queijo de sabor forte e marcante, feito normalmente de leite de cabra, que os próprios moradores, humanos e camundongos, fabricam. No caso dos humanos, ainda existe também o queijo ao estilo mineiro, branco e feito do leite de vaca, mais suave. Alguns camundongos (principalmente aqueles com amigos humanos) costumam conseguir algumas porções do mesmo, que é visto como uma iguaria. Claro que Emily e Alexander serão recebidos com tal queijo, além de frutas, doces e compotas e a tapioca, um alimento típico feito a base de mandioca
 
 Nesse momento, eles encontrarão o Dono da Vila...
+
+<!-- excerpt -->
 
 ## Cena 2: O Dono da Vila do Queijo
 
