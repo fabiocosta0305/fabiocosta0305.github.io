@@ -26,6 +26,7 @@ Primeiro: ela não tem o conceito de propriedade, pegando os objetos de qualquer
 
 Segundo: hierarquia não é com ela, ainda que siga ordens cuja motivação seja bem clara.
 
+<!-- excerpt -->
 
 ## Informações Iniciais
 

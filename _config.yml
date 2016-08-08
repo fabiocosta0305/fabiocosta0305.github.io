@@ -46,4 +46,4 @@ collections:
     output: true
 
 #excerpt_separator: "\n---\n"
-#excerpt_separator: <!-- excerpt -->
+excerpt_separator: <!-- excerpt -->

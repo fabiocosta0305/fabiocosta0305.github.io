@@ -25,6 +25,8 @@ Tu'an-Yao tem altura mediana para um Usato, portanto tem em torno de 1,65m de al
 
 Tu'an-Yao é pacífico em geral e procura resolver as coisas com a sua mente, na qual confia mais: não apenas possui conhecimento o bastante, mas ele confia muito em suas habilidades como negociador e nos seus poderes mentais. Não suporta injustiça e em seu coração existe um espaço especial aos mais fracos. Em compensação, existe uma chama de fúria escondida nos olhos esmeralda dele que explode quando ele vê poderosos abusando dos mais fracos: os Usato são conhecidos como guerreiros perigosos quando "colocados contra a parede".
 
+<!-- excerpt -->
+
 ## Informações Básicas
 
 + _Bioforma:_ Usato (Homem-Coelho) - _Mutabeast (Rabbit)_

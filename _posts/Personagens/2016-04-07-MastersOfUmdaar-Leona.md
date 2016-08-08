@@ -26,6 +26,8 @@ Ela não teria a menor chance de proteger Ta'reen, não fosse o monge Usato do V
 
 Mas ela permanecerá nesse grupo até que os Mestres sejam derrubados. Depois, com calma, voltará a seu objetivo primordial de trazer equilíbrio entre homem e natureza novamente.
 
+<!-- excerpt -->
+
 ## Informações Iniciais
 
 + _Bioforma:_ Humano

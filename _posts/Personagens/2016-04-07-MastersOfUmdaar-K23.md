@@ -14,6 +14,8 @@ Ninguém sabe quando K-23 foi criado, e nem mesmo se ele é "nascido" em Umdaar.
 
 K-23 está em um modo que ele mesmo chama de "modo de observação", procurando descobrir o que provocou o desaparecimento dos Demiurgos e a Ascenção dos malignos Mestres de Umdaar. E todos ainda tem uma pulga atrás da orelha que, quando K-23  descobrir, o mundo de Umdaar poderá não ser o mesmo, para o bem ou para o mal.
 
+<!-- excerpt -->
+
 ## Informações Iniciais
 
 + _Bioforma:_ Ciborgue

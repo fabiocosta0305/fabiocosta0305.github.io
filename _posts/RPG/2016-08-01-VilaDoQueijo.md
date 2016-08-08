@@ -7,7 +7,7 @@ categories:
 tags:
  - Camundongos Aventureiros
 header: no
-excerpt_separator: <!-- excerpt -->
+#excerpt_separator: <!-- excerpt -->
 ---
 
 ## Cena 1: A chegada dos primos de longe

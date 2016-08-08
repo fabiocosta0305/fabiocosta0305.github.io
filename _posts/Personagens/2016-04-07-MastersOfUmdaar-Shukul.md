@@ -16,6 +16,7 @@ Desde então, Shukul tem procurado por uma série de companheiros que estejam di
 
 Mas ele sabe que isso ainda não é o bastante: os Mestres são extremamente poderosos e dotados dos Artefatos dos Demiurgos. Então, o seu objetivo é angariar todo o poder possível para enfrentar e derrotar os Mestres de Umdaar.
 
+<!-- excerpt -->
 
 ## Informações Iniciais
 
