@@ -29,6 +29,7 @@ Então, vamos nessa!
 7. ___Qual Aspecto do RPG mais me marcou:___ Acho que a imaginação e a capacidade de descrever coisas... Isso é tão importante para mim que de certa forma minha profissão atual (analista de sistemas) tem a ver com isso.
 8. ___Capa dura, Brochura ou Digital?___ Acho que qualquer forma é forma, desde que o conteúdo seja acessível. Cada formato tem suas vantagens e desvantagens. Atualmente, tenho consumido mais digital, mas tem muito mais a ver com conveniência que com preferência.
 9. ___Sem considerar o jogo, o que mais deve ser levado em conta em uma sessão ideal:___ Do meu ponto de vista, ter comida (afinal, você fica no mínimo duas horas com a galera) e bebidas, e acima de tudo respeito entre todos os que estão na mesa. Algumas vezes, você gasta tempo e dinheiro para preparar a mesa, imprimir _handouts_ e fichas, e se desloca com uma mochila enorme com dados, livros, fichas e por aí afora. Todos acabam tendo fazer esse deslocamento, e todos podem estar estressados de sua vida fora do RPG, então não tem motivo nenhum que justifique você ser idiota com alguém.
+10. ___Maior surpresa em mesa que já experimentei:___ Foi quando, rolando _Quem derreteu o Raposo?_ (uma aventura tradicional de _1ª Delegacia da Desenholândia_) onde, sem querer, um dos jogadores estourou uma guerra entre gangues de Desenho Animado!
 
 [1]: http://autocratik.blogspot.co.uk/2016/07/rpgaday-is-back.html
 [fate-dice]: https://play.google.com/store/apps/details?id=com.rpgautomails.fatedice

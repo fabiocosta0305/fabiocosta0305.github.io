@@ -310,7 +310,7 @@ Nicola responde e então Roland diz:
 
 \- _Acho que sim. Pelo menos, vou fazer o melhor._ - disse Nicola
 
-\- _Muito bem. Gostei da atitude._  -  disse Roland -_Melhor tirar a camisa, pois vai se molhar bastante._ - disse Roland
+\- _Muito bem. Gostei da atitude._  -  disse Roland - _Melhor tirar a camisa, pois vai se molhar bastante._ - disse Roland
 
 Nicola retirou a camisa e pegou uma das grandes e pesadas vassouras, molhando-a na água com sabão. Obviamente de início teve alguma dificuldade, mas logo estava ajudando a limpar Eliah. 
 
