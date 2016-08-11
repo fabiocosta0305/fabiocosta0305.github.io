@@ -6,9 +6,6 @@ categories:
   - Aventuras
 tags:
   - Masters Of Umdaar
-  - Fate
-  - Fate Acelerado
-  - Worlds of Adventure
 header: no
 ---
 
