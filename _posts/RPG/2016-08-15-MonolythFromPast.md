@@ -69,7 +69,7 @@ The Monolyth appeareance is hot news: minstrels and bards sings legends and ball
 > + The Monolyth challenge those who enter it in all kind of tasks: strenght, courage, character, etc...
 > + The Judge is a crazy sadistic guy.
 
-Lots of this is truth, but by now this doesn't matter: in all that merriment, a _Drunken Monk_ will question the characters about the Lands of Light: although (or maybe _bacause of_) the no violence rule in the Elysium, ___Recruitment  and Spying are common activities at the Elysium___. The Fartime Monks learned to be cautious about the messages they pass around, even at the _Elysium_: the Masters can be (and are, as the PCs will find) monitoring the Monks' activities, specially when there's juicy information that can be obtained. A _Fair (+2) Careful_ check will be enough for the PCs see that the Monk is only half-drunk, and he invites the PCs to drink and talk at the _Thousand Leagues Inn_
+Lots of this is truth, but by now this doesn't matter: in all that merriment, a _Drunken Monk_ will question the characters about the _Lands of Light_: although (or maybe _bacause of_) the no violence rule in the Elysium, ___Recruitment  and Spying are common activities at the Elysium___. The Fartime Monks learned to be cautious about the messages they pass around, even at the _Elysium_: the Masters can be (and are, as the PCs will find) monitoring the Monks' activities, specially when there's juicy information that can be obtained. A _Fair (+2) Careful_ check will be enough for the PCs see that the Monk is only half-drunk, and he invites the PCs to drink and talk at the _Thousand Leagues Inn_
 
 >  ___Tarond, Drunken Monk___
 >
