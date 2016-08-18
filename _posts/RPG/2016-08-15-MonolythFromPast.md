@@ -33,7 +33,7 @@ The Demiurge was an ancient civilization, about which very few is known. It's kn
 
 This motivates lots of _Archeonauts_ to left the safety in the _Lands of Light_, cozy places in the harshness of Umdaar where the Resistance against the Masters thrives to grow, to explore old ruins and temples to find the Demiurge's Artifacts before the Masters, gathering power that can be used, in the future, to thraw the Masters and free Umdaar from them.
 
-One of the most known _Lands of Light_ is the region near ___Fartime Monastery___, a place so ancient that is respect as an _Elysium_, places where ___all physical violence is forbidden___. A tradition upheld by the _Monks and Element-Tamers from the Fartime Monastery_, the _Elysium_ covers all the land into a 60-kilometer (approx. 38 miles) radius from the _Monastery_, and they are considered _Sacred Land_, a refugee for everyone that needs it.
+One of the most known _Lands of Light_ is the region near ___Fartime Monastery___, a place so ancient that is respect as an ___Elysium___, places where ___all physical violence is forbidden___. A tradition upheld by the _Monks and Element-Tamers from the Fartime Monastery_, the _Elysium_ covers all the land into a 60-kilometer (approx. 38 miles) radius from the _Monastery_, and they are considered ___Sacred Land___, a refugee for everyone that needs it.
 
 The Monks are the justice upholders in the region, Bloodshed in the Elysium results into the _Aphostasia_, a formal declaration of the monks that the person is _persona non grata_, and so should be forsaken and despised. Even the Masters have not the nerve to challenge the Monks and destroy the Elysium (by now, at least), because it's known that ___the Monks are superb fighters___ when needed and they have ancient knowledge into their libraries that even the Masters treat as useful.
 
@@ -41,7 +41,7 @@ However, recently an old Demiurge structure ressurged into the Elysium, a old me
 
 It's known that the Monoloyth was built in the Age of the Demiurge, and its white and smooth walls can not be scaled or invaded by any known mean. There's ___Only Four Entrances, one into  each Cardinal Point___.
 
-Certainly the Monolyth was a kind of ___Center of Knowledge in the  Demiurge Age___, this is known. The ones who knows the legends involving the _Monolyth_ (_Superb (+5)_ checks) knows that the Monolyth was an ___Culture and Information repository for the Demiurges___. Even the _Fartime Monks_ never entered the Monolyth, although they compiled legends and interviews and notations and quotes for those who entered and survided it.
+Certainly the Monolyth was a kind of ___Center of Knowledge in the  Demiurge Age___, this is known. The ones who knows the ___legends involving the Monolyth___ (_Superb (+5)_ checks) knows that the Monolyth was an ___Culture and Information repository for the Demiurges___. Even the _Fartime Monks_ never entered the Monolyth, although they compiled legends and interviews and notations and quotes for those who entered and survided it.
 
 To avoid that people that should not have access to the Monolyth could have it, the Monolyth was provided with many kinds of defense. Their Entrances, one for each cardinal point, are the only way to get into it. And ___many entered it, but only few exited it___. Those ones talked ghastly stories about creatures armed with all kind of powerful Demiurge weapons, whose appeareance could shatter a man's sanity like a Raptor could rip off a baby.
 
@@ -51,7 +51,7 @@ The PCs are all _Archeonauts_ that are taking some resting time in the _Elysium_
 
 The PCs already had clashed blades against the Masters' troops and lieutenants, people that serves Masters like _Skarsh, Master of the K'tor_, serpent-men with ancient magical powers and fewer enemies, or _Sarim, the Grah'or_, master of giant and primitive men from the hill, as power hungry as is blood hungry, end even _Rhangtor, the Ancient One_, someone that found old life maintenance secrets from the time of the Demiurge.
 
-No matter wat, the PCs are taking some time when everyone grew awefull by seeing the Monolyth, white and big, reflecting the light of Umdaar's twin suns: if they know some legends about the Monolyth, they'll know (_Fair (+2)_ Check) that the Monolyth was absent for at least 200 years.
+No matter why, the PCs are taking some time when everyone grew awefull by seeing the Monolyth, white and big, reflecting the light of Umdaar's twin suns: if they know some legends about the Monolyth, they'll know (_Fair (+2)_ Check) that the Monolyth was absent for at least 200 years.
 
 Then, the adventure starts.
 
