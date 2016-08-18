@@ -96,7 +96,7 @@ Any PC that pass into _Great (+4) __Clever___ checks will note that they are bei
 > + _Half-Skunk Beastmen Rangers and Spies; Coward servants for the Masters_
 > + __Skilled (+2) at:__ Run away; Use their stink; Attack in numbers
 > + __Bad (-2) at:__ Being courageous when in disadvantage
->    + Stink:_ +2 when _Creating Advantages_ related with their Stink. As an option, _once per session_, during an Conflict, bring an _Awful stink_ Aspect with a Free Invoke, by forteiting his action and being __Disarmed__ from it
+>    + _Stink:_ +2 when _Creating Advantages_ related with their Stink. As an option, _once per session_, during an Conflict, bring an _Awful stink_ Aspect with a Free Invoke, by forteiting his action and being __Disarmed__ from it
 >
 > + __Party's objective:__ avoid the Mephitas' runaway and capture them
 > + __Mephitas's objective:__ Make at least one of them get away with the information for their Master
@@ -111,7 +111,7 @@ This group will run away, giving start for the Challenge.
 
 There is 6 Mephita, that will split themselves into two groups, so you'll need to solve two Challenges between part of the PCs and 3 Mephita. The standard procedure for each of them is that one of them uses its _Stink_  to creat Distractions for the pursuers or to choke them or make them getting into another way, while the other go away. The PCs can do their checks normally to stay into the Challenge or try to remove the _Stink_. If they want to just get through the _Stink_, asks for _Fair (+2)_  checks: if they fails, but want a _Success with a Cost_, considers they received a Mild Consequence ___Smelling like a Skunk___.
 
-Anyway, if at least one of the Mephita run away, their Master will know about the Monolyth. Capturing the Mephista will also nullify their Stink: by just doing a very tight knot into ther tails they'll put on them a __No more Stink_ _ Aspect
+Anyway, if at least one of the Mephita run away, their Master will know about the Monolyth. Capturing the Mephista will also nullify their Stink: by just doing a very tight knot into ther tails they'll put on them a ___No more Stink___ Aspect
 
 This maybe turns things clear for the PCs: they'll have to go for the Monolyth and discover as much they can about it, to avoid that the Masters of Umdaar put their evil hands on them.
 
@@ -119,7 +119,7 @@ This maybe turns things clear for the PCs: they'll have to go for the Monolyth a
 
 There's no need to run: the Giant Monolyth will not disappear that early. As soon they decide they're ready (and give them as much time as the want to ready themselves for the challenge), they'll go to the Monolyth, via the South Gate.
 
-as they get near the Monolyth, the size of the Monolyth will be even more evident: it is near the frontier between the Elysium with the ___Seven Spears Mountains__' Path. The PCs starts to feel the terrible size as ___The Monolyth grows bigger and bigger___, as they get near the South Gate. The white light from the Monolyth ___Hurts to look__ during the day, but there's lots of little water streams and little bushes full on edible berries.
+as they get near the Monolyth, the size of the Monolyth will be even more evident: it is near the frontier between the Elysium with the ___Seven Spears Mountains___' Path. The PCs starts to feel the terrible size as ___The Monolyth grows bigger and bigger___, as they get near the South Gate. The white light from the Monolyth ___Hurts to look___ during the day, but there's lots of little water streams and little bushes full on edible berries.
 
 When they came into the Gate, they'll see a group coming to the East Gate: it's the Mephita's Master! If the PCs thinks on trying anything, remember ___they are still in the Elysium___, so combat is still forbidden. And anyway, the best to do is to left the Master get into the Gate and get first where anywhere he wants.
 
@@ -129,12 +129,12 @@ The Gate is made on some kind of glass-like material, silvery and with eerie ima
 
 At this time, the Gate will turn into a kind of silvery goo and molds itself into a weird _Clone_  of the PC that touched the Gate:
 
-> __ Clone Gate___
+> ___Clone Gate___
 >
 > + _Acts like the one it cloned_
 > + __Skilled (+2) at:__ doing what the cloned PC would do
 > + __Bad (+2) at:__ everything else
->    + _Extra Clones:_  can bring another Clone from another PC of the Party. This clone can be used to help the _  Clone Gate    via Teamwork
+>    + _Extra Clones:_  can bring another Clone from another PC of the Party. This clone can be used to help the ___Clone Gate___ via Teamwork
 >
 > + __Party's objective:__ Defeat the Clone to get into the Monolyth
 > + __Clone's objective:__ Make the PCs get in and run away from the Gate
@@ -158,7 +158,7 @@ The Clone will go for a battle, but in fact its objective is test how the party 
 
 Ask for the Party to describe on how they'll fight the Clone. Don't say the difficult so they could feel the tension. Make clear that the Clone reacts into this "Conflict" like any other character. If you want to "spice" things up, describe the "damage" (Clone's Victorys) as Stress suffered from the Clone.
 
-As there is any kind of "Conflict", the Party can _give in  the Cliffhanger. Consider they were defeated in the Cliffhanger, but give each PC a Fate Point. They'll not be able to get into the Monolyth, at least until they touch again the Gate (and another PC be Cloned), which they can do indefinitely.
+As there is any kind of "Conflict", the Party can _give in_ the Cliffhanger. Consider they were defeated in the Cliffhanger, but give each PC a Fate Point. They'll not be able to get into the Monolyth, at least until they touch again the Gate (and another PC be Cloned), which they can do indefinitely.
 
 If the PCs are defeated into the Cliffhanger, before the Clone get back into the Gate form, it will take some valuable equipment or block the access for some important hability: treat this as an Aspect ___Disarmed___.
 
@@ -168,9 +168,9 @@ They will think it's over, but in fact things just started.
 
 ## Scene 3 - The Challenges
 
-As soon the Party get into the Monolyth, the Gate will close behind. White, shiny lights will reveal some corridors made from a    Metallic Material, shiny, smooth and angular, Demiurge-style _. A voice will echoes in the corridor:
+As soon the Party get into the Monolyth, the Gate will close behind. White, shiny lights will reveal some corridors made from a ___Metallic Material, shiny, smooth and angular, Demiurge-style___. A voice will echoes in the corridor:
 
-> _"Congratulations, O challengers! From now, you'll can go as far as your ambition says. But remember: too much Ambition is a way to Death!"
+> _"Congratulations, O challengers! From now, you'll can go as far as your ambition says. But remember: too much Ambition is a way to Death!"_
 
 The voice is similar the one that spoke in the Gate. The PCs should go now. Take some time making them recognizing things or not, or choose turns. Make weird noises or things like that,
 
@@ -297,7 +297,7 @@ This is a way to test the PCs capacity of investigation, study and learning fast
 
 Although what the Judge said, the Party can help the PC by investigating the tomes and everything on how to open the door. Basically they'll need to discover how to use the _Demiurge Lock_ and there's some books on this topic. However, that will not be easy, because they'll need a password and a kind of card. If they look the books, they'll see the same name, _Lakhmal_, written on its first page. This will be the clue to search the books for _Lakhmal_'s card and group of specific glyphs (that will be in the last page of the book they found the card). Although all this is from Demuirge Age, fortunatel, the books can be read by anyone that can.
 
-Any character that is defeated on this will be ___Taken Hostage by the Monolyth___ and will need to be rescued by the PCs, that will still need to try again. If all of them are __Taken Hostage___, this adventure ends here, with they needing to get out the Monolyth as the next adventure.
+Any character that is defeated on this will be ___Taken Hostage by the Monolyth___ and will need to be rescued by the PCs, that will still need to try again. If all of them are ___Taken Hostage___, this adventure ends here, with they needing to get out the Monolyth as the next adventure.
 
 #### Truth Room
 
