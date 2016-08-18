@@ -15,7 +15,7 @@ header: no
 >
 > To the power vacuum left by the Demiurge, the cruel _Masters of Umdaar_ had ascended. Cruel, bestial, merciless upstart despots, they try to obtain as much power as possible for their evil, selfish objectives by any means, so they can enhance even more their cruel yoke in the Dark Dominions.
 >
-> But a Resistence flourished: the ___Lands of Light___, a coalision of free people risen themselves to fight the Masters. Matriarchs and Patriarchs that congregates and unites the free people, and the ___Runekeepers__ and ___Archeonauts___, researchers and people that investigate and recover the relics from the past, the Artifacts of Power and pieces of lost knowledge from the Demiurge, putting them away from the Masters.
+> But a Resistence flourished: the ___Lands of Light___, a coalision of free people risen themselves to fight the Masters. Matriarchs and Patriarchs that congregates and unites the free people, and the ___Runekeepers___ and ___Archeonauts___, researchers and people that investigate and recover the relics from the past, the Artifacts of Power and pieces of lost knowledge from the Demiurge, putting them away from the Masters.
 >
 > You are one of those _Archeonauts_: by using your knowledge and skills learned by experience and talent into surviving the Wildlands and enter the Demiurge's ruins, temples and centers of lost knowledge.
 >
@@ -47,7 +47,7 @@ To avoid that people that should not have access to the Monolyth could have it, 
 
 The only conclusion every sage came is that the Monolyth is ___One of the Last sources for Deiurge Knowledge___ that still can be found in Umdaar. Maybe a library, maybe an weaponry, many are preparing themselves to try to get into the Monolyth and try their luck. They have to do this as soon as possible, anyway, as is known that it _Disappears like a mirage_, as all the legends says, from the time the Demiurge disappeared and many time before the rising of the Masters.
 
-The PCs are all _Archeonauts_ that are taking some resting time in the _Elysium_, taking the good food and powerful bread from it, as this is ___one of the most fertile places in Umdaar___, and the ___voyagers influx provides the Monastery with information__, that register them in ___thomes from centuries before the Age of Demiurges___.
+The PCs are all _Archeonauts_ that are taking some resting time in the _Elysium_, taking the good food and powerful bread from it, as this is ___one of the most fertile places in Umdaar___, and the ___voyagers influx provides the Monastery with information___, that register them in ___thomes from centuries before the Age of Demiurges___.
 
 The PCs already had clashed blades against the Masters' troops and lieutenants, people that serves Masters like _Skarsh, Master of the K'tor_, serpent-men with ancient magical powers and fewer enemies, or _Sarim, the Grah'or_, master of giant and primitive men from the hill, as power hungry as is blood hungry, end even _Rhangtor, the Ancient One_, someone that found old life maintenance secrets from the time of the Demiurge.
 
@@ -69,7 +69,7 @@ The Monolyth appeareance is hot news: minstrels and bards sings legends and ball
 > + The Monolyth challenge those who enter it in all kind of tasks: strenght, courage, character, etc...
 > + The Judge is a crazy sadistic guy.
 
-Lots of this is truth, but by now this doesn't matter: in all that merriment, a _Drunken Monk_ will question the characters about the Lands of Light: although (or maybe __bacause of) the no violence rule in the Elysium, ___Recruitment  and Spying are common activities at the Elysium___. The Fartime Monks learned to be cautious about the messages they pass around, even at the _Elysium_: the Masters can be (and are, as the PCs will find) monitoring the Monks' activities, specially when there's juicy information that can be obtained. A _Fair (+2) Careful_ check will be enough for the PCs see that the Monk is only half-drunk, and he invites the PCs to drink and talk at the _Thousand Leagues Inn_
+Lots of this is truth, but by now this doesn't matter: in all that merriment, a _Drunken Monk_ will question the characters about the Lands of Light: although (or maybe _bacause of_) the no violence rule in the Elysium, ___Recruitment  and Spying are common activities at the Elysium___. The Fartime Monks learned to be cautious about the messages they pass around, even at the _Elysium_: the Masters can be (and are, as the PCs will find) monitoring the Monks' activities, specially when there's juicy information that can be obtained. A _Fair (+2) Careful_ check will be enough for the PCs see that the Monk is only half-drunk, and he invites the PCs to drink and talk at the _Thousand Leagues Inn_
 
 >  ___Tarond, Drunken Monk___
 >
@@ -85,7 +85,7 @@ Tarond will talk them about the Monolyth legend, and will say him this:
 
 > "The registries affirm surely that the Judge allows anyone that asks for something specific to get out the Monolyth as soon they get what they want, if they still respect the Monolyth rules. Getting in "just because" is a straight line for death, but asking for 'worthful challenge' is something allowed: it's said that at anytime someone recognized a challenge the Judge provided him as worthy and chosed to be enough, he can get out the Monolyth alive and with any items he conquered before."
 
-Truth there: the Monolyth from the Past in fact ___Was made to try the fittest one___ (this is one of the Monolyth's Aspects) with ___All kinds of different and dangerous challenges___. Tarond will confirm that all the Challenges ___are dreadful and dificult, but not necessarily mortal____. Apparently the challenges are not cruel enough to give death for those who recognize their own weakness. ___Barbarism, Arrogance and Foolishness are the main reason for Death___ at the Monolyth, at least if the legends are true.
+Truth there: the Monolyth from the Past in fact ___Was made to try the fittest one___ (this is one of the Monolyth's Aspects) with ___All kinds of different and dangerous challenges___. Tarond will confirm that all the Challenges ___are dreadful and dificult, but not necessarily mortal___. Apparently the challenges are not cruel enough to give death for those who recognize their own weakness. ___Barbarism, Arrogance and Foolishness are the main reason for Death___ at the Monolyth, at least if the legends are true.
 
 The Monks will asks for the PCs to investigate the real facts about the Monolyth and discover the truth about the legends: although there was registries about it, they are ___Incomplete, Contradictory and otherwise non-reliable___. If the PCs asks for rewards, remember that the Fartime Monastery is a first-time ally for the _Lands of Light_, and that there'll be lots of Artifacts into the Monolty, and some of them the PCs will could hold for them.
 
@@ -101,7 +101,7 @@ Any PC that pass into _Great (+4) __Clever___ checks will note that they are bei
 > + __Party's objective:__ avoid the Mephitas' runaway and capture them
 > + __Mephitas's objective:__ Make at least one of them get away with the information for their Master
 > + __Recommended Scene Type:__ Challenge. The Elysium forbids all the Physical Combat on it
-> + __Recommended Scene Aspects:__ ___No blood should be shed into the Elysium; "What an Awdul Smell!"___
+> + __Recommended Scene Aspects:__ ___No blood should be shed into the Elysium; "What an Awful Smell!"___
 > + __Success:__ They capture the Mephita and can interrogate them
 > + __Failure:__ The Mephita run away with the informations about the Monolyth for their Master
 
@@ -119,15 +119,15 @@ This maybe turns things clear for the PCs: they'll have to go for the Monolyth a
 
 There's no need to run: the Giant Monolyth will not disappear that early. As soon they decide they're ready (and give them as much time as the want to ready themselves for the challenge), they'll go to the Monolyth, via the South Gate.
 
-as they get near the Monolyth, the size of the Monolyth will be even more evident: it is near the frontier between the Elysium with the ___Seven Spears Mountains__' Path. The PCs starts to feel the terrible size as ___The Monolyth grows bigger and bigger__, as they get near the South Gate. The white light from the Monolyth ___Hurts to look__ during the day, but there's lots of little water streams and little bushes full on edible berries.
+as they get near the Monolyth, the size of the Monolyth will be even more evident: it is near the frontier between the Elysium with the ___Seven Spears Mountains__' Path. The PCs starts to feel the terrible size as ___The Monolyth grows bigger and bigger___, as they get near the South Gate. The white light from the Monolyth ___Hurts to look__ during the day, but there's lots of little water streams and little bushes full on edible berries.
 
-When they came into the Gate, they'll see a group coming to the East Gate: it's the Mephita's Master! If the PCs thinks on trying anything, remember ___they are still in the Elysium__, so combat is still forbidden. And anyway, the best to do is to left the Master get into the Gate and get first where anywhere he wants.
+When they came into the Gate, they'll see a group coming to the East Gate: it's the Mephita's Master! If the PCs thinks on trying anything, remember ___they are still in the Elysium___, so combat is still forbidden. And anyway, the best to do is to left the Master get into the Gate and get first where anywhere he wants.
 
 The Gate is made on some kind of glass-like material, silvery and with eerie images on it. Otherwise the gate, ___there's no kind of door or window into this cyclopic Monolyth___, with its ___10 kilometer of watery smooth wall___. The Gate is 10 meter high, 5 meter wide, and ___there's no keyhole or knob___. In fact, __ The Gate is as solid and smooth__  as the rest of the Monolyth. However, as soon as a PC touches the door, some letters will shine and a voice will echoes and says:
 
-> _"O stranger that wants so dearly the power of my Masters! I, the Judge, says, mark my words: I'll Judge you. No knowledge, no technology, no equipment, nothing should be taken for granted. I'll not test you as you want: I'll test you as you DESERVES to. The Fittest will always have power. And your test starts... NOW!"
+> _"O stranger that wants so dearly the power of my Masters! I, the Judge, says, mark my words: I'll Judge you. No knowledge, no technology, no equipment, nothing should be taken for granted. I'll not test you as you want: I'll test you as you DESERVES to. The Fittest will always have power. And your test starts... NOW!"_
 
-At this time, the Gate will turn into a kind of silvery goo and molds itself into a weird _Clone  of the PC that touched the Gate:
+At this time, the Gate will turn into a kind of silvery goo and molds itself into a weird _Clone_  of the PC that touched the Gate:
 
 > __ Clone Gate___
 >
@@ -177,7 +177,7 @@ The voice is similar the one that spoke in the Gate. The PCs should go now. Take
 At each turn, roll 4dF. Each `+`{: .fate_font} shifts one pass to the right, each `-`{: .fate_font} shifts one pass below.
 
 |                      | `0`{: .fate_font}             | `+`{: .fate_font} | `++`{: .fate_font}    | `+++`{: .fate_font}  | `++++`{: .fate_font}           |
-|----------------------|-------------------------------|-------------------|-----------------------|----------------------|--------------------------------|
+|---------------------:|-------------------------------|-------------------|-----------------------|----------------------|--------------------------------|
 | `0`{: .fate_font}    | Nothing                          | Danger: Lava      | Fight: Mutants     | Knowledge Room | The Clones | 
 | `-`{: .fate_font}    | Danger: Ice                  | Roll two times    | Cleverness Room | Roll two times                     |                                |
 | `--`{: .fate_font}   | Fight: Drone Hive     | Masks Room | Nothing               |                      |                                |
@@ -339,7 +339,7 @@ There's lots of ___White Masks___, that each PC will need use one. Those Masks c
 The challgende is very easy:  just cross the room to the door at the other side. However, those new formes could bring them some problem. Roll  3dF. Each `+`{: .fate_font} moves one step to the right , each `-`{: .fate_font} moves one step below
 
 |                      | `0`{: .fate_font}             | `+`{: .fate_font} | `++`{: .fate_font}    | `+++`{: .fate_font}  |
-|----------------------|-------------------------------|-------------------|-----------------------|----------------------|
+|---------------------:|-------------------------------|-------------------|-----------------------|----------------------|
 | `0`{: .fate_font}    | Nothing                       | Young Man         | Human Child           | _Mutabeast_          |
 | `-`{: .fate_font}    | Young Woman                   | Nothing           | Cyborg                |                      |
 | `--`{: .fate_font}   | _Mutabeast_ Child             | Centaur           | Nothing               |                      |
@@ -393,12 +393,12 @@ The fact is that this will not be that easy: Kabal is accomplished in combat and
 > | _Bioform:_ | _Cyborg_ |
 > | _Class:_   |  _Fighter_             |
 >
-> __Aspectos__
+> __Aspects__
 >
-> | **Tipo**       | **Aspecto**                                                             |
+> | **Type**       | **Aspect**                                                             |
 > |----------------|-------------------------------------------------------------------------|
-> | __Conceito:__  | Cyborg Room Guardian                   |
-> | __Motivação:__ | I Must protect this room           |
+> | __High Concept:__  | Cyborg Room Guardian                   |
+> | __Motivation:__ | I Must protect this room           |
 > |                | Passion for fighting                   |
 > |                | Healthy rivaltries are a Man's biggest joy             |
 >
@@ -406,14 +406,14 @@ The fact is that this will not be that easy: Kabal is accomplished in combat and
 >
 > | **Approaches**   | **Level**     |
 > |-----------------|---------------|
-> | __Quick:__       | Fair (+2) |
 > | __Careful:__  | Good (+3)      |
 > | __Clever:__    | Average (+1)  |
 > | __Flashy:__   | Average (+1)  |
 > | __Forceful:__   | Fair (+2) |
+> | __Quick:__       | Fair (+2) |
 > | __Sneaky:__ | Mediocre (+0) |
 >
-> __Stunts
+> __Stunts__
 >
 > + _Laser_ (___Masters of Umdaar___,p 21)
 > + _Broadsword_ (___Masters of Umdaar___,p 21)
@@ -457,7 +457,7 @@ The good news is that the Clones has only _Mild Consequences_, so good blows can
 
 If the PCs are under problems, they can concede, and the Clones will revert back to the weird silvery goo. If they win, the goo will provide for each one an _Minor Artifact_, as by the rules in  ___Masters of Umdaar___, p. 46.
 
-## Cena 4 - O Juiz
+## Scene 4 - The Judge
 
 When you had made the PCs pass along enough rooms (I suggest that they had at least passed by Kabal or the Clones), they'll find (or be conducted to) an elevator that will take them ___to the Monolyth Peaks, into the Judge's room___.
 
@@ -505,7 +505,7 @@ At this moment, no matter which of the Masters came into the Monolyth, he'll arr
 
 No matter what happens, there's just only solution here: fight and defeat the Master of Umdaar, and maybe one or two of his lieutenants, under GM discretion on their powers and history.
 
-This battle should be even more brutal, epic and fantastic then the one against Kabal: if you want, says that all their wounds, including the Consequences, were cured by a ___nanomachine swarm_ that The Judge freed before the battle (this will not apply for the Master of Umdaar, that is unscathed until now). And remember the party they still have the Artifacts collected in the Monolyth, some of them maybe very powerful: fighting a Master of Umdaar sounds like a very cool Test Drive for them. Obviously the Master will be play hard and dirty, but the idea here is to have an epic, brutal battle!
+This battle should be even more brutal, epic and fantastic then the one against Kabal: if you want, says that all their wounds, including the Consequences, were cured by a ___nanomachine swarm___ that The Judge freed before the battle (this will not apply for the Master of Umdaar, that is unscathed until now). And remember the party they still have the Artifacts collected in the Monolyth, some of them maybe very powerful: fighting a Master of Umdaar sounds like a very cool Test Drive for them. Obviously the Master will be play hard and dirty, but the idea here is to have an epic, brutal battle!
 
 We hope that, in the end, the heroes wins the day for the good.
 
@@ -542,15 +542,15 @@ T-88 is a Newman, a servant race for the Demiurge that, since their parting, tur
 
 #### ID
 
-| _Bioforma:_ | Newman/Android - _Beastman/Cyborg_ |
-| _Classe:_   | Diplomat - _Courtier_              |
+| _Bioform:_ | Newman/Android - _Beastman/Cyborg_ |
+| _Class:_   | Diplomat - _Courtier_              |
 
 #### Aspects
 
 | **Type**           | **Aspect**                                                                |
 |--------------------|---------------------------------------------------------------------------|
 | __High Concept:__  | Guardian and "Sire" of the Demiurge's Monolyth                            |
-| __Motivação:__     | I must respect the Prime Directive from my Masters and guard the Monolyth |
+| __Motivation:__    | I must respect the Prime Directive from my Masters and guard the Monolyth |
 | __Personal:__      | Just when I'm relieved from my task I'll think on peace and freedom       |
 |                    | Should not intervene on the things outside the Monolyth                   |
 |                    | The rules are clear: ___Only the most apt deserves power___               |
@@ -559,11 +559,11 @@ T-88 is a Newman, a servant race for the Demiurge that, since their parting, tur
 
 | **Approach**    | **Level**     |
 |-----------------|---------------|
-| __Quick:__       | Mediocre (+0) |
 | __Careful:__  | Good (+3)      |
 | __Clever:__    | Fair (+2) |
 | __Flashy:__   | Fair (+2) |
 | __Forceful:__   | Average (+1)  |
+| __Quick:__       | Mediocre (+0) |
 | __Sneaky:__ | Average (+1)  |
 
 #### Stunts
@@ -572,82 +572,80 @@ T-88 is a Newman, a servant race for the Demiurge that, since their parting, tur
 + _Plasma Rifle:_ ___Masters of Umdaar___, p. 22
 + _Interface:_ while connected to the Monolyth systems, +2 into all _Overcome_ checks to avoid being surprised or otherwise being hit
 
-### _Skarsh, senhor de K'tor_
+### _Skarsh, Master of K'tor_
 
-K'tor é uma região ao sul das Terras Selvagens, uma área de mármore escaldante e tempestades de areia que podem calcinar os mais poderosos. Lar dos homens-serpente e outras criaturas belicosas, reinos de morte, superstição e religião, ela é comandada atualmente por _Skarsh_, originalmente um bandoleiro que, após invadir e obter conhecimentos da magia tecnológica dos Demiurgos, tornou-se Senhor de suas tribos e formou um reino poderoso, que vem sequestrando pessoas para seus rituais profanos e para usar como escravos ou fontes para as experiências de _Skarsh_ e seus lugares-tenentes.
+K'tor is located at the south into the Wildlands, in a land of scorching marble, ebony and ivory, and sandstorms that could calcinate even the strongest to their bones. Home of the serpent-men and other warring people, those are lands of death, superstition and religion, commanded nowadays by _Skarsh_, a looter that, after invading a Demiurge temple, obtained a kind of technomagic from them and turned himself as Lord of the tribes, building a powerful fief, that is abductiong people for sacrifice under his unholy rituals and as a source for slaves and guinea-pigs for their experiments and those for his lieutenants.
 
-_Skarsh_ é um homem-serpente esguio e alto. Veste-se com robes sacerdotais e possui suas armas e poderes para lhe ajudar. Nunca é visto sem seus Artefatos dos Demiurgos que obteve, mas o mais importante Artefato que ele obteve foi os _Nano_, nanorrobôs comandados pela vontade daquele que os absorveu. Ele é poderoso e muito cruel, e não mede esforços para obter mais poder para tornar-se o definitivo Mestre de Umdaar.
+_Skarsh_ is a big, slender serpent-men, dressed under sacerdotial mantles, and has powers and weapons to help itself. He is never seen with the Artifacts he acquired, but the most important one are the _Nano_, nanobots commanded by the will of those who absorbed it. He is powerful, ruthless, and he use all his resources to obtain even more power, so he could turn itself in the ultimate Master of Umdaar.
 
-#### Informações Iniciais
+#### ID
 
-| _Bioforma:_ | Homem-Serpente - _Beastman_ |
-| _Classe:_   | Sumo-sacerdote - _Cleric_   |
+| _Bioform:_ | Serpent-men - _Beastman_ |
+| _Class:_   | Hierophant  - _Cleric_   |
 
-#### Aspectos
+#### Aspects
 
-| **Tipo**       | **Aspecto**                                                              |
-|----------------|--------------------------------------------------------------------------|
-| __Conceito:__  | Senhor supremo dos K'tor e detentor de Poderes dos Demiurgos             |
-| __Motivação:__ | Devo obter mais poder para ser o Senhor Supremo de Umdaar                |
-| __Pessoal:__   | Palavras venenosas como meu veneno                                       |
-|                | Minhas magias são o sinal de que sou predestinado desde o passado remoto |
+| **Type**           | **Aspect**                                                                |
+|--------------------|---------------------------------------------------------------------------|
+| __High Concept:__  | Supreme Hierophant of the K'Tor and Master of Demiurge Nanos              |
+| __Motivation:__    | I must acquire even more power to be the Ultimate Master of Umdaar        |
+| __Personal:__      | My words are as venomous as my venon                                      |
+|                    | My magics are the sign I'm Destined Heir of the power from the past       |
+ 
+#### Approaches
 
-#### Abordagens
-
-| **Abordagem**   | **Nível**     |
+| **Approach**   | **Level**     |
 |-----------------|---------------|
-| __Quick:__       | Good (+3)      |
 | __Careful:__  | Good (+3)      |
 | __Clever:__    | Great (+4)    |
 | __Flashy:__   | Fair (+2) |
 | __Forceful:__   | Mediocre (+0) |
+| __Quick:__       | Good (+3)      |
 | __Sneaky:__ | Great (+4)    |
 
 #### Façanhas
 
-+ _Arma viva_: A cauda de Skarsh é uma arma que se adapta e aprende. Quando entra em um Conflito contra alguém contra quem já lutou antes, você recebe um Impulso relacionado à sua experiência anterior.
-+ _Arma Envenenada:_ A mordida de Skarsh é venenosa. Quando ele é bem sucedido em um Ataque Sneaky que provoque mais de 2 tensões de dano, você pode forçar o alvo a sofrer uma Consequência Suave reduzindo em 2 as tensões.
-+ _Nanos:_ algum acreditam que isso foi criada por um antigo Deus, antes mesmo dos Demiurgos. Por meio desses Nanos, Skarsh recebe +2 ao Criar Vantagens sendo Clever ao manipular a realidade física.
++ _Living Weapon_: His tail (___Masters of Umdaar___, p. 21)
++ _Poisoned Weapon:_  His bit (___Masters of Umdaar___, p. 22)
++ _Nano:_ some says that this was created by old Gods, even before the Demiurge. By this, Skarsh receive +2 while _Creating Advantages_ being _Clever_ while manipulating reality
 
-### _Rhangtor, o Antigo_
+### _Rhangtor, the Ancient One_
 
-Pouco se sabe sobre Rhangtor. Algumas lendas dizem que ele seria o Último Demiurgo, deixado para trás pelos seus próprios, talvez como andarilho e conselheiro, ou talvez como um renegado que os Demiurgos decidiram abandonar. Outras dizem que ele seria o primeiro dos Mestres de Umdaar, um ser de tamanho poder e sapiência e maldade que qualquer um, mesmo os demais Mestres de Umdaar, temem o encontrar.
+Very few is known about Rhangtor. Some legends says he's the Last Demiurge, left behind by their own kind, maybe as a wanderer and counselor, maybe as a renegade that the Demiurge knew was dangerous. Some also say he's the first Master of Umdaar, a being so full of power, knowledge and evil that anyone, even the other Masters, don't want to find.
 
-Ninguém sabe que tipo de coisa Rhangtor procura, embora sabr-se que ele não pode morrer por velhice ou doença: muitos dos boatos sobre Rhangtor ter descoberto uma série de misteriosos equipamentos e conhecimentos dos Demiurgos que o tornaram imortal. Outros sussurram que na realidade ele se tornou um morto-vivo, um desmorto, alguém que ofende a natureza ao permanecer ativo mesmo depois de morto.
+No one knows what Rhangtor searches, although is known that he can't die by age or disease: the gossips says that Rhangtor had found some misterious Demiurge Artifacts and Knowledge that render him immortal. Other whispers that in fact he's a kind of undead, someone that offends Nature by remaining active after death.
 
-A realidade é que muito pouco se sabe sobre Rhangtor, exceto sua aparência: um velho em um capuz e capa, com calças de couro e tecido, reconhecível por uma tatuagem sobre o olho esquerdo. Ele nunca tira o capuz e nem a capa, e aparentemente os últimos que viram ele sem essas partes das roupas não foram mais vistos.
+The fact is: very few is known about Rhangtor, except his appearence: an old, wrinkled man, with pants mades on fabric and leather, and with a distinguishible tattoo over his left eye. He never removes his hood or cloak, and apparently those who see him without these pieces of clothes are never seen again.
 
-#### Informações Iniciais
 
-| _Bioforma:_ | Homem - _Humanoid_   |
-| _Classe:_   | Sábio - _Runekeeper_ |
+#### ID
 
-#### Aspectos
+| _Bioform:_ | Homem - _Humanoid_   |
+| _Class:_   | Sage  - _Runekeeper_ |
 
-| **Tipo**       | **Aspecto**                                                  |
-|----------------|--------------------------------------------------------------|
-| __Conceito:__  | O Supremo Mistério de Antes dos Mestres de Umdaar            |
-| __Motivação:__ | Devo sempre obter conhecimento, não importa o motivo         |
-| __Pessoal:__   | Mistério é poder e poder é Mistério                          |
-|                | Uma verdade abissal que pode mudar toda a estrutura de poder |
+#### Aspects
 
-#### Abordagens
+| **Type**           | **Aspect**                                                                |
+|--------------------|---------------------------------------------------------------------------|
+| __High Concept:__  | The Supreme Mystery from Before the Masters |
+| __Motivation:__    | Knowledge as an end by itself  |
+| __Personal:__      | Myster is Power and Power is Mystery  |
+|                | An abyssal truth that can shake the world |
 
-| **Abordagem**   | **Nível**     |
+#### Approaches
+
+| **Approach**   | **Level**     |
 |-----------------|---------------|
-| __Quick:__       | Mediocre (+0) |
 | __Careful:__  | Great (+4)    |
 | __Clever:__    | Great (+4)    |
 | __Flashy:__   | Fair (+2) |
 | __Forceful:__   | Good (+3)      |
+| __Quick:__       | Mediocre (+0) |
 | __Sneaky:__ | Good (+3)      |
 
-#### Façanhas
 
-+ _Raio de Energia:_ Sempre que for bem sucedido com estilo em um Ataque Forceful ou Flashy, você pode sacrificar o Impulso para jogar o defensor para trás em duas zonas;
-+ _Manipulação de Elementos:_ Você pode mover e manipular um determinado tipo de elemento. Escolha um tipo de elemento amplo. Sempre que esse elemento estiver presente na cena, você poderá atacar sem ter uma arma. Se a fonte de elementos for abundante, como ar no céu aberto, você também recebe +2 quando _Criar Vantagens Sendo Clever_ usando esse elemento.
-  + _Elementos:_ Ar, Água, Terra, Areia, Fogo, Folhas, Eletricidade
-+ _Teleporte:_ sempre que você for bem-sucedido ao defender-se de maneira Quick ou Sorrateira de ataques de longa distância, você pode mover-se automaticamente uma zona.
+#### Stunts
 
-
-
++ _Energy Beam:_ ___Masters of Umdaar___, p. 21
++ _Element Manipulation:_ ___Masters of Umdaar___, p. 21 (Air, Water, Fire, Earth, Leaves, Sand, Electricity);
++ _Teleportation:_ ___Masters of Umdaar___, p. 22
