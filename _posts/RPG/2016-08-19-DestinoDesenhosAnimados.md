@@ -1,12 +1,14 @@
 ---
 title: "Destino dos Desenhos Animados"
 subheadline: Um sistema de regras para jogar-se com desenhos animados em Fate Acelerado
-layout: default
-date: 2015-08-19 12:06
+layout: post
+date: 2016-08-19 12:06
 categories:
- - Cenario
+ - RPG
 tags:
- - Destino dos Desenhos Animados
+  - Fate
+  - Fate Acelerado
+  - Destino dos Desenhos Animados
 header: no
 ---
 
@@ -17,8 +19,8 @@ ___Por Fábio Emílio Costa - baseado Fortemente no RPG TOON! da Steve Jackson G
 As Abordagens para personagens de desenhos animados mudam em relação às de Fate Acelerado, para as seguintes (fortemente baseadas no TOON! da Steve Jackson Games):
 
 - ___Muque:___ Funciona como a Abordagem _Poderosa_ — usada quando os desenhos tentam resolver coisas na base da força bruta, como derrubar portas e o sempre popular arremesso de tijolo;
-- ___Zip:__ Funciona como a Abordagem _Ágil_ —usada quando os desenhos tentam resolver coisas por meio de destreza, agilidade e velocidade, como fugir do rolo compressor que está o perseguindo;
-- ___Astúcia:__ Funciona como a Abordagem _Esperta_ — usada quando os desenhos tentam resolver as coisas por meio de inteligência e esperteza, como evitar ler uma placa de maneira errada e achar o gorila que fugiu do zoológico para o levar de volta;
+- ___Zip:___ Funciona como a Abordagem _Ágil_ —usada quando os desenhos tentam resolver coisas por meio de destreza, agilidade e velocidade, como fugir do rolo compressor que está o perseguindo;
+- ___Astúcia:___ Funciona como a Abordagem _Esperta_ — usada quando os desenhos tentam resolver as coisas por meio de inteligência e esperteza, como evitar ler uma placa de maneira errada e achar o gorila que fugiu do zoológico para o levar de volta;
 - ___Caradura:___ Funciona como a Abordagem _Sorrateira_ — é usada para fazer as coisas de maneira matreira e maliciosa, como tentar convencer o cachorrão a pular de um desfiladeiro ou tentar passar para o coiote alguns explosivos sabotados que vão explodir na cara dele.
 - ___Charme:___ Charme é usada para fazer coisas por meio da aparência, beleza e/ou fofura, como fazer charminho para convencer a vovó a dar um pirulito ou fingir estar doente para não ter que ir à escola;
 
@@ -62,7 +64,7 @@ Como uma ___Regra de Superastro___, se quando um personagem descrever o resultad
 
 > ___Exemplo:___ Mackie o Rato virou Mackiezilla após o Gato Sonolento ter maltratado seu sobrinho. O Jogador do Gato Sonolento, Josh, analisa a situação e diz ao Mestre: _“OK, então agora o Gato Sonolento está realmente encrencado. Então, já que Mackie virou um Mackiezilla e ficou muito maior que o Gato Sonolento, ele começa a encolher até ficar muito menor até mesmo que o Bebê Luiz, até chegar no tamanho de uma pulga, quando ele dá um grito fino e desesperado e tenta fugir do Mackiezilla!”_
 >
-> _Todos olham uns para os outros e para o Mestre, deixando claro que isso foi divertido o bastante para ser considerado um momento para uma Consequência ___Estupefato!!!!___, mesmo isso deixando espaço para Mackiezilla espremer o Gato Sonolento como a pulga que ele é agora. Portanto, Josh recebe um PD do Mestre.
+> Todos olham uns para os outros e para o Mestre, deixando claro que isso foi divertido o bastante para ser considerado um momento para uma Consequência ___Estupefato!!!!___, mesmo isso deixando espaço para Mackiezilla espremer o Gato Sonolento como a pulga que ele é agora. Portanto, Josh recebe um PD do Mestre.
 
 ### Quedas
 
@@ -439,8 +441,8 @@ Se um personagem humano se tornar um desenho, o Mestre deverá reajustar suas Fa
 
 #### Façanhas [ Recarga: 2 ]
 
-- ___Até o limite… E além dele!!!!:___ Como sou uma ___Mulher-Lagarto Esportista Radical__, recebo +2 para _Criar Vantagens com Zip_ relacionadas a manobras radicais
-- ___Movimento Especial no Skate — Mega-boga 360__ Como sou uma ___Mulher-Lagarto Esportista Radical__, eu posso _uma vez por sessão_ fazer todos que me virem no meu Skate de Estimação ficarem ___Estupefatos!!!!___ com um _Ataque baseado Zip_. Se provocar ao menos 1 Ponto de Estresse, eu posso, usando 1 PD, fazer os alvos ficarem ___Estupefatos!!!!___
+- ___Até o limite… E além dele!!!!:___ Como sou uma ___Mulher-Lagarto Esportista Radical___, recebo +2 para _Criar Vantagens com Zip_ relacionadas a manobras radicais
+- ___Movimento Especial no Skate — Mega-boga 360___ Como sou uma ___Mulher-Lagarto Esportista Radical___, eu posso _uma vez por sessão_ fazer todos que me virem no meu Skate de Estimação ficarem ___Estupefatos!!!!___ com um _Ataque baseado Zip_. Se provocar ao menos 1 Ponto de Estresse, eu posso, usando 1 PD, fazer os alvos ficarem ___Estupefatos!!!!___
 
 ### Rory Coiote
 
@@ -520,15 +522,15 @@ Se um personagem humano se tornar um desenho, o Mestre deverá reajustar suas Fa
 
 + ___Poder da Bebida:___ Como luto com ___Kung-Fu do Bêbado___, quando ___Bêbado___ eu recebo _+2 ao Atacar de Maneira Poderosa_
 + ___Desafinado:___ Usando as ___Baladas de Bar___, quando ___Bêbado___ eu recebo _+2 ao Atacar de Maneira Esperta_ usando minha voz esganiçada
-
 + ___Ataques dos meus Parceiros:___ Como ___“Amo Meus cachorros”___, posso usá-los em combate _uma vez por sessão_
 
 > ##### Matilha de Cachorros (Cachorros de Desenho Animado):
 >
 > _“Cachorros de Desenho”, Obedecer Cody_
-> - ___Peritos (+2) em:___ Morder, Obedecer Ordens, Brincar
-> - ___Ruim (-2) em:___ Auto-Controle
-> _ ___Estresse:___ `6`{: .fate_font} (uma dúzia de cachorros)
+>
+> + ___Peritos (+2) em:___ Morder, Obedecer Ordens, Brincar
+> + ___Ruim (-2) em:___ Auto-Controle
+> + ___Estresse:___ `6`{: .fate_font} (uma dúzia de cachorros)
 
 #### Consequências
 
@@ -536,6 +538,6 @@ Se um personagem humano se tornar um desenho, o Mestre deverá reajustar suas Fa
 
 
 [1](#body_ftn1) Referência à música Englishmen In New York, do grupo The
-Police: “Be yourself no matter what they say”
+Police: _“Be yourself no matter what they say”_
 
 [2](#body_ftn2) Equivalente Neozelandês ao Amazon.com
