@@ -16,11 +16,11 @@ ___Por Fábio Emílio Costa - baseado Fortemente no RPG TOON! da Steve Jackson G
 
 As Abordagens para personagens de desenhos animados mudam em relação às de Fate Acelerado, para as seguintes (fortemente baseadas no TOON! da Steve Jackson Games):
 
--   ___Muque:___ Funciona como a Abordagem _Poderosa_ — usada quando os desenhos   tentam resolver coisas na base da força bruta, como derrubar portas     e o sempre popular arremesso de tijolo;
--   ___Zip:__ Funciona como a Abordagem _Ágil_ —usada quando os desenhos tentam     resolver coisas por meio de destreza, agilidade e velocidade, como     fugir do rolo compressor que está o perseguindo;
--   ___Astúcia:__ Funciona como a Abordagem _Esperta_ — usada quando os    desenhos tentam resolver as coisas por meio de inteligência e    esperteza, como evitar ler uma placa de maneira errada e achar o    gorila que fugiu do zoológico para o levar de volta;
--   ___Caradura:___ Funciona como a Abordagem _Sorrateira_ — é usada para fazer    as coisas de maneira matreira e maliciosa, como tentar convencer o    cachorrão a pular de um desfiladeiro ou tentar passar para o coiote    alguns explosivos sabotados que vão explodir na cara dele.
--   ___Charme:___ Charme é usada para fazer coisas por meio da aparência,     beleza e/ou fofura, como fazer charminho para convencer a vovó a dar    um pirulito ou fingir estar doente para não ter que ir à escola;
+- ___Muque:___ Funciona como a Abordagem _Poderosa_ — usada quando os desenhos tentam resolver coisas na base da força bruta, como derrubar portas e o sempre popular arremesso de tijolo;
+- ___Zip:__ Funciona como a Abordagem _Ágil_ —usada quando os desenhos tentam resolver coisas por meio de destreza, agilidade e velocidade, como fugir do rolo compressor que está o perseguindo;
+- ___Astúcia:__ Funciona como a Abordagem _Esperta_ — usada quando os desenhos tentam resolver as coisas por meio de inteligência e esperteza, como evitar ler uma placa de maneira errada e achar o gorila que fugiu do zoológico para o levar de volta;
+- ___Caradura:___ Funciona como a Abordagem _Sorrateira_ — é usada para fazer as coisas de maneira matreira e maliciosa, como tentar convencer o cachorrão a pular de um desfiladeiro ou tentar passar para o coiote alguns explosivos sabotados que vão explodir na cara dele.
+- ___Charme:___ Charme é usada para fazer coisas por meio da aparência, beleza e/ou fofura, como fazer charminho para convencer a vovó a dar um pirulito ou fingir estar doente para não ter que ir à escola;
 
 A Criação de Personagem segue o padrão de Fate Acelerado, exceto por ter uma Abordagem _Razoável (+2)_ a menos (totalizando 1 Boa, 1 Razoável, 2 Regular, 1 Medíocre).
 
@@ -40,7 +40,7 @@ Um desenho animado pode usar os seus Aspectos, por meio de invocação e forçad
 
 Personagens de Desenho animado são conhecidos por fazer o tempo todo todo o tipo de coisa maluca e engraçada. Uma regra que simula tal comportamento são as Façanhas Instantâneas: se um jogador desejar criar um efeito que poderia ser oferecido por uma Façanha (em especial ser fantástico em algo) mas não tiver tal Façanha, o jogador pode pedir ao Mestre para usar essa Façanha Instantânea. Se o Mestre aprovar, o jogador paga 1 PD (ou 2, se tal façanha for realmente poderosa, segundo o mestre) e usa essa Façanha durante uma única Cena (lembrando que se a Façanha demandar o pagamento de Pontos de Destino, esse é feito à parte):
 
-> ___Exemplo:___  Carl, o jogador de Mackie o Rato, está louco para se livrar do Gato Sonolento, personagem de Lorraine, que está mexendo com seu sobrinho, o Bebê Luís. Mackie não possui nenhuma Façanha que possa servir, mas ela lembra que o lobispato personagem de Sílvia, o Conde Von Squash, possui a Façanha Jackyl e Hyde. Então Carl consulta o Mestre para utilizar essa Façanha como uma Façanha Instantânea para se tornar um Mackiezilla e amassar o Gato Sonolento, que bateu no bumbum do Bebê Luís com uma palmatória. O Mestre pensa que as coisas vão ficar realmente divertidas com isso e dá sinal verde para a Façanha Instantânea. Após pagar o PD, Carl descreve que Mackie vê o bumbum todo vermelho de Luís após isso e pira na batatinha, ficando gigante, babando feito louco e batendo no peito como se fosse King Kong. E portanto, durante esse conflito, ele recebe +2 em todos os Ataques baseados em Muque.
+> ___Exemplo:___ Carl, o jogador de Mackie o Rato, está louco para se livrar do Gato Sonolento, personagem de Lorraine, que está mexendo com seu sobrinho, o Bebê Luís. Mackie não possui nenhuma Façanha que possa servir, mas ela lembra que o lobispato personagem de Sílvia, o Conde Von Squash, possui a Façanha Jackyl e Hyde. Então Carl consulta o Mestre para utilizar essa Façanha como uma Façanha Instantânea para se tornar um Mackiezilla e amassar o Gato Sonolento, que bateu no bumbum do Bebê Luís com uma palmatória. O Mestre pensa que as coisas vão ficar realmente divertidas com isso e dá sinal verde para a Façanha Instantânea. Após pagar o PD, Carl descreve que Mackie vê o bumbum todo vermelho de Luís após isso e pira na batatinha, ficando gigante, babando feito louco e batendo no peito como se fosse King Kong. E portanto, durante esse conflito, ele recebe +2 em todos os Ataques baseados em Muque.
 
 Como uma _Regra das Superastros_, o Mestre pode autorizar o uso de uma Façanha Instantânea por um tempo mais prolongado: 2 PDs para uma aventura.
 
@@ -80,8 +80,8 @@ Como uma ___Regra das Superastros___, se um jogador _conceder_ e desejar tornar 
 Um Personagem de desenho animado pode usar 1 PD para recuperar todo o Estresse usada ou para reduzir todas as suas Consequências imediatamente em um nível, mas:
 
 1. Pode recuperar estresse/reduzir Consequências apenas uma vez por Conflito desse modo;
-2. Ele pode fazer isso se, e apenas se, de acordo com o Mestre, isso   for deixar as coisas mais divertidas (o que normalmente não será o     caso);
-3. Isso não funcionará contra Consequências Extremas (se você estiver    adotando tal regra)
+2. Ele pode fazer isso se, e apenas se, de acordo com o Mestre, isso for deixar as coisas mais divertidas (o que normalmente não será o caso);
+3. Isso não funcionará contra Consequências Extremas (se você estiver adotando tal regra)
 
 ## Equipamento, Poderes e Efeitos especiais
 
@@ -157,7 +157,7 @@ Uma Queda ou uma segunda dose da poção cortará os efeitos antes do final dos 
 
 Se um personagem fizer algo que voluntariamente provoque esse efeito, ele poderá estipular uma “condição de retorno” para retornar ao seu estado original. O único detalhe é que o Mestre é quem vai decidir quando a “condição de retorno” valerá.
 
-> Exemplo: Novamente Mackie vê O Gato Sonolento importunando o Bebê Luis. Carl, o jogador de Mackie, diz ao Mestre: _“Ok, vou de novo virar um Mackiezilla, mas só vou sossegar a hora que o Bebê Luiz tiver seguro!”_  O Mestre topa, pois sabe que, enquanto o Bebê Luis não se mostrar seguro, Mackiezilla sairá tocando o terror, e isso será MUITO legal!
+> Exemplo: Novamente Mackie vê O Gato Sonolento importunando o Bebê Luis. Carl, o jogador de Mackie, diz ao Mestre: _“Ok, vou de novo virar um Mackiezilla, mas só vou sossegar a hora que o Bebê Luiz tiver seguro!”_ O Mestre topa, pois sabe que, enquanto o Bebê Luis não se mostrar seguro, Mackiezilla sairá tocando o terror, e isso será MUITO legal!
 
 ### Teleporte
 
@@ -218,7 +218,7 @@ Um Humano pode, usando 1 PD, negar um efeito de desenho animado como os mostrado
 
 Segundo essa regra, um humano “real” pode ser desenhificado, dado tempo e circunstâncias. 
 
-Cada vez que um humano “real” (a) invoca o Aspecto de Área de Desenho para se beneficiar da física ou lógica dos desenhos ou (b) sofrer uma Consequência devido a um ataque de desenho e esse Ataque resultar em Consequencias, o personagem deverá escolher um fato sobre como ele está se transformando em um desenho animado.  Esse fato torna-se uma Consequência que não pode ser removida normalmente (o Mestre deverá definir como/se é possível remover essa Consequência). 
+Cada vez que um humano “real” (a) invoca o Aspecto de Área de Desenho para se beneficiar da física ou lógica dos desenhos ou (b) sofrer uma Consequência devido a um ataque de desenho e esse Ataque resultar em Consequencias, o personagem deverá escolher um fato sobre como ele está se transformando em um desenho animado. Esse fato torna-se uma Consequência que não pode ser removida normalmente (o Mestre deverá definir como/se é possível remover essa Consequência). 
 
 Se, a qualquer momento, ele sofrer uma Consequência Severa por causa disso e isso o Derrotar, essa Consequência vira uma
 _Consequência Extrema_, indicando que ele tornou-se um desenho animado. Esses “fatos” precisam ser associados ao tipo de Desenho no qual ele está se tornando: se John Callaway está virando um Coelho, alguns dos fatos podem ser ___Orelhas Enormes___, ___Cauda de Algodão___ ou ___Desejo por uma Cenoura___, por exemplo.
@@ -243,15 +243,15 @@ Se um personagem humano se tornar um desenho, o Mestre deverá reajustar suas Fa
 
 | __Abordagem__ | __Nível__ |
 |-|-|
-| __Muque__ |  _Regular (+1)_ |
-| __Zip__ |  _Bom (+3)_ |
+| __Muque__ | _Regular (+1)_ |
+| __Zip__ | _Bom (+3)_ |
 | __Astúcia__ | _Razoável (+2)_ |
 | __Caradura__ | _Regular (+1)_ |
 | __Charme__ | _Medíocre (+0)_ |
 
 #### Façanhas [ Recarga: 3 ]
 
--  ___Pequeno o bastante para fugir:___ Como eu sou _“Aquele Rato danado da cozinha!”_, recebo +2 para _Criar Vantagens com Zip_ para reduzir de tamanho e fugir dos outros;
+- ___Pequeno o bastante para fugir:___ Como eu sou _“Aquele Rato danado da cozinha!”_, recebo +2 para _Criar Vantagens com Zip_ para reduzir de tamanho e fugir dos outros;
 
 ### Oreo, o Gato Sonolento
 
@@ -259,9 +259,9 @@ Se um personagem humano se tornar um desenho, o Mestre deverá reajustar suas Fa
 
 | __Tipo__ | __Aspecto__ |
 |-|-|
-| __Conceito__ | Gato caçador de Ratos… Bem, é o que diz na    coleira |
+| __Conceito__ | Gato caçador de Ratos… Bem, é o que diz na coleira |
 | __Dificuldade__ | O Chamado da Arte—Deseja ser Artista |
-| |  Tem vergonha do próprio nome: Oreo Tinsdale Rickshaw    Prince |
+| | Tem vergonha do próprio nome: Oreo Tinsdale Rickshaw Prince |
 | | _“Um dia eu pego o Mackie… \*Uaaaaahhhh!!!\*… Um dia…”_ |
 | | Armadilhas de Goldberg |
 
@@ -269,15 +269,15 @@ Se um personagem humano se tornar um desenho, o Mestre deverá reajustar suas Fa
 
 | __Abordagem__ | __Nível__ |
 |-|-|
-| __Muque__ |  _Regular (+1)_ |
-| __Zip__ |  _Medíocre (+0)_ |
+| __Muque__ | _Regular (+1)_ |
+| __Zip__ | _Medíocre (+0)_ |
 | __Astúcia__ | _Bom (+3)_ |
 | __Caradura__ | _Razoável (+2)_ |
 | __Charme__ | _Regular (+1)_ |
 
 #### Façanhas [ Recarga: 3 ]
 
--  ___Planos dentro de Planos:___ Já que eu adoro ___Armadilhas de  Goldberg___, eu recebo +2 para _Criar Vantagens com Astúcia_ enquanto crio armadilhas complicadas com coisas estranhas, como frigideiras, relógios de cuco ou balões que empurram bolas de bilhar que cortam fios que derrubam bigornas;
+- ___Planos dentro de Planos:___ Já que eu adoro ___Armadilhas de Goldberg___, eu recebo +2 para _Criar Vantagens com Astúcia_ enquanto crio armadilhas complicadas com coisas estranhas, como frigideiras, relógios de cuco ou balões que empurram bolas de bilhar que cortam fios que derrubam bigornas;
 
 ### Charlie Bulldog
 
@@ -285,10 +285,10 @@ Se um personagem humano se tornar um desenho, o Mestre deverá reajustar suas Fa
 
 | __Tipo__ | __Aspecto__ |
 |-|-|
-| __Conceito__ | Um Legítimo Cavalheiro… quero dizer…  Cãovalheiro… Britânico |
+| __Conceito__ | Um Legítimo Cavalheiro… quero dizer… Cãovalheiro… Britânico |
 | __Dificuldade__ | _“Seja você mesmo não importa o que digam”_[1](#ftn1) — Britânico até o osso |
 | | Os Verdadeiros Esportes: Boxe e Rugby |
-| | Mackie é um bom    amigo |
+| | Mackie é um bom amigo |
 | | Saco de Pancada Oficial: O Gato Sonolento | 
 
 #### Abordagens
@@ -296,14 +296,14 @@ Se um personagem humano se tornar um desenho, o Mestre deverá reajustar suas Fa
 | __Abordagem__ | __Nível__ |
 |-|-|
 | __Muque__ | _Bom (+3)_ |
-| __Zip__ |  _Razoável (+2)_ |
+| __Zip__ | _Razoável (+2)_ |
 | __Astúcia__ | _Medíocre (+0)_ |
-| __Caradura__ |  _Regular (+1)_ |
+| __Caradura__ | _Regular (+1)_ |
 | __Charme__ | _Regular (+1)_ |
 
 #### Façanhas [ Recarga: 3 ]
 
--  ___Velho e bom direita-e-esquerda:___ Como pratico ___Os Verdadeiros Esportes___, recebo _+2 para Atacar com Muque_ sempre que utilizar meus punhos (patas?) para socar alguém direto na fuça;
+- ___Velho e bom direita-e-esquerda:___ Como pratico ___Os Verdadeiros Esportes___, recebo _+2 para Atacar com Muque_ sempre que utilizar meus punhos (patas?) para socar alguém direto na fuça;
 
 ### Luís, o Bebê Ratinho
 
@@ -314,7 +314,7 @@ Se um personagem humano se tornar um desenho, o Mestre deverá reajustar suas Fa
 | __Conceito__ | Bebezinho Fofo |
 | __Dificuldade__ | Ratinho em Fase de Crescimento – sempre com fome |
 | | O Tio Mackie é muito legal |
-| | O Gato Sonolento é bobo e    fedido |
+| | O Gato Sonolento é bobo e fedido |
 | | Sempre de Fraldas | 
 
 #### Abordagens
@@ -322,14 +322,14 @@ Se um personagem humano se tornar um desenho, o Mestre deverá reajustar suas Fa
 | __Abordagem__ | __Nível__ |
 |-|-|
 | __Muque__ | _Medíocre (+0)_ |
-| __Zip__ |   _Regular (+1)_ |
+| __Zip__ | _Regular (+1)_ |
 | __Astúcia__ | _Regular (+1)_ |
 | __Caradura__ | _Razoável (+2)_ |
 | __Charme__ | _Bom (+3)_ |
 
 #### Façanhas [ Recarga: 3 ]
 
--  ___Carinha de Anjo:___ Como sou um ___Bebezinho Fofo___, recebo +2 para        _Superar com Charme_ situações que eu possa influenciar por meu jeitinho fofo
+- ___Carinha de Anjo:___ Como sou um ___Bebezinho Fofo___, recebo +2 para _Superar com Charme_ situações que eu possa influenciar por meu jeitinho fofo
 
 ### Dora McPhee — a Vovozinha
 
@@ -349,15 +349,15 @@ Se um personagem humano se tornar um desenho, o Mestre deverá reajustar suas Fa
 | __Abordagem__ | __Nível__ |
 |-|-|
 | __Muque__ | _Medíocre (+0)_ |
-| __Zip__ |    _Bom (+3)_ |
+| __Zip__ | _Bom (+3)_ |
 | __Astúcia__ | _Razoável (+2)_ |
 | __Caradura__ | _Regular (+1)_ |
-| __Charme__ |_Regular (+1)_ |
+| __Charme__ | _Regular (+1)_ |
 
 
 #### Façanhas [ Recarga: 2 ]
 
--  ___Não Mexa comigo:___ Como eu tenho ___38° Dan em Judô___, recebo +2 em _Ataques com Zip_ quando enfrento inimigos maiores que eu (a grande maioria);
+- ___Não Mexa comigo:___ Como eu tenho ___38° Dan em Judô___, recebo +2 em _Ataques com Zip_ quando enfrento inimigos maiores que eu (a grande maioria);
 - ___O Malho do Arruaceiro:___ Como ___"Esses arruaceiros de hoje em dia são da pior espécie___, uma vez por sessão posso invocar meu _Malho do Arruaceiro_ e o usar em combate. Com ele, se eu acertar um arruaceiro, eu posso deixá-lo ___Estupefato!!!!___, em vez de permitir que ele marque caixas de estresse ao custo de 1 PD, desde que tenha provocado pelo menos 1 ponto de Estresse
 
 ### Sylvester Gambá — Investigador Particular
@@ -367,9 +367,9 @@ Se um personagem humano se tornar um desenho, o Mestre deverá reajustar suas Fa
 | __Tipo__ | __Aspecto__ |
 |-|-|
 | __Conceito__ | Um Gambá de alma romântica |
-| __Dificuldade__ | Don Juan — patinho quando tem uma garota bonita na    jogada |
+| __Dificuldade__ | Don Juan — patinho quando tem uma garota bonita na jogada |
 | | Estilo Casablanca |
-| | _“Entenda, docinho, apenas faço meu    trabalho”_ |
+| | _“Entenda, docinho, apenas faço meu trabalho”_ |
 | | Controle sobre o mau cheiro | 
 
 #### Abordagens
@@ -377,15 +377,15 @@ Se um personagem humano se tornar um desenho, o Mestre deverá reajustar suas Fa
 | __Abordagem__ | __Nível__ |
 |-|-|
 | __Muque__ | _Regular (+1)_ |
-| __Zip__ |   _Medíocre (+0)_ |
-| __Astúcia__ |  _Bom (+3)_ |
+| __Zip__ | _Medíocre (+0)_ |
+| __Astúcia__ | _Bom (+3)_ |
 | __Caradura__ | _Razoável (+2)_ |
-| __Charme__ |_Regular (+1)_ |
+| __Charme__ | _Regular (+1)_ |
 
 #### Façanhas [ Recarga: 2 ]
 
--   ___O Aroma do Gambá:___ Como um ___Gambá___, recebo +2 para _Atacar com        Caradura_ usando meu mau cheiro;
--   ___O Instinto do Detetive:___ Devido ao meu ___Estilo Casablanca___, recebo +2 para _Criar Vantagem por Astúcia_ ao Coletar Pistas;
+- ___O Aroma do Gambá:___ Como um ___Gambá___, recebo +2 para _Atacar com Caradura_ usando meu mau cheiro;
+- ___O Instinto do Detetive:___ Devido ao meu ___Estilo Casablanca___, recebo +2 para _Criar Vantagem por Astúcia_ ao Coletar Pistas;
 
 ### Macacão - Gorila Brigão de Rua
 
@@ -397,21 +397,21 @@ Se um personagem humano se tornar um desenho, o Mestre deverá reajustar suas Fa
 | __Dificuldade__ | Cara durão com coração de manteiga |
 | | Cara das Docas |
 | | _“Num mexe com quem ‘tá quieto!”_ |
-| | Quer   fazer amigos (mas não sabe como) | 
+| | Quer fazer amigos (mas não sabe como) | 
 
 #### Abordagens
 
 | __Abordagem__ | __Nível__ |
 |-|-|
-| __Muque__ |  _Bom (+3)_ |
-| __Zip__ |   _Regular (+1)_ |
+| __Muque__ | _Bom (+3)_ |
+| __Zip__ | _Regular (+1)_ |
 | __Astúcia__ | _Medíocre (+0)_ |
 | __Caradura__ | _Razoável (+2)_ |
-| __Charme__ |_Regular (+1)_ |
+| __Charme__ | _Regular (+1)_ |
 
 #### Façanhas [ Recarga: 3 ]
 
--   ___Tá na hora do pau!:___ Por ser ___Um gorila com problema de atitude___, recebo +2 ao Atacar com Muque alvos quando eles me irritam
+- ___Tá na hora do pau!:___ Por ser ___Um gorila com problema de atitude___, recebo +2 ao Atacar com Muque alvos quando eles me irritam
 
 
 ### Liz—Mulher-Lagarto Radical
@@ -424,23 +424,23 @@ Se um personagem humano se tornar um desenho, o Mestre deverá reajustar suas Fa
 | __Dificuldade__ | Caçadora de Emoção |
 | | Parkour |
 | | _“Se liga, já pulei de mais alto!”_ |
-| |  Skate de            estimação | 
+| | Skate de estimação | 
 
 
 #### Abordagens
 
 | __Abordagem__ | __Nível__ |
 |-|-|
-| __Muque__ |  _Regular (+1)_ |
-| __Zip__ |   _Bom (+3)_ |
+| __Muque__ | _Regular (+1)_ |
+| __Zip__ | _Bom (+3)_ |
 | __Astúcia__ | _Regular (+1)_ |
 | __Caradura__ | _Medíocre (+0)_ |
 | __Charme__ | _Razoável (+2)_ |
 
 #### Façanhas [ Recarga: 2 ]
 
--   ___Até o limite… E além dele!!!!:___ Como sou uma ___Mulher-Lagarto        Esportista Radical__, recebo +2 para _Criar Vantagens com Zip_ relacionadas a manobras radicais
--   ___Movimento Especial no Skate — Mega-boga 360__ Como sou uma  ___Mulher-Lagarto Esportista Radical__, eu posso _uma vez por sessão_        fazer todos que me virem no meu Skate de Estimação ficarem         ___Estupefatos!!!!___ com um _Ataque baseado Zip_. Se provocar ao menos 1        Ponto de Estresse, eu posso, usando 1 PD, fazer os alvos ficarem        ___Estupefatos!!!!___
+- ___Até o limite… E além dele!!!!:___ Como sou uma ___Mulher-Lagarto Esportista Radical__, recebo +2 para _Criar Vantagens com Zip_ relacionadas a manobras radicais
+- ___Movimento Especial no Skate — Mega-boga 360__ Como sou uma ___Mulher-Lagarto Esportista Radical__, eu posso _uma vez por sessão_ fazer todos que me virem no meu Skate de Estimação ficarem ___Estupefatos!!!!___ com um _Ataque baseado Zip_. Se provocar ao menos 1 Ponto de Estresse, eu posso, usando 1 PD, fazer os alvos ficarem ___Estupefatos!!!!___
 
 ### Rory Coiote
 
@@ -449,24 +449,24 @@ Se um personagem humano se tornar um desenho, o Mestre deverá reajustar suas Fa
 | __Tipo__ | __Aspecto__ |
 |-|-|
 | __Conceito__ | Coiote Gourmet |
-| __Dificuldade__ | Quer fazer a refeição suprema… E Gina Kiwi é o            prato principal |
+| __Dificuldade__ | Quer fazer a refeição suprema… E Gina Kiwi é o prato principal |
 | | Membro da MENSA — QI 200+ |
 | | Casa no Deserto |
-| |  Literato — conhece muito sobre tudo | 
-            
+| | Literato — conhece muito sobre tudo | 
+ 
 #### Abordagens
 
 | __Abordagem__ | __Nível__ |
 |-|-|
-| __Muque__ |  _Regular (+1)_ |
-| __Zip__ |   _Razoável (+2)_ |
+| __Muque__ | _Regular (+1)_ |
+| __Zip__ | _Razoável (+2)_ |
 | __Astúcia__ | _Bom (+3)_ |
 | __Caradura__ | _Medíocre (+0)_ |
 | __Charme__ | _Regular (+1)_ |
 
 #### Façanhas [ Recarga: 3 ]
 
--   ___Armadilha Gourmet:___ Como sou um ___Coiote Gourmet___, sei o que as        pessoas gostam de comer, portanto recebo +2 quando Criando        Vantagens relacionadas a Comida com Astúcia
+- ___Armadilha Gourmet:___ Como sou um ___Coiote Gourmet___, sei o que as pessoas gostam de comer, portanto recebo +2 quando Criando Vantagens relacionadas a Comida com Astúcia
 
 ### Gina Kiwi, a Kiwi Pentelha
 
@@ -474,34 +474,34 @@ Se um personagem humano se tornar um desenho, o Mestre deverá reajustar suas Fa
 |-|-|
 | __Conceito__ | Kiwi corredora |
 | __Dificuldade__ | Age na mesma velocidade que corre |
-| | Realgroovy.co.nz[2](#ftn2) — site de comércio            eletrônico para o qual trabalhaMembro da MENSA — QI 200+ |
+| | Realgroovy.co.nz[2](#ftn2) — site de comércio eletrônico para o qual trabalhaMembro da MENSA — QI 200+ |
 | | 500 milhas de Indianápolis |
-| |  _“Rory Coiote? Do que você está falando?”_ | 
+| | _“Rory Coiote? Do que você está falando?”_ | 
 
 
 #### Abordagens
 
 | __Abordagem__ | __Nível__ |
 |-|-|
-| __Muque__ |   _Medíocre (+0)_ |
-| __Zip__ |   _Bom (+3)_ |
+| __Muque__ | _Medíocre (+0)_ |
+| __Zip__ | _Bom (+3)_ |
 | __Astúcia__ | _Razoável (+2)_ |
 | __Caradura__ | _Regular (+1)_ |
 | __Charme__ | _Regular (+1)_ |
 
 #### Façanhas [ Recarga: 3 ]
 
--   ___Velocidade da Luz:___ Como eu corro como se estivesse nas ___500        milhas de Indianápolis___, _uma vez por sessão posso evitar qualquer um que esteja me perseguindo_. Isso é considerado uma _concessão_, sem eu pagar PD.
+- ___Velocidade da Luz:___ Como eu corro como se estivesse nas ___500 milhas de Indianápolis___, _uma vez por sessão posso evitar qualquer um que esteja me perseguindo_. Isso é considerado uma _concessão_, sem eu pagar PD.
 
 ### Cody O’Shea (Humano Real criado com Fate Acelerado)
 
 | __Tipo__ | __Aspecto__ |
 |-|-|
 | __Conceito__ | Policial humano em desenhificação |
-| __Dificuldade__ | Muito tempo da Desenholândia – está virando um         coelho de desenho animado! |
-| | Kung-Fu do Bêbado  |
+| __Dificuldade__ | Muito tempo da Desenholândia – está virando um coelho de desenho animado! |
+| | Kung-Fu do Bêbado |
 | | Casa no Deserto |
-| |  _“Amo meus           cachorros!”_ | 
+| | _“Amo meus cachorros!”_ | 
 
 
 #### Abordagens (Fate Acelerado)
@@ -509,19 +509,19 @@ Se um personagem humano se tornar um desenho, o Mestre deverá reajustar suas Fa
 
 | __Abordagem__ | __Nível__ |
 |-|-|
-| __Ágil__ |  _Regular (+1)_ |
+| __Ágil__ | _Regular (+1)_ |
 | __Cuidadoso__ | _Razoável (+2)_ |
 | __Esperto__ | _Bom (+3)_ |
-| __Estiloso__ |  _Medíocre (+0)_ |
+| __Estiloso__ | _Medíocre (+0)_ |
 | __Poderoso__ | _Razoável (+2)_ |
 | __Sorrateiro__ | _Regular (+1)_ |
 
 #### Façanhas [ Recarga 3 ]
 
-+   ___Poder da Bebida:___ Como luto com ___Kung-Fu do Bêbado___, quando ___Bêbado___        eu recebo _+2 ao Atacar de Maneira Poderosa_
-+   ___Desafinado:___ Usando as ___Baladas de Bar___, quando ___Bêbado___ eu recebo        _+2 ao Atacar de Maneira Esperta_ usando minha voz esganiçada
++ ___Poder da Bebida:___ Como luto com ___Kung-Fu do Bêbado___, quando ___Bêbado___ eu recebo _+2 ao Atacar de Maneira Poderosa_
++ ___Desafinado:___ Usando as ___Baladas de Bar___, quando ___Bêbado___ eu recebo _+2 ao Atacar de Maneira Esperta_ usando minha voz esganiçada
 
-+   ___Ataques dos meus Parceiros:___ Como ___“Amo Meus cachorros”___, posso  usá-los em combate _uma vez por sessão_
++ ___Ataques dos meus Parceiros:___ Como ___“Amo Meus cachorros”___, posso usá-los em combate _uma vez por sessão_
 
 > ##### Matilha de Cachorros (Cachorros de Desenho Animado):
 >
@@ -530,7 +530,7 @@ Se um personagem humano se tornar um desenho, o Mestre deverá reajustar suas Fa
 > - ___Ruim (-2) em:___ Auto-Controle
 > _ ___Estresse:___ `6`{: .fate_font} (uma dúzia de cachorros)
 
-####  Consequências
+#### Consequências
 
 | __Consequência Suave:__ | Grandes Orelhonas de Coelho (Desenhificação) |
 
