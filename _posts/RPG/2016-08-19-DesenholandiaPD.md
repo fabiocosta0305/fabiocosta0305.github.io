@@ -28,6 +28,8 @@ header: no
 5. Sargento “Pinky” Stout – humano que os desenhos gostam
 6. Policial “Dilly Dally” McMouse – primeiro desenho oficial de   polícia
 
+<!-- excerpt -->
+
 ## História
 
 A Desenholândia, sendo uma propriedade privada anteriormente, nunca esteve sujeita às leis, ao menos não mais do que qualquer outra propriedade privada. Porém, após os eventos envolvendo o Juiz Doom e a doação da Desenholândia aos desenhos por meio do testamento de Marvin Acme, o conselho da cidade de Los Angeles decidiu que deixar os desenhos ao Deus-dará será um grande problema, tanto para as pessoas, quanto para os desenhos. Então, o Departamento de Polícia de Los Angeles decidiu

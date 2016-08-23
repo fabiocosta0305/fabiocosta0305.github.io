@@ -10,6 +10,7 @@ tags:
   - Fate Acelerado
   - Destino dos Desenhos Animados
 header: no
+excerpt_separator: <!-- excerpt -->
 ---
 
 ___Por Fábio Emílio Costa - baseado Fortemente no RPG TOON! da Steve Jackson Games___
@@ -25,6 +26,8 @@ As Abordagens para personagens de desenhos animados mudam em relação às de Fa
 - ___Charme:___ Charme é usada para fazer coisas por meio da aparência, beleza e/ou fofura, como fazer charminho para convencer a vovó a dar um pirulito ou fingir estar doente para não ter que ir à escola;
 
 A Criação de Personagem segue o padrão de Fate Acelerado, exceto por ter uma Abordagem _Razoável (+2)_ a menos (totalizando 1 Boa, 1 Razoável, 2 Regular, 1 Medíocre).
+
+<!-- excerpt -->
 
 ## A Regra da Diversão
 
