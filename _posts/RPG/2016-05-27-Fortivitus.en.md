@@ -16,6 +16,7 @@ excerpt_separator: <!-- excerpt -->
 
 
 
+
 This adventure is written to be a introductory one for 2 to 6 _20th Century Young Centurions_, US-established, although this is not obligatory.
 
 **PS:** I want to say a warm _Thank You_ to Tricia _"Pricilla Mooseburger"_ Manuel, for the tips about circuses and clowning in the 1910s US, via [Twitter](http://twitter.com/pmooseburger). She was very kind and helpful with my questions.
