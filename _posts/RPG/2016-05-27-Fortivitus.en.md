@@ -273,9 +273,9 @@ A _Fortivitus_ overdose can go into:
 2. Convulsions - Potential death;
 3. And the worst case, _Atavism_;
 
-#### _Fortivitus_ e Atavism
+#### _Fortivitus_ & Atavism
 
-A character that had (or provoke on yourself intentionally) a _Fortivitus_ overdose, can undergo an _Atavism_ process, going back into some primitive characteristics and behavior. As a summary, he'll go back into a _Caveman_, an _Atavic Mutant_, very strong, powerful, but utterly out of control. This stays as much the GM wants and, under this time, the character is treated as a NPC.
+A character that had (or provoke on yourself intentionally) a _Fortivitus_ overdose, can undergo an _Atavic process_, going back into some primitive characteristics and behavior. As a summary, he'll go back into a _Caveman_, an _Atavic Mutant_, very strong, powerful, but utterly out of control. This stays as much the GM wants and, under this time, the character is treated as a NPC.
 
 ---
 
