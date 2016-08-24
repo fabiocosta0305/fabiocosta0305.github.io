@@ -336,7 +336,7 @@ A character that had (or provoke on yourself intentionally) a _Fortivitus_ overd
 
 + _Ex-slave descendant; "In_ Green Pint _my word is law"; Hospitality laws; I lost my mom for the opium_
 + _**Skilled (+2) at:** Attending in the bar; Gossip; Hearing_
-+ _**Bad (-2) at:** Being nice with those who don't accepted_ Green Pint_'s rules_;
++ _**Bad (-2) at:** Being nice with those who don't accepted_ Green Pint'_s rules_;
 + **Stunts:**
     + _The home of a man is his castle:_ +1 in all tests in the _Green Pint_;
     + _Know someone that know someone:_ +2 to _Create Advantages_ related to his contacts in the docks;
@@ -373,7 +373,7 @@ A character that had (or provoke on yourself intentionally) a _Fortivitus_ overd
 | **High Concept:** | Heir from a broken french noble house |
 | **Trouble:** | Machiavellian sage beyond age   |
 | | A Brilliant, although arrogant, mind |
-| | _"Common people is resource"_ |
+| | _"Common people are resource"_ |
 | | _Le Monstre aux Yuex Verts_, an Inspiration |
 
 #### Approaches
