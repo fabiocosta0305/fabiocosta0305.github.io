@@ -1,8 +1,8 @@
 ---
 title: Fortivitus
-#subtitle: Uma Aventura dos *Jovens Centuriões do Século XX*
+subtitle: Uma Aventura dos *Jovens Centuriões do Século XX*
 layout: aventuras
-date: 2016-08-23 23:00:00 -0300
+#date: 2016-08-23 23:00:00 -0300
 categories:
  - Aventuras
 comments: true
