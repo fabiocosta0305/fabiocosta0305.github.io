@@ -3,6 +3,7 @@ title: Fortivitus
 subtitle: An Adventure for the _20th Century Young Centurions_
 layout: aventuras
 date: 2016-05-27 23:15:00 -0300
+#date: 2016-08-23 23:15:00 -0300
 categories:
  - Adventures
 comments: true
@@ -94,7 +95,7 @@ Now, the PCs will need to go back home: time to do their homework and go to bed.
 + Madame Esther Sheridan
 + Niels Olufssen
 
-Next day, the PCs wake up and get themselves ready for the school. Everyone lives or are living now in the  _Clinton_ neighborhood in NY. If there's _newsies_ on them, they (if want) could read in the newspapers about a thing called _Fortivitus_, that is claimed as responsible for some kind of disturbance in many cultural and sports events. Not only at the circus: some _New York Highlanders_ (in 1913 called _New York Yankees_) were took out Hilltop Park because they where disturbing things and messing with not only other fans, but with the players, in the game against _Boston Red Sox_. Similar things happened into the _Giants_ vs _Chicago Cubs_ game and in other events.
+Next day, the PCs wake up and get themselves ready for the school. Everyone lives or are living now in the  _Clinton_ neighborhood in NY. If there's _newsies_ on them, they (if want) could read in the newspapers about a thing called _Fortivitus_, that is claimed as responsible for some kind of disturbance in many cultural and sports events. Not only at the circus: some _New York Highlanders_ (in 1913 called _New York Yankees_) supporters were took out Hilltop Park because they where disturbing things and messing with not only other fans, but with the players, in the game against _Boston Red Sox_. Similar things happened into the _Giants_ vs _Chicago Cubs_ game and in other events.
 
 Anyway, when they go to the school, they are stopped, surprise surprise, by the local bullies, with his leader, _Niels Olufssen_, a spoiled brat that, because his family is in a little better situation, believes that everyone should do all his whims. The problem is, that time, they look meaner than normal.
 
@@ -272,9 +273,9 @@ A _Fortivitus_ overdose can go into:
 2. Convulsions - Potential death;
 3. And the worst case, _Atavism_;
 
-#### _Fortivitus_ e Atavism
+#### _Fortivitus_ & Atavism
 
-A character that had (or provoke on yourself intentionally) a _Fortivitus_ overdose, can undergo an _Atavism_ process, going back into some primitive characteristics and behavior. As a summary, he'll go back into a _Caveman_, an _Atavic Mutant_, very strong, powerful, but utterly out of control. This stays as much the GM wants and, under this time, the character is treated as a NPC.
+A character that had (or provoke on yourself intentionally) a _Fortivitus_ overdose, can undergo an _Atavic process_, going back into some primitive characteristics and behavior. As a summary, he'll go back into a _Caveman_, an _Atavic Mutant_, very strong, powerful, but utterly out of control. This stays as much the GM wants and, under this time, the character is treated as a NPC.
 
 ---
 
@@ -335,7 +336,7 @@ A character that had (or provoke on yourself intentionally) a _Fortivitus_ overd
 
 + _Ex-slave descendant; "In_ Green Pint _my word is law"; Hospitality laws; I lost my mom for the opium_
 + _**Skilled (+2) at:** Attending in the bar; Gossip; Hearing_
-+ _**Bad (-2) at:** Being nice with those who don't accepted_ Green Pint_'s rules_;
++ _**Bad (-2) at:** Being nice with those who don't accepted_ Green Pint'_s rules_;
 + **Stunts:**
     + _The home of a man is his castle:_ +1 in all tests in the _Green Pint_;
     + _Know someone that know someone:_ +2 to _Create Advantages_ related to his contacts in the docks;
@@ -372,7 +373,7 @@ A character that had (or provoke on yourself intentionally) a _Fortivitus_ overd
 | **High Concept:** | Heir from a broken french noble house |
 | **Trouble:** | Machiavellian sage beyond age   |
 | | A Brilliant, although arrogant, mind |
-| | _"Common people is resource"_ |
+| | _"Common people are resource"_ |
 | | _Le Monstre aux Yuex Verts_, an Inspiration |
 
 #### Approaches
@@ -447,12 +448,12 @@ A character that had (or provoke on yourself intentionally) a _Fortivitus_ overd
 
 #### Centurion Stunt - _The "Good Enough" Game_
 
-+ Because Nicola is very optimistic in all things, twice a session he can ask and receive some needed help from others, as long he can ask for it or he talked with those people before. This help came in play as an Scenario Aspect (like _My Goodness, you need some clean clothes!_ or _A Place to Stay at those freezing nights_), with one Free Invocation. He can't use this to do harm to others, but he can use this to help himself and/or others. Those Aspects stays as long as reasonable. He can combine the two uses into a Aspect with two invocations, under the same rules.
++ Because Nicola is very optimistic in all things, _twice a session_ he can ask and receive some needed help from others, as long he can ask for it or he talked with those people before. This help came in play as an _Scenario Aspect_ (like _My Goodness poor boy, you need some clean clothes!_ or _A Place to Stay at those freezing nights_), with one _Free Invocation_. He can't use this to do harm to others, but he can use this to help himself and/or others. Those Aspects stays as long as reasonable. He can combine the two uses into a Aspect with two invocations, under the same rules.
 
 #### Other Stunts
 
-+ Because I believe that _Everyone have a Good Heart_, I receive +2 to _Create Advantages_ by discovering (or creating/putting) good Aspects on someone _Carefully_
-+ _Thespian:_ Because Nicola's a consummate actor, he has no penalty when attempts to impersonate someone much older , much taller or shorter than himself, with a radically different accent than himself, or the like.
++ Because I believe that __Everyone have a Good Heart__, I receive +2 to _Create Advantages_ by discovering (or creating/putting) good Aspects on someone _Carefully_
++ __Thespian:__ Because Nicola's a consummate actor, he has no penalty when attempts to impersonate someone much older , much taller or shorter than himself, with a radically different accent than himself, or the like.
 
 
 ### Don Cagliostro (_real name: Frederick Van Der Merwe_) - 19th Century Spirit of Literacy
@@ -514,15 +515,15 @@ you make a show of predicting someone’s fortune.
 
 #### Centurion Stunt - _Panopticon_ 
 
-+ _Once per scene_, he can place an Aspect with a Free Invoke, based on compromising or otherwise hurtful information, as long Jonah can explain how he obtained it.
++ _Once per scene_, he can place an _Aspect with a Free Invoke_ on someone, based on compromising or otherwise hurtful information, as long Jonah can explain how he obtained it.
 
 #### Common Stunts
 
-+ _First Impressions_: Gain +2 to attempts to _create an advantage by acting Quickly_ and making a positive first impression on someone.
-+ _Cold Read:_ Gain +2 to _Careful_ attempts to _create an advantage_ when you try to assess another character’s aspects by observing them.
-+ _Call in a Favor:_ _Once per session_, you may declare that _someone owes you a favor_. You can call that favor in to get some secret information, or a meeting with an important person who wouldn’t otherwise give you the time of day, or some other interesting and useful effect.
-+ _It’s Elementary:_ Gain +2 to _overcome_ actions when you’re _being Clever_ and must figure out a puzzle, solve a riddle, or otherwise reason your way out of a tight spot.
-+ _Details Matter:_ Gain +2 to attempts to _create an advantage_ when you’re _being Careful_ and your deep knowledge of a subject reveals a detail that you can take advantage of.
++ __First Impressions__: Gain +2 to attempts to _create an advantage by acting Quickly_ and making a positive first impression on someone.
++ __Cold Read:__ Gain +2 to _Careful_ attempts to _create an advantage_ when you try to assess another character’s aspects by observing them.
++ __Call in a Favor:__ _Once per session_, you may declare that _someone owes you a favor_. You can call that favor in to get some secret information, or a meeting with an important person who wouldn’t otherwise give you the time of day, or some other interesting and useful effect.
++ __It’s Elementary:__ Gain +2 to _overcome_ actions when you’re _being Clever_ and must figure out a puzzle, solve a riddle, or otherwise reason your way out of a tight spot.
++ __Details Matter:__ Gain +2 to attempts to _create an advantage_ when you’re _being Careful_ and your deep knowledge of a subject reveals a detail that you can take advantage of.
 
 ### Esther Sheridan - New York high-society dame and _Century Club Retainer_
 
@@ -549,10 +550,10 @@ you make a show of predicting someone’s fortune.
 
 #### Stunts
 
-+ _Don’t Mess With Me:_ Gain +2 to attempts to _create an advantage_ by intimidating someone while _being Forceful._
-+ _Cold Read:_ Gain +2 to _Careful_ attempts to _create an advantage_ when you try to assess another character’s aspects by observing them. 
-+ _Hey Did I Ever Tell You About...:_ Gain +2 to attempts to _create an advantage_ when you’re _being Flashy_ and you try to distract or confuse someone with irrelevant nonsense.
-+ _Call in a Favor: Once per session_, you may declare that _someone owes you a favor_. You can call that favor in to get some secret information, or a meeting with an important person who wouldn’t otherwise give you the time of day, or some other interesting and useful effect.
++ __Don’t Mess With Me:__ Gain +2 to attempts to _create an advantage_ by intimidating someone while _being Forceful._
++ __Cold Read:__ Gain +2 to _Careful_ attempts to _create an advantage_ when you try to assess another character’s aspects by observing them. 
++ __Hey Did I Ever Tell You About...:__ Gain +2 to attempts to _create an advantage_ when you’re _being Flashy_ and you try to distract or confuse someone with irrelevant nonsense.
++ __Call in a Favor:__ _Once per session_, you may declare that _someone owes you a favor_. You can call that favor in to get some secret information, or a meeting with an important person who wouldn’t otherwise give you the time of day, or some other interesting and useful effect.
 
 ### _Lady_ Brighit Danaan, _Bag Lady_ and 19th Century Community Spirit
 
@@ -561,7 +562,7 @@ you make a show of predicting someone’s fortune.
 | ***Type***       | ***Aspect***                                                                       |
 |------------------|------------------------------------------------------------------------------------|
 | __High Concept__ | A old woman who just wants to live his last days with his community                |
-| __Trouble__      | _"I'm craze? Do you think I'm crazy? You don't know half the truth!"_              |
+| __Trouble__      | _"I'm crazy? Do you think I'm crazy? You don't know half the truth!"_              |
 |                  | Lived a life and a half, fought for three lives, and had a bitter payment for this |
 |                  | Follower from the traditional Irish religion                                       |
 
@@ -573,7 +574,7 @@ you make a show of predicting someone’s fortune.
 | __Clever__     | _Fair (+2)_     |
 | __Flashy__     | _Good (+3)_     |
 | __Forceful__   | _Average (+1)_  |
-| __Quick__     | _Average (+1)_  |
+| __Quick__      | _Average (+1)_  |
 | __Sneaky__     | _Good (+3)_     |
 
 #### Centurion Stunt -  _The Blessing__ 
@@ -582,11 +583,11 @@ you make a show of predicting someone’s fortune.
 
 #### Common Stunts
 
-+ _Don’t Mess With Me:_ Gain +2 to attempts to _create an advantage_ by intimidating someone while _being Forceful._
-+ _Cold Read:_ Gain +2 to _Careful_ attempts to _create an advantage_ when you try to assess another character’s aspects by observing them. 
-+ _Call in a Favor: Once per session_, you may declare that _someone owes you a favor_. You can call that favor in to get some secret information, or a meeting with an important person who wouldn’t otherwise give you the time of day, or some other interesting and useful effect.
-+ _It’s Elementary:_ Gain +2 to _overcome_ actions when you’re _being Clever_ and must figure out a puzzle, solve a riddle, or otherwise reason your way out of a tight spot.
-+ *The Cavalry:* Because you can sense when your friends are in trouble, _once per session_ you can insert yourself into a scene in which an ally is in serious danger (unless you’re in jail, stuck on Mars, or otherwise physically incapable of getting there).
++ __Don’t Mess With Me:__ Gain +2 to attempts to _create an advantage_ by intimidating someone while _being Forceful._
++ __Cold Read:__ Gain +2 to _Careful_ attempts to _create an advantage_ when you try to assess another character’s aspects by observing them. 
++ __Call in a Favor:__ _Once per session_, you may declare that _someone owes you a favor_. You can call that favor in to get some secret information, or a meeting with an important person who wouldn’t otherwise give you the time of day, or some other interesting and useful effect.
++ __It’s Elementary:__ Gain +2 to _overcome_ actions when you’re _being Clever_ and must figure out a puzzle, solve a riddle, or otherwise reason your way out of a tight spot.
++ **The Cavalry:** Because you can sense when your friends are in trouble, _once per session_ you can insert yourself into a scene in which an ally is in serious danger (unless you’re in jail, stuck on Mars, or otherwise physically incapable of getting there).
 
 
 ### Aesop - Millennium Spirit of History
@@ -602,7 +603,6 @@ you make a show of predicting someone’s fortune.
 |                  | _The last Millennium Spirit?_            |
 
 #### Millennium Stunt -  _Everyone and No one_ 
-
 
 As a destined observer, someone that works in the shadows, Aesop can, _at any time_, take a completely common appearance and behavior in the place he is, no matter human or animal, mingling in the crowd. This works even in forests and farms, by assuming the most common animal's form.
 
@@ -632,11 +632,11 @@ As a destined observer, someone that works in the shadows, Aesop can, _at any ti
 
 #### Stunts
 
-+ _Cold Read:_ Gain +2 to _Careful_ attempts to _create an advantage_ when you try to assess another character’s aspects by observing them. 
-+ _Divination:_ Gain +2 to attempts to _create an advantage_ by reading signs and portents in the stars, or in tarot cards, or using some other divination practice, made while _being Careful_.
-+ _Mind Trick:_ Gain +2 to _Sneaky_ attempts to _overcome_ an obstacle by making someone believe something that isn’t true.
-+ _Sixth Sense:_ Gain +2 to _defend_ actions to stop attacks against allies while you’re acting _Quickly_.
-+ _Lie Detector:_ Gain +2 to _defend_ actions made to detect lies when you’re being _Clever_. 
++ __Cold Read:__ Gain +2 to _Careful_ attempts to _create an advantage_ when you try to assess another character’s aspects by observing them. 
++ __Divination:__ Gain +2 to attempts to _create an advantage_ by reading signs and portents in the stars, or in tarot cards, or using some other divination practice, made while _being Careful_.
++ __Mind Trick:__ Gain +2 to _Sneaky_ attempts to _overcome_ an obstacle by making someone believe something that isn’t true.
++ __Sixth Sense:__ Gain +2 to _defend_ actions to stop attacks against allies while you’re acting _Quickly_.
++ __Lie Detector:__ Gain +2 to _defend_ actions made to detect lies when you’re being _Clever_. 
 
 ### Alvin McNash
 
