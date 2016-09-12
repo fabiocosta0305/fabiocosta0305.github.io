@@ -40,7 +40,7 @@ But she thinks she can deal with all of this, as long as she has her mind, her f
 
 ---
 
-I've read some of the old time pulp stories, like some of the [_Tom Swift_][tom-swift] books and the [_Circus Boys_][circus-boys] series: you can find them (legally) at [Project Gutenberg][pg]. And _Sally Slick_ follows their steps, in the same way. Many of the old time tropes are there: the scrawny supporting, the nonconformist hero, the villains that either embrace themselves with the _status quo_ or just kick the ethics asides, all of them.
+I've read some of the old time pulp stories, like some of the [_Tom Swift_][tom-swift] books and the [_Circus Boys_][circus-boys] series: you can find them (legally) at [Project Gutenberg][pg]. And _Sally Slick_ follows their steps, in the same way. Many of the old time tropes are there: the scrawny supporting friend, the nonconformist hero, the villains that either embrace themselves with the _status quo_ or just kick the ethics asides, all of them.
 
 The book also shows that Sally and Jet are inexperienced, sometimes even naïve; their ideas and heroism somewhat based on what they read in books, or just coming on the circumstances. They are green, they are imperfect, they do mistakes and make bad choices. And pay the price for them, even if it means being in detention after school time.
 
