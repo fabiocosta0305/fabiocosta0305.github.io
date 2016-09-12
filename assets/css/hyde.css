@@ -401,3 +401,24 @@ a.sidebar-nav-item:focus {
 {
     font-family: "Fate Core Font";
 }
+
+
+
+@media (min-width: 48em) {
+.book_cover
+{
+    float: left;
+    max-width: 60px;
+    display: block
+}
+}
+
+@media (min-width: 58em) {
+.book_cover
+{
+    float: left;
+    max-width: 120px;
+    display: block
+    border: 10px;
+}
+}
