@@ -11,7 +11,28 @@ tags:
   - Spirit of the Century
   - Evil Hat
   - Sally Slick
-cover_img: /assets/img/SteelSyndicate.png
+book_info:
+  cover_img: /assets/img/SteelSyndicate.png
+  authors: 
+    - Carrie Harris
+  publisher:
+    name: Evil Hat Productions, LCC
+    link: http://www.evilhat.com
+  year: 2014
+  isbn: 1613170637
+  pages: 200
+  formats:
+    - Paperback
+    - ePub
+    - PDF
+    - moqbi
+  buy_at:
+    - site: Amazon.com (Paperback)
+      link: https://www.amazon.com/Sally-Slick-Syndicate-Carrie-Harris/dp/1613170637
+    - site: Amazon.com (eBook)
+      link: https://www.amazon.com/Sally-Slick-Steel-Syndicate-Centurions-ebook/dp/B00H3P3FAC
+    - site: DriveThruRPG
+      link: http://www.drivethrurpg.com/product/119381/Sally-Slick-and-the-Steel-Syndicate-A-Young-Centurions-Novel?filters=0_0_10010_0_0
 ---
 
 Every Saga needs to start somewhere, sometime. For some, it's _Shire_. For others, _Tatooine_. For some others, _Privet Drive, 4_. And for Sally Slick and Jet Black, it was 1910s _Nebraska Township, Illinois_.
@@ -60,7 +81,7 @@ I can recommend it as 4.5 in 5: there's some points where the terms can be a lit
 
 ---
 
-> __DISCLAIMEIR:__ I've received copies of ___Sally Slick and the Steel Syndicate___, ___Young Centurions___ and the upcoming ___Sally Slick and the Miniature Menace___ from Evil Hat. The review here express my own opinion. I would like to thank my cousin and friend [_Leonardo Melo_](http://twitter.com/leomeloxp), that did some corrections in the text. Thank you, Leo!
+> __DISCLAIMEIR:__ I've received copies of ___Sally Slick and the Steel Syndicate___, ___Young Centurions___ and the upcoming ___Sally Slick and the Miniature Menace___ from Evil Hat for review. This review express my own opinions and only my own, and they can be not accurate. I would like to thank my cousin and friend [_Leonardo Melo_](http://twitter.com/leomeloxp), that did some corrections in the text. Thank you, Leo!
 
 [pg]: https://www.gutenberg.org/
 [tom-swift]: https://www.gutenberg.org/ebooks/author/267
