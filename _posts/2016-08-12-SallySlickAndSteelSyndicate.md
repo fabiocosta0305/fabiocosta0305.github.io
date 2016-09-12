@@ -58,6 +58,9 @@ We can see that there'll be a big future for Sally, but also can see she's not p
 
 I can recommend it as 4.5 in 5: there's some points where the terms can be a little confusing, things like _dingy_ (somber or dark) and _yahoo_ (brutes)  that are 1910s slang and somewhat confuses a little... But aside this little thing, the book is a must for those who liked _Spirit of the Century_, _Dinocalypse Trilogy_ or other _Spirit of the Century presents_ books.
 
+---
+
+> I've received copies of ___Sally Slick and the Steel Syndicate___, ___Young Centurions___ and the upcoming ___Sally Slick and the Miniature Menace___ from Evil Hat. The review here express my own opinion. I would like to thank my cousin and friend [_Leonardo Melo_](http://twitter.com/leomeloxp), that did some corrections in the text. Thank you, Leo!
 
 [pg]: https://www.gutenberg.org/
 [tom-swift]: https://www.gutenberg.org/ebooks/author/267
