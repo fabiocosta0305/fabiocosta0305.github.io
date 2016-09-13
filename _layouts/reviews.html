@@ -8,14 +8,16 @@ layout: default
 {% if page.subheadline %}<h2 class="post-title">{{ page.subheadline }}</h1>{% endif %}
   <span class="post-date">{{ page.date | date_to_string }}</span>
 
-<div style="width: 100%;">
+<div class="container">
 {% if page.book_info.cover_img %}
 {% assign real_link=page.book_info.cover_img %}
 {% assign link_start = real_link | slice: 0 %}
 {% if  link_start == "/" %}{% assign real_link = real_link | prepend: site.url %}{% endif %}
-<img class="book_cover" src="{{ real_link }}" alt="{{ page.title }}'s cover" />{% endif %}
+<div class="book_cover">
+<img  src="{{ real_link }}" alt="{{ page.title }}'s cover" /></div>{% endif %}
 {% if page.book_info %}
-<blockquote class="book-info" style="width: 100%;">
+<div class="book-info">
+<blockquote>
 
 {% if page.book_info.authors or  page.book_info.publisher or page.book_info.year or page.book_info.isbn or page.book_info.pages or page.book_info.formats or page.book_info.amazon or page.book_info.drivethrurpg or page.book_info.kindle %} 
 <ul/>
@@ -46,9 +48,10 @@ layout: default
 {% endif %}
 
 {% endif %}
-</blockquote>
+</blockquote></div>
 {% endif %}
 </div>
+
 
 {{ content }}
 </div>

@@ -25,7 +25,7 @@ book_info:
     - Paperback
     - ePub
     - PDF
-    - moqbi
+    - MOBI (Kindle)
   buy_at:
     - site: Amazon.com (Paperback)
       link: https://www.amazon.com/Sally-Slick-Syndicate-Carrie-Harris/dp/1613170637
