@@ -51,7 +51,7 @@ While we see Sally taking more things by herself, with Jet aside, we see her gro
 
 And those challenges are big: not only the Falks bully, but the crazy Steel Syndicate and the even crazier Doktor Proktor. The latter two trying to co-opt her if possible, kill her if not. Trying to control her and using her ingenuity as resources for their nefarious means. They also have tempting tech, like Proktor's _Visionator_ and Frankie's _Neural Stimulator_, but this only shows Sally that machines can be as used for evil means just like people.
 
-And the problems are not about bullies trying to pummel you or goons trying to kill you: ungrateful brothers are also put on this. And, alas, they are still kids: no matter how smart Sally is on building things, or how courageous Jet is, they still need to be at home before supper, or deal with consequences (normally being grounded, but maybe worse - in Sally's case, there's always the chance of being forced into Etiquette and Deportment classes!!!!).
+And Sally's problems are not only about bullies trying to pummel her or goons trying to kill her: ungrateful brothers are also put on this. And, alas, they are still kids: no matter how smart Sally is on building things, or how courageous Jet is, they still need to be at home before supper, or deal with consequences (normally being grounded, but maybe worse - in Sally's case, there's always the chance of being forced into Etiquette and Deportment classes!!!!).
 
 And the mysteries: what really is the BEM? Why was it built? Why was the Steel Syndicate so interested in it? What Doktor Proktor wants to do with it? And with Sally's oldest brother, James? Why that Jade Lotus guy said stuff about magic? And what about the Creep?
 
