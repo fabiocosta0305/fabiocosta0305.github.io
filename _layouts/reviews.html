@@ -20,7 +20,7 @@ layout: default
 <blockquote>
 
 {% if page.book_info.authors or  page.book_info.publisher or page.book_info.year or page.book_info.isbn or page.book_info.pages or page.book_info.formats or page.book_info.amazon or page.book_info.drivethrurpg or page.book_info.kindle %} 
-<ul/>
+<ul>
 {% if page.book_info.authors %}
 <li/><b>AUTHOR(s):</b> {{ page.book_info.authors | sort | join: ';' }}
 {% endif %}
@@ -41,12 +41,13 @@ layout: default
 {% endif %}
 {% if page.book_info.buy_at %} 
 <li/><b>BUY AT:</b>
-<ul/>
+<li style="list-style-type:none"><ul>
 {% for link in page.book_info.buy_at %}
 <li/><a href="{{ link.link }}">{{ link.site }}</a>
 {% endfor %}
+</ul></li>
 {% endif %}
-
+</ul>
 {% endif %}
 </blockquote></div>
 {% endif %}
