@@ -37,7 +37,7 @@ book_info:
 
 Every Saga needs to start somewhere, sometime. For some, it's _Shire_. For others, _Tatooine_. For some others, _Privet Drive, 4_. And for Sally Slick and Jet Black, it was 1910s _Nebraska Township, Illinois_.
 
-Maybe you know those names from other Evil Hat titles, either from _Spirit of the Century_ RPG or from the _Dinocalypse Trilogy_ . But now, in _Sally Slick and the Steel Syndicate_ we'll see how the 15 years _Sally Slick_ with his friend _Jackson "Jet" Black_ started into adventure. Before even fight evil _"for real"_, the two outcast kids were already weirdos for the 1910s standards: a girl for whom the farm life is not enough and chasing boys is not as good as turning a common looking tractor into a kind of 1910 monster truck and his friend, a scrawny boy that stands for what's right even after being thrashed again and again by the local bully Eugene Falks. Not the kind of kids you would expect would be something in life, right?
+Maybe you know those names from other Evil Hat titles, either from [_Spirit of the Century_][sotc] RPG or from the [_Dinocalypse Trilogy_][dinocalypse] . But now, in _Sally Slick and the Steel Syndicate_ we'll see how the 15 years _Sally Slick_ with his friend _Jackson "Jet" Black_ started into adventure. Before even fight evil _"for real"_, the two outcast kids were already weirdos for the 1910s standards: a girl for whom the farm life is not enough and chasing boys is not as good as turning a common looking tractor into a kind of 1910 monster truck and his friend, a scrawny boy that stands for what's right even after being thrashed again and again by the local bully Eugene Falks. Not the kind of kids you would expect would be something in life, right?
 
 But when Sally's older brother James came back from Chicago, he brought with him some nasty problems, in the form of a faulty prototype automaton, the ___Bipedal Energetic Mechanism___, that he tried to hide into Slicks property's graveyard. He was  working on it with his boss, the weird scientist Doktor Proktor and that put him somewhat into a big mess with the evil crime mob called _Steel Syndicate_. To save her family from the menace of the Steel Syndicate's goons that came to take the BEM and (maybe) her brother's life, Sally fight the big guys first time. 
 
@@ -86,3 +86,5 @@ I can recommend it as 4.5 in 5: there's some points where the terms can be a lit
 [pg]: https://www.gutenberg.org/
 [tom-swift]: https://www.gutenberg.org/ebooks/author/267
 [circus-boys]: https://www.gutenberg.org/ebooks/author/928
+[sotc]: http://www.evilhat.com/home/spirit-of-the-century-2/
+[dinocalypse]: https://www.kickstarter.com/projects/evilhat/spirit-of-the-century-presents-the-dinocalypse-tri
