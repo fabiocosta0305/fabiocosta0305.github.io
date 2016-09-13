@@ -77,7 +77,7 @@ It's nice to see Sally Slick growing, how her nonconformism and her ambitions he
 
 We can see that there'll be a big future for Sally, but also can see she's not perfect: she (at least in the beginning) still feel the social pressures about _being a girl_, has doubts, freezes under pressure. But in the end, we see a Sally Slick prepared for the challenges the future prepares.
 
-I can recommend it as 4.5 in 5: there's some points where the terms can be a little confusing, things like _dingy_ (somber or dark) and _yahoo_ (brutes)  that are 1910s slang and somewhat confuses a little... But aside this little thing, the book is a must for those who liked _Spirit of the Century_, _Dinocalypse Trilogy_ or other _Spirit of the Century presents_ books.
+I can recommend it as 4.5 in 5: there's some points where the terms can be a little confusing, things like _dingy_ (somber or dark) and _yahoo_ (brutes)  that are 1910s slang and somewhat confuses a little... But aside this little thing, the book is a must for those who liked [_Spirit of the Century_][sotc], [_Dinocalypse Trilogy_][dinocalypse] or other _Spirit of the Century presents_ books.
 
 ---
 
