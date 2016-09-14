@@ -31,10 +31,10 @@ layout: default
 <li/><b>YEAR:</b> {{ page.book_info.year }}
 {% endif %}
 {% if page.book_info.isbn %}
-<li/><b>ISBN:</b> {{ page.book_info.year }}
+<li/><b>ISBN:</b> {{ page.book_info.isbn }}
 {% endif %}
 {% if page.book_info.pages %}
-<li/><b># of pages:</b> {{ page.book_info.year }}
+<li/><b># of pages:</b> {{ page.book_info.pages }}
 {% endif %}
 {% if page.book_info.formats %} 
 <li/><b>FORMATS:</b> {{ page.book_info.formats | sort | join: '; ' }}
