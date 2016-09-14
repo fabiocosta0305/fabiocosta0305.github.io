@@ -2,7 +2,7 @@
 teaser: O Podcast dos Algozes dos Jogadores!
 subheadline: O Clube das Ciências Proibidas, onde loucos jovens buscarão a dominação mundial, ou apenas simplesmente coisas legais!
 title: O Clube das Ciências Proibidas
-date: 2016-09-04 10:00:00 -0300
+date: 2016-09-14 10:00:00 -0300
 layout: post
 categories:
   - RPG
