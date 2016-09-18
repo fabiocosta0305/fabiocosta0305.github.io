@@ -33,7 +33,7 @@ header: no
 
 + _Dagda's Cauldron:_ Mairead is blessed with a quasi-supernatural knack to find and use everything around her to feed and provide herself and/or everyone with they need. _Twice per session_, Mairead can declare that she can take what is near her to provide everyone with their basic needs. This came in game as Aspects with one Free Invoke per Aspect, that are named like _"This grub is really good!"_ or _"Those clothes in the trash are still good to be used!"_.
 
-## Common Stunts [ Recarga: 3 ]
+## Common Stunts [ Refresh: 3 ]
 
 + _I Just Have the thing:_ (p.92) 
 + _Q.E.D.:_ (p.93)
