@@ -14,7 +14,7 @@ header: no
 |------------------|-------------------------------------------------------------------------|
 | __High Concept__ | A girl from a Irish family that lives for her community                 |
 | __Trouble__      | _"Not having much is not an excuse to share"_ - Samaritan to the core   |
-|                  | Touched by the _Sidhe_? - Hair and Eys with "shine" colors              |
+|                  | Touched by the _Sidhe_? - Hair and Eyes with "bright" colors            |
 |                  | _Lady_ Danaan knows how I think                                         |
 |                  | Tales, Legends and Stories                                              |
 
