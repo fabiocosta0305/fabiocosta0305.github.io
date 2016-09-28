@@ -23,10 +23,8 @@ book_info:
   isbn: 978-1-61317-121-9
   pages: 160
   formats:
-    - Hardcover
-    - ePub
+    - Hard Cover
     - PDF
-    - MOBI (Kindle)
   buy_at:
     - site: Amazon.com (Hard Cover)
       link: https://www.amazon.com/Evil-Hat-Productions-EHP0018-Centurions/dp/1613171218
