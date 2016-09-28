@@ -26,7 +26,7 @@ header: no
 | __Clever__      | _Fair (+2)_ |
 | __Flashy__      | _Fair (+2)_ |
 | __Forceful__    | _Mediocre (+0)_ |
-| __Quick_        | _Average (+1)_  |
+| __Quick__        | _Average (+1)_  |
 | __Sneaky__      | _Average (+1)_  |
 
 ## Centurion Stunt
