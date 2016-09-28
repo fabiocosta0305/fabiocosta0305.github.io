@@ -56,4 +56,3 @@ And, with time, this grew even more patent, when little Mairead helped her paren
 
 And that was the way Mairead learned she was one of the _20th Century Spirits_, destined to discover, preserve and reinforce into this century important values and ambitions. She soon learned her role, to reinforce the importance of community, from the little Irish neighborhood in Clinton, Manhattan, to the world, as she knows that every family (and humanity is a family) always shatters from the inside, not from the outside.
 
-#  LocalWords:  Dagda's tuteled

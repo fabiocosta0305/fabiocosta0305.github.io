@@ -2,9 +2,9 @@
 layout: reviews
 date: 2016-09-28 10:00:00 -0300
 title: Young Centurions
-subheadline: It's now your time to be a Centurion, to fight for what is the Good and Right! And do this before supper time... Or ELSE!
+subheadline: "It's now your time to be a Centurion, to fight for what is the Good and Right! And do this before supper time... Or ELSE!"
 categories:
-  - Reviews
+  - reviews
 tags:  
   - Young Centurions
   - Spirit of the Century
