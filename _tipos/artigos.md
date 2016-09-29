@@ -9,7 +9,7 @@ permalink: "/artigos/"
 Artigos que escrevi ou traduzi
         
 <ul>
-    {% for post in site.tags.Artigos %}
+    {% for post in site.tags.Artigos | sort: 'date' %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
@@ -17,7 +17,7 @@ Artigos que escrevi ou traduzi
 Reviews que escrevi
 
 <ul>
-    {% for post in site.categories.reviews %}
+    {% for post in site.categories.reviews | sort: 'date' %}
     <li><a href="{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
 </ul>
