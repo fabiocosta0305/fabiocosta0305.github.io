@@ -106,7 +106,7 @@ I recommend this as a 5/5 stars product. This is a must be product for everyone,
 [sallyslick]: http://www.evilhat.com/home/sally-slick-and-the-steel-syndicate/
 [dalek]: https://www.youtube.com/watch?v=mxD-5z_xHBU
 [malakar-eng]: {% post_url 2016-09-28-Malakar-en %}
-[malakar-eng]: /assets/img/DoctorChildish.jpg
+[DoctorChildish]: /assets/img/DoctorChildish.jpg
 [fae]: http://www.evilhat.com/home/fae/
 [young-centurions]:  http://www.evilhat.com/home/young-centurions/
 [fortivitus]: {% post_url 2016-05-27-Fortivitus.en %}
