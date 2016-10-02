@@ -1,4 +1,3 @@
-
 ---
 title: "Esther Sheridan - A New York High Society Lady, _Century Club_ Sponsor and Melissa Cartway tutor"
 layout: personagens
