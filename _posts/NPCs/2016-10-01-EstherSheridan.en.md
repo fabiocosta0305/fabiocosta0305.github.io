@@ -1,5 +1,6 @@
 ---
 title: "Esther Sheridan - A New York High Society Lady, _Century Club_ Sponsor and Melissa Cartway tutor"
+language: en
 layout: personagens
 categories:
   - npcs 
@@ -23,12 +24,12 @@ header: no
 
 | ***Approach*** | ***Level***     |
 |-----------------|-----------------|
-| __Careful__   | _Razoável (+2)_ |
-| __Clever__      | _Razoável (+2)_ |
-| __Flashy__      | _Bom (+3)_      |
-| __Forceful__    | _Regular (+1)_  |
-| __Quick__       | _Regular (+1)_  |
-| __Sneaky__      | _Bom (+3)_      |
+| __Careful__   | _Fair (+2)_ |
+| __Clever__      | _Fair (+2)_ |
+| __Flashy__      | _Good (+3)_      |
+| __Forceful__    | _Average (+1)_  |
+| __Quick__       | _Average (+1)_  |
+| __Sneaky__      | _Good (+3)_      |
 
 ## Stunts [ Refresh: 3 ]
 
