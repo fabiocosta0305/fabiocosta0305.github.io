@@ -17,7 +17,22 @@ Artigos que escrevi ou traduzi
 Reviews que escrevi
 
 <ul>
-    {% for post in site.categories.reviews | sort: 'date' %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-    {% endfor %}
+    <li><h3>Em Português</h3>
+        <ul>
+             {% for post in site.categories.reviews | sort: 'date' %}
+                 {% if post.language == "pt" %}
+                 <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                 {% endif %}
+             {% endfor %}
+        </ul>
+    </li>
+    <li><h3>Em Inglês</h3>
+        <ul>
+             {% for post in site.categories.reviews | sort: 'date' %}
+                 {% if post.language == "en" %}
+                 <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                 {% endif %}
+             {% endfor %}
+        </ul>
+    </li>
 </ul>
