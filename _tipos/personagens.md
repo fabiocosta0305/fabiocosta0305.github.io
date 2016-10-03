@@ -8,7 +8,7 @@ permalink: "/personagens/"
     
 Alguns personagens exemplos que eu criei
 
-{% capture site_tags %}{% for post in site.categories.personagens %}{% for tag in post.tags %}{{ tag | lstrip | rstrip }},{% endfor %}{% endfor %}
+{% capture site_tags %}{% for post in site.categories.personagens %}{% if post.language == "en" %}{% continue %}{% else %}{% for tag in post.tags %}{{ tag | lstrip | rstrip }},{% endfor %}{% endif %}{% endfor %}
 {% endcapture %}
 
 <!-- `tag_words` is a sorted array of the tag names. -->
@@ -32,6 +32,7 @@ Alguns personagens exemplos que eu criei
    <li><h3> {{ tag }} </h3></li>
    <ul>
    {% assign sorted_pages = (site.categories.personagens | sort: 'title') %}
+   {% if post.language == "en" %}{% continue %}{% endif %}
    {% for post in sorted_pages %}
    {% if post.tags contains tag %}
    <li><a href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }} </a> </li>
@@ -63,7 +64,7 @@ Alguns personagens exemplos que eu criei
 
 Some characters I did (in English)
 
-{% capture site_tags %}{% for post in site.categories.characters %}{% for tag in post.tags %}{{ tag | lstrip | rstrip }},{% endfor %}{% endfor %}
+{% capture site_tags %}{% for post in site.categories.personagens %}{% if post.language != "en" %}{% continue %}{% else %}{% for tag in post.tags %}{{ tag | lstrip | rstrip }},{% endfor %}{% endif %}{% endfor %}
 {% endcapture %}
 
 <!-- `tag_words` is a sorted array of the tag names. -->
@@ -86,8 +87,9 @@ Some characters I did (in English)
    {% endif %}
    <li><h3> {{ tag }} </h3></li>
    <ul>
-   {% assign sorted_pages = (site.categories.characters | sort: 'title') %}
+   {% assign sorted_pages = (site.categories.personagens | sort: 'title') %}
    {% for post in sorted_pages %}
+   {% if post.language != "en" %}{% continue %}{% endif %}
    {% if post.tags contains tag %}
    <li><a href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }} </a> </li>
    {% endif %}
