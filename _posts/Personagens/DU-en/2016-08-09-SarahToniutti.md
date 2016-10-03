@@ -2,8 +2,9 @@
 subheadline: A Soldier that shoots where it hurts more
 title: Sarah Toniutii
 layout: personagens
+language: en
 categories:
-  - characters
+  - personagens
 tags:
   - Dystopian Universe (Beta Playtest)
 header: no

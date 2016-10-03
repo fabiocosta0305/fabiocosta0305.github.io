@@ -1,8 +1,9 @@
 ---
 title: Mayfield Wright - Philanthropic Spirit
 layout: personagens
+language: en
 categories:
-  - characters
+  - personagens
 tags:
   - Young Centurions
 header: no

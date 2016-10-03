@@ -1,5 +1,6 @@
 ---
 title: "Mastermind Hero Type"
+language: en
 layout: post
 categories:
   - wtc

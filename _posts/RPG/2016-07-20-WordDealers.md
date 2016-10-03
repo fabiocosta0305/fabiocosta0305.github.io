@@ -1,7 +1,8 @@
 ---
 title: Word Dealers
 subtilte: A fantastic setting on people fighting mean Projections using their Stationary Papers
-layout: default
+layout: post
+language: en
 categories:
   - RPG
 tags:

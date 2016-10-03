@@ -1,7 +1,7 @@
 ---
 layout: reviews
 date: 2016-09-12 10:00:00 -0300
-title: Sally Slick and the Steel Syndicate
+title: Review - Sally Slick and the Steel Syndicate
 subheadline: The beginning of the Young Centurions saga, where Sally fights against a crazy crime boss
 language: en
 categories:

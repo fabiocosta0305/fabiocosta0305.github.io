@@ -1,8 +1,9 @@
 ---
 title: Marcellus "Malakar" Alatriste - Spirit of Fantasy        
 layout: personagens
+language: en
 categories:
-  - characters
+  - personagens
 tags:
   - Young Centurions
 header: no

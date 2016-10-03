@@ -2,8 +2,9 @@
 subheadline: "The Mistress of Beasts that wants to protect Umdaar's Animals"
 title: "Leona - Mistress of Beasts"
 layout: personagens
+language: en
 categories:
-  - characters
+  - personagens
 tags:
   - Masters Of Umdaar 
 ---

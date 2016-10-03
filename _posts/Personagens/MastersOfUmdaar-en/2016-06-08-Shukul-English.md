@@ -2,8 +2,9 @@
 subheadline: A warrior in a quest for take his people back from the Masters of Umdaar
 title: "Shukul - Heir of the _Crystal Blade_"
 layout: personagens
+language: en
 categories:
-  - characters
+  - personagens
 tags:
   - Masters Of Umdaar 
 header: no

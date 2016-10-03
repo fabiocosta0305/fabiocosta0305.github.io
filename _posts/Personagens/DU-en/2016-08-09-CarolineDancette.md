@@ -2,8 +2,9 @@
 subheadline: The ex-civ data analyst that provides information when she can
 title: Caroline Dancette
 layout: personagens
+language: en
 categories:
-  - characters
+  - personagens
 tags:
   - Dystopian Universe (Beta Playtest)
 header: no

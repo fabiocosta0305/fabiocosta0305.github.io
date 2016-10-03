@@ -2,6 +2,7 @@
 subheadline: An ancient Demiurg monolyth ressurge from the past and a run for their knowledge and Artifacts starts
 title: The Monolyth from the Past
 layout: post
+language: en
 categories:
   - Adventures
 tags:

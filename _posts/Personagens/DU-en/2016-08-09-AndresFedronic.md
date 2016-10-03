@@ -2,8 +2,9 @@
 subheadline: The Cleaner that has enought blod in his hand, but could kill a little more for a better future
 title:  Andrés Fedronic
 layout: personagens
+language: en
 categories:
-  - characters
+  - personagens
 tags:
   - Dystopian Universe (Beta Playtest)
 header: no

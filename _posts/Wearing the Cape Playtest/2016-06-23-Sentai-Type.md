@@ -1,5 +1,6 @@
 ---
 title: "Sentai Type"
+language: en
 layout: post
 categories:
   - wtc

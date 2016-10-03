@@ -2,8 +2,9 @@
 subheadline: "The Numan ranger without property sense"
 title: "Sheila - the Rogue Ranger"
 layout: personagens
+language: en
 categories:
-  - characters
+  - personagens
 tags:
   - Masters Of Umdaar 
 ---

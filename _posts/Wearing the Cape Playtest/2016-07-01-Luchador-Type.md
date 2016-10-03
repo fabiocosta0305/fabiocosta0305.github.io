@@ -1,5 +1,6 @@
 ---
 title: "Luchador Type"
+language: en
 subheadline: A Sample Character for Wearing the Cape (Playtest)
 layout: post
 categories:

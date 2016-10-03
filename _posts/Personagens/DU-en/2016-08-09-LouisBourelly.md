@@ -2,8 +2,9 @@
 subheadline: A Hacker that wants to find his sister
 title: Louis Bourelly
 layout: personagens
+language: en
 categories:
-  - characters
+  - personagens
 tags:
   - Dystopian Universe (Beta Playtest)
 header: no

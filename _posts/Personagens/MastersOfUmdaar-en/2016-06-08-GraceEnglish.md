@@ -2,8 +2,9 @@
 subheadline: The young Element-tamer from the Fartime Monastery of Umdaar
 title: "Grace - the Element-tamer"
 layout: personagens
+language: en
 categories:
-  - characters
+  - personagens
 tags:
   - Masters Of Umdaar 
 ---

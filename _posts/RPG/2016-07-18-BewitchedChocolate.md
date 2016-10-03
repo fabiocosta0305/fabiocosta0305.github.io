@@ -1,6 +1,7 @@
 ---
 title: The Bewitched Chocolate
 subtilte: An new letter for _Do - Fate of the Pilgrim Temple_, based on a Tale from _Little Wizards_
+language: en
 layout: page
 categories:
   - Adventures

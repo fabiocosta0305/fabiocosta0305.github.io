@@ -2,8 +2,9 @@
 subheadline: The Blueblood lady that can deal everything for the needed love from _Dystopian Universe_
 title:  Amanda Manadou
 layout: personagens
+language: en
 categories:
-  - characters
+  - personagens
 tags:
   - Dystopian Universe (Beta Playtest)
 header: no

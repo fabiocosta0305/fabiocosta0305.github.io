@@ -2,8 +2,9 @@
 subheadline: The Usato Monk from the Green Valley of Umdaar
 title: "Tu'an-Yao - the Usato Monk"
 layout: personagens
+language: en
 categories:
-  - characters
+  - personagens
 tags:
   - Masters Of Umdaar 
 header: no

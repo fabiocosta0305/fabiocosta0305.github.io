@@ -1,10 +1,11 @@
 ---
 title: "Hufflepuff (Real Name: Juan Manuel Acierdo)"
 subheadline: A Sample Character for Wearing the Cape (Playtest)
+language: en
 layout: personagens
 categories:
-  - characters
   - wtc
+  - personagens
 tags:
  - Wearing the Cape (Playtest)
 header: no

@@ -2,8 +2,9 @@
 subheadline: The malcontent Artiste that wants to bring the Romantic France back to _Dystopian Universe_
 title: Vincent Bouvet
 layout: personagens
+language: en
 categories:
-  - characters
+  - personagens
 tags:
   - Dystopian Universe (Beta Playtest)
 header: no

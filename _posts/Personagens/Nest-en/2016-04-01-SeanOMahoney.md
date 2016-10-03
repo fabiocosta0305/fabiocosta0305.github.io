@@ -3,8 +3,9 @@ title:  "Sean O'Mahoney"
 subheadline: A Sample Character for Nest - A World of Adventure
 layout: personagens
 date: 2015-07-30 15:09
+language: en
 categories:
- - characters
+  - personagens
 tags:
  - Nest
 header: no

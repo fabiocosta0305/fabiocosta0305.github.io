@@ -2,8 +2,9 @@
 subheadline: The Natural person who hungers for the old times
 title: Floriane Lobert
 layout: personagens
+language: en
 categories:
-  - characters
+  - personagens
 tags:
   - Dystopian Universe (Beta Playtest)
 header: no

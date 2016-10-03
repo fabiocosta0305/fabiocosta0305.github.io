@@ -1,7 +1,7 @@
 ---
 layout: reviews
 date: 2016-09-28 10:00:00 -0300
-title: Young Centurions
+title: Review - Young Centurions
 language: en
 subheadline: "It's now your time to be a Centurion, to fight for what is the Good and Right! And do this before supper time... Or ELSE!"
 categories:

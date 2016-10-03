@@ -1,8 +1,9 @@
 ---
 title: Mairead Mag Raith (McRae), Community Spirit
 layout: personagens
+language: en
 categories:
-  - characters
+  - personagens
 tags:
   - Young Centurions
 header: no

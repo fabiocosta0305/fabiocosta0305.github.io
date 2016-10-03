@@ -2,8 +2,9 @@
 subheadline: The Spirit of Optimism for Young Centurions!
 title: Nicola Castrogiovanni - Spirit of Optimism
 layout: personagens
+language: en
 categories:
-  - characters
+  - personagens
 tags:
   - Young Centurions
 header: no
