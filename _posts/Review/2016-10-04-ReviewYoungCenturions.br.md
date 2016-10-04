@@ -41,7 +41,7 @@ Vamos lá: você deve ter lido [_Espírito do Século_][sotc], algum dos livros 
 
 E não estou falando de disparar raios ou bolas de fogo (existem outros RPGs sobre isso), mas serem capazes de convencer os outros a dar-lhes roupas limpas, [apelar ao lado bom dos outros][nicola-eng], [colocar sua mente fantasiosa para atrapalhar os bandidos][malakar-eng], ou ao [chamar o coração da Terra e os espíritos da natureza em seu favor][ibi-eng].
 
-E _Young Centurions RPG_ é esse RPG.
+E _Young Centurions_ é esse RPG.
 
 _Young Centurions_ é um produto da Evil Hat baseado em [_Fate Acelerado)_][fae] que nos leva de volta no tempo do cenário de [_Espírito do Século_][sotc]. Nos anos 1910, os _Espíritos do Século 19_, as representações das ambições e esperanças do século anterior, agora estão fracos e procuram por todo o mundo as crianças especiais que nasceram nos primeiros segundos do século 20, no dia 1° de Janeiro de 1901, para os levar ao _Clube do Século_, essa instituição especial onde eles irão aprender mais sobre os talentos especiais que possuem como _Espíritos do Século 20_ e sobre suas contrapartes, as Sombras, os esqueletos no armário deixados pelo século anterior e os desejos e ambições mais sombrios que o novo século traz, e sobre como essa batalha milenar, século após século, entre os Espíritos e as Sombras de certa maneira vem afetando e moldando o destino do mundo.
 
