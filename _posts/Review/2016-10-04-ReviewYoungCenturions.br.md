@@ -102,7 +102,7 @@ Esse é um produto na minha opinião 5 de 5, um produto obrigatório para quem g
 [dinocalypse]: http://www.evilhat.com/home/dinocalypse-now/
 [shialabeouf]: https://www.youtube.com/watch?v=ZXsQAXx_ao0
 [mairead-eng]: {% post_url 2016-04-28-MaireadMagRaith %}
-[ibi-eng]: {% post_url 2016-09-18-Ibi-en %}
+[ibi-eng]: {% post_url 2016-10-05-Ibi %}
 [nicola-eng]: {% post_url 2016-04-01-NicolaCastrogiovanni-Brasil %}
 [sallyslick]: http://www.evilhat.com/home/sally-slick-and-the-steel-syndicate/
 [dalek]: https://www.youtube.com/watch?v=mxD-5z_xHBU
