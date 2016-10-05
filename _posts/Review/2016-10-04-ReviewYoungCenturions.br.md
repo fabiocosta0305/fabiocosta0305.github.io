@@ -2,7 +2,7 @@
 layout: reviews
 #date: 2018-09-28 10:00:00 -0300
 title: Resenha - Young Centurions
-language: en
+language: br
 subheadline: Agora é a sua vez de ser um Jovem Centurião, para lutar pelo que é Certo e Bom! E o fazer até a hora do jantar! SENÃO....
 categories:
   - reviews
