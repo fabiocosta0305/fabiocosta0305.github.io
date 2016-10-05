@@ -32,8 +32,8 @@ Alguns personagens exemplos que eu criei
    <li><h3> {{ tag }} </h3></li>
    <ul>
    {% assign sorted_pages = (site.categories.personagens | sort: 'title') %}
-   {% if post.language == "en" %}{% continue %}{% endif %}
    {% for post in sorted_pages %}
+   {% if post.language == "en" %}{% continue %}{% endif %}
    {% if post.tags contains tag %}
    <li><a href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }} </a> </li>
    {% endif %}
@@ -47,6 +47,7 @@ Alguns personagens exemplos que eu criei
   {% assign tag = "" %}
   {% assign first = "" %}
   {% for post in site.categories.personagens %}
+  {% if post.language != "en" %}
   {% if post.tags != tag %}
   {% if first != "" %}
   </ul>
@@ -57,6 +58,7 @@ Alguns personagens exemplos que eu criei
   <ul>
   {% endif %}
    <li><a href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }} </a> </li>
+   {% endif %}
     {% endfor %}
   </ul>
 </ul>
