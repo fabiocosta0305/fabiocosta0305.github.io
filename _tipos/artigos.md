@@ -20,7 +20,7 @@ Reviews que escrevi
     <li><h3>Em Português</h3>
         <ul>
              {% for post in site.categories.reviews | sort: 'date' %}
-                 {% if post.language == "pt" %}
+                 {% if post.language == "br" %}
                  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
                  {% endif %}
              {% endfor %}
