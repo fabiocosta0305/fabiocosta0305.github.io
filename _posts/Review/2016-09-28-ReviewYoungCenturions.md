@@ -110,5 +110,5 @@ I recommend this as a 5/5 stars product. This is a must be product for everyone,
 [DoctorChildish]: /assets/img/DoctorChildish.jpg
 [fae]: http://www.evilhat.com/home/fae/
 [young-centurions]:  http://www.evilhat.com/home/young-centurions/
-[fortivitus]: {% post_url 2016-05-27-Fortivitus.en %}
+[fortivitus]: {% post_url 2016-05-27-Fortivitus-en %}
 [jelly-babies]: https://www.youtube.com/watch?v=mfisgGuuUD8
