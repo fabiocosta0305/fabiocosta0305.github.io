@@ -16,9 +16,11 @@ pcs:
   - name:  Jean-Jacques le Blanc
     kind: Le Exilés/Natural
     player: Luis Cavalheiro
+    link: /personagens/JeanJacquesLeBlanc/
   - name:  Remy Fayat
     kind: Le Cityoéns/Hacker
     player: 'Paulo "Meirense" França'
+    link: /personagens/RemyFayat/
 language: en
 ---
 
