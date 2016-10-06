@@ -36,3 +36,26 @@ Reviews que escrevi
         </ul>
     </li>
 </ul>
+
+Relatos de Jogo
+
+<ul>
+    <li><h3>Em Português</h3>
+        <ul>
+             {% for post in site.categories.game-report | sort: 'date' %}
+                 {% if post.language contains "br" %}
+                 <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                 {% endif %}
+             {% endfor %}
+        </ul>
+    </li>
+    <li><h3>Em Inglês</h3>
+        <ul>
+             {% for post in site.categories.game-report | sort: 'date' %}
+                 {% if post.language contains "en" %}
+                 <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                 {% endif %}
+             {% endfor %}
+        </ul>
+    </li>
+</ul>
