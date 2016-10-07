@@ -2,7 +2,7 @@
 layout: game-report
 #date: 2016-10-06 10:00:00 -0300
 title: Game Report - Wearing the Cape Beta Playtest - Session 2
-subheadline: Another mission of _La Resisténce_ - New characters... New Challenges... New problems!
+subheadline: Two new _Heroès Sans Frontières_ heroes got a big problem with a Verne Chieftain in Africa
 categories:
   - game-report
 gtags:  
