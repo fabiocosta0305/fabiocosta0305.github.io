@@ -14,7 +14,7 @@ header: no
 | __Type__                                               |   __Aspect__                                                |
 |--------------------------------------------------------|---------------------------------------------------------------|
 | _Class:_                                               | Les Exilés/The Natural                                        |
-| _Why doesn't your community use implants of any kind?_ | Being human is more important than live       |
+| _Why doesn't your community use implants of any kind?_ | Staying human is more important than staying alive       |
 | _How have you learned to be self-sufficient_           | There's no "I" here below    |
 | _Who taught you the skills you buse to survive?_       | My life means nothing without Juliette |
 | _Who has decided you're a threat?_                     | Stepped into _LaFleur Digital Media Corporation_'s feet |
