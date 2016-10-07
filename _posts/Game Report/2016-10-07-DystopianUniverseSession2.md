@@ -25,7 +25,7 @@ pcs:
     kind: Le Societè/Blueblood
     player: César Hitos Araujo
     link: /personagens/CamilleDesjardins/
-  - name:  Martin Le Marteur
+  - name:  Martin Marteau, Le Marteur
     kind: Le Societè/Officer
     player: Silas Marques de Lima
     link: /personagens/MartinLeMarteur/
