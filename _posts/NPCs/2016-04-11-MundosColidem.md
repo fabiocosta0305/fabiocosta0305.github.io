@@ -1,5 +1,6 @@
 ---
 title: "NPCs para a carta _Mundos Colidem_ (___The Worlds Collide___)"
+language: br
 layout: personagens
 categories:
   - npcs

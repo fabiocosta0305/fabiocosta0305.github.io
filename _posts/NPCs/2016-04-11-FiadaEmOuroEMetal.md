@@ -1,5 +1,6 @@
 ---
 title: "NPCs para a carta _Fiada de Metal e Ouro_ (___Spun of Metal and Gold___)"
+language: br
 layout: personagens
 categories:
   - npcs

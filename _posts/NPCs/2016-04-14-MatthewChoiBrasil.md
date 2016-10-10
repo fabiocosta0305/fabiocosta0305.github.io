@@ -2,6 +2,7 @@
 subheadline: "Mentor de Jiang e um dos Patrocinadores do Clube do Século" 
 title: "Matthew (Ma Chao) Choi - Cabeça de Dragão do Templo Pequinês e Patrocinador do _Clube do Século_"
 layout: personagens
+language: br
 categories:
   - npcs 
 tags:

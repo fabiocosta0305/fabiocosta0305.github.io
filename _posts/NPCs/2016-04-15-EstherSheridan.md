@@ -1,6 +1,7 @@
 ---
 title: "Esther Sheridan - Dama da Sociedade de Nova Iorque, Patrocinadora do _Clube do Século_ e tutora de Melissa Cartway"
 layout: personagens
+language: br
 categories:
   - npcs 
 tags:

@@ -8,8 +8,10 @@ permalink: "/NPCs/"
     
 Alguns NPCs exemplos que eu criei
 
+{% assign those_posts = site.categories.npcs  | where: "language", "br" %}
+
 {% capture site_tags %}
-{% for post in site.categories.npcs %}
+{% for post in those_posts %}
 {% for tag in post.tags %}
 {{ tag | lstrip | rstrip }}{% unless tag == "" %},{% endunless %}
 {% endfor %}
@@ -37,7 +39,7 @@ Alguns NPCs exemplos que eu criei
    {% endif %}
    <li><h3> {{ tag }} </h3></li>
    <ul>
-   {% assign sorted_pages = (site.categories.npcs | sort: 'title') %}
+   {% assign sorted_pages = those_posts | sort: 'title' %}
    {% for post in sorted_pages %}
    {% if post.tags contains tag %}
    <li><a href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }} </a> </li>
@@ -50,14 +52,15 @@ Alguns NPCs exemplos que eu criei
 
 Some NPCs I did (in English)
 
+{% assign those_posts = site.categories.npcs | where: "language", "en" %}
+
 {% capture site_tags %}
-{% for post in site.categories.npcs-english %}
+    {% for post in  those_posts %}
 {% for tag in post.tags %}
 {{ tag | lstrip | rstrip }}{% unless tag == "" %},{% endunless %}
 {% endfor %}
 {% endfor %}
 {% endcapture %}
-
 
 <!-- `tag_words` is a sorted array of the tag names. -->
 {% assign tag_words = site_tags | strip_newlines | strip | split:',' | sort %}
@@ -79,7 +82,7 @@ Some NPCs I did (in English)
    {% endif %}
    <li><h3> {{ tag }} </h3></li>
    <ul>
-   {% assign sorted_pages = (site.categories.npcs-english | sort: 'title') %}
+   {% assign sorted_pages = (those_posts | sort: 'title') %}
    {% for post in sorted_pages %}
    {% if post.tags contains tag %}
    <li><a href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }} </a> </li>

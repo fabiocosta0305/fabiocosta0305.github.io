@@ -1,9 +1,10 @@
 ---
-title: "Esther Sheridan - A New York High Society Lady, _Century Club_ Sponsor and Melissa Cartway tutor"
+title: "Esther Sheridan"
+subheadline: "A New York High Society Lady, _Century Club_ Sponsor and Melissa Cartway tutor"
 language: en
 layout: personagens
 categories:
-  - npcs 
+  - npcs
 tags:
   - Young Centurions
 header: no

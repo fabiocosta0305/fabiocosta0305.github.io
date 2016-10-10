@@ -1,6 +1,7 @@
 ---
 title: "NPCs para a carta _Catástrofe da Lua Dançarina_ (___The Dancing Moon Catastrophe___)"
 layout: personagens
+language: br
 categories:
   - npcs
 tags:

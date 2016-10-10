@@ -1,6 +1,7 @@
 ---
 title: "NPCs para a carta _O Rei Peregrino_ (___The Pilgrim King___)"
 layout: personagens
+language: br
 categories:
   - npcs
 tags:

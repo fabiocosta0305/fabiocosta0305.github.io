@@ -1,5 +1,6 @@
 ---
 title: "NPCs para a carta _A Lua Silenciosa_ (___The Silent Moon___)"
+language: br
 layout: personagens
 categories:
   - npcs

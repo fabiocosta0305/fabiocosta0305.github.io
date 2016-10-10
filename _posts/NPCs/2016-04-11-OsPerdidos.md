@@ -1,5 +1,6 @@
 ---
 title: "NPCs para a carta _Os Perdidos_ (___The Lost Ones___)"
+language: br
 layout: personagens
 categories:
   - npcs

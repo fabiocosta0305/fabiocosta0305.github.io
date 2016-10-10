@@ -1,6 +1,7 @@
 ---
 subheadline: "O Circo onde Nicola e Don Cagliostro vivem em Young Centurions" 
 title: "_McNash & Sullivan - Circus and Shows_"
+language: br
 layout: personagens
 categories:
   - npcs 
