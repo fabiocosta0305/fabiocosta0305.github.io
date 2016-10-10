@@ -15,7 +15,7 @@ header: no
 | __Type__                                               |   __Aspect__                                |
 |--------------------------------------------------------|---------------------------------------------|
 | _Class:_                                               | La Societé/The Officer                          |
-| _What Militant Organization You are in charge for?_    | _Marteau de La Paix_  (_Peace Hammer's_ - Government Assassins) |
+| _What Militant Organization You are in charge for?_    | _Marteur de La Paix_  (_Peace Hammer's_ - Government Assassins) |
 | _Why do you deserve that position?_                    | Efficent on making government's enemies "disappear"     |
 | _What do you hide from your subordinates?_             | My deceased son was an Ex-Cit    |
 | _Who is your greatest enemy?_                          | The assassin of my son, my daughter  |
