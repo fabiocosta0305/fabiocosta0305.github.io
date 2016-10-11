@@ -148,7 +148,7 @@ The first problem to fight Anthony in the Balloon is to get there: he's ___High 
 
 The other problem is: he's ___High in The sky___, and the balloon is not big enough for many of them fight without friendly fire: GM, at any failed Attack by a PC, roll a dF: a + roll means that he'll potentially hit a friend - he'll Defend normally against his friend "Attack".
 
-Any time a PC fails his Defense, you can make a good Cliffhanger to put them into a ___"I'm falling!"___ Aspect and make the other PCs save him someway (or let them fall for death... Or to be recued out by ___A Scrawny Kid with a Jet Pr=ack...____)
+Any time a PC fails his Defense, you can make a good Cliffhanger to put them into a ___"I'm falling!"___ Aspect and make the other PCs save him someway (or let them fall for death... Or to be recued out by ___A Scrawny Kid with a Jet Pack...___)
 
 A better iead is to just ___shut down the burners___, so the balloon get down. A Failure on this _Overcome_ can either represent the PCs were not able to shut the burners out or that they did this in a way they'll ___Fall Like a Rock!!!!___. Make them do checks to defend against a ___Great (+4)_ Attack__ if they fall: this is a very great fall.
 
