@@ -21,7 +21,7 @@ header: no
 
 ## Abordagem
 
-| ***Approach***  | ***Level***     |
+| ***Abordagem*** | ***Nível***     |
 |-----------------|-----------------|
 | __Ágil__        | _Regular (+1)_  |
 | __Cuidadoso__   | _Razoável (+2)_ |

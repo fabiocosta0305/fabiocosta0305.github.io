@@ -39,22 +39,22 @@ Reviews que escrevi
 
 Relatos de Jogo
 
+{% assign reports_br = site.categories.game-report | where: 'language','br' %}
+
+{% assign reports_en = site.categories.game-report | where: 'language','en' %}
+
 <ul>
     <li><h3>Em Português</h3>
         <ul>
-             {% for post in site.categories.game-report | sort: 'date' %}
-                 {% if post.language contains "br" %}
+             {% for post in reports_br  | sort: 'date' %}
                  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-                 {% endif %}
              {% endfor %}
         </ul>
     </li>
     <li><h3>Em Inglês</h3>
         <ul>
-             {% for post in site.categories.game-report | sort: 'date' %}
-                 {% if post.language contains "en" %}
+             {% for post in reports_en | sort: 'date' %}
                  <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-                 {% endif %}
              {% endfor %}
         </ul>
     </li>

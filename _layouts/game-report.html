@@ -22,7 +22,7 @@ layout: default
             </li>
             <ul>
                 {% for player_data in page.pcs %}
-                <li>{% if player_data.link %}<a href="{{ player_data.link }}">{% endif %}<b>{{ player_data.player }}</b> as <i>{{ player_data.name}}</i> (<b>Type:</b> {{player_data.kind}});{% if player_data.link %}</a>{% endif %}</li>
+                <li>{% if player_data.link %}<a href="{{ player_data.link }}">{% endif %}<b>{{ player_data.player }}</b> as <i>{{ player_data.name}}</i> {% if player_data.kind %}(<b>Type:</b> {{player_data.kind}}){% endif %};{% if player_data.link %}</a>{% endif %}</li>
                     {% endfor %}
                     {% endif %}
 {% else %}
@@ -33,7 +33,7 @@ layout: default
                     <li><b>Jogadores:</b></li>
                     <ul>
                         {% for player_data in page.pcs %}
-                        <li>{% if player_data.link %}<a href="{{ player_data.link }}">{% endif %}<b>{{ player_data.player }}</b> como <i>{{ player_data.name}}</i> (<b>Tipo:</b> {{player_data.kind}});{% if player_data.link %}</a>{% endif %}</li>
+                        <li>{% if player_data.link %}<a href="{{ player_data.link }}">{% endif %}<b>{{ player_data.player }}</b> como <i>{{ player_data.name}}</i> {% if player_data.link %}(<b>Tipo:</b> {{player_data.kind}}){% endif %};{% if player_data.link %}</a>{% endif %}</li>
                             {% endfor %}
     </b>
     {% endif %}
