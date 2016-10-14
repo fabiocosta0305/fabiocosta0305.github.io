@@ -50,7 +50,7 @@ This scene take a little more time, as this is spaced between October 2nd to Oct
 
 First of all, the PCs will think on the costumes they'll use in the Masquerade they'll want to use. Remember: 1910s was not a time known about have lots of fabric to do exquisite costumes like the 2010s. In that time, normally they took some old clothes and made some thing on them to customize them for what they want. Please, please, PRETTY PLEASE, don't get on things like blackface/brownface/yelloface/other sensitive questions UNLESS you have good players. If you want, this is an adventure where X-Card rules could apply, as the 1910s Halloweens were full on sensitive topics. 
 
-Make them create the costumes: a _Average (=1)_ check would be good enough. However, if they want to be _Successful with Style_, take hold on a _Ridiculous Costume_ Boost that you could use against them in the adventure. 
+Make them create the costumes: a _Average (=1)_ check would be good enough. However, if they want to be _Successful with a Cost_, take hold on a _Ridiculous Costume_ Boost that you could use against them in the adventure. 
 
 They can also combine to do a _guising_, where they could get with more sweets and trinkets in the Halloween. Let them choose what they want to do and talk with them about guising (basically, it trick-or-treat, but lighter, where the kids do I kind of gag or singing to asks for more sweets).
 
