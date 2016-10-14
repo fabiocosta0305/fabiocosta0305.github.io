@@ -18,6 +18,8 @@ header: no
 
 Estava revisitando algumas coisas mais antigas que escrevi sobre Fate e resolvi expandir e melhorar um exemplo que o Felipe Dalmatti coletou para o [Medium](https://medium.com/fate-rpg/uma-c%C3%ADlada-para-roger-habbit-d45527e68f09#.tvj5hm1x4) e que tinha divulgado previamente na comunidade do Fate Brasil.
 
+No caso, é a cena de _Uma Cilada Para Roger Rabbit_ onde Eddie enfrenta as Doninhas e as mata de tanto rir!
+
 ## Estatísticas Importantes
 
 ### Eddie Valiant 
