@@ -2,8 +2,12 @@
 layout: default
 ---
 
-{% if language=="en" %}
+{% if page.language == "en" %}
+
 {% include reviews.en.html %}
-{% else if language=="br" %}
+
+{% else if page.language == "br" %}
+
 {% include reviews.br.html %}
+
 {% endif %}

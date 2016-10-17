@@ -84,7 +84,6 @@ I can recommend it as 4.5 in 5: there's some points where the terms can be a lit
 
 > __DISCLAIMER:__ I've received copies of ___Sally Slick and the Steel Syndicate___, ___Young Centurions___ and the upcoming ___Sally Slick and the Miniature Menace___ from Evil Hat for review. This review express my own opinions and only my own, and they can be not accurate. I would like to thank my cousin and friend [_Leonardo Melo_](http://twitter.com/leomeloxp), that did some corrections in the text. Thank you, Leo!
 
-[pg]: https://www.gutenberg.org/
 [tom-swift]: https://www.gutenberg.org/ebooks/author/267
 [circus-boys]: https://www.gutenberg.org/ebooks/author/928
 [sotc]: http://www.evilhat.com/home/spirit-of-the-century-2/
