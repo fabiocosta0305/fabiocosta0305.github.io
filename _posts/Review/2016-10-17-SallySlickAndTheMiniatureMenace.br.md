@@ -19,7 +19,7 @@ book_info:
   publisher:
     name: Evil Hat Productions, LCC
     link: http://www.evilhat.com
-  year: 2016 (November 8th)
+  year: 2016 (8 de Novembro)
   isbn:  978-1-61317-125-7
   formats:
     - Paperback
