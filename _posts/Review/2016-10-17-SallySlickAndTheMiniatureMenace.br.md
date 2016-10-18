@@ -1,7 +1,7 @@
 ---
 layout: reviews
 date: 2016-10-17 12:00:00 -0200
-title: Review - Sally Slick and the Miniature Menace
+title: Resenha - Sally Slick and the Miniature Menace
 subheadline: Sally enfrenta desafios que vão álem de sua compreensão, envolvendo o misterioso _Circus Europa_
 language: "br"
 categories:
