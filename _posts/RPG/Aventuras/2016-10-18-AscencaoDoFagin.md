@@ -14,6 +14,16 @@ header: no
 excerpt_separator: <!-- excerpt -->
 ---
 
+Essa é uma aventura para Young Centurions, voltada a personagens iniciantes, que ocorre no Halloween de 1911 em Nova Iorque (_Categoria de Aventura: G/PG_). As cenas iniciais apenas visam apresentar o cenário e colocar o clima da aventura: a ação em si ocorre na Cena Final. 
+
+Como existe a possibilidade de certos assuntos mais sensíveis serem tocados, você enquanto narrador pode querer adotar a regra de [_X-Card_][xcard], pois, devido ao próprio cenário de 1911, pode ser que algumas pessoas resolvam tocar em tópicos sensíveis como racismo, machismo e afins. Se o grupo for suficientemente maduro, tudo bem. Se for um grupo imaturo, tanto como RPGistas quanto como pessoas, é uma boa idéia evitar ao extremo esse tipo de assunto.
+
+Essa é uma aventura com potencial para ação pesada ao final da mesma: jogadores que desejem resolver tudo na base dos punhos (o que não deixa de ser um tanto _pulp_) terão seu momento de glória mais ao final da aventura, deixe isso bem claro. O início envolve alguma investigação e compreensão dos acontecimentos e do cenário...
+
+<!-- excerpt -->
+
+Desse modo, vamos começar.
+
 ## Cena 1 - O Halloween está se aproximando!
 
 ### Aspectos
