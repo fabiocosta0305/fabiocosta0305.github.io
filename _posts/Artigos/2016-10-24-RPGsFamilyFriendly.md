@@ -59,9 +59,9 @@ _Strays_ tem uma grande vantagem de ser bem amplo e permitir que os jogadores (c
 
 ---
 
-![[Do: Fate of the Pilgrim Temple]({{ "/assets/img/Do.jpg" | absolute_url }})]({{ "/assets/img/Do.jpg" | absolute_url }}){: .book_cover}
+![[Do: Fate of the Flying Temple]({{ "/assets/img/Do.jpg" | absolute_url }})]({{ "/assets/img/Do.jpg" | absolute_url }}){: .book_cover}
 
-### Do: Fate of the Pilgrim Temple
+### Do: Fate of the Flying Temple
 
 + **Informações Iniciais**
     + *Autor:* Mark Diaz Truman
@@ -74,7 +74,7 @@ Nos _Muitos Mundos_, uma realidade de planetas estranhos e espaço belo por onde
 
 Mas um novo mistério irá surgir, quando o Templo desaparecer...
 
-Criado por Mark Diaz Truman, baseado no jogo de RPG vencedor do Origins _Do: Pilgrims of the Flying Temple_, _Fate of the Pilgrim Temple_ conta a história dos Peregrinos do Templo Voador que descobrem que alguma força ou motivo fez com que o Templo Voador desaparecesse, deixando em seu lugar ruínas... E um estranho ovo de onde surge um Dragão que irá os acompanhar durante sua jornada, pois a ele chegarão as cartas que os povos dos Muitos Mundos enviam com os mais estranhos problemas, de Deuses Apaixonados a planetas em rota de colisão, até a pedidos de garotinhas que querem que os Peregrinos encontrem seu cachorrinho perdido. Armados dos conhecimentos que o Templo lhes deu, de Dons mágicos que desenolveram, e do pouco bom senso que possuem depois de ter aprendido algumas lições a duras penas fora do Templo, os Peregrinos deverão resolver os problemas dessas cartas enquanto desvendam o mistério por trás do desaparecimento do Templo Voador.
+Criado por Mark Diaz Truman, baseado no jogo de RPG vencedor do Origins _Do: Pilgrims of the Flying Temple_, _Fate of the Flying Temple_ conta a história dos Peregrinos do Templo Voador que descobrem que alguma força ou motivo fez com que o Templo Voador desaparecesse, deixando em seu lugar ruínas... E um estranho ovo de onde surge um Dragão que irá os acompanhar durante sua jornada, pois a ele chegarão as cartas que os povos dos Muitos Mundos enviam com os mais estranhos problemas, de Deuses Apaixonados a planetas em rota de colisão, até a pedidos de garotinhas que querem que os Peregrinos encontrem seu cachorrinho perdido. Armados dos conhecimentos que o Templo lhes deu, de Dons mágicos que desenolveram, e do pouco bom senso que possuem depois de ter aprendido algumas lições a duras penas fora do Templo, os Peregrinos deverão resolver os problemas dessas cartas enquanto desvendam o mistério por trás do desaparecimento do Templo Voador.
 
 Como os demais RPGs aqui listados, _Do_ utiliza o Fate Acelerado, com poucas variações. As mais interessantes são:
 
