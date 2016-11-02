@@ -6,13 +6,7 @@ permalink: "/personagens/"
 ---
 
     
-Alguns personagens exemplos que eu criei
-
-<<<<<<< HEAD
 {% capture site_tags %}{% for post in site.categories.personagens %}{% if post.language == "br" %}{% continue %}{% else %}{% for tag in post.tags %}{{ tag | lstrip | rstrip }},{% endfor %}{% endif %}{% endfor %}
-=======
-{% capture site_tags %}{% for post in site.categories.personagens %}{% if post.language == "en" %}{% continue %}{% else %}{% for tag in post.tags %}{{ tag | lstrip | rstrip }},{% endfor %}{% endif %}{% endfor %}
->>>>>>> 20d9e706d9ced970aa33bd2d7d81efb0c367ab2b
 {% endcapture %}
 
 <!-- `tag_words` is a sorted array of the tag names. -->
@@ -70,11 +64,7 @@ Alguns personagens exemplos que eu criei
 
 Some characters I did (in English)
 
-<<<<<<< HEAD
 {% capture site_tags %}{% for post in site.categories.personagens %}{% if post.language == "en" %}{% continue %}{% else %}{% for tag in post.tags %}{{ tag | lstrip | rstrip }},{% endfor %}{% endif %}{% endfor %}
-=======
-{% capture site_tags %}{% for post in site.categories.personagens %}{% if post.language != "en" %}{% continue %}{% else %}{% for tag in post.tags %}{{ tag | lstrip | rstrip }},{% endfor %}{% endif %}{% endfor %}
->>>>>>> 20d9e706d9ced970aa33bd2d7d81efb0c367ab2b
 {% endcapture %}
 
 <!-- `tag_words` is a sorted array of the tag names. -->
