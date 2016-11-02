@@ -1,6 +1,7 @@
 ---
 subheadline: "Mentor de Oregon e Espírito da Comunicação do Século XIX" 
 title: "Jonah Pendrik - _Espírito da Comunicação do Século XIX_"
+language: br
 layout: personagens
 categories:
   - npcs 

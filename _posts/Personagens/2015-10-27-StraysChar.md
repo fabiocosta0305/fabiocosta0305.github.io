@@ -3,8 +3,9 @@ title: Puffers
 subheadline: A wise old stinker for Strays
 layout: personagens
 date: 2015-10-27 11:00 -0200
+language: en
 categories:
- - characters
+  - personagens
 tags:
  - Strays
 header: no

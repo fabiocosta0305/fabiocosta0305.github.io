@@ -1,10 +1,11 @@
 ---
 title: "Jiminy Cricket (Real Name: Joshua McCarthy)"
 subheadline: A Sample Character for Wearing the Cape (Playtest)
+language: en
 layout: personagens
 categories:
   - wtc
-  - characters
+  - personagens
 tags:
  - Wearing the Cape (Playtest)
 header: no
@@ -24,7 +25,7 @@ In his beginning in HWB, he discovered his powers has three main forms:
 2. He somewhat developed a kind of supernatural "tactical analysis" that allows him to somewhat _precog_ some of the adversaries moves, so he could develop plans to prevent damage and to support team's actions. Although not perfect, this power provide him with ways to help his team;
 3. And the power he used by the first time as a _breakthrough_, that he called _Pretty Please!_, that make people lose his fight will and do things he asked for, although no "meanie" thing (like beat other people or try to kill themselves or others) could be achieved this way. 
 
-He's still working on his powers to help people to grew into agreements. As he loved Disney's _Pinnochio_ and Jiminy Cricket had lots in common with his powers, on counseling good things to the mischievious wood-puppet, he chosed his "cape name" to be Jiminy Cricket, costume as the Disney's version of it he bought at Target for Halloween (which put Disney in hot soup when they tried to sue Jiminy for copyright infringement), and crest as the Jiminy's shadow (or something like that).
+He's still working on his powers to help people to grew into agreements. As he loved Disney's _Pinnochio_ and Jiminy Cricket had lots in common with his powers, on counseling good things to the mischievious wood-puppet, he chosed his "cape name" to be Jiminy Cricket, costumed as the Disney's version of it he bought at Target for Halloween (which put Disney in hot soup when they tried to sue Jiminy for copyright infringement), and crest as the Jiminy's shadow (or something like that).
 
 Anyway, although not a combatant, Jiminy is very useful with his heightend mind, that leaves him with tasks about collecting intel and counter-intelligence (when needed).
 

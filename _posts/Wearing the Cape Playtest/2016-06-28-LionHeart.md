@@ -1,10 +1,11 @@
 ---
 title: "LionHeart (Real Name: Richard 'Ric' McInroy)"
 subheadline: A Sample Character for Wearing the Cape (Playtest)
+language: en
 layout: personagens
 categories:
-  - characters
   - wtc
+  - personagens
 tags:
  - Wearing the Cape (Playtest)
 header: no
@@ -43,8 +44,6 @@ He accepted the terms and gone for training into _HWB_. Escorted by at least thr
 In Edinburg, he passed the same training HWB recruits receives, although at night he gone to the HWB jail and stay for night. It was on those time that a talent that he didn't developed by time was revealed: he's a great cook, and worked a lot into his cooking while in jail as part of his chores.
 
 Now, five years after his judgement he was alloted to Genebra, to be placed into any HWB team. And now he's another person, as much as he now have a new name, _LionHeart_, sanctioned under his parole's terms. He's okay with his situation and wants to do his best. However, he feels some time and again the old urge from _"Bronx Shoulder"_ lurking into his mind and he wants to make them go away. The most shameful thing for him is the special chip it was implanted into his neck to detect his position over time.
-
-
 
 ## Aspects
 

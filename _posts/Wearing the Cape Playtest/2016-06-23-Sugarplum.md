@@ -1,10 +1,11 @@
 ---
 title: "Sugarplum (Real Name: Eileen MacRae)"
 subheadline: A Sample Character for Wearing the Cape (Playtest)
+language: en
 layout: personagens
 categories:
-  - characters
   - wtc
+  - personagens
 tags:
  - Wearing the Cape (Playtest)
 header: no

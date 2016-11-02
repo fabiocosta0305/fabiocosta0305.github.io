@@ -1,5 +1,6 @@
 ---
 title: "NPCs para a carta _O Último Monge?_ (___One Last Monk?___)"
+language: br
 layout: personagens
 categories:
   - npcs

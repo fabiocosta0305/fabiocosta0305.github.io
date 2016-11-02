@@ -2,6 +2,7 @@
 subheadline: Tutor de Mayfield e patrocinador do _Clube do Século_
 title: Amadeu Monteiro, expatriado português e tutor de Mayfield
 layout: personagens
+language: br
 categories:
   - npcs 
 tags:

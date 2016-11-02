@@ -1,9 +1,10 @@
 ---
 title: Señorita Ernestina "Calavera" De La Marea
 subheadline: A Iconoclasta e Descontraída dama de rosto desfigurado que provocou uma revolução nos veículos e na sociedade da Latinoamérica de La Vaporeta
+language: br
 layout: personagens
 categories:
- - NPCs
+ - npcs
 tags:
  - La Vaporeta
 header: no

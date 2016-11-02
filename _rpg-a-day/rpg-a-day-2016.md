@@ -30,6 +30,27 @@ Então, vamos nessa!
 8. ___Capa dura, Brochura ou Digital?___ Acho que qualquer forma é forma, desde que o conteúdo seja acessível. Cada formato tem suas vantagens e desvantagens. Atualmente, tenho consumido mais digital, mas tem muito mais a ver com conveniência que com preferência.
 9. ___Sem considerar o jogo, o que mais deve ser levado em conta em uma sessão ideal:___ Do meu ponto de vista, ter comida (afinal, você fica no mínimo duas horas com a galera) e bebidas, e acima de tudo respeito entre todos os que estão na mesa. Algumas vezes, você gasta tempo e dinheiro para preparar a mesa, imprimir _handouts_ e fichas, e se desloca com uma mochila enorme com dados, livros, fichas e por aí afora. Todos acabam tendo fazer esse deslocamento, e todos podem estar estressados de sua vida fora do RPG, então não tem motivo nenhum que justifique você ser idiota com alguém.
 10. ___Maior surpresa em mesa que já experimentei:___ Foi quando, rolando _Quem derreteu o Raposo?_ (uma aventura tradicional de _1ª Delegacia da Desenholândia_) onde, sem querer, um dos jogadores estourou uma guerra entre gangues de Desenho Animado!
+11. ___Que jogador afeta mais o meu estilo de jogo:___ acho que é aquele que não compra a proposta do jogo. Não me preocupa jogadores que "saem dos trilhos", já que isso é minha função colocar as coisas nos trilhos de volta, e isso sempre pode resultar em situações divertidas. Mas quando um jogador não compra a proposta do jogo, isso afeta demais até os mecanismos para colocar tudo de volta nos eixos.
+12. ___Qual jogo seu grupo quer jogar a seguir e porque:___ como não tenho um grupo fixo, eu vou responder por mim: quero jogar alguma coisa baseada no _Cypher System_ do Monte Cook, em especial [___The Strange___][the-strange]. Ele me lembra bastante Fate e parece muito interessante em uma série de propostas, mas é o tipo de coisa que eu preciso ver funcionando para entender qual é a dele.
+13. ___O que torna uma campanha um sucesso:___ acho que o mesmo que torna qualquer coisa um sucesso: todo mundo se divertir com isso. As (poucas) campanhas que consegui tocar foram bem sucedidas pois todos se divertiram.
+14. ___O_ dream team _de pessoas com as quais já joguei:___ sinceramente, acho que todo mundo com quem já joguei trouxe algo legal em algum moomento.
+15. ___Principal fonte de inspiração para RPGs:___ nenhuma em especial. Gosto muito de utilizar múltiplas referências e tentar pescar ideias interessantes de muitas mídias.
+16. ___Personalidade da história que eu gostaria de ter em uma mesa e de qual sistema:__ Bem.... Acho que [Santos Dumont][santos-dumont] em uma mesa de Fate, em especial de [Atomic Robo][atomic-robo] ou de [Young Centurions][young-centurions]. Isso seria bem interessante.
+17. ___Que personagem ficcional eu gostaria que tivesse em um grupo de RPG:___ [Atlan de Gonozal][atlan], de [Perry Rhodan][perry-rhodan]. O Lorde-Almirante da USO e ex-Imperador de Arcon certamente teria imaginação o bastante para enfrentar os mais complexos desafios que colocasse em mesa. 
+18. ___Que inovação seria mais interessante de ser usada em meus jogos:___  Acho que são os roladores de dados online. No meu caso específico, não uso muito grid ou mapas para combate tático, preferindo utilizar eles mais como representação da região onde a ação tá acontecendo. Por isso, quando uso o [Roll20][roll20], uso ele basicamente para rabiscar mapas e rolar dados. Para armazenar fichas e anotações, prefiro sistemas como o [Google Drive][google-drive] ou o [Classeur][classeur]
+19. ___Melhor maneira de aprender um novo sistema:___ Acho é que é jogando, não tem outro meio. Na verdade, você sempre pode aprender de maneira teórica lendo e percebendo as nuances do mesmo, mas em geral é só colocando a coisa para funcionar que você irá perceber de verdade qual é a boa.
+20. ___Qual o sistema mais desafiador, mas recompensador, que aprendi:___ _Fate_, sem sombra de dúvidas. Ele aparenta ser simples, mas a miríade de nuances que ele oferece torna o jogo muito mais desafiador de se entender. Entretanto, uma vez que você entenda, ele fica muito elegante de ser usado.
+21. ___A compreensão errônea de regras mais interessante que já vi:___ sinceramente, não consigo pensar em nenhuma de imediato
+22. ___Eventos supostamente aleatório que sempre ocorrem nas minhas aventuras:___ mais uma que não consigo lembrar de uma resposta específica
+23. ___Uma das melhores histórias de "Deu Ruim":___ olha... Eu não consigo pensar em uma, pois normalmente quando eu jogo, se dá ruim, dá ruim de verdade.
+24. ___Qual jogo sou mais propenso a dar para outros:___ Sem sombra de dúvidas, Fate Acelerado. É bem enxuto e funciona muito bem para quase tudo
+25. ___O que faz um personagem bom:___ Ser interessante e oferecer opções para o narrador de coisas legais que possam acontecer no cenário
+26. ___Quais hobbies interagem bem com RPG:___ basicamente qualquer coisa _nerd_, como _cardgames_, _cosplay_, séries, etc...
+27. ___A circunstância ou local mais pouco usual no qual já joguei RPG:___ acho que foi quanto tentei mestrar Vampiro: a Máscara com o pé torcido e engessado e em uma sala sem mesas. Ou seja: tive que cruzar a perna por cima do gesso, em uma posição pra lá de incômoda.
+28. ___Uma coisa que me faria ficar surpreso de alguém não ter lido ou assistido:___ _Harry Potter_ ou _Senhor dos Anéis_
+29. ___Se eu pudesse escolher um local qualquer para jogar, onde seria:___ Live de _Castelo Falkenstein_ em algum Castelo ou Palácio da época. Aqui no Brasil ou no Museu do Ipiranga ou no Palácio do Catete. Fora do Brasil, no Palácio de Buckingham ou na _Residenz_ de Munique.
+30. ___Se tivesse recursos ilimitados, a mesa ideal teria:___ _tablets_ com cópias dos manuais e suplementos de jogo necessários e uma _vending machine_ de salgadinhos e refrigerante.
+31. ___O melhor conselho que meu jogo favorito me deu:___ entre regras e narrativa, narrativa vem primeiro
 
 [1]: http://autocratik.blogspot.co.uk/2016/07/rpgaday-is-back.html
 [fate-dice]: https://play.google.com/store/apps/details?id=com.rpgautomails.fatedice
@@ -39,3 +60,11 @@ Então, vamos nessa!
 [mesa-predestinada-young-centurions]: http://mesaspredestinadas.gitlab.io/mesas-predestinadas/podcast/MesasPredestinadas3-SombrasDaMata/
 [mesas-predestinadas]: http://mesaspredestinadas.gitlab.io/
 [ficha-jiminy-daring]: http://localhost:4000/characters/JiminyCricketDaringComics/
+[the-strange]: http://thestrangerpg.com/
+[atomic-robo]: http://www.evilhat.com/home/atomic-robo/
+[santos-dumont]: https://en.wikipedia.org/wiki/Alberto_Santos-Dumont
+[perry-rhodan]: https://en.wikipedia.org/wiki/Perry_Rhodan
+[atlan]: https://pt.wikipedia.org/wiki/Atlan
+[roll20]: http://roll20.com
+[classeur]: http://app.classeur.io
+[google-drive]: http://drive.google.com

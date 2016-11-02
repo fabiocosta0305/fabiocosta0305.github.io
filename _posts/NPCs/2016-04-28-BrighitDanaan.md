@@ -1,6 +1,7 @@
 ---
 title: "_Lady_ Brighit Danaan, _velhota louca (_ Bag Lady _) e Espírito da Comunidade do Século XIX_"
 layout: personagens
+language: br
 categories:
   - npcs 
 tags:

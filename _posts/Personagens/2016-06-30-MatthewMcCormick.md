@@ -38,6 +38,6 @@ Isso tudo aconteceu a dois anos, e Matthew ainda tem problemas para trabalhar co
 
 ## Façanhas [ Recarga: 3 ]
 
-+ __Lógica Fria:__ pode _uma vez por sessão+ anular o uso de Física de Desenho Animado por uma cena ao custo de _1 Ponto de Destino_;
++ __Lógica Fria:__ pode _uma vez por sessão_ anular o uso de Física de Desenho Animado por uma cena ao custo de _1 Ponto de Destino_;
 + __A Força da Lei:__ +2 ao _Criar Vantagens de maneira Esperta_ usando sua autoridade legal como Detetive;
 

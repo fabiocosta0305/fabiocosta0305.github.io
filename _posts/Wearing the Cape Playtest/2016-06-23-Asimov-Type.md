@@ -1,5 +1,6 @@
 ---
 title: "Asimov Type"
+language: en
 layout: post
 categories:
   - wtc
