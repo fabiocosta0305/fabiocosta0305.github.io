@@ -57,6 +57,7 @@ A ___Lógica de Desenho___ é quando personagens de Desenho Animados quer fazer 
 
 Já a ___Lógica Ilógica___ é quando, inconscientemente, o personagem usa a Lógica de Desenho. Este é a clássica cena do coiote que atravessa o penhasco: ele só pode fazer isso porque ele é burro demais e não lembra da existência da gravidade. Neste caso, o Mestre rola (de preferência em segredo) contra Astúcia. Se o PC falhar, ele é bem-sucedido, já que ele não foi inteligente o suficiente para lembrar que a gravidade funciona. Se, no entanto, ele for bem-sucedido no teste, ele simplesmente lembra-se que a gravidade funciona e ... _AAAAAAAAAAAAAAAAAAAaaaaaaaaaaaahhhhhhhhhhhhh .... poft..._
 
+
 ### Estupefato!!!!
 
 Um personagem pode ficar ___Estupefato!!!!___ quando outro personagem (em especial um Desenho Animado) estiverem envolvidos em Conflitos contra ele e conseguirem _Sucessos com Estilo_. ___Estupefato!!!!___ é considerado uma _Consequência Suave_, que poderá ser removida ao final do Conflito/Cena. Um personagem pode receber várias vezes essa Consequência durante um Conflito, e se recupera de todas elas ao mesmo tempo.
