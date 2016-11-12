@@ -82,4 +82,8 @@ They felt the _steel band_ glowing to the East, and they would go for fulfilling
 
 ... that she passed for Shimmer... :P
 
+As Advancement for the _Significant Milestone_, Prático changed one of their Aspects from _"Nothing should be took for granted... __Shimmer, I'm talking with you!__"_ to _"Fairy Godmother's Magic is Dangerously Powerful"_ and added _Rapport_ as _Average (+1)_. The other PCs online, Shimmer and Sara, saved the Skill points, as they already had empty slots: as they are Fate newbies, I only forced them to put the three most important skills. So, I decided they could save this point.
+
+Now... To Iron Henry with the Company!
+
 [LooseThreadsMesa1]: {% post_url 2016-11-12-LooseThreads1 %}
