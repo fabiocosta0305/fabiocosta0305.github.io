@@ -3,7 +3,6 @@ layout: page
 show_meta: false
 title: "Personagens exemplos"
 permalink: "/personagens/"
-
 ---
 
 <h2>Alguns personagens exemplo</h2>
@@ -11,7 +10,11 @@ permalink: "/personagens/"
 {% assign ptposts = site.categories.personagens | where: 'language','br' | sort: "title" %}
 {% assign enposts = site.categories.personagens | where: 'language','en' | sort: "title" %}
 
+{% comment %}
 {% assign pt_sorted_posts = ptposts | group_by: "tags" | sort: "name" %}
+{% endcomment %}
+
+{% assign pt_sorted_posts = ptposts %}
 
 {% for post_tag in pt_sorted_posts  %}
 
