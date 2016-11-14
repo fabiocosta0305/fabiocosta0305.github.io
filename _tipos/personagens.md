@@ -3,6 +3,7 @@ layout: page
 show_meta: false
 title: "Personagens exemplos"
 permalink: "/personagens/"
+
 ---
 
 <h2>Alguns personagens exemplo</h2>
