@@ -32,8 +32,7 @@ header: no
 
 ## História
 
-A Desenholândia, sendo uma propriedade privada anteriormente, nunca esteve sujeita às leis, ao menos não mais do que qualquer outra propriedade privada. Porém, após os eventos envolvendo o Juiz Doom e a doação da Desenholândia aos desenhos por meio do testamento de Marvin Acme, o conselho da cidade de Los Angeles decidiu que deixar os desenhos ao Deus-dará será um grande problema, tanto para as pessoas, quanto para os desenhos. Então, o Departamento de Polícia de Los Angeles decidiu
-abrir um distrito policial na Desenholândia.
+A Desenholândia, sendo uma propriedade privada anteriormente, nunca esteve sujeita às leis, ao menos não mais do que qualquer outra propriedade privada. Porém, após os eventos envolvendo o Juiz Doom e a doação da Desenholândia aos desenhos por meio do testamento de Marvin Acme, o conselho da cidade de Los Angeles decidiu que deixar os desenhos ao Deus-dará será um grande problema, tanto para as pessoas, quanto para os desenhos. Então, o Departamento de Polícia de Los Angeles decidiu abrir um distrito policial na Desenholândia.
 
 O Distrito ainda é bastante pequeno: basicamente é composto por três oficiais (todos desenhos), pelo Detetive Matthew “Matty” McCormick, que alega estar ali contra a vontade, e pelo Sargento Pericles Adamastor “Pinky” Stout, além da secretária e atendente, Oficial Manny Lindberg. Alguns dizem (opinião reforçada por Matty) que o Distrito da Desenholândia representa o fundo do poço no Departamento de Polícia de Los Angeles, embora o Sargento “Pinky” Stout esteja no mesmo por vontade própria.
 
