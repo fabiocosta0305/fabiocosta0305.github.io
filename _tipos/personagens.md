@@ -14,7 +14,7 @@ permalink: "/personagens/"
 {% assign pt_sorted_posts = ptposts | group_by: "tags" | sort: "name" %}
 {% endcomment %}
 
-{% assign pt_sorted_posts = ptposts %}
+{% assign pt_sorted_posts = ptposts | group_by: "tags"  %}
 
 {% for post_tag in pt_sorted_posts  %}
 
