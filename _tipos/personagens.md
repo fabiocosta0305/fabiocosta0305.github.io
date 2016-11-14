@@ -10,15 +10,17 @@ permalink: "/personagens/"
 {% assign ptposts = site.categories.personagens | where: 'language','br' | sort: "title" %}
 {% assign enposts = site.categories.personagens | where: 'language','en' | sort: "title" %}
 
-{% comment %}
 {% assign pt_sorted_posts = ptposts | group_by: "tags" | sort: "name" %}
-{% endcomment %}
 
+{% comment %}
 {% assign pt_sorted_posts = ptposts | group_by: "tags"  %}
+{% endcomment %}
 
 {% for post_tag in pt_sorted_posts  %}
 
-<h3>{{ post_tag.name | remove: '[' | remove: ']' | remove: '"' }}</h3>
+
+
+<h3> {{ post_tag.name  }}</h3>
 
 <ul>
 {% for mypost in post_tag.items %}
