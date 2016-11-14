@@ -8,6 +8,7 @@ categories:
 tags:
   - Masters Of Umdaar 
 header: no
+language: br
 ---
 
 Leona cresceu na Floresta Indomável, a mais perigosa Floresta de Umdaar, onde todo tipo de besta vive. Caçadores de extrema experiência já perderam sua vida ao arriscarem-se no meio dessa Floresta para capturar as feras selvagens que abastecem o mercado para os circos de gladiadores e para as arenas onde escravos tentam, sem a menor chance, ganhar sua liberdade ao enfrentar tais feras perigosas.

@@ -8,6 +8,7 @@ categories:
 tags:
   - Masters Of Umdaar 
 header: no
+language: br
 ---
 
 O povo Numano é um dos mais antigos e sábios povos que existem em Umdaar. Metade homem, metade felino, são criaturas conhecidas pela sabedoria extrema e por sua lealdade com os povos livres de Umdaar. Obviamente isso coloca os mesmos em oposição continua aos Mestres, e muitos que são capturados acabam sendo torturados e enviados às arenas para morrerem na mão de bestas terríveis ou na mão de gladiadores para deleite do populacho.

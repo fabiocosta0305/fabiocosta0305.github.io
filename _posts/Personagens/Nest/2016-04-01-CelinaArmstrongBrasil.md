@@ -8,9 +8,9 @@ categories:
 tags:
  - Nest
 header: no
+language: br
 ---
 
-# Celina Armstrong, um personagem exemplo para Nest
 
 >  Esse personagem segue as regras de Criação de Personagem de Fate Core, incluindo os detalhes específicos de [Nest][1].
 

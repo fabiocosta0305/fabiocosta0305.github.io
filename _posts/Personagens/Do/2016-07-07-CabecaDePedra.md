@@ -7,6 +7,7 @@ categories:
 tags:
   - "Do - Fate of the Pilgrim Temple"
 header: no
+language: br
 ---
 
 ## Aspectos

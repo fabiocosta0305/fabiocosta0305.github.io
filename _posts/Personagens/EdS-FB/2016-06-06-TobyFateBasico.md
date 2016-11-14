@@ -7,6 +7,7 @@ categories:
 comments: true
 tags:
   - Primordiais (Fate Básico)
+language: br
 ---
 
 Thomas O'Malley nasceu em uma família de devoção cristã: o pai era um trabalhador vindo de Belfast e Católico Celta, enquanto a mãe tinha sangue italiano e devota no catolicismo romano. Conforme foi crescendo, sempre ia a Igreja e seguia fielmente a religião, e também aprendia sobre as lendas irlandesas, até que o antigo patrão de seu pai matou-o e à sua mãe em um ritual de magia negra. 

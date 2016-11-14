@@ -8,6 +8,7 @@ comments: true
 tags:
   - Primordiais (Espírito do Século)
   - Espírito do Século
+language: br
 ---
 
 Nascido na pobreza, no início de sua vida o homem que viria a ser conhecido como _O Gralha_ foi um trombadinha qualquer treinado por um ladrão mais experiente. Com a Grande Guerra, ele recebeu uma opção após ser preso: ser morto pelos seus crimes ou "agir em nome do país". 

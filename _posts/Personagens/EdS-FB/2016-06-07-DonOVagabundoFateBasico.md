@@ -7,6 +7,7 @@ categories:
 comments: true
 tags:
   - Primordiais (Fate Básico)
+language: br
 ---
 
 Nascido em Berço de Ouro, Donald E. J. Campstel III jamais imaginou que um dia poderia viver em uma situação em que tudo o que tem na vida caberia nos bolsos de seu surrado paletó. Sempre Mimado e tendo estudado nas melhores escolas, acabou indo para a Guerra como médico de  Campanha, lutando ao lado dos Aliados no interior da França. Quando voltou, conseguiu aproveitar ainda um pouco a vida e teve a presciência de pagar os estudos de sua irmã Victoria Lavender Campstel II (ou Vicky, como viria a se chamar) com o dinheiro que tinha.  

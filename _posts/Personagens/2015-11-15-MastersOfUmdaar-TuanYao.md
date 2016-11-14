@@ -7,6 +7,7 @@ categories:
   - personagens
 tags:
   - Masters Of Umdaar (Jogada de Mestre)
+language: br
 header: no
 ---
 

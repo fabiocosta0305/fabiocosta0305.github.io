@@ -6,6 +6,7 @@ categories:
  - characters
 tags:
  - Daring Comics
+language: en
 header: no
 ---
 

@@ -7,6 +7,7 @@ categories:
 comments: true
 tags:
   - Primordiais (Fate Básico)
+language: br
 ---
 
 Como meio-cigana, Yelena desenvolveu desde a infância talentos para cartomancia e herbalismo. 

@@ -8,6 +8,7 @@ categories:
 tags:
   - Masters Of Umdaar 
 header: no
+language: br
 ---
 
 Nascido em uma das tribos mais belicosas do Deserto Perpétuo, Shukul herdou de seu pai o mais poderoso item de sua tribo, a _Espada de Cristal_, antes de ser enviado para o Deserto para seu rito de passagem. Ao voltar do mesmo, com a manta da besta deslocadora, ele apenas encontrou as cinzas das cabanas de seu povo. Ele descobriu que pouco antes os Mestres caçaram seu povo como escravos e desde então os mesmos têm sofrido tormentos indescritíveis nas mãos dos Mestres de Umdaar.

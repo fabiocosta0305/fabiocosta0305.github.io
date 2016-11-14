@@ -8,6 +8,7 @@ categories:
 tags:
   - Masters Of Umdaar 
 header: no
+language: br
 ---
 
 Ninguém sabe quando K-23 foi criado, e nem mesmo se ele é "nascido" em Umdaar. O que Shukul e os demais sabem é que K-23 foi encontrado em uma antiga ruina dos Demiurgos pelos mesmos e foi "reativado" após uma série de botões terem sido acionados. K-23 não lembra direito de seu passado, pois passaram-se centenas de anos desde o desaparecimento dos Demiurgos e a Ascenção dos Mestres de Umdaar. K-23 possui uma grande quantidade de conhecimentos do passado de Umdaar, da Era dos Demiurgos e mesmo de antes, o que fascina Grace, a Domadora de Elementos do Monastério de Alemtempo. 

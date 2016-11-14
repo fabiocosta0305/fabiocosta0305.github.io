@@ -8,6 +8,7 @@ comments: true
 tags:
   - Primordiais (Espírito do Século)
   - Espírito do Século
+language: br
 ---
 
 Crescida no Reino da Ilha de Esmeralda, Avalon, Ingrid Ni Braoahbahain (Ingrid Brabham no "Mundo Exterior") ao nascer teve um soritlégio sobre ela cantado: "_Ponte entre dois mundos / Caminho a ser seguido / Destino de ambos unidos / No grande sinal de triunfo_". 

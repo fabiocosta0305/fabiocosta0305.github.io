@@ -6,6 +6,7 @@ categories:
 comments: true
 tags:
   - Primordiais (Fate Básico)
+language: br
 ---
 
 

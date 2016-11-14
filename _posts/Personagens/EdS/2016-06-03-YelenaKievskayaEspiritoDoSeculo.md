@@ -8,6 +8,7 @@ comments: true
 tags:
   - Primordiais (Espírito do Século)
   - Espírito do Século
+language: br
 ---
 
 Como meio-cigana, Yelena desenvolveu desde a infância talentos para cartomancia e herbalismo. 

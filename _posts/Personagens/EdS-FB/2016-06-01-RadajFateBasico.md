@@ -7,6 +7,7 @@ categories:
 comments: true
 tags:
   - Primordiais (Fate Básico)
+language: br
 ---
 
 Com as mudanças que Fate sofreu entre a versão 3.0 (que engloba _Espírito do Século_ e outros cenários, como _Dresden Files_, _Legends of Anglerre_ e _Diaspora_) e o novo Fate Básico, ficou meio complexo entender como migrar personagens para a nova versão do Fate, mesmo dentro do cenário do _Espírito do Século_. 

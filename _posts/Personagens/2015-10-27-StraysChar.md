@@ -8,6 +8,7 @@ categories:
   - personagens
 tags:
  - Strays
+language: en
 header: no
 ---
 

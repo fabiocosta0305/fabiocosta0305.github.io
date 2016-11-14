@@ -9,6 +9,7 @@ categories:
 tags:
  - Nest
 header: no
+language: en
 ---
 
 >  This character follow the Character  Creation rules from Fate Core,  including         the          specific         things         from  [Nest][1].
