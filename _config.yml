@@ -10,6 +10,7 @@ gems:
 permalink:        /:categories/:title/
 #permalink:        pretty
 #relative_permalinks: true
+encoding: utf-8
 
 # Setup
 title:            Os Cacarecos do Fábio

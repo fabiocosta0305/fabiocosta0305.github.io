@@ -20,7 +20,7 @@ permalink: "/personagens/"
 
 
 
-<h3> {{ post_tag.name  }}</h3>
+<h3>{{ post_tag.name | remove: '[' | remove: ']' | remove: '"' }}</h3>
 
 <ul>
 {% for mypost in post_tag.items %}
