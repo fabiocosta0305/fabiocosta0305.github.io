@@ -15,7 +15,7 @@ permalink: "/personagens/"
 
 {% for post_tag in pt_sorted_posts  %}
 
-<h3>{{ post_tag.name | remove: '[' | remove: ']' | remove: '"' | replace: "\u00E2","â" | replace: "\u00ED", "í" | replace: "\u00E9","é" | replace: "\u00E1","á" }}</h3>
+<h3>{{ post_tag.name | remove: '[' | remove: ']' | remove: '"' | replace: "\u00E2","â" | replace: "\u00ED", "í" | replace: "\u00E9","é" | replace: "\u00E1","á"  | replace: "\u00AA","ª" }}</h3>
 
 <ul>
 {% for mypost in post_tag.items %}
