@@ -4,7 +4,7 @@ layout: personagens
 categories:
  - personagens
 tags:
-  - "Do - Fate of the Pilgrim Temple"
+  - "Do - Fate of the Flying Temple"
 header: no
 language: br
 ---
