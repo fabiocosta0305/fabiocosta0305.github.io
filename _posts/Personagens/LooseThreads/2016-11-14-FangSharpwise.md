@@ -1,6 +1,6 @@
 ---
-subheadline: O Filho da Loba 
-title: Prático Schwein
+subheadline: O Filho da Loba Má
+title: Fang Sharpwise
 layout: personagens
 categories:
   - personagens
