@@ -35,6 +35,8 @@ Atenciosamente,
 
 Paulo.
 
+<!-- excerpt --> 
+
 ## Sparks em Fate Básico
 
 ### O que é isso?
