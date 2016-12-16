@@ -1,12 +1,12 @@
 ---
 title: The Bewitched Chocolate
-subtilte: An new letter for _Do - Fate of the Pilgrim Temple_, based on a Tale from _Little Wizards_
+subtilte: An new letter for _Do - Fate of the Flying Temple_, based on a Tale from _Little Wizards_
 language: en
 layout: page
 categories:
   - Adventures
 tags:
-  - Do - Fate of the Pilgrim Temple
+  - Do - Fate of the Flying Temple
 ---
 
 __Stamps:__ Knot, Pen, Lotus
