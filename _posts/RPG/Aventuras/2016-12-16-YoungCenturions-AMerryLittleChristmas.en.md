@@ -247,7 +247,7 @@ All that incredible adventure ... _"It was not a dream ..."_
 
 ### Antonio Natalini - Santa Claus in search of his Successor
 
-+ __"We always have more when we divide"; _Samaritan; The Holy Clause; My Friends Elves; _"Good gift is that you need, not always what you want"; _Kind-hearted___
++ __"We always have more when we divide"; _Samaritan; The Holy Clause; My Elvish Friends_; "Good gift is that you need, not always what you want"; _Kind-hearted___
   + __Divine (+8) at:__ Being Santa Claus
   + __Specialist (+4) at:__ read people's hearts
   + __Skilled (+2) at:__ Create toys
@@ -293,7 +293,7 @@ The ___Despair Sack___ is a filty, dirty , stinky sack, made apparently of smudg
 
 #### Talisman: The Ice Queen's Magic Rod
 
-> _Use the Nest Talisman Rules
+> _Use the Nest Talisman Rules_
 
 A Rod made of a Glass-like icy material, this is an ___Rod of Extremily Evil Power___, created by the Ice Queen to channel her terrible spells. It is through this wand that she freezes the hearts of children, turning them into the _Cold-Hearted_, their lieutenants and more powerful servants.
 
@@ -334,7 +334,7 @@ A Rod made of a Glass-like icy material, this is an ___Rod of Extremily Evil Pow
 
 + ___Hates Everyone; Do you want to stay in quietude___
   + __Skilled (+2) at:__ Being grumpy; Want to stay quiet
-  + __Bad (-2) in: __ all the rest
+  + __Bad (-2) in:__ all the rest
 
 ## Appendix 2 - _The Simbolics_
 
@@ -382,7 +382,7 @@ Being Santa is a _Great Responsibility_, with proper powers:
 
 + The character is now considered to have _Lengendary (+8)_ in any test that involves buying things, but only in order to get gifts or things that are important to his "job";
 + He receives a series of Stunts, which we will see below. If he has previously had one of them or with a similar effect, their benefits stacks;
-+ When using any Santa Claus-listed Stunts, he can, _once per scene_, increase the success level (from _Failure_ to _Tie_; _Tie_ to _Success_ and any _Success_ for _Success with Style_) similarly to _Masters Of Umdaar_'s _Outcome Surge . Additional uses of this in the same scene can be made, but at the cost of a Fate Point;
++ When using any Santa Claus-listed Stunts, he can, _once per scene_, increase the success level (from _Failure_ to _Tie_; _Tie_ to _Success_ and any _Success_ for _Success with Style_) similarly to _Masters Of Umdaar_'s _Outcome Surge_ . Additional uses of this in the same scene can be made, but at the cost of a Fate Point;
 + The Character receives +2 on all of his tests involving Kids. In addition, if the Approach to be used is less than _Great (+4)_, he will have that level in the Approach, without any other prejudice;
 
 ### Santa's Stunts:
@@ -403,7 +403,7 @@ Santa is powerful, but he is also subject to a number of problems. In particular
 + **"Peace on earth for those with good will"**
 + ***A Round Jolly, cheerful elf****
 + ***Fast as Lightning, silent as a mouse***
-+ ___Ambassador of Peace and Good Will__
++ ___Ambassador of Peace and Good Will___
 
 Those Aspects are added to those of the character himself and can be used normally by him as long as he is the ___Santa Clause's Bearer___.
 
