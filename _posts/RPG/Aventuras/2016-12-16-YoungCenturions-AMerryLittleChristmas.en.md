@@ -1,6 +1,6 @@
 ---
 title: "A Merry Little Christmas"
-subtitle: "Uma aventura Natalina para _Young Centurions_"
+subtitle: "A Christmas _Young Centurions_ Adventure"
 layout: aventuras
 language: en
 categories:
