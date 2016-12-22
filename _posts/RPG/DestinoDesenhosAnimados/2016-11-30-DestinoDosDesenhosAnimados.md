@@ -5,9 +5,7 @@ subheadline: Cenário, Regras e Aventura Exemplo para jogar-se com os bravos hum
 categories:
  - Aventuras
 tags:
- - Fate
- - Fate-Core
- - Camundongos Aventureiros
+ - Distrito da Desenholândia
 header: no
 excerpt_separator: <!-- excerpt -->
 ---
