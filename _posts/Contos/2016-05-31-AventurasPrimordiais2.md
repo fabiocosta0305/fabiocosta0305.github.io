@@ -274,7 +274,7 @@ Hannah correu aonde estava os restos de uma casa e pegou um pedaço de tecido qu
 
 \- _Isso aqui é mais fedido que querosene queimado!_ – disse Hannah, jogado o pedaço de tecido ao chão e torcendo seu narizinho de botão, enojada.
 
-\- _Alguma criatura queimou tudo aqui…_ – disse Ingrid – _Mas… Ela não parece ter forma… Parecia uma bola de fogo, como um fogo-fátuo, mas mesmo olhando agora pela psicometria… Posso ver que ela tinha algo nela, como um Mal além do Mal, algo sinistro, além do Diabólico, além do que qualquer coisa que uma pessoa pode pensar… _
+\- _Alguma criatura queimou tudo aqui…_ – disse Ingrid – _Mas… Ela não parece ter forma… Parecia uma bola de fogo, como um fogo-fátuo, mas mesmo olhando agora pela psicometria… Posso ver que ela tinha algo nela, como um Mal além do Mal, algo sinistro, além do Diabólico, além do que qualquer coisa que uma pessoa pode pensar…_
 
 Ingrid abriu os olhos assustada. Olhou ao vazio e desabou a chorar, orando e clamando por suas divindades:
 
