@@ -4,7 +4,7 @@ subtitle: "A Christmas _Young Centurions_ Adventure"
 layout: aventuras
 language: en
 categories:
-  - Aventuras
+  - Adventures
 tags:
   - Young Centurions
 excerpt_separator: <!-- excerpt -->
