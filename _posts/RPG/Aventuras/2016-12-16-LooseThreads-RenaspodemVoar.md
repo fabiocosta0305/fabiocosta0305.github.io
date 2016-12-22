@@ -127,7 +127,7 @@ Entretanto, ela ainda enfrenta um obstáculo: o Papai Noel, que ainda representa
 + ___Características:_ Leal, Ordeiro, Responsável, Furtivo__
 + ___Agenda:___ Jack Frost deseja descobrir mais sobre ele: ele acredita ter sido a primeira criança a ser transformada em um dos ___Gelados___, mas não sabe porque ele ainda mantem sentimentos, enquanto os demais Gelados não os possuem. Além disso, embora não se lembre de nada até um ano atrás, ele sente que existe algo importante envolvendo a situação como um todo e ele no meio.
 + ___Custo:___ Os personagens podem Prometer ajudar Jack Frost, e ele os auxiliará no meio da vastidão gelada do Ártico. 
-+ ___Perícias:___ Furtividade, Enganar, Empatia Bom (+3); Magia Zaps Razoável (+2)
++ ___Perícias:___ Furtividade, Enganar, Empatia, Lutar Bom (+3); Magia Zaps Razoável (+2)
 
 ### O Grinch
 
