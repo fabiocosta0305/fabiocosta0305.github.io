@@ -90,7 +90,7 @@ Mas não mais que isso: a pele do monstro possuia alguma substância pegajosa e 
 
 Foi quando uma lâmina levemente azulada trespassou o peito da criatura:
 
-– _Você está bem, Hannah-_kynjah? – disse o homem que segurava a lâmina atrás do demônio, que gritava. 
+– _Você está bem, Hannah_-kynjah? – disse o homem que segurava a lâmina atrás do demônio, que gritava. 
 
 A substância não era metálica, mais parecendo com algum tipo de gelatina endurecida, mas era perceptível, pelos urros de agonia do demônio, que era uma lâmina muito afiada.
 
