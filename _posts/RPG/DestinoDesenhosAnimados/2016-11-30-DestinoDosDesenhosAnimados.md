@@ -12,7 +12,7 @@ excerpt_separator: <!-- excerpt -->
 
 ## Introdução
 
-> "OK, filho... Esse deve ser teu primeiro dia aqui. O uniforme tá no jeito? Estou falando das orelhas de coelho também! O que? Tá achando que é palhaçada? Entenda uma coisa, filho: quanto um desenho maluco arremessa uma bigorna de 100 Toneladas contra a tua cabeça, essas orelhas podem ser uma proteção maior que um boné ou mesmo uma arma. 
+> "OK, filho... Esse deve ser teu primeiro dia aqui. O uniforme tá no jeito? Estou falando das orelhas de coelho também! O que? Tá achando que é xpalhaçada? Entenda uma coisa, filho: quanto um desenho maluco arremessa uma bigorna de 100 Toneladas contra a tua cabeça, essas orelhas podem ser uma proteção maior que um boné ou mesmo uma arma. 
 <!-- excerpt -->
 > 
 > Falo isso de experiência própria: um desses malucos do _Beco Nada Bom_ me arremessou um machado contra o peito. Eu peguei um Buraco Portátil e enfiei na camisa, e a droga do machado atravessou meu peito pelo Buraco e saiu pelas coisas. Quem pagou o pato foi o Mousekevitch. Não se preocupa, ele ficou de boa. Apesar que levar duas metades de desenho para o Distrito depois foi mais complicado que levar um desenho inteiro.
