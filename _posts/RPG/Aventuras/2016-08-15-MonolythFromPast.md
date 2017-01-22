@@ -381,7 +381,7 @@ The the Party ojective, that was purposefully not cleared, is to build some kind
 
 Anyway, as soon at least one of the PCs cross the chasm and get into the platform, the chasm will be closed and the other PCs can get through the room safely. The PCs can take with them all the tools they used (and even more). With _Fair (+2)_ checks, they'll also be able to find some useful tool or weapon like _Minor Artifacts_ (+1 in relevant checks)
 
-### Scene 2i - The Droid
+### Scene 3i - The Droid
 
 When the Party enters the room, they'll see that it lloks like an ___Arena___, where a Droid waits the Party. He is the only challenge in the room. He'll make a salute for the Party.
 
@@ -435,7 +435,7 @@ Kabal is very skillful in combat and powerful: don't be ashamed on use Fate Poin
 
 The Arena is big enough so Kabal can fight as many opponent as needed, even considering the ___Perparation Zone___. The Party can choose any strategy, either by engaging into an all-out attack, or by some of them sacriffing themselves to be ___Take Hostage by Kabal___ so the others can ___Analyse Kabal's Techniques___. The hostages are only considered ___Taken by the Monolyth___ after a Defeat or Concede by the Party as a whole.
 
-### Scene 2j - The Clones
+### Scene 3j - The Clones
 
 > _"You had came to the worst challenge in the Monolyth. See by yourselves."_
 

@@ -385,7 +385,7 @@ O objetivo dos personagens aqui, que não ficará claro, é construir uma plataf
 
 De qualquer modo, uma vez que ao menos um dos personagens cheguem do outro lado, o vão será fechado e os personagens poderão atravessar normalmente a sala. Qualquer ferramenta que o personagem tenha usado (e até mais) pode ser levado. Com resultados _Razoáveis (+2)_ em testes adequados, eles poderão encontrar algum tipo de arma ou equipamento útil (+1 em testes relevantes).
 
-### Cena 2i - O Dróide
+### Cena 3i - O Dróide
 
 Quando os personagens entram nessa sala, eles percebem que trata-se de uma arena, onde um Androide espera os personagens. Ele será o único desafio da sala. Ele faz uma reverência aos personagens.
 
@@ -440,7 +440,7 @@ Kabal é poderoso e muito bem treinado: use e abuse de Pontos de Destino e açõ
 
 A arena é grande o bastante para que Kabal lute com quantos personagens for necessário, além de um espaço de Preparação. Os personagens podem optar por qualquer estratégia, seja indo todos de uma vez, ou seja alguns optando por se sacrificar e serem _Capturados por Kabal_ para que os demais vejam suas técnicas. Personagens _Capturados por Kabal_ são contados como _Capturados pelo Monólito_ apenas após derrota ou rendição de seu grupo.
 
-### Cena 2j - Os Drones
+### Cena 3j - Os Drones
 
 > _"Vocês chegaram talvez ao pior desafio desse Monólito. Descubram por si próprio."_
 
