@@ -30,6 +30,8 @@ language: en
 
 I've run a playtest game yesterday at a local RPG event called _Dungeon Geek Weekend_. I GMed the playted Adventure _The Lil' Lord Fiztroy Job_, using the sample PCs Throk and Spanner, also the Halfling Rogue (that was called _Vahn_)  and two PCs I created by my own, Fezair the Elf Illusionist and Gossamer the Gnome Loremaster. They had been called by Gertie and accepted the job.
 
+<!-- excerpt -->
+
 While talking with the Lil' Lord Fitzroy (Fezair and Gossamer were the ones that had gone for Negotiation), Gossamer introduced the _Legend of the Return of the Demon Lord_ that every thousand years tried to get back to their world. By doing this, they discovered some of the _Hidden Talents_ and _Requirements_. To be exact, he wants to _Live a Adventure Worthy of Ballads_, _Have a shiny new Rapier and know to use it (I guess)!_, _Want to disable traps!_, _Love to fight Lizardmen, they are so IN_, and _Dislikes Darkness and Dirty_. They also tried to cough more money, and were _Successful with a Style_ in the process, working a 3-Invoke _Resources_ Aspect.
 
 Then, they layout'ed the Dungeon, with some _Skeletons_ and _Lizardmen_, some _Traps_, a _Golem_ and the _Demon-Lord_ at the end of it. In fact, a kind of Medieval Era Megazord, a Fake Threat that was the only focus of Spanner during the preparation phase. Gossamer, although a Loremaster, would be the one that would "teach" Lord Fitzroy "how to fight" and about the "Demon-Lord Lore" (gaining time for the rest of the party to ready the dungeon).
