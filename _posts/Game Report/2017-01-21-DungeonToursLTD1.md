@@ -76,3 +76,23 @@ They loved the setting and they really liked how to build the Dungeon and set th
 Think the product is fun and give a twist for traditional Dungeon Crawl adventures, and has potential for other kind of pseudo-heist things, like a salaryman that would want to get into a cyberpunk run without armors or cyber (maybe with a locked deck) and so, and even with more "benign" kinds of tours, like a lord that wants to take her good-for-nothing son and teach him a lesson.
 
 I'm really satisfied on the result of thre playtest... Still needs, although, to test some rules, like using flaws in the _Hearing Buds_ and play another ideas in the game. Maybe I'll do some more games of DTL.
+
+> ![The Image Divulgation for _Dungeon Geek Weekend_ (in Portuguese)](/assets/img/DGWDTL.jpg)
+> 
+> _The Image Divulgation for_ Dungeon Geek Weekend _(in Portuguese)_
+
+> ![The Players at the Table!](/assets/img/DTL-Players.JPG)
+> 
+> _The __Dungeon Tours LTD__'s Players at_ Dungeon Geek Weekend
+
+> ![The Level 1 of the Dungeon!](/assets/img/DTL-DungeonLVL1.JPG)
+> 
+> _The_ Dungeon Geek Weekend _Demon Lord Lair's Level 1_
+
+> ![The Level 2 of the Dungeon!](/assets/img/DTL-DungeonLVL2.JPG)
+> 
+> _The_ Dungeon Geek Weekend _Demon Lord Lair's Level 2_
+
+> ![The Threats!](/assets/img/DTL-Threats.JPG)
+> 
+> _The_ Dungeon Geek Weekend _Demon Lord Lair's List of Threats_

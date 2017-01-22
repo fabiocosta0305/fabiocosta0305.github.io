@@ -18,6 +18,8 @@ Vamos falar a verdade: em geral você fica muito louco com duas coisas que norma
 
 A Evil Hat, responsável do Fate, resolve isso de uma maneira bem elegante internamente, com a série _Worlds of Adventure_.
 
+<!-- excerpt -->
+
 ## Os ___Fate Worlds___ e os ___World of Adventure___
 
 Antes, vamos fazer uma distinção aqui importante: a Evil Hat possui uma linha de livros físicos e digitais chamada ___Fate Worlds___, que é uma compilação de cenários interessantes para Fate, que incluem coisas como o pós-apocaliptico _Burn Shift_, o Espacial-Arturiano _Camelot Trigger_, o cenário sobre heróis da vida real _Fight Fire_, e o potencial cenário de roubos Tarantinesco _CrimeWorld_. Em seus dois primeiros livros, [_Worlds on Fire_][fate-worlds-fire] e [_Worlds in Shadows_][fate-worlds-shadows], ele traz uma série de cenários novos como os ditos anteriormente.
@@ -97,7 +99,7 @@ Afinal de contas... _É uma mulher... Um homem... Um Coelho... E um mistério!_ 
 
 ### Número 10 - [___Loose Threads___, por Tara Zuber][loose-threads]
 
-![Loose Threads](/assets/img/LooseThread1.jpg)_"E Foram todos felizes para sempre..."_
+![Loose Threads](/assets/img/loose-threads.jpg)_"E Foram todos felizes para sempre..."_
 
 Nem todos.
 
