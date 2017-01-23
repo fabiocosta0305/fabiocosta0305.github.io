@@ -1,7 +1,7 @@
 ---
 layout: game-report
 #date: 2016-10-06 10:00:00 -0300
-title: "Gaming Report - Dungeon Tours LTD #1 (2015-01-21)"
+title: "Gaming Report - Dungeon Tours LTD #1 (2017-01-21)"
 subheadline: A Group of Adventures scene a Dungeon Crawl for a floppish Lord
 categories:
   - game-report
