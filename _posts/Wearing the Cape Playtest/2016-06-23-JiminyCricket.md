@@ -15,11 +15,11 @@ Being the littlest boy in a poor neighborhood school normally meaning being call
 
 One day, the biggest bully in the school decided to give him a lesson about "being a man" and thrashed it really hard. He didn't threw a blow, but in the despair, feeling he was being beaten to death, after lots of bruises and even some broken ribs and even a sprained arm, he felt like his mind expanded and he could see more about the places and how to run away, even hurted like he was. He cried _"Pretty Please, leave me alone!"_ and the bully and their friends was put into a freeze from the blows. 
 
-Using his newly found _breakthrough_ power, he said for them to _"go away from me and no more do what they're doing"_ and they got away from him. He just had conditions to get home, before going comatose for 6 months, between life and death. In the meantime, that bully was sent to Juvenile Reformatory.
+Using his newly found _breakthrough_ power, he said for them to _"go away from me and no more do what you're doing"_ and they got away from him. He just had conditions to get home, before going comatose for 6 months, between life and death, because of the sustained damage, that even get into his internal organs. In the meantime, that bully was sent to Juvenile Reformatory.
 
-When he woke up, his father said that some of the medics discovered about him and talked about him with _Heroes Without Borders_ and they invited him, as a _breakthrough_ to get into, and that he would receive the best education HWB could provide in the meantime. He chosed to go, still without a name, crest or costume.
+When he woke up, his father said that some of the medics discovered about him  and his situation and talked about him with _Heroes Without Borders_ and they invited him, as a _breakthrough_ to get into, and that he would receive the best education HWB could provide in the meantime. He chosed to go, still without a name, crest or costume.
 
-In his beginning in HWB, he discovered his powers has three main forms:
+In his training in HWB, he discovered his powers goes into three main forms:
 
 1. His mind was now somewhat "enhanced" and he know have the same brainpower of great minds like Einstein, Hawking and Sagan (many of them he read about)
 2. He somewhat developed a kind of supernatural "tactical analysis" that allows him to somewhat _precog_ some of the adversaries moves, so he could develop plans to prevent damage and to support team's actions. Although not perfect, this power provide him with ways to help his team;

@@ -31,7 +31,7 @@ Many Sentai get some Stunts from Dragon, Paragon and Verne types. However, they 
 
 ## Power Class Requirement
 
-Sentai tend to not use the concept of Power Class. However, when needed, each _Sentai_ stunt sums one Power Class, and each two non-_Sentai_ stunt (like Dragon, Paragon or Verne Stunts) sums one Power Class. At least _Epic Entrance_ or _Super Teamwork Formation_ are _required_ to be a _Sentai_-Type
+Sentai tend to not use the concept of Power Class. However, when needed, each _Sentai_ stunt sums one Power Class, and each two non-Sentai stunt (like Dragon, Paragon or Verne Stunts) sums one Power Class. At least _Epic Entrance_ or _Super Teamwork Formation_ are _required_ to be a _Sentai_-Type
 
 ## Variants
 
@@ -45,9 +45,7 @@ The _Armored Ninja_ is a kind of _Sentai_ that compliment their Stunts with Drag
 
 _Nezumi_ is one of the most famous  _Armored Ninja_, as a descendant of a Ninja clan that gone excelled in most of the ninja arts, including things impossible before the event, like the _displacement_ (a kind of teleport where you exchange your place with something else near) and disguise.
 
-The _Kamen Fighter_ is a kind of _Sentai_ (normally a _Metal Hero_) that have some _Metamorph_-Type _Stunts_. And there's as many _Sentai_ types that can combine all kind of Types with Sentai, even _Merlin_. 
-
-One very known _Sentai_ is _Mantis_, a former motorcycle racer that, after being victim of a group of criminal Vernes suffered a breakthrough and was turned into a half-mantis guy. He freed himself from them and now is a vigilante that is searching for justice.
+The _Masked Rider_ is a kind of _Sentai_ (normally a _Metal Hero_) that have some _Metamorph_-Type _Stunts_. And there's as many _Sentai_ types that can combine all kind of Types with Sentai, even _Merlin_. 
 
 A special kind of _Sentai_ is the _Ultra_: _Ultra_ are _Sentai_ with _Metamorph_-Type Stunts that fight with some big monsters called _Kaiju_, either released by Verne Villains or themselves turned into beast being Metamorph-type Villains. Although many _Sentai_ has gear to fight the _Kaiju_, like the giant robots called _Mecha_, the _Ultra_-type has flexibility and agility incompatible with their size.
 

@@ -13,9 +13,9 @@ header: no
 
 Richard was a exception between exceptions: a white guy in the black-dominated Bronx, he was schooled as fair as he could, paying the money from his works. However, he counted cent by cent. When his father suffered an brain stroke, he had gone crazy to help his father. It was when he chosed to make some "quick money", to rob some ATMs... 
 
-In the process, a C-Class Ajax bouncer had found him and his friends. Seeing the Ajax snapping his friends spine as it was a twig triggered in Richard (already an athletic guy, and somewhat competent as a football and Rugby player) his breakthrough, and he smash the bouncer as much as he could, and the bouncer just saved himself when a wall almost fell under some kids. Richard held the wall enough to the kids runs.
+In the process, a C-Class Ajax bouncer had found him and his friends. Seeing the Ajax snapping his friends spine as a twig triggered in Richard (already an athletic guy, and somewhat competent as a football and Rugby player) his breakthrough, and he smashed the bouncer as much as he could, and the bouncer just saved himself when a wall almost fell under some kids. Richard held the wall enough to the kids runs, but this gave the time the bouncer needed to run away.
 
-His father now strained into a bed, recovering day by day, his mother just making enough to warrant they would not starve, Richard chosed to go as a gang member of some lower-Class local breakthroughs. This made him collect some big bucks, that he made it go totally for his father treatment.
+His father now strained into a bed, recovering day by day, his mother just making enough to warrant they would not starve, Richard chosed to go as a gang member of some lower-Class local breakthroughs. This made him collect some big bucks, that he assured they would go totally for his father treatment.
 
 It was when he was catched by some of the local supermasks and the fight was intense. He was now more experienced with his powers, more developed, and so the collateral damage was intense. However, the heroes noted that he fought in ways to avoid people being hurt.
 
@@ -30,14 +30,14 @@ The terms of parole was:
 1. He would go into a psychologist treatment;
 2. He would work with _Heroes Without Borders_ in missions in and outside US;
 3. At least once a month, no matter what, he would be called by his _parole officer_. He could talk with him via _videoconference_. But, at least once in a year he should contact his parole officer _in-loco_;
-4. He could not go away alone: at least another HWB hero should be with him;
+4. He could not go under action alone: at least another HWB hero should be with him;
 5. Every hero mission would imply on him to work into an After Action Report by himself, even his team building one;
 6. He could not assume an official, sanctioned, costume, crest or name, without approving from his parole officer;
 7. Once per year, he should present himself in front of judge to questioning, together with the parole officer;
 8. If, in any condition, the access to the parole officer could be complicated, he should as far as possible provide someone that could be put as a temporary parole officer;
-9. In US, he could be on open-system while associated with _Heroes Without Borders_ or similar groups. The times and conditions will be negotiated directly with the group, without his participation, and he needs to accept totally any negotiation done;
+9. In US, he could be on open-system while associated with _Heroes Without Borders_ or similar groups. The times and conditions would be negotiated directly with the group, without his participation, and he needs to accept totally any negotiation done;
 10. Any kind of felony or crime commited by him would avoid the parole;
-11. Those terms are not negotiables;
+11. Those terms were not negotiable;
 
 He accepted the terms and gone for training into _HWB_. Escorted by at least three A-Class guys from FBI and HSA, he was sent to Edinburg, the only place where HWB have a strong enough infrastructue to support him. In the meantime, his dad, after pardoning him on what he did, had died.
 

@@ -12,7 +12,7 @@ header: no
 #permalink: "/:categories/"
 ---
 
-Eileen McRae is a Irish descendant that lives for dancing and arts. She was so good and gracious that all the Chrismas she was put into stage for the _Nutcracker_ ballet for the _Sugarplum Fairy_ role.
+Eileen McRae is a Irish descendant that lives for dancing and arts. She was always so good and gracious in ballet that all the Christmas time she was put into stage  for the _Sugarplum Fairy_ role into the the _Nutcracker_ ballet.
 
 And it was during one of those presentations, when she was already at the university, that a gang invaded the theater to rob the presentation money (that would go for a local orphanage).
 

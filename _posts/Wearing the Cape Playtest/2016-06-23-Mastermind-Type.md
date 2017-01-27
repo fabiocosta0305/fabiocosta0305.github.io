@@ -11,7 +11,7 @@ header: no
 
 Mastermind Heroes are those who tries to avoid violence as far as possible. Like Mentalists and Vernes, they tend to do things using their brains, which many of them have powerfully enhanced. However, while Mentalists focuses in "magical" power, and Vernes on technological premises, Masterminds trust into their mind prowess to do things that could be beyond imagination..
 
-Mastermind Heroes tends to do part of things that Mentalists, Merlins and Vernes does, but they also have some kind of special powers: some can visualize the immediate future and, this way, somewhat "precog" others actions. Some can create "special zones" where their will prevails, others can induce people to do their whims, with bigger or smaller limitations.
+Mastermind Heroes tends to do part of things that Mentalists, Merlins and Vernes does, but they also have some kind of special powers: some can visualize the immediate future and, this way, somewhat "precog" others' actions. Some can create "special zones" where their will prevails, others can induce people to do their whims, with bigger or smaller limitations.
 
 Masterminds normally tend to "stay out" the danger zone as possible, but at the same time "staying in" as needed to their powers being useful. Many of them tends to be full support, although some (specially villains) tends to use their powers to actively lure people to do what they want.
 
