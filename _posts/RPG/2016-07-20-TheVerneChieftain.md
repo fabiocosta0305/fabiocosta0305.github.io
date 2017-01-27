@@ -299,7 +299,7 @@ Some hooks:
 
 #### Aspects
 
-+ B-Class Tesla;
++ B-Class Verne;
 + 21st Century Witch Doctor;
 + _"Power! Science! Right!"_
 + Goons... Lots of!
