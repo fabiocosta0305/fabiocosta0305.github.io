@@ -10,7 +10,7 @@ Artigos que escrevi ou traduzi
         
 <ul>
     {% for post in site.tags.Artigos | sort: 'date' %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    <li><a href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></li>
     {% endfor %}
 </ul>
 
@@ -21,7 +21,7 @@ Reviews que escrevi
         <ul>
              {% for post in site.categories.reviews | sort: 'date' %}
                  {% if post.language == "br" %}
-                 <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                 <li><a href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></li>
                  {% endif %}
              {% endfor %}
         </ul>
@@ -30,7 +30,7 @@ Reviews que escrevi
         <ul>
              {% for post in site.categories.reviews | sort: 'date' %}
                  {% if post.language == "en" %}
-                 <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                 <li><a href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></li>
                  {% endif %}
              {% endfor %}
         </ul>
@@ -47,14 +47,14 @@ Relatos de Jogo
     <li><h3>Em Português</h3>
         <ul>
              {% for post in reports_br  | sort: 'date' %}
-                 <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                 <li><a href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></li>
              {% endfor %}
         </ul>
     </li>
     <li><h3>Em Inglês</h3>
         <ul>
              {% for post in reports_en | sort: 'date' %}
-                 <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+                 <li><a href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></li>
              {% endfor %}
         </ul>
     </li>

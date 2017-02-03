@@ -4,7 +4,7 @@ subtitle: "Uma aventura Natalina para _Young Centurions_"
 layout: aventuras
 language: en
 categories:
-  - Aventuras
+  - Adventures
 tags:
   - Young Centurions
 excerpt_separator: <!-- excerpt -->

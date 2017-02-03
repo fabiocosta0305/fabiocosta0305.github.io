@@ -38,7 +38,7 @@ Alguns aventuras exemplos que eu criei
    {% assign sorted_pages = (site.categories.Aventuras | sort: 'title') %}
    {% for post in sorted_pages %}
    {% if post.tags contains tag %}
-   <li><a href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }} </a> </li>
+   <li><a href="{{ post.url }}">{{ post.title |  markdownify | remove: '<p>' | remove: '</p>' }} </a> </li>
    {% endif %}
    {% endfor %}
    </ul>
@@ -59,7 +59,7 @@ Alguns aventuras exemplos que eu criei
    <li><h3> {{ post.tags }} </h3></li>
   <ul>
   {% endif %}
-   <li><a href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }} </a> </li>
+   <li><a href="{{ post.url }}">{{ post.title |  markdownify | remove: '<p>' | remove: '</p>' }} </a> </li>
     {% endfor %}
   </ul>
 </ul>
@@ -93,7 +93,7 @@ Some adventures I did (in English)
    {% assign sorted_pages = (site.categories.Adventures | sort: 'title') %}
    {% for post in sorted_pages %}
    {% if post.tags contains tag %}
-   <li><a href="{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }} </a> </li>
+   <li><a href="{{ post.url }}">{{ post.title |  markdownify | remove: '<p>' | remove: '</p>' }} </a> </li>
    {% endif %}
    {% endfor %}
    </ul>

@@ -10,6 +10,6 @@ permalink: "/fate/"
 ---
 <ul>
     {% for post in site.tags.Fate %}
-    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title }}</a></li>
+    <li><a href="{{ site.url }}{{ post.url }}">{{ post.title | markdownify | remove: '<p>' | remove: '</p>' }}</a></li>
     {% endfor %}
 </ul>
