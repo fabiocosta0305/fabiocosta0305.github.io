@@ -252,7 +252,7 @@ Nicola thought a little: he didn't want to say his foster father wanted to kill 
 
 Frederick used one of the specially trained mesmeric looks, trying to see if Nicola lied to him, trying to scare him and, this way, opening him to the Mentalism tricks if needed. However, Nicola looked him with the same pure, naive eyes from the start, without flinched in front of those looks.
 
-_"_Century Club_'s First Rule: the eyes never lie._", thought Frederick, while relaxing his tense face: if he was not the _Spirit_ they were searching for, at least he was not a _Shadow_, as far he found.
+"Century Club'_s First Rule: the eyes never lie._", thought Frederick, while relaxing his tense face: if he was not the _Spirit_ they were searching for, at least he was not a _Shadow_, as far he found.
 
 \- _Well, they are the ones who are losing something in my book. Hurt a such good kid like you? You look like a really good kid_ - said Frederick - _Now, finish your meal, and we'll see how you'll pay for all this. You know that there's no such thing as free lunch. And I know you have no money, but we are always in need of help to tidy everything till showtime._
 
