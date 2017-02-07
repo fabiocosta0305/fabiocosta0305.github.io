@@ -13,8 +13,8 @@ permalink: "/fate-core/Fair-Leaves/"
 
 
 <ul>
-    {% for post in posts.tags.Fair-Leaves %}
-    <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% for post in site.tags.Fair-Leaves reversed %}
+    <li><a href="{{ post.url }}">{{ post.title | markdownify | remove: "<p>"  | remove: "</p>" }}</a></li>
     {% endfor %}
 </ul>
 
