@@ -18,4 +18,10 @@ permalink: "/fate-core/Fair-Leaves/"
     {% endfor %}
 </ul>
 
+## Recursos
+
++ [Versão para Impressão Alpha](/assets/files/FairLeavesAlpha.pdf)
++ [_Playsheets_ limpas](/assets/files/PlaysheetsFairLeaves.pdf)
++ [A Turma criada de exemplo em Fair Leaves](/assets/files/PlaysheetsFairLeavesInicial.pdf)
+
 <ul>
