@@ -46,6 +46,19 @@ Por outro lado, um _Certinho_ acaba sendo vítima de:
 | _Que tipo de coisas você faz que não são tão certinhas?_ |               |
 | _O que você pensa sobre a sua Turma?_                    |               | 
 
+
+## Sugestão de Atitudes
+
+Segue abaixo três sugestões diferentes de distribuição das Atitudes para um _Certinho_
+ 
+| ***Atitude***  | ***Sugestão 1***   | ***Sugestão 2***   | ***Sugestão 3***   |
+|---------------:|--------------------|--------------------|--------------------|
+| _Ativa_        | Regular (+1)       | Regular (+1)       | Razoável (+2)      |
+| _Desenvolta_   | Razoável (+2)      | Regular (+1)       | Bom (+3)           |
+| _Divertida_    | Razoável (+2)      | Razoável (+2)      | Razoável (+2)      |
+| _Esperta_      | Bom (+3)           | Bom (+3)           | Regular (+1)       |
+| _Fofa_         | Regular (+1)       | Razoável (+2)      | Regular (+1)       |
+ 
 ## Façanha Exclusiva:
 
 + ***Não fui eu!*** - Normalmente as pessoas não desconfiariam de uma pessoa tão certinha quanto o Certinho. Sempre que o Certinho precisar convencer as pessoas que ele ou a Turma não fizeram alguma coisa, ele recebe +2 em seus testes. Além disso, uma vez por Sessão, o personagem Certinho pode dizer que uma determinada coisa não era bem daquele jeito, trazendo um Aspecto com uma Invocação Gratuíta automaticamente.

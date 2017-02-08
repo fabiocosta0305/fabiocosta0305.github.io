@@ -45,6 +45,18 @@ Por outro lado, um _Travesso_ acaba sendo vítima de:
 | _Que tipo de travessura você nunca, jamais faria?_       |               |
 | _O que você pensa sobre a sua Turma?_                    |               | 
 
+## Sugestão de Atitudes
+
+Segue abaixo três sugestões diferentes de distribuição das Atitudes para um _Travesso_
+ 
+| ***Atitude***  | ***Sugestão 1***   | ***Sugestão 2***   | ***Sugestão 3***   |
+|---------------:|--------------------|--------------------|--------------------|
+| _Ativa_        | Bom (+3)           | Razoável (+2)      | Regular (+1)       |
+| _Desenvolta_   | Razoável (+2)      | Bom (+3)           | Regular (+1)       |
+| _Divertida_    | Regular (+1)       | Razoável (+2)      | Bom (+3)           |
+| _Esperta_      | Razoável (+2)      | Regular (+1)       | Razoável (+2)      |
+| _Fofa_         | Regular (+1)       | Regular (+1)       | Razoável (+2)      |
+
 ## Façanha Exclusiva:
 
 + ***Deixa comigo!*** - Uma coisa que não se pode questionar do Travesso é que ele não tem medo de cair de cabeça e fazer o que for necessário pela Turma e por suas travessuras, ao ponto de quase ser inconsequentes. Desse modo, todos os usos de Invocações Gratuitas por Aspectos gerados pelo Travesso para qualquer um oferece um bônus de +3 ao invés do normal +2. Além disso, toda vez que o Travesso oferece um bônus passivo de Trabalho em Equipe, esse bônus sobre de +1 para +2.
@@ -60,7 +72,8 @@ Por outro lado, um _Travesso_ acaba sendo vítima de:
  | _O que você pensa sobre a sua Turma?_ | É sempre bom ter alguém com quem se divertir | 
  | | Hugh precisa se soltar! |
  | | Super-protetora quanto a William |
- 
+
+
 ### Atitudes
  
  | ***Atitude***  | ***Nível***   |

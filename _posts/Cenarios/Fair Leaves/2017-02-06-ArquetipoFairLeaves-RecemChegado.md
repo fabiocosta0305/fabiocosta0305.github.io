@@ -45,6 +45,19 @@ Por outro lado, um _Recém-Chegado_ acaba sendo vítima de:
 | _O que mais você sente falta da sua cidade original?_ |               |
 | _O que você pensa sobre a sua Turma?_                 |               | 
 
+## Sugestão de Atitudes
+
+Segue abaixo três sugestões diferentes de distribuição das Atitudes para um _Recém-Chegado_
+ 
+| ***Atitude***  | ***Sugestão 1***   | ***Sugestão 2***   | ***Sugestão 3***   |
+|---------------:|--------------------|--------------------|--------------------|
+| _Ativa_        | Regular (+1)       | Regular (+1)       | Bom (+3)           |
+| _Desenvolta_   | Razoável (+2)      | Bom (+3)           | Regular (+1)       |
+| _Divertida_    | Bom (+3)           | Regular (+1)       | Razoável (+2)      |
+| _Esperta_      | Razoável (+2)      | Razoável (+2)      | Regular (+1)       |
+| _Fofa_         | Regular (+1)       | Regular (+1)       | Razoável (+2)      |
+
+
 ## Façanha Exclusiva:
 
 + ***É assim de onde vim!*** - O Recém-Chegado conhece coisas que a maioria não conhece, em especial porque ele tem uma experiência diferente de vida, vinda de outro lugar. Sempre que ele puder mostrar uma forma diferente de fazer as coisas e o resto da turma aceitar, seus bônus por trabalho de equipe aumentam em +1, para +2 para Passivo e +3 no caso de Aspectos criados como parte de Ações de _Criar Vantagens_. Além disso, uma vez por sessão ele pode trazer automaticamente um Aspecto com uma Invocação Gratuita  representando uma nova forma de ver-se as coisas que o resto da Turma não via.

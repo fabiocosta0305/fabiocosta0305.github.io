@@ -47,6 +47,19 @@ Por outro lado, um _Geninho_ acaba sendo vítima de:
 | _Que tipo de coisa você realmente não suporta tentar aprender?_ |               |
 | _O que você pensa sobre a sua Turma?_                           |               | 
 
+## Sugestão de Atitudes
+
+Segue abaixo três sugestões diferentes de distribuição das Atitudes para um _Geninho_
+ 
+| ***Atitude***  | ***Sugestão 1***   | ***Sugestão 2***   | ***Sugestão 3***   |
+|---------------:|--------------------|--------------------|--------------------|
+| _Ativa_        | Regular (+1)       | Regular (+1)       | Razoável (+2)      |
+| _Desenvolta_   | Razoável (+2)      | Regular (+1)       | Regular (+1)       |
+| _Divertida_    | Razoável (+2)      | Razoável (+2)      | Razoável (+2)      |
+| _Esperta_      | Bom (+3)           | Bom (+3)           | Bom (+3)           |
+| _Fofa_         | Regular (+1)       | Razoável (+2)      | Regular (+1)       |
+
+
 ## Façanha Exclusiva:
 
 + ***Já li sobre isso!*** - O Geninho leu centenas, milhares de livros. Isso o ajuda quando seu conhecimento pode ser útil. A qualquer momento, gastando 1 Ponto de Destino, você pode trazer um detalhe útil à Turma baseando-se em algo que você tenha lido previamente. Esse detalhe entra em jogo como um Aspecto com uma Invocação Gratuita automaticamente. Além disso, _uma vez por sessão_ você pode o fazer de maneira gratuita.

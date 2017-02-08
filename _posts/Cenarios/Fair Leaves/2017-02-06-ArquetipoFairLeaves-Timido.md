@@ -45,6 +45,21 @@ Por outro lado, um _Tímido_ acaba sendo vítima de:
 | _O que te deixa mais a vontade?_      |               |
 | _O que você pensa sobre a sua Turma?_ |               | 
 
+
+
+## Sugestão de Atitudes
+
+Segue abaixo três sugestões diferentes de distribuição das Atitudes para um _Tímido_
+ 
+| ***Atitude***  | ***Sugestão 1***   | ***Sugestão 2***   | ***Sugestão 3***   |
+|---------------:|--------------------|--------------------|--------------------|
+| _Ativa_        | Regular (+1)       | Razoável (+2)      | Regular (+1)       |
+| _Desenvolta_   | Razoável (+2)      | Regular (+1)       | Regular (+1)       |
+| _Divertida_    | Regular (+1)       | Bom (+3)           | Razoável (+2)      |
+| _Esperta_      | Razoável (+2)      | Razoável (+2)      | Bom (+3)           |
+| _Fofa_         | Bom (+3)           | Regular (+1)       | Razoável (+2)      |
+
+
 ## Façanha Exclusiva:
 
 + ***Quietinho!*** - quando um Tímido deseja, ele se torna quase invisível para Adultos ou outras crianças. Ao tentar _Superar_ sendo _Esperto_ obstáculos relacionados com os demais perceberem você, você recebe +2 no rolamento. Além disso, sempre que você precisar passar despercebido, você pode, com 1 Ponto de Destino, elevar o nível do sucesso em 1 (de _Falha_ para _Empate_, _Empate_ para _Sucesso_, e qualquer _Sucesso_ para _Sucesso com Estilo_)

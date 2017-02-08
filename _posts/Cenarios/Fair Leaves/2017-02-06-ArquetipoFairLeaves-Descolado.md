@@ -46,6 +46,20 @@ Por outro lado, um _Descolado_ acaba sendo vítima de:
 | _O que ou quem te tira do sério?_     |               |
 | _O que você pensa sobre a sua Turma?_ |               | 
 
+
+## Sugestão de Atitudes
+
+Segue abaixo três sugestões diferentes de distribuição das Atitudes para um _Descolado_
+ 
+| ***Atitude***  | ***Sugestão 1***   | ***Sugestão 2***   | ***Sugestão 3***   |
+|---------------:|--------------------|--------------------|--------------------|
+| _Ativa_        | Regular (+1)       | Regular (+1)       | Razoável (+2)      |
+| _Desenvolta_   | Bom (+3)           | Bom (+3)           | Razoável (+2)      |
+| _Divertida_    | Razoável (+2)      | Razoável (+2)      | Bom (+3)           |
+| _Esperta_      | Regular (+1)       | Razoável (+2)      | Regular (+1)       |
+| _Fofa_         | Razoável (+2)      | Regular (+1)       | Regular (+1)       |
+
+
 ## Façanha Exclusiva:
 
 + ***Todo mundo calmo!*** - como um Descolado age sempre de maneira honesta e correta e sempre está calmo, essa confiança inspira os demais a manterem a calma. Sempre que alguém tentar colocar um Aspecto de ___Pânico___ ou algo similar que ameace desestabilizar a Turma, o Descolado pode Defender a Turma  sendo _Desenvolto_ com +2 no rolamento. Além disso, uma ___vez por sessão___, se ele tiver algum tempo, pode remover um Aspecto de ___Pânico___ ou outro que tenha desestabilizado a Turma automaticamente, desde que a Turma esteja toda em uma Zona.

@@ -46,6 +46,18 @@ Por outro lado, um _Curioso_ acaba sendo vítima de:
 | _Quando você percebe que sua curiosidade o colocou em encrenca?_ |               |
 | _O que você pensa sobre a sua Turma?_                            |               | 
 
+## Sugestão de Atitudes
+
+Segue abaixo três sugestões diferentes de distribuição das Atitudes para um _Curioso_
+ 
+| ***Atitude***  | ***Sugestão 1***   | ***Sugestão 2***   | ***Sugestão 3***   |
+|---------------:|--------------------|--------------------|--------------------|
+| _Ativa_        | Regular (+1)       | Regular (+1)       | Bom (+3)           |
+| _Desenvolta_   | Razoável (+2)      | Bom (+3)           | Razoável (+2)      |
+| _Divertida_    | Razoável (+2)      | Razoável (+2)      | Regular (+1)       |
+| _Esperta_      | Bom (+3)           | Regular (+1)       | Regular (+1)       |
+| _Fofa_         | Regular (+1)       | Razoável (+2)      | Razoável (+2)      |
+
 ## Façanha Exclusiva:
 
 + ***Essa foi por pouco!*** - O Curioso já se meteu em tanta encrenca que desenvolveu de certa forma uma intuição para sair de encrencas tanto quanto se enfiar nas mesmas. Sempre que achar que está perto de entrar em confusão, o Curioso pode rolar um teste de _Esperto_ contra dificuldade _Razoável_ como uma ação de _Criar Vantagem_. Se passar, ele gera um Aspecto de _Precavido_ com uma _Invocação Gratuita_. Caso não haja perigo, esse Aspecto pode ser _"guardado"_ para outras cenas. Ele só pode fazer isso uma vez por cena e com um limite de 3 Invocações Gratuitas no Aspecto. Além disso, uma vez por sessão ele pode trazer esse Aspecto _Precavido_ gratuitamente, com uma _Invocação Gratuita_.

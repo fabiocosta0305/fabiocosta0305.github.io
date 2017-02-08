@@ -46,6 +46,19 @@ Por outro lado, um _Atleta_ acaba sendo vítima de:
 | _Qual o Esporte no qual você não se dá bem?_ |               |
 | _O que você pensa sobre a sua Turma?_        |               | 
 
+## Sugestão de Atitudes
+
+Segue abaixo três sugestões diferentes de distribuição das Atitudes para um _Atleta_
+ 
+| ***Atitude***  | ***Sugestão 1***   | ***Sugestão 2***   | ***Sugestão 3***   |
+|---------------:|--------------------|--------------------|--------------------|
+| _Ativa_        | Bom (+3)           | Bom (+3)           | Razoável (+2)      |
+| _Desenvolta_   | Razoável (+2)      | Regular (+1)       | Razoável (+2)      |
+| _Divertida_    | Razoável (+2)      | Razoável (+2)      | Bom (+3)           |
+| _Esperta_      | Regular (+1)       | Razoável (+2)      | Regular (+1)       |
+| _Fofa_         | Regular (+1)       | Regular (+1)       | Regular (+1)       |
+ 
+
 ## Façanha Exclusiva:
 
 + ***Não podem me parar!*** - quando um Atleta está jogando ou fazendo qualquer atividade física mais divertida, ele se entrega 110% ao que está fazendo. Portanto, ele se Defende de maneira _Divertida_ a qualquer tentativa de tirar o seu foco de sua atividade física com +2 no rolamento. Além disso, qualquer tentativa de Invocar contra ele Aspectos que envolvam restrições físicas enquanto ele está em atividade físicas só podem ser feitos com o uso de 2 Pontos de Destino.
@@ -66,11 +79,11 @@ Por outro lado, um _Atleta_ acaba sendo vítima de:
  
  | ***Atitude***  | ***Nível***   |
  |---------------:|---------------|
- | _Ativo_        | Bom (+3)      |
- | _Desenvolto_   | Razoável (+2) |
- | _Divertido_    | Razoável (+2) |
- | _Esperto_      | Regular (+1)  |
- | _Fofo_         | Regular (+1)  |
+ | _Ativa_        | Bom (+3)      |
+ | _Desenvolta_   | Razoável (+2) |
+ | _Divertida_    | Razoável (+2) |
+ | _Esperta_      | Regular (+1)  |
+ | _Fofa_         | Regular (+1)  |
  
 ### Façanha Exclusiva:
  
