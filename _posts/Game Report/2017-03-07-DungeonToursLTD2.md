@@ -102,7 +102,7 @@ They started to go through the Dungeon and, althought things was a little comple
 
 And in the End, the PCs had, in the Room 9, to split 14 Stress... But Till acted to convince Lady Arden's Brother about the ritual importance. By being successful, he re-enabled the use of the ___Beasts and Magical Creatures___, which allowed than to use it the final win and all of them
 
-For the Final Impression, they had a big +22, against 8 (9 rooms): 9 victories + no Pet Peeves put in the game + used the Hidden Talents of both Lady Ardens (sang in the last room) and Lord Marten (fought for his love agains the Dragon _and_ the Orcs), and even a -1 roll warranted a _Success with Style_ and a very Happy Ending for the Lovers.
+For the Final Impression, they had a big +22, against Difficult 8 (9 rooms): 9 victories + no Pet Peeves put in the game + used the Hidden Talents of both Lady Ardens (sang in the last room) and Lord Marten (fought for his love agains the Dragon _and_ the Orcs), and even a -1 roll warranted a _Success with Style_ and a very Happy Ending for the Lovers.
 
 By the way, in the end they were royally paid by Sarek and they choosed to use the money to open a kind of medieval _Start-up_ company, that would provide "fun" in Dungeon Crawling...
 
