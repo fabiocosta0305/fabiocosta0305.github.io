@@ -61,20 +61,20 @@ This was the Sacred Glen, and the Challen## Headingges
 | ___"Room"___ | ___Threat___ | ___Type___ | ___Invokes___ |
 |:-:|-|:-:|-|
 | 1 | The Stone in the Sword (would provide the _Fake "Dragon-Slayer" Sword_) | Real | Boost |
-| 2 | Thorn Wall with blunt Thorns and Snakes | Real | [][][] | 
-| 3 | The Darkbringer Wolf (an Metamorph) | Real | [] |
-| 4 | "Living" Trees (manipulated by the Forest Creatures) | Real | [][] |
-| 5 | Ghastly Poltergeist Illusion | Fake | [][] |
-| 6 | The "Sphinx" (in fact, a Female Centaur) Temptation  | Fake | [][] |
-| 7 | Orc Tribe  | Real | [][][][] |
-| 8 | "Evil Red" Dragon (in fact, a Copper Dragon that likes a joke) | Real | [][] |
-| 9 | The True Love Pixies | Real | [][][] |
+| 2 | Thorn Wall with blunt Thorns and Snakes | Real | `3`{: .fate_font} | 
+| 3 | The Darkbringer Wolf (an Metamorph) | Real | `1`{: .fate_font} |
+| 4 | "Living" Trees (manipulated by the Forest Creatures) | Real | `2`{: .fate_font} |
+| 5 | Ghastly Poltergeist Illusion | Fake | `2`{: .fate_font} |
+| 6 | The "Sphinx" (in fact, a Female Centaur) Temptation  | Fake | `2`{: .fate_font} |
+| 7 | Orc Tribe  | Real | `4`{: .fate_font} |
+| 8 | "Evil Red" Dragon (in fact, a Copper Dragon that likes a joke) | Real | `2`{: .fate_font} |
+| 9 | The True Love Pixies | Real | `3`{: .fate_font} |
 
 Also, as a house rule, they wanted some kind of _Dungeon Aspects_ that could be used at any time. As they had lots of success during the _Build_, I provided the following Aspects to be used:
 
-+ Love Conquers All!!!! [][][][]
-+ Beasts and Magical Creatures [][][][]
-+ The Sacred Glen Ballad []
++ ___Love Conquers All!!!!___ `4`{: .fate_font}
++ ___Beasts and Magical Creatures___ `4`{: .fate_font}
++ ___The Sacred Glen Ballad___ `1`{: .fate_font}
 
 The _highlights_ during the Build were:
 
