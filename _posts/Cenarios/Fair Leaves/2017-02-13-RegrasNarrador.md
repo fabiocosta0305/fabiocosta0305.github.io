@@ -118,7 +118,6 @@ Antes de começar, deixe claro para as crianças:
 
 E é isso: se a qualquer momento a criança soltar _"Para com isso, seu malvado!"_, o jogo deve parar imediatamente, e mude de caminho a história. Acima de tudo, mantenha seu compromisso com isso não importa o que aconteça.
 
-<<<<<<< HEAD
 ## Descrevendo cenas e Condições Apropriadas
 
 Uma das partes que pode ser mais complicadas para um Narrador, em especial de primeira viagem, é descrever cenas. Vamos aqui oferecer uma forma de descrever as cenas que pode ajudar você a delinear o que pode acontecer.
@@ -154,5 +153,4 @@ Por fim, defina as ___Condições Aplicáveis___, ou seja, quais são as Condiç
 > + __Vitória ou Derrota Parcial:__ Os personagens garantirão que a Fazenda dos Hedginger não será tomada, mas ainda assim a _Hipoteca_ permanece
 > + __Derrota Total:__ Os personagens terão que garantir algum dinheiro em 24 horas, ou a _Hipoteca_ será executada, e os _Hedginger_ perderão a fazenda e terão que abandonar Fair Leaves!
 > + ___Condições:___ Cansado, Com Fome/Com Sede, Chateado, Bravo
-=======
->>>>>>> b10bba85466119ace8008a80e23d004be56841c7
+
