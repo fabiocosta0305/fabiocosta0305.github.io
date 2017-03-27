@@ -19,7 +19,7 @@ header: no
 
 > _"Cabô de chegar, forasteiro? Vi que acabou de descer do trem. Acho que você veio trabalhar no Banco Nacional ou nos Correios ou em algum outro lugar, mas é raro ver gente chegando aqui a Fair Leaves e permanecendo._
 >  
-> _Mas você tem pinta de ser uma pessoa ordeira. Fair Leaves gosta de pessoas assim. A cidade foi fundada a mais ou menos uns 150 anos, quando o pessoal tava indo para o Oeste na Febre do Ouro. Ainda tem um velho carroção da época perto da região da antiga Fazenda dos McBaalian. Algumas pessoas desistiram da viagem no meio do caminho. Isso era bem mais comum do que as pessoas imaginam. Aí elas ficaram, se tornaram um ponto de abastecimento de outras caravanas, começaram a plantar milho e maçãs, e assim cresceu... Tivemos nosso azar também na Grande Depressão, e perdi uns bons amigos na época da Guerra. Mas posso dizer para o senhor: aqui é um lugar bem ordeiro._
+> _Mas você tem pinta de ser uma pessoa ordeira. Fair Leaves gosta de pessoas assim. A cidade foi fundada a mais ou menos uns 150 anos a 200 anos, quando o pessoal tava indo para o Oeste na Febre do Ouro. Ainda tem um velho carroção da época perto da região da antiga Fazenda dos McBaalian. Algumas pessoas desistiram da viagem no meio do caminho. Isso era bem mais comum do que as pessoas imaginam. Aí elas ficaram, se tornaram um ponto de abastecimento de outras caravanas, começaram a plantar milho e maçãs, e assim cresceu... Tivemos nosso azar também na Grande Depressão, e perdi uns bons amigos na época da Guerra. Mas posso dizer para o senhor: aqui é um lugar bem ordeito._
 >  
 > _Bem, o senhor veio para trabalhar onde? Na escola do senhor Goatzeit? Ah, acho que sei, você é o que vai ensinar as crianças a mexer com aquelas coisas de computador? Eu sou mais antigo, mais ligado ao campo... Mas eu sei que isso é importante pros meninos. Mesmo eu de quando em quando tenho que usar essas coisas. Mas normalmente os meninos ajudam a gente._
 >  
@@ -79,7 +79,7 @@ O maior problema na escola são as turmas de Valentões, em especial as que judi
 
 ## A Doceria da Senhora Heckett
 
-Talvez a segunda loja mais antiga em funcionamento, sendo que ___a mais antiga mantida pela mesma família e no mesmo lugar___, a Doceria da Senhora Heckett foi fundada a mais de 100 anos e sempre foi mantida pela família Heckett como um negócio familiar. Atualmente as coisas andam meio difíceis, mas ainda chama a atenção das pessoas que gostam de doces e bebidas refrescantes, seja a limonada e sorvetes geladinhos no verão, ou o chocolate quentinho durante o inverno.
+Talvez a segunda loja mais antiga em funcionamento, sendo que ___a mais antiga mantida pela mesma família e no mesmo lugar___, a Doceria da Senhora Heckett foi fundada a mais de 100 anos e sempre foi mantida pela família Heckett como um negócio familiar. Atualmente as coisas andam meio difíceis, devido aos doces modernos vindos da Cidade Grande , mas ainda chama a atenção das pessoas que gostam de doces e bebidas refrescantes, seja a limonada e sorvetes geladinhos no verão, ou o chocolate quentinho durante o inverno.
 
 A senhora Lilly Heckett, atual dona da Doceria, aprendeu o ofício de sua mãe, que aprendeu da mãe dela e assim foi. Apesar de ter estudado e aprendido muitas técnicas novas e modernas, a senhora Heckett ainda faz muitos dos doces segundo os métodos mais tradicionais, o mesmo ___Livro de Receitas da Família Heckett___ sendo o segredo do sucesso dos doces e bolos que, geração após geração, encantam crianças e adultos.
 
@@ -97,13 +97,19 @@ Os Saintbern são pessoas já consideradas parte de Fair Leaves, apesar de serem
 
 ## O Centro Cívico Löwe Bieberaus
 
-O Centro Cívico Löwe Bieberaus, nomeado assim em honra a um dos fundadores de Fair Leaves, é mantido por um grupo de pessoas da cidade conhecido como ___Associação Cultural de Fair Leaves___, formada por pessoas que procuram investigar as tradições e manter festividades regulares e tradicionais de Fair Leaves, e catalogando lendas e histórias de tempos passados (e do presente também) de Fair Leaves.
+O Centro Cívico Löwe Bieberaus, nomeado assim em honra a um dos fundadores de Fair Leaves, é mantido por um grupo de pessoas da cidade conhecido como ___Associação Cultural de Fair Leaves___, formada por pessoas que procuram investigar as tradições e manter festividades regulares e tradicionais de Fair Leaves, e catalogando lendas e histórias de tempos passados (e do presente também) de Fair Leaves, sendo também os responsáveis por manter ___A Gazeta de Fair Leaves___, um jornal que, embora exista uma banca de jornais em Fair Leaves, ainda é vendido e entregue por garotos do jornal.
 
 O Centro Cívico em especial é onde ocorre a Feira Agrícola de Fair Leaves, onde todos os fazendeiros apresentam seus melhores produtos para compradores das cidades vizinhas, como Great Willows, além de poderem negociar insumos e equipamentos para a próxima safra. Além disso, eles mantêm uma festa de primavera, com danças típicas e muita comida, além de organizarem eventos de dança, recitais de música e peças teatrais, em especial em épocas como o Natal e a páscoa
 
 O Centro Cívico de Fair Leaves é a maior construção que fica na cidade, servindo como um centro de exposição e campo esportivo, onde pratica-se futebol, futebol americano e qualquer outro esporte da região. Ele fica perto da saída da cidade pela estrada que liga Fair Leaves a Great Willows.
 
-Atualmente, quem cuida do Centro Cívico é a senhora _Woolima Laughton_, que tem sangue das Famílias Fundadoras e procura preservar as antigas coisas de Fair Leaves. Ela é uma senhora bem bondosa, mas atrapalhar seu chá é pedir para arrumar confusão.
+Atualmente, quem cuida do Centro Cívico é a senhora _Woolima Laughton_, que tem sangue das Famílias Fundadoras (alguns dizem que inclusive das Famílias O'Wool e Bieberaus) e procura preservar as antigas coisas de Fair Leaves. Ela é uma senhora bem bondosa, mas atrapalhar seu chá é pedir para arrumar confusão.
+
+Além disso, é no Centro Cívico Löve Bieberaus que a ___Associação Cultural de Fair Leaves___ organiza eventos diversos, como as ___Danças de Salão___ e as encenações de batalhas da Guerra Civil, além de ser o espaço para os grupos de teatros e outras comunidades artísticas da região de espaço para outras atividades culturais. Também serve como sede do Grupo de Escoteiros de Fair Leaves, e também recebe Grupos de Escoteiros de outras cidades, como Great Willows, para a partir do Centro Cívico realizar seus acampamentos e atividades ao ar livre.
+
+### O Grupo Escoteiro de Fair Leaves
+
+Sem uma sede própria (ainda), o Grupo Escoteiro de Fair Leaves divide com o Grupo de Teatro e o _Clown Alley_, o grupo de voluntários que atuam como palhaços em eventos cívicos, de Fair Leaves a Associação Cultural de Fair Leaves como sede. O Líder Escoteiro local, o senhor _Leon Orel_ é um dos melhores e mais responsáveis líderes escoteiros da região, e não poucas vezes trabalha em conjunto com os grupos escoteiros de outros cidades, em especial das vizinhas Katchalow , Great Willows e Deep Lake, para atividades divertidas com os escoteiros da cidades. 
 
 ## Os campos de Fair Leaves
 
