@@ -6,7 +6,7 @@ layout: page
 categories:
   - Adventures
 tags:
-  - Do - Fate of the Pilgrim Temple
+  - Do - Fate of the Flying Temple
 ---
 
 __Stamps:__ Knot, Pen, Lotus
