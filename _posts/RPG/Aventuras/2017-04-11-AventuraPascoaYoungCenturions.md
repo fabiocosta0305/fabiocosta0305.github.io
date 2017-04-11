@@ -1,12 +1,12 @@
 ---
-title: "O Ovo Místico e a Lebre do Campo
+title: "O Ovo Místico e a Lebre do Campo"
 subtitle: "Aventura de Páscoa de Young Centurions"
 language: br
 layout: aventuras
 categories:
   - Aventuras
 tags:
-  - Loose Threads
+  - Young Centurions
 excerpt_separator: <!-- excerpt -->
 ---
 
@@ -17,6 +17,8 @@ A Páscoa se aproxima em Março de 1911 e as crianças do ___Orfanato e Educand�
 Além disso, existem os doces novos que todos os anos surgem os anos. Em especial esse ano tem se popularizado o _Ovo da Lebre do Campo_, que, além de barato é delicioso. De fato, algumas pessoas não conseguem parar de comer o mesmo.
 
 Entretanto, uma notícia choca a cidade: ___um dos raros Ovos Fabergé___, feito pela Família Fabergé de joalheiros para os Tsares Russos, ___foi recentemente roubado___ enquanto em exibição no Museu Smithsorian! Ninguém sabe quem o roubou, ainda mais sob a intensa vigilância sob a qual o mesmo estava! A Polícia de Nova Iorque está embasbacada, ainda mais que as ___pistas e pegadas levam a algo que não é humano___!
+
+<!-- excerpt -->
 
 Além disso, quando os Jovens Centuriões vão à Sede do _Clube do Século_ em Nova Iorque, eles vêm um homenzinho vestido em roupas bizarras irá pedir ajuda ao _Clube do Século_. Esse homenzinho é ninguém menos que ___Willy Wonka, um dos maiores_ Chocolatiere _do mundo___, e ele teve seu ___Livro de Receitas___ roubado, com todos os segredos do mesmo para fazer os mais deliciosos doces já imaginados!
 

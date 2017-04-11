@@ -32,6 +32,8 @@ De qualquer modo, as coisas vão cada vez mais ficando empolgantes...
 
 ... até à noite antes da Caçada.
 
+<!-- excerpt -->
+
 ### Cena 2 - A noite antes da caçada
 
 Na noite antes da Caçada, enquanto os personagens preparam cestas para que as crianças (incluindo eles) coloquem os ovos que conseguirem, os adultos responsáveis por eles avisam que vão passar a noite fora, e deixam claro que ___eles devem ficar em casa durante a noite,_ SENÃO...__ Deixe claro que os personagens devem obedecer seus pais, se não quiserem correr o risco de ficarem de castigo na Páscoa (e, portanto, sem chocolate!).

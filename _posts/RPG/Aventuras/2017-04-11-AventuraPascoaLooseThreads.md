@@ -1,24 +1,32 @@
---
-title:Aventura de Páscoa - Loose Threads
-
---
-# A Fábrica dos Ovos de Chocolate
+---
+title: "Aventura de Páscoa - Loose Threads"
+subtitle: "Aventura de Páscoa de Young Centurions"
+language: br
+layout: aventuras
+categories:
+  - Aventuras
+tags:
+  - Loose Threads
+excerpt_separator: <!-- excerpt -->
+---
 
 ## O Pedido de Ajuda
 
-A Companhia chega até um Vilarejo no meio de um vale, cercado por uma bela Floresta típica de Contos de Fadas. O Vilarejo fica próximo a um monte, do alto do qual sai uma fumaça como se o mesmo fosse um vulcão ou como se houvesse a saída de uma chaminé. 
+A Companhia chega até um Vilarejo no meio de um vale, cercado por uma bela Floresta típica de Contos de Fadas. O Vilarejo fica próximo a um monte, do alto do qual sai uma fumaça como se o mesmo fosse um vulcão ou como se houvesse a saída de uma chaminé.
 
-O Vilarejo tem cores bonitas, ainda que berrantes. É perceptível o comércio intenso, já que ele fica a beira de um rio e próximo do caminho que leva para a saída do Vale, onde caravanas de comerciantes vêm e vão, aproveitando o vilarejo como entreposto para comerciar entre si sem precisar ir aos Reinos Vizinhos. 
+O Vilarejo tem cores bonitas, ainda que berrantes. É perceptível o comércio intenso, já que ele fica a beira de um rio e próximo do caminho que leva para a saída do Vale, onde caravanas de comerciantes vêm e vão, aproveitando o vilarejo como entreposto para comerciar entre si sem precisar ir aos Reinos Vizinhos.
 
 Uma coisa curiosa que a Companhia irá reparar é que não há cacau ou chocolate em local nenhum do Vilarejo. Os moradores explicarão que isso não é nada normal, já que a famosa Fábrica de Ovos de Chocolate dos Coelhos da Páscoa fica na toca dos mesmos, que fica no Monte dos Ovos (o monte vizinho, onde eles podiam ver a chaminé). A fumaça da chaminé está pequena para a época do ano, e muitos dos moradores sentem falta da atidade dos Coelhos, já que muitos dos moradores são eles próprios _chocolatiere_ (doceiros especializados em chocolate) e trabalhavam para o Coelho da Páscoa.
 
-Os personagens serão então procurados por um dos Coelhos da Fábrica de Ovos, que os levará até a mesma: eles perceberão que, apesar das proporções pequenas, eles conseguem andar normalmente pela Fábrica. 
+Os personagens serão então procurados por um dos Coelhos da Fábrica de Ovos, que os levará até a mesma: eles perceberão que, apesar das proporções pequenas, eles conseguem andar normalmente pela Fábrica.
 
 A Fábrica é enorme, provavelmente cobrindo mais da metade da parte interna do Monte: uma das cachoeiras naturais do Vale foi desviada para alimentar o moinho d'água que fornece força para o maquinário, além de parte da água ser aproveitada para as caldeiras para o banho-maria do chocolate e para outras necessidades.
 
 Entretanto, nesse momento, a Companhia pode ver que os Coelhos estão meio esbaforidos, mas não pela atividade, muito pelo contrário: a falta de atividade está os deixando meio apavorados de tanta ansiedade!
 
 Quando são levados para uma sala que parece o ponto de onde é feito o controle da Fábrica, eles vêem um Grande Coelho, de pele alva como a neve, olhos albinos e um pequeno botão rosa de nariz na ponta do focinho. Ele veste roupas similares à humana, de uma maneira que lembra o Coelho Branco de _Alice no País das Maravilhas_. Entretanto, os personagens perceberão que o mesmo parece meio doente: suas orelhas longas estão meio baixas e os personagens poderão perceber que o pelo das bochechas não está meio rosado, como deveria estar, mas sim meio verde, como se ele tivesse comido alguma coisas que não lhe caiu bem!
+
+<!-- excerpt -->
 
 ## Problema
 
@@ -29,7 +37,7 @@ Quando são levados para uma sala que parece o ponto de onde é feito o controle
 
 ## Investigação
 
-Os Coelhos da Fábrica de Ovos vão sempre mencionar o fato de que faz alguns dias que não recebem mais o cacau, o chocolate, e outras matérias primas para os ovos, justo na época mais crítica para a produção dos ovos de chocolate. Mesmo procurando mercadores de vilas, cidades ou mesmo reinos próximos, eles descobriram que todo o suprimento que qualquer coisa que possa ser usado nos ovos de páscoa está cortado, ao ponto de até mesmo ovos de galinha estarem sendo roubados. 
+Os Coelhos da Fábrica de Ovos vão sempre mencionar o fato de que faz alguns dias que não recebem mais o cacau, o chocolate, e outras matérias primas para os ovos, justo na época mais crítica para a produção dos ovos de chocolate. Mesmo procurando mercadores de vilas, cidades ou mesmo reinos próximos, eles descobriram que todo o suprimento que qualquer coisa que possa ser usado nos ovos de páscoa está cortado, ao ponto de até mesmo ovos de galinha estarem sendo roubados.
 
 Eles mencionarão que foram vistos duendes salteadores na Floresta próxima, uma Floresta Encantada segundo todos conhecem. Esse goblins costumam atacar ocasionalmente, mas não com a intensidade e a coragem que têm atacado recentemente.
 
@@ -37,9 +45,9 @@ Além disso, um dos maiores opositores do Coelho da Páscoa, Rumpelstiltskin, fo
 
 Quanto ao ___Livro de Receitas___, alguns dos Coelhos da Fábrica de Ovos estavam levando ele emprestado para a Mamãe Ganso quando foram atacados por goblins salteadores e o mesmo foi roubado. Se não fosse a doença do Coelho da Páscoa e a falta do chocolate, eles poderiam fabricar os ovos, adaptando a receita aos poucos até achar um ponto ideal. Reduziria a variedade dos ovos de chocolate, mas seria o possível.
 
-Caso alguém pergunte se algum dos Coelhos da Fábrica de Ovos poderia assumir o papel do Coelho da Páscoa, eles evidenciarão a diferença de tamanho: o Coelho da Páscoa é do tamanho de uma criança humana, enquanto os Coelhos da Fábrica de Ovos são bem menores. 
+Caso alguém pergunte se algum dos Coelhos da Fábrica de Ovos poderia assumir o papel do Coelho da Páscoa, eles evidenciarão a diferença de tamanho: o Coelho da Páscoa é do tamanho de uma criança humana, enquanto os Coelhos da Fábrica de Ovos são bem menores.
 
-Eles afirmarão que existe uma medida que nunca foi tomada: quando o Coelho da Páscoa surgiu, foi criado uma forma de um humano se passar por ele, por meio das ___Roupas Encantadas___, um conjunto de roupas mágicas criadas por Fadas Madrinhas para o Coelho como uma solução de emergência. Uma pessoa que as vista assume a ___forma e algumas das habilidades do Coelho da Páscoa até cumprir a distribuição dos ovos___. 
+Eles afirmarão que existe uma medida que nunca foi tomada: quando o Coelho da Páscoa surgiu, foi criado uma forma de um humano se passar por ele, por meio das ___Roupas Encantadas___, um conjunto de roupas mágicas criadas por Fadas Madrinhas para o Coelho como uma solução de emergência. Uma pessoa que as vista assume a ___forma e algumas das habilidades do Coelho da Páscoa até cumprir a distribuição dos ovos___.
 
 Claro que existem cláusulas sobre quem pode ou não utilizar as ___Roupas Encantadas___, e elas não estão com na Fábrica de Ovos, mas sim com uma das Fadas Madrinhas que as confeccionou, Mirana, que vive no meio da Floresta. Ela é considerada uma das mais sábias das Fadas Madrinhas, e portanto uma das mais poderosas, e é capaz de ver o coração das pessoas: ela não admitirá ninguém que queira vestir as ___Roupas Encantadas___ por motivos egoístas, mas poderá sim ajudar aqueles que não pensem apenas em si mesmos.
 
@@ -73,7 +81,7 @@ A Floresta Encantada que cerca a Fábrica de Chocolate e um vilarejo próximo é
 + Os ___Coelhos da Fábrica de Ovos___ são ___Laboriosos, Ordeiros___ e ___Pacíficos___, sendo possível os ver na Mata buscando determinadas matérias primas para os Ovos de Chocolate. Eles estão divididos entre _Fugir_ quando se vêem em perigo e _Defender_ pessoas próximas quando atacadas. Todos possem _Atletismo_ em _Bom (+3)_ ou melhor
 + As ___Criaturas Mágicas da Floresta___ são ___Mágicas, Mexeriqueiras___ e ___Travessas___, e estão sempre divididas entra ___Apenas Assistir___ o que está acontecendo e ___Interferir___, usando pequenas trapaças e magias para ajudar (ou atrapalhar) as pessoas perdidas. Todas possuem _Magia (Geasa)_ em _Bom (+3)_ ou melhor
 + As ___Raposas___ da Floresta  ___Trapaceiras, Sábias___ e ___Esquivas___, sentindo-se divididas entre _Observar_ os acontecimentos, e com isso ver como agir, e _Agir_ de modo a obterem o que desejam, não se preocupando com o amanhã. Todas costumam ter _Enganar_ Bom (+3) ou melhor;
-+ As ___Corujas___ que vivem nos bosques são ___Sábios, Perceptivos___ e ___Misteriosos___, sendo divididos entre _Guardar seus conhecimentos para si_ e com isso ganhar a vantagem no momento certo e _Compartilhar eles com as pessoas necessitadas_, ajudando pessoas perdidas nos bosques gélidos. Todos possuem _Conhecimento_ Bom (+3) ou melhor; 
++ As ___Corujas___ que vivem nos bosques são ___Sábios, Perceptivos___ e ___Misteriosos___, sendo divididos entre _Guardar seus conhecimentos para si_ e com isso ganhar a vantagem no momento certo e _Compartilhar eles com as pessoas necessitadas_, ajudando pessoas perdidas nos bosques gélidos. Todos possuem _Conhecimento_ Bom (+3) ou melhor;
 + Os ___Trolls___ que vivem nas partes mais densas da Floresta ___Burros, Teimosos___ e ___Brigões___, e costumam sentir-se divididos entre _Cuidar dos seus_ e deixar os outros em paz e _Destruir tudo_ em sua sede de sangue. Todos possuem _Lutar_ Ótimo (+4) ou melhor;
 + Os ___Moradores do Vilarejo Próximo___ costumam ser ___Ordeiros, Trabalhadores___ e ___Desconfiados___ e se sentem divididos entre _Ajudarem_ pessoas perdidas na florestas  e a _Fecharem-se em Copas_, por já terem muitos problemas eles próprios. Todos possuem _Comunicação_ Bom (+3) ou melhor;
 + As ___Matilhas de Lobos___ do Ártico costumam ser  ___Cruéis, Honrados___ e ___Territoriais___, sentindo-se divididos entre _Manterem seu Território_, aceitando o que a Natureza lhe dá e apenas mantendo forasteiros longe e _Tomar tudo o que puderem_, não se preocupando com o amanhã. Todos costumam ter _Furtividade_ Bom (+3) ou melhor;
@@ -85,7 +93,7 @@ A Floresta Encantada que cerca a Fábrica de Chocolate e um vilarejo próximo é
 + As ___Fadas Madrinhas___ são ___Teimosas, Sábias___ e ___Criativas___, estando divididas entre o papel de _Juízas_, entidades inquestionáveis que decidem quem é digno ou não de ajuda mágica, e _cuidadoras_, mentoras que podem falhar enquanto oferecem suporte, ao invés de recompensas e punições. Todas possuem no mínimo _Excepcional_ em _Magia Maior_;
 + Os ___Caçadores e Lenhadores___ são ___Tradicionalistas, Desconfiados___ e ___Bondosos___, estando divididos entre _Auxiliarem pessoas_ que estejam perdidas na Floresta ou de outra forma necessitada e _Cuidar da sua própria vida_, armando as Armadilhas ou afiando suas armas. Todos possuem _Lutar_ ou _Ofícios_ em _Bom (+3)_ ou melhor;
 + As ___Pessoas Magicamente Perdidas___ são ___Amaldiçoadas, Desesperadas___ e ___Dignas de Pena___, estando divididos entre _Implorarem por socorro_ de qualquer um que aparente ser capaz de ajudar e _Capturar pessoas_ que possam os ajudar e força-los a o fazer, sob pena de os próprios personagens ficarem na mesma situação. Todos possuem _Empatia_ ou _Comunicação_ em _Bom (+3)_ ou melhor;
- 
+
 ### ___Segredos___
 
 A Floresta Encantada é lar de muitas criaturas místicas que podem necessitar de ajuda. As Normas de Hospitalidade são algo a ser levado muito a sério. Entretanto, qualquer situação onde os personagens auxiliarem algumas dessas criaturas pode obviamente garantir uma ajuda aos personagens. Entretanto, quando os personagens violarem as Normas, poderão acabar aprisionados, amaldiçoados, ou mesmo arriscando suas vidas!
@@ -118,7 +126,7 @@ Em seguida, ele conseguiu, usando suas artes místicas de ilusão, colocar um de
 
 Ao estudar o mesmo, ele começou a desenvolver uma espécie de chocolate mágico, extremamente saboroso, mas que é capaz de induzir qualquer um que o coma a se sujeitar à vontade de _Rumpelstiltskin_. Confeccionando esses ovos e o testando em crianças que aprisionou como cobaias, os resultados foram ainda melhores: as crianças acabaram tornando-se ___Duendes___ sob sua vontade.
 
-Por fim, o que falta agora é conseguir de alguma forma as ___Roupas Encantadas___. Ele sabe que as mesmas estão com Mirana, mas ele não deseja entrar em conflito com a mesma, pois saber que Mirana é extremamente poderosa. 
+Por fim, o que falta agora é conseguir de alguma forma as ___Roupas Encantadas___. Ele sabe que as mesmas estão com Mirana, mas ele não deseja entrar em conflito com a mesma, pois saber que Mirana é extremamente poderosa.
 
 Portanto, ele conseguiu que, antes de fugir, o seu duende disfarçado que estava infiltrado na Fábrica de Ovos contaminasse a comida e a água do Coelho da Páscoa com um veneno leve, mas duradouro, que o deixasse doente por muito tempo. Agora ele só está esperando para que algum incauto vá até a casa de Mirana pelas Roupas Encantadas para roubá-las e com elas tornar-se o _"Coelho da Páscoa"_ por tempo o bastante para espalhar seus Ovos Mágicos e dominar a Região do Vale e seus Reinos Próximos!
 
@@ -150,8 +158,8 @@ As _Roupas Encantadas_ parecem uma grande ___Fantasia de Coelho___, similar a al
 + **Perícias:** ___Ofícios, Conhecimento__ Excepcional (+5)_; ___Magia (Zaps)__ Bom (+3)_
 
 ### ___Mirana, a Fada Madrina___
-	
-+ **Descrição:** Parecida com a Fada Madrinha da Cinderela, Mirana parece uma senhora idosa de olhar bondoso e cabelos brancos, vestida em um tom pastel de lilás. Seus olhos, porém, são sábios e muito profundos. 
+
++ **Descrição:** Parecida com a Fada Madrinha da Cinderela, Mirana parece uma senhora idosa de olhar bondoso e cabelos brancos, vestida em um tom pastel de lilás. Seus olhos, porém, são sábios e muito profundos.
 + **Populações:** _Criaturas Mágicas da Floresta_ (___Mágicas, Mexeriqueiras, Travessas___); _Fadas Madrinhas_ (___Teimosas, Sábias, Criativas___)
 + **Características:** ___Mágica, Sábia___
 + **Agenda:** Ela cuida para que os segredos sobre o Coelho da Páscoa não sejam revelados para qualquer um. Em especial, as ___Roupas Encantadas___ são um segredo de marca maior da mesma
@@ -170,7 +178,7 @@ As _Roupas Encantadas_ parecem uma grande ___Fantasia de Coelho___, similar a al
 ### ___A Velha Anciã___
 
 + **Descrição:** A Velha Anciã aparenta ser uma senhora de idade avançada, com um rosto meio adunco e os dentes gastos da idade. Na verdade, porém, ela é uma das Princesas Feéricas que vivem na Floresta como teste aos viajantes
-+ **Populações:** _Altos Elfos da Floresta_ (___Tradicionalistas, Arrogantes, Mágicos___); _Criaturas Mágicas da Floresta_ (___Mágicas, Mexeriqueiras, Travessas___); _Moradores do Vilarejo Próximo_ (___Ordeiros, Trabalhadores, Desconfiados___); _Velhos e Velhas Sábios da Floresta_ (___Sábios, Irreverentes, Místicos___); 
++ **Populações:** _Altos Elfos da Floresta_ (___Tradicionalistas, Arrogantes, Mágicos___); _Criaturas Mágicas da Floresta_ (___Mágicas, Mexeriqueiras, Travessas___); _Moradores do Vilarejo Próximo_ (___Ordeiros, Trabalhadores, Desconfiados___); _Velhos e Velhas Sábios da Floresta_ (___Sábios, Irreverentes, Místicos___);
 + **Características:** ___Mágica, Tradicionalista, Ordeira, Sábia___
 + **Agenda:** Ela se passa como uma Velha Anciã como um Teste de Bondade para os personagens.
 + **Custo:** Se passarem pelo Teste de Bondade da mesma, terão sua ajuda. Se falharem, entretanto, podem ser sujeitos a uma Transformação ou Maldição;
@@ -190,7 +198,7 @@ Doppelgäenger enquanto populações são considerados ___Solitários, Misterios
 
 ### O Homem com Cabeça de Burro
 
-Esse Homem com Cabeça de Burro tem sido considerado por muitos mais uma das estranhas feras mágicas que habitam a floresta. Entretanto, ele na verdade é um antigo Lenhador que, sem saber, derrubou a árvore onde uma série de Pixies viviam. Elas o amaldiçoaram com a cabeça de burro, mas quando foram tornar ele totalmente um burro, as Fadas Madrinhas interviram e disseram às Pixies que ele já tinha tido castigo suficiente. Ele procura redenção, tentando convencer pessoas passantes de quem ele é e se elas podem o ajudar a derrubar a maldição. 
+Esse Homem com Cabeça de Burro tem sido considerado por muitos mais uma das estranhas feras mágicas que habitam a floresta. Entretanto, ele na verdade é um antigo Lenhador que, sem saber, derrubou a árvore onde uma série de Pixies viviam. Elas o amaldiçoaram com a cabeça de burro, mas quando foram tornar ele totalmente um burro, as Fadas Madrinhas interviram e disseram às Pixies que ele já tinha tido castigo suficiente. Ele procura redenção, tentando convencer pessoas passantes de quem ele é e se elas podem o ajudar a derrubar a maldição.
 
 + __Descrição:__ Um homem que veste andrajos, além da Cabeça, suas mãos e pés são patas de burro, até a altura dos joelhos e cotovelos, onde tornam-se humanas.
 + __Populações:__ _Lenhadores_ (___Tradicionalistas, Desconfiados, Bondosos___); _Moradores do Vilarejo Próximo_ (___Ordeiros, Trabalhadores, Desconfiados___); _Pessoas Magicamente Perdidas_ (___Amaldiçoadas, Desesperadas, Dignas de Pena___)
@@ -198,4 +206,3 @@ Esse Homem com Cabeça de Burro tem sido considerado por muitos mais uma das est
 + __Agenda:__ tudo o que ele quer é se livrar de sua Maldição, o que passa a ser um teste de Bondade para os personagens o ajudar
 + __Custo:__ O ajudar pode colocar os personagens em rota de colisão com as Criaturas Mágicas da Floresta, potencialmente acarretando uma Maldição aos mesmos. Não o ajudar, entretanto, pode colocar os personagens em encrenca com as Fadas Madrinhas, e isso colocará os mesmos em encrenca com Mirana. Agradar os dois pode demandar alguma Promessa ou mesmo um Sacrifício...
 + ___Perícias:___ _Lutar, Empatia, Ofícios_ ___Bom (+3)___
-
