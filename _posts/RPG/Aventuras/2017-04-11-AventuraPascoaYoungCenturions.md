@@ -1,4 +1,4 @@
---
+---
 title: "O Ovo Místico e a Lebre do Campo
 subtitle: "Aventura de Páscoa de Young Centurions"
 language: br
@@ -8,7 +8,8 @@ categories:
 tags:
   - Loose Threads
 excerpt_separator: <!-- excerpt -->
---
+---
+
 ## Cena 1 - O Homem-Coelho
 
 A Páscoa se aproxima em Março de 1911 e as crianças do ___Orfanato e Educandário da Madame Sheridan___ estão animadas com a Caça a Ovos de Chocolate que todos os anos os bons homens e mulheres do _Clube do Século_ organizam, para trazer um pouco de felicidade para os jovens.
