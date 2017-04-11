@@ -1,8 +1,20 @@
---
-title:Aventura Fair Leaves - A Corrida Pelos Ovos de Páscoa
-
---
-# A Corrida Pelos Ovos de Páscoa
+---
+title: "Aventura Pronta - A Corrida Pelos Ovos de Páscoa"
+teaser: "O mandão da cidade está se pavoneando antes da caçada aos Ovos de Páscoa... Por quê"
+layout: post
+date: 2017-04-11 10:10:00 -0300
+categories:
+    - RPG
+tags:
+    - Fate
+    - FAE
+    - Fair Leaves
+    - Light Hearted
+    - Aventura
+    - Fair-Leaves
+header: no
+excerpt_separator: <!-- excerpt -->
+---
 
 ## Uma aventura de Páscoa para _Fair Leaves_
 
@@ -22,15 +34,15 @@ De qualquer modo, as coisas vão cada vez mais ficando empolgantes...
 
 ### Cena 2 - A noite antes da caçada
 
-Na noite antes da Caçada, enquanto os personagens preparam cestas para que as crianças (incluindo eles) coloquem os ovos que conseguirem, os adultos responsáveis por eles avisam que vão passar a noite fora, e deixam claro que ___eles devem ficar em casa durante a noite,_ SENÃO...__ Deixe claro que os personagens devem obedecer seus pais, se não quiserem correr o risco de ficarem de castigo na Páscoa (e, portanto, sem chocolate!). 
+Na noite antes da Caçada, enquanto os personagens preparam cestas para que as crianças (incluindo eles) coloquem os ovos que conseguirem, os adultos responsáveis por eles avisam que vão passar a noite fora, e deixam claro que ___eles devem ficar em casa durante a noite,_ SENÃO...__ Deixe claro que os personagens devem obedecer seus pais, se não quiserem correr o risco de ficarem de castigo na Páscoa (e, portanto, sem chocolate!).
 
-Entretanto, enquanto eles estão dormindo, eles escutam barulhos estranhos, como de alguma coisa saltitando pelas ruas, becos e vielas de Fair Leaves. Se eles desejarem seguir esses barulhos, será um teste _Razoável_ de alguma Atitude apropriada (normalmente _Esperto_ ou _Ativo_). Se os personagens desejarem ser _Sucedidos a Custo_, deixe claro que seus pais vão saber que eles "fugiram" durante a noite (deixaram janelas abertas, ou portas, e por aí afora). 
+Entretanto, enquanto eles estão dormindo, eles escutam barulhos estranhos, como de alguma coisa saltitando pelas ruas, becos e vielas de Fair Leaves. Se eles desejarem seguir esses barulhos, será um teste _Razoável_ de alguma Atitude apropriada (normalmente _Esperto_ ou _Ativo_). Se os personagens desejarem ser _Sucedidos a Custo_, deixe claro que seus pais vão saber que eles "fugiram" durante a noite (deixaram janelas abertas, ou portas, e por aí afora).
 
 De qualquer modo, conforme os personagens vão andando pela cidade (provavelmente de pijamas), eles vão percebendo que as pegadas que eles seguem não são comuns: parecem ter o formato de patas de coelho, mas não como a de um personagem coelho; são mais alongadas e finas. Além disso, eles encontrarão uma série de tufos de pelo branco, que, em caso de passar em um teste _Regular (+1)_ de uma Atitude apropriada, perceberão ser de um coelho ou lebre. Personagens que tenham tido um _Sucesso com Estilo_ vão lembrar que coelhos, em especial os mais novos, possuem períodos de muda de pelos.
 
-Cedo ou tarde todos os personagens da Turma vão se encontrar, perto da saída da cidade para os campos de Fair Leaves, na direção de Deep Lakes. Essa região é conhecida por ser um local de florestas e campos mais densos que a região para Great Willows, perto do rio Donahue e da Floresta do Urso Malhado. O caminho que eles seguem vai dar no Bosque do Casebre. 
+Cedo ou tarde todos os personagens da Turma vão se encontrar, perto da saída da cidade para os campos de Fair Leaves, na direção de Deep Lakes. Essa região é conhecida por ser um local de florestas e campos mais densos que a região para Great Willows, perto do rio Donahue e da Floresta do Urso Malhado. O caminho que eles seguem vai dar no Bosque do Casebre.
 
-+ _"Fiquem em casa durante a noite, __senão...__"_ 
++ _"Fiquem em casa durante a noite, __senão...__"_
 + Os pais dos personagens da Turma os fazem ficar em casa (ou assim eles pensam)
 + Barulhos estranhos na região
 + Pela janela, percebem uma movimentação estranha
@@ -41,9 +53,9 @@ Cedo ou tarde todos os personagens da Turma vão se encontrar, perto da saída d
 Aqui começa uma "perseguição" entre os personagens, tentando encontrar o dono das pegadas, e o dono das pegada, que não deseja ser visto!
 
 > #### Perseguindo um Coelho
->  
+>
 > + __Objetivo dos PCs:__ encontrar o dono das pegadas e dos pelos que eles viram pela cidade
-> + __Objetivo da Oposição:__ evitar ser visto 
+> + __Objetivo da Oposição:__ evitar ser visto
 > + __Forma de Resolução:__ Perseguição (_Fate Ferramenta de Sistemas_, 43) - os personagens são os perseguidores, o Coelho o perseguido. 10 caixas, com 6 preenchidas inicialmente. Como alternativa, use uma _Disputa_ comum
 > + __Aspectos em Cena:__ _Floresta Escura e Densa_; _Barulhos estranhos_; _Animais noturnos... Muitos agressivos com crianças!_
 > + __Vitória:__ Os personagens acabam alcançando Reinhardt McEaster, o Filho do Coelho da Páscoa
@@ -67,7 +79,7 @@ Algumas perguntas que ele pode responder, e as respostas, além de comentários 
 Essa é uma verdade: o mundo fora de Fair Leaves, por mais que os personagens não saibam, é enorme, e portanto seria impossível um único Coelho da Páscoa levar todos os ovos para todos os lugares de uma única vez, então existem várias famílias de Coelhos da Páscoa ao redor do mundo, e os McEaster são a que atua em Fair Leaves
 
 +. ___Por que você fugiu ao andar pela cidade?___
- 
+
 > _"Eu queria conhecer outros da minha idade, mas meu pai disse que não deveria me envolver com pessoas comuns: no passado, muitos Coelhos da Páscoa foram mortos por causa da idéia do pé de coelho dar sorte. Vamos falar a verdade: um pé de coelho não dá sorte nem para coelhos!"_
 
 Todos os Coelhos da Páscoa se escondem de pessoas comuns porque muitos acreditam que o pé de coelho dê sorte, e acabam caçando e matando coelhos (e Coelhos da Páscoa por tabela) pelos pés de coelho.
@@ -80,7 +92,7 @@ A muda de pelos é algo natural em Coelhos, e não seria diferente no Coelho da 
 
 Além disso, tem a questão do McHog: Reinhardt percebeu que Richard McHog ___está trapaceando na Caçada dos Ovos___ de duas formas diferentes: primeiro, ___ele está vendo na rua os adultos escondendo os ovos___, ou seja, ele sabe onde os mesmos estão. E, segundo, ___ele está pegando os ovos que o Coelho da Páscoa está escondendo___, o que aumenta ainda mais o número de ovos que o mesmo está conseguindo!
 
-Uma coisa importante: se a Turma conseguiu seguir McEaster, com certeza McHog também, e os personagens devem ter na cabeça que ele acredita que McEaster e todos os ovos de chocolate, ___Como a cidade, tudo que está nela é Dele!___ Ele com certeza tentará encontrar os McEaster e com isso obrigar eles a fazerem ovos e mais ovos para ele se pavonear e humilhar as demais crianças, sem se importar com a liberdade dos Coelhos da Páscoa. 
+Uma coisa importante: se a Turma conseguiu seguir McEaster, com certeza McHog também, e os personagens devem ter na cabeça que ele acredita que McEaster e todos os ovos de chocolate, ___Como a cidade, tudo que está nela é Dele!___ Ele com certeza tentará encontrar os McEaster e com isso obrigar eles a fazerem ovos e mais ovos para ele se pavonear e humilhar as demais crianças, sem se importar com a liberdade dos Coelhos da Páscoa.
 
 Não deve ser difícil para os personagens realizarem que é hora de dar uma lição em McHog...
 
@@ -123,7 +135,7 @@ Ganchos para aventuras futuras:
 | _Playsheet_ | A Criaturinha |
 | _Que tipo de poderes você possui?_           | Rápido como um coelho, sei me esconder e esconder doces              |
 | _Quais tabus você deve seguir?_              | Ovos de chocolate por toda a parte na Páscoa, esse é meu dever!           |
-| _Como você se relaciona com a Turma?_        | Será que posso conversar com eles? Meu pai pode ficar bravo!                | 
+| _Como você se relaciona com a Turma?_        | Será que posso conversar com eles? Meu pai pode ficar bravo!                |
 | | Eu também quero me divertir! |
 | | Aparentemente medroso - na verdade, sofre de _balastofobia_ (medo de barulhos altos como os de tiros) |
 | | Não posso ser visto, como todos os Coelhos da Páscoa! |
@@ -146,7 +158,7 @@ Ganchos para aventuras futuras:
 
 Você nasceu no melhor berço de ouro de Fair Leaves: filho da última das Famílias Fundadoras que ainda se mantêm em Fair Leaves, seu pai é basicamente dono de metade da cidade (sendo que ele está dando um jeito de conseguir o resto), e portanto você tem tudo do bom e do melhor. E não existe garoto no mundo melhor que você, não importa o que a Turma ache, aqueles bocós.
 
-Richard McHog é um menino porco (real), sempre limpo e engomadinho, mas sempre dando um jeito de encher a pança. Como todo Mandão, ele sempre tem próximo a si o seu séquito de "amigos" que o cerca mais pelo seu dinheiro do que por qualquer outra coisa. 
+Richard McHog é um menino porco (real), sempre limpo e engomadinho, mas sempre dando um jeito de encher a pança. Como todo Mandão, ele sempre tem próximo a si o seu séquito de "amigos" que o cerca mais pelo seu dinheiro do que por qualquer outra coisa.
 
 ##### __Aspectos__
 
@@ -154,7 +166,7 @@ Richard McHog é um menino porco (real), sempre limpo e engomadinho, mas sempre 
 |------------------------------------------------|---------------|
 | _O que te torna tão importante?_               | _Sou o herdeiro da última Família Fundadora de Fair Leaves, QUE FIQUE CLARO!_ |
 | _Como você acaba dando-se mal?_                | _Não vou sujar minhas mãos por pouca porcaria_              |
-| _Como você vê as demais pessoas a seu redor?_  | _Como a cidade, tudo que está nela é MEU!_ | 
+| _Como você vê as demais pessoas a seu redor?_  | _Como a cidade, tudo que está nela é MEU!_ |
 | | _Extremamente invejoso_ |
 
 ##### __Atitudes__
@@ -170,4 +182,3 @@ Richard McHog é um menino porco (real), sempre limpo e engomadinho, mas sempre 
 ##### ___Façanha Exclusiva:___
 
 + ***Os melhores "amigos" (que comprei) do mundo*** - um Mandão tem alguma forma de conseguir trazer "Amigos" a qualquer momento; sempre que estiver em necessidade para obter algum tipo de "amigo", ele recebe +2 ao _Criar Vantagens_ sendo _Desenvolto_ para o fazer, com uma Invocação Gratuíta Adicional. Entretanto, eles trazem consigo um Aspecto Oculto ___Pouco Confiáveis___, que pode ser descoberto com um teste de _Criar Vantagens_ apropriado contra uma dificuldade _Razoável (+2)_. Além disso, ele pode, ___uma vez por sessão___, usar essa vantagem automaticamente, com duas Invocações Gratuítas, ou com uma Invocação Gratuíta sem o Aspecto ___Pouco Confiável___. Em ambos os casos trate-os como Capangas.
-

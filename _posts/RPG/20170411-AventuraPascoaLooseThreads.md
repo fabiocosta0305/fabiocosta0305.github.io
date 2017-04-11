@@ -33,6 +33,8 @@ Quando são levados para uma sala que parece o ponto de onde é feito o controle
 + ___Problema:___ Não apenas o Coelho da Páscoa não conseguiu fazer os ovos, por falta de matéria prima e por ter tido o ___Livro de Receitas___ roubado, mas também algo ou alguém conseguiu deixar ele doente
 + ___Solução:___ Recuperar o Livro de Receitas, conseguir a matéria prima e conseguir entregar os ovos de páscoa
 
+ <!-- excerpt -->
+
 ## Investigação
 
 Os Coelhos da Fábrica de Ovos vão sempre mencionar o fato de que faz alguns dias que não recebem mais o cacau, o chocolate, e outras matérias primas para os ovos, justo na época mais crítica para a produção dos ovos de chocolate. Mesmo procurando mercadores de vilas, cidades ou mesmo reinos próximos, eles descobriram que todo o suprimento que qualquer coisa que possa ser usado nos ovos de páscoa está cortado, ao ponto de até mesmo ovos de galinha estarem sendo roubados.
