@@ -1,4 +1,4 @@
---
+---
 title: "A Fábrica dos Ovos de Chocolate"
 subtitle: "Uma aventura de Páscoa para _Loose Threads_"
 language: br
@@ -8,7 +8,7 @@ categories:
 tags:
   - Loose Threads
 excerpt_separator: <!-- excerpt -->
---
+---
 
 ## O Pedido de Ajuda
 
