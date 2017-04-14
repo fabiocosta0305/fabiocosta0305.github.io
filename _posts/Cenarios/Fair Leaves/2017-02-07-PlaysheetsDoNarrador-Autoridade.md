@@ -2,7 +2,7 @@
 title: Playsheet do Narrador - A Autoridade
 teaser: "As pessoas que vão colocar os personagens na linha "
 layout: post
-date: 2017-02-07 08:52:00 -0200
+date: 2017-02-07 08:55:00 -0200
 categories: 
     - RPG
 tags:

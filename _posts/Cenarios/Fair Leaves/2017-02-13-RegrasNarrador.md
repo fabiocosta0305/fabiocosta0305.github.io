@@ -118,3 +118,39 @@ Antes de começar, deixe claro para as crianças:
 
 E é isso: se a qualquer momento a criança soltar _"Para com isso, seu malvado!"_, o jogo deve parar imediatamente, e mude de caminho a história. Acima de tudo, mantenha seu compromisso com isso não importa o que aconteça.
 
+## Descrevendo cenas e Condições Apropriadas
+
+Uma das partes que pode ser mais complicadas para um Narrador, em especial de primeira viagem, é descrever cenas. Vamos aqui oferecer uma forma de descrever as cenas que pode ajudar você a delinear o que pode acontecer.
+
+Em especial, essa forma de descrever cenas permite que você também indique _Condições que Possam ser Marcadas_ em caso de necessidade: isso evitar que os jogadores abusem de situações ou prolonguem a cena demais ao marcar Condições que não façam o menor sentido. Com esse sistema, a cena não se prolongará desnecessariamente, mantendo a narrativa fluída e interessante.
+
+Esse sistema foi "recuperado" de _Masters of Umdaar_ e está sendo levemente adaptado, e lembra, para quem conhece, o sistema de objetivos que existe em jogos de _Tactics_, como _Disgaea_, _Final Fantasy Tactics_ e por aí afora.
+
+Primeiramente, defina o ___Nome da Cena___. Esse nome serve apenas como forma de você identificar as coisas dentro de sua aventura. Se quiser, coloque números ou outra formas de sequência que permitam a você ligar uma cena a outra.
+
+Após isso, defina o ___Objetivo dos PCs___, ou seja, o que os personagens querem alcançar durante essa cena, e o ___Objetivo da Oposição___, ou seja, o que a oposição aos mesmos deseja fazer com os mesmos, mesmo que seja uma oposição passiva, do tipo _"impedir chegar do outro lado"_
+
+Em seguida, escolha e descreva a ___Forma de Resolução___ preferida, como Desafio, Disputa, Conflito ou outros sistemas disponíveis para Fate Básico. A ideia é que aqui você já tenha adiantado como resolver essa cena, até mesmo podendo listar Atitudes a serem usadas ou qualquer outra informação necessária.
+
+O próximo passo é listar alguns ___Aspectos em Cena___ que possam ser descobertos ou que possam surgir a qualquer momento, tanto para os personagens usarem a favor deles quanto para você usar, enquanto narrador, para dificultar a vida dos personagens. Esses Aspectos devem refletir coisas que estejam na cena ou situações que possam ocorrer durante a mesma.
+
+E agora chega o momento mais importante: Definir os ___Resultados___ do evento. Em geral, são quatro ___Resultados___ possíveis.
+
++ ___Vitória Completa (ou Sucesso):___ os personagens Derrotaram sua oposição, caso seja um Conflito ou algo similar. Em caso de Desafios ou Disputas, os personagens forma bem sucedidos;
++ ___Vitória Parcial (Oposição Concede):___ no caso de Conflitos, é quando a Oposição Concede, ou seja, ela não vai até a Derrota e decide recuar. Em caso de Desafios ou Disputas, os personagens empataram. Em geral, os resultados são um pouco piores do que no caso de uma Vitória Completa;
++ ___Derrota Parcial (personagens Concedem):___ os personagens decidiram Conceder, antes de sofrerem uma Derrota Completa. Normalmente isso irá refletir no caso de Derrota Parcial, com algum pequeno benefício aos personagens, em geral, podendo no mínimo tentar novamente _a posteriori_;
++ ___Derrota Completa (ou Falha):___ os personagens foram Derrotados de maneira clamorosa e inquestionável. No caso de Desafios e Disputas, os personagens falharam. Pode colocar também considerações sobre como lidarem com _Sucesso a Custo_;
+
+Por fim, defina as ___Condições Aplicáveis___, ou seja, quais são as Condições que podem ser marcadas caso necessário. É interessante que coloque essas Condições como as únicas a serem marcadas e deixe isso claro aos jogadores. Apenas permita que Condições que Façam sentido pela cena possam ser marcadas.
+
+> ### A Venda das Maçãs
+>  
+> + __Objetivo dos PCs:__ garantir que as maçãs vão estar disponíveis e em boa qualidade para serem vendidas
+> + __Objetivo da Oposição:__ dar sumiço nas maçãs ou as estragar de tal modo que elas não dêem nenhum dinheiro
+> + __Forma de Resolução:__ Desafio - várias coisas irão acontecer ao mesmo tempo, e o resultado das ações poderá ajudar ou prejudicar os personagens
+> + __Aspectos em Cena:__ _Implementos e maquinário agrícola_; _Chão que pode sujar as maçãs_; _"Essa geléia está horrível!"_
+> + __Vitória Completa:__ Os personagens conseguirão quitar a _Hipoteca_ dos Hedginger;
+> + __Vitória ou Derrota Parcial:__ Os personagens garantirão que a Fazenda dos Hedginger não será tomada, mas ainda assim a _Hipoteca_ permanece
+> + __Derrota Total:__ Os personagens terão que garantir algum dinheiro em 24 horas, ou a _Hipoteca_ será executada, e os _Hedginger_ perderão a fazenda e terão que abandonar Fair Leaves!
+> + ___Condições:___ Cansado, Com Fome/Com Sede, Chateado, Bravo
+
