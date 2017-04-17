@@ -245,7 +245,12 @@ The effects were immediate: they had gone addicted into the chocolate and, after
 | _Quick_      | Good (+3)    |
 | _Sneaky_     | Average (+1) |
 
-#### Extra:  ___The Rabbitshifter Chocolate Eggs:___ 
+#### Stuns
+
++ ___Extra:___ The Rabbitshifter Chocolate Egss
+	+ The March Hare is able to make the Rabbitshifter Chocolate Eggs, while he possess the _Secret Fabergé___
+
+### Extra:  ___The Rabbitshifter Chocolate Eggs___ 
 
 One of the most delicious kind of Chocolate Eggs someone could taste, it was made by The March Hare to turn people, specially children, into a kind of half-man, half-rabbit/hare monstrousity, under The March Hare's dominion.
 
@@ -264,6 +269,5 @@ Using the rules for Distractions and Countdown from the _Fate Adversary Toolkit_
 + ___Countdown___ [][][][][] (for each PC)
 	+ __Trigger:__ Each time the PCs eat some of the Rabbitshifter Chocolate Egg
 	+ __Outcome:__ The PC is turned into a ___Rabbitman under The March Hare control___
-
 
 
