@@ -16,9 +16,9 @@ New York, March 1911. Easter is comming, and the children of ___Madam Sheridan�
 
 As a plus, new sweets are launched every year. This year the new wave is the _March Hare Chocolate Eggs_, which, albeit cheap, is delicious. In fact, many can't stop eating this.
 
-However, one news shocked the city: ___one of the rare Faberge Eggs ___, made by the Fabergé Family, goldsmiths that works for the Russian Tsars, ___ was recently stolen ___ when put at display at the Smithsorian Museum! No one knows who stole it, even more considering the intense vigilance which the Egg was under! The New York Police are baffled, even more that ___all clues points to something that is not human___!
+However, one news shocked the city: ___one of the rare Faberge Eggs___, made by the Fabergé Family, goldsmiths that works for the Russian Tsars, ___was recently stolen___ when put at display at the Smithsorian Museum! No one knows who stole it, even more considering the intense vigilance which the Egg was under! The New York Police are baffled, even more that ___all clues points to something that is not human___!
 
-<! - excerpt ->
+<!-- excerpt -->
 
 Also, when the Young Centurions go to the _Century Club_ in New York, they see a little man dressed in bizarre clothes that is asking the _Club_ for help. This little man is none other than Mr. ___Willy Wonka___, ___one of the biggest_ Chocolatiere _of the world___, and he has had his ___Wonka Sweets Recipe Book___ stolen, with all the secrets on how he makes the ___most delicious sweets ever imagined___!
 
@@ -181,7 +181,7 @@ However, he's growing paranoid and can't find any clue to catch the March Hare. 
 |---------------:|------------------------------------------------------------|
 | _High Concept_ | A man with an bizarre style and the best chocolatier everywere  |
 |      _Trouble_ | _"Don't talk about parents..."_ - Parental issue             |
-|                | _"Spies, spies everywhere" - Growing Paranoid              |
+|                | _"Spies, spies everywhere"_ - Growing Paranoid              |
 |                | _"That weird rabbitman stole some of my secrets! I need to defeat him!"_ |
 |                | The _Secret Book of Wonka sweets_                          |
 
@@ -249,7 +249,7 @@ The effects were immediate: they had gone addicted into the chocolate and, after
 #### Stuns
 
 + ___Extra:___ The Rabbitshifter Chocolate Egss
-	+ The March Hare is able to make the Rabbitshifter Chocolate Eggs, while he possess the _Secret Fabergé___
+	+ The March Hare is able to make the Rabbitshifter Chocolate Eggs, while he possess the ___Secret Fabergé___
 
 ### Extra:  ___The Rabbitshifter Chocolate Eggs___ 
 
