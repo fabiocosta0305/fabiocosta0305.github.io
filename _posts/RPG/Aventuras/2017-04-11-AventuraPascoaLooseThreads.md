@@ -1,6 +1,6 @@
 ---
-title: "Aventura de Páscoa - Loose Threads"
-subtitle: "Aventura de Páscoa de Young Centurions"
+title: "A Fábrica dos Ovos de Chocolate"
+subtitle: "Aventura de Páscoa de Loose Threads"
 language: br
 layout: aventuras
 categories:
