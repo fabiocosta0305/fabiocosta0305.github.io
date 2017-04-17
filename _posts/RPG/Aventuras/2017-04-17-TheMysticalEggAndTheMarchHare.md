@@ -1,13 +1,14 @@
---
+---
 title: "The Mystical Egg and the March Hare"
-subtilte: An Young Centurions Easter Adventure 
+subtitle: "An Young Centurions Easter Adventure"
 language: en
 layout: page
 categories:
   - Adventures
 tags:
   - Young Centurions
---
+excerpt_separator: <!-- excerpt -->
+---
 
 ## Scene 1 - The Rabbitman
 
