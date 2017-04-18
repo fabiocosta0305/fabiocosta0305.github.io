@@ -79,7 +79,7 @@ The Desert is the path of huge caravans of ___Traders and Bedouins___, crossing 
 
 + ___Tuaregs___ are ___Fierce, Superstitious___ and ___Treacherous___. They're torn into using their strength as _Mercenaries_, protecting the caravans that cross the Desert from one side to the other of the World, or as _Robbers_, stealing the precious goods that  crosses the ___Gold and Silk Road___. All _Tuaregs_ have at least _Good (+3) Fight_;
 + ___Bedouins and Merchants___ are ___Touchy, Hospitable___ and ___Traditionalists___. They are torn between stay crossing the Desert _trading_ exotic products on one side or the other of the ___Gold and Silk Road___, or content themselves with _shepherding_ the precious sheep and goats in the Oasis. They all have _Good (+3) Rapport_;
-+ The ___Suffis___ are ___ Mystics, Wise___ and ___Stubborn___, feeling torn between living a _monastic_ life, keeping their knowledge only for themselves or offering their wisdom as _Sages_ to those interested in the Desert and in the Sultanate. The all have at least _Good (+3) Lore_ 
++ The ___Suffis___ are ___Mystics, Wise___ and ___Stubborn___, feeling torn between living a _monastic_ life, keeping their knowledge only for themselves or offering their wisdom as _Sages_ to those interested in the Desert and in the Sultanate. The all have at least _Good (+3) Lore_ 
 + And the powerful ___Jannis___ are ___Magical, Reluctant___ and ___Respectable___, torn between the idea of ​​_Partnering_ with local peoples, offering their magic and wisdom to help them, or _Ruling_ them, using their magic to put the  obviously weaker mortals under their will. All of them have at least _Exceptional (+5) Magic (Any type, normally Great)_ 
 
 ### Secret
@@ -110,7 +110,7 @@ The Company can help Fatima by cleanse her name in front of the Sultan. This can
 
 + __Description:__ Fatima is a very pretty girl, but at the same time she is dressed in practical and simple clothes, suitable for the desert. She has its own sect of followers, from the most different upbringings. She knew lots about magic and mysticism because of his  _Suffi_ uprising.
 + __Populations:__ Desert Suffis (___Mystics, Wise, Stubborn___); Tuaregs (___Fierce, Superstitious, Treacherous___); Bedouins and Merchants (___Touchy, Hospitable, Traditionalists___);  Sultanate Court (___Ambitious, Mellifluous, Wise___)
-+ __Traits:__ ___ Mystic, Fierce, Hospitable, Wise___
++ __Traits:__ ___Mystic, Fierce, Hospitable, Wise___
 + __Agenda:__ Fatima wants to get back to the Sultanate Court and for this she needs to overthrow the Vizier. And for this, she needs the PCs to help her by revealing that the Vizier wants to put all the _Janni_ under his will and wants to use the binding magic against the main of the _Janni_, which would be potentially dangerous to the Sultanate! Of course she also intends to return to _Faithful Hassam_'s arms, but she can't do so one before solve the other.
 + __Cost:__ Fatima only needs help to prove to the _Janni_ that they should not attack the Sultanate. At the same time, she needs evidence against the Vizier. If the characters Promise to help Fatima overthrow Vizier, she will surely be at her favor
 + __Skills:__ Great (+4) Lore, Rapport; Good (+3) Magic (Alchemy), Fight 
@@ -135,8 +135,8 @@ The Company can help Fatima by cleanse her name in front of the Sultan. This can
 ### Jibril ibn Abdul, the Ring Ifrit
 
 + __Description:__ Jibril is pure hate and anger, always showing himself in the most monstrous form possible, covered with flames and fury! His binding made him bitter, but due to the spells  Hamad put on the ring, he is bound to fulfill his desires.
-+ __Populations:__ _Desert Janni_ (___Magical, Reluctant, Respectable___); _Janni imprisoned_ (___Subservients, Magical, Reluctant ___); _Ifrits_ (___Fierce, Evil, Magical___)
-+ __Traits:__ ___Reluctant, Subservient, Fierce ___
++ __Populations:__ _Desert Janni_ (___Magical, Reluctant, Respectable___); _Janni imprisoned_ (___Subservients, Magical, Reluctant___); _Ifrits_ (___Fierce, Evil, Magical___)
++ __Traits:__ ___Reluctant, Subservient, Fierce___
 + __Agenda:__ Jibril wants to be released from his curse. Although Ifrits can be dangerous and even evil, Jibril just wants to return to his home and his family somewhere in the Desert wilderness, the heat being his company. At the same time, because of the spells Hamad put into the ring when Jibril was bound to it, Jibril must be subservient to him. But this don't mean that he can't creatively understand the orders that Hamad gives him, and will try his best to get the characters to release him
 + __Cost:__ Freeing Jibril may demand a PC to Give Up his Heart's Desire, or some Vitality sacrifice (perhaps suffering some attack). They can also Promise to find a way to break the powerful magic that binds him to the Ring.
 + __Skills:__  Fantastic (+6) Great Magic ; Superb (+5) Provoke, Fight
@@ -148,7 +148,7 @@ The Company can help Fatima by cleanse her name in front of the Sultan. This can
 + __Traits:__ ___Respectable, Traditionalist___
 + __Agenda:__ He wants to keep his people free: he does not bother to talk to the other peoples of the Desert (in fact he even appreciates this, especially with the most respectable Suffi), but the most important thing on his life is uphold his people's freedom. He can help the characters if they realize that they take a stand for his people, but attempting to enslave his people will result in his wrath.
 + __Cost:__ A Promise of not maintain some of your people free will be enough to get into Al-Hakam's grace, but free some _Jann_ (a potential Impossible Task) will also help!
-+ __Skills:__ Any one between _Fantastic (+6) _ to _Legendary (+8)
++ __Skills:__ Any one between _Fantastic (+6)_ to _Legendary (+8)_
 + __Note:__ Al-Hakam is a NPC that the PCs can't win into a Fight, no matter what
 
 ### Samira, the Suffi of the Desert
@@ -163,8 +163,8 @@ The Company can help Fatima by cleanse her name in front of the Sultan. This can
 ### Ad-Demiri Omar, the Heart Binding  _Jann_ 
 
 + __Description:__ Ad-Demiri Omar is one of the most respected _Janni_ in the region, and no one has ever tried to binding him (or this is what is known ... If someone tried, had not come back). Ad-Demiri is one of the wisest Desert _Janni_, and is respected by all Desert communities. Even Al-Hakam listens to him, being a very important counselor
-+ __Populations:__ _Desert Janni_ (___ Magical, Reluctant, Respectable___); Desert Suffis (___ Mystical, Wise, Stubborn __); Bedouins and Merchants (___Touchy, Hospitable, Traditionalists___);  Sultanate Court (___Ambitious, Mellifluous, Wise___); _Janni Court_ (___ Magical, Traditionalist, Respectable___)
-+ __Traits:__ ___Respectable, Mystic, Traditionalist, Wise, Magical ___
++ __Populations:__ _Desert Janni_ (___Magical, Reluctant, Respectable___); Desert Suffis (___Mystical, Wise, Stubborn__); Bedouins and Merchants (___Touchy, Hospitable, Traditionalists___);  Sultanate Court (___Ambitious, Mellifluous, Wise___); _Janni Court_ (___Magical, Traditionalist, Respectable___)
++ __Traits:__ ___Respectable, Mystic, Traditionalist, Wise, Magical___
 + __Agenda:__ Ad-Demiri wants Hassam to be saved again, for he knows that if he dies and a mighty alchemist gets the Blood and Bands from Hassam's body, he can transmute them into one of the greatest Alchemical taboos, a powerful bracelet that can bind any _Jann_ to the bearer's Will, and that can only be destroyed with thing build with alchemical element's even more powerful than it, such as Orichalcum, Cold Iron or even the Philosopher's Stone!
 + __Cost:__ Ad-Demiri will not put many obstacles to the characters, but he can help by providing powerful items if they pay any price in Promises or Vitality.
 + __Skills:__  Epic (+7 Magic (Alchemy, Wishes); Fantastic (+6) Magic (Zaps) ; Superb (+5) Empathy, Lore

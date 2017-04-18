@@ -10,8 +10,6 @@ tags:
 excerpt_separator: <!-- excerpt -->
 ---
 
-# As Tiras de Aço
-
 ## Pedido de Ajuda
 
 A Companhia está em um Sultanatom, onde eles chegaram depois de cruzarem um tanto do Deserto pelas rotas comerciais do ___Caminho de Ouro e Seda___, e ouvem histórias sobre o dilema do _Fiel Henry_ (ou _Heny de Ferro_), mas pelo seu nome local, _Hassam_, nos mais diferentes locais. Quando (e se) eles questionarem as pessoas ao redor, elas contarão a história de como o Sultão Hashid foi transformado em sapo por um bruxo do deserto e mandado para uma terra longínqua por um terrível abutre. Mas recentemente, o _Fiel Hassam_ descobriu que seu senhor foi liberto de sua maldição em uma terra distante e o trouxe com a princesa que o libertou.
@@ -129,7 +127,7 @@ A Companhia deverá ajudar Fatima a limpar seu nome diante do Sultão. Isso pode
 
 + __Descrição:__ Al-Hakam é realmente velho, poderoso e sábio, deixe claro isso aos personagens. Seus olhos parecem ter visto a própria Criação do Mundo, e ele pode ter aprendido suas Magias e Conhecimentos diretamente dos Ventos Primordiais. Ele é profundo e misterioso em muitas coisas, mas ele tem apenas um desejo: manter seu povo livre.
 + __Populações:__ _Janni do Deserto_ (___Mágicos, Arredios, Honrados___); _Corte dos Janni_ (___Mágicos, Tradicionalistas, Honrados___)
-+ __Características:__ ____Honrado, Tradicionalista___
++ __Características:__ ___Honrado, Tradicionalista___
 + __Agenda:__ Ele deseja manter seu povo livre: ele não se preocupa em conversar com os outros povos do Deserto (na verdade, ele até aprecia, em especial com os Suffi), mas a parte mais importante de sua vida é manter a liberdade de seu povo. Ele poderá ajudar os personagens se perceber que os mesmos estão dispostos a assumir uma posição favorável ao seu povo, mas tentativa de escravidão do seu povo resultará em sua ira.
 + __Custo:__ Uma Promessa de não manter alguém de seu povo preso fora de sua vontade será o suficiente para contar com a graça de Al-Hakam, mas conseguir libertar algum _Jann_ (uma potencial Tarefa Impossível) também ajudará!
 + __Perícias:__ Qualquer uma entre _Fantástico (+6)_ a _Lendário (+8)_
