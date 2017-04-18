@@ -77,7 +77,7 @@ The clothes of the weird half-man half-rabbit (or half-hare, to be exact), resem
 
 He is holding an egg-shaped jewel, a crystal with the sides with gold details, a golden top and a support in the same material. He is pointing the same to a large copper casserole, where the PCs can see chocolate being continuously melted and stirred, its contents poured into pots, where it's mixed with other ingredients such as cocoa, sugar, spice, essences, nuts and stuff.
 
-The ___chocolate smell is overwhelming___, and anyone who had eaten the _March Hare Chocolate Egg_ will feel an obsessive need to eat the Eggs until burst (_Superb (+5) _ rolls to resist the temptation). All the "workers" are rabbitmen, and they basically wrap an egg and eat the next: all of them are already in a ___ not quite human shape___.
+The ___chocolate smell is overwhelming___, and anyone who had eaten the _March Hare Chocolate Egg_ will feel an obsessive need to eat the Eggs until burst (_Superb (+5)_ rolls to resist the temptation). All the "workers" are rabbitmen, and they basically wrap an egg and eat the next: all of them are already in a ___not quite human shape___.
 
 When confronted, the _March Hare_ will gloat his history and how, according to him, _"the future is of the_ Oryctolagus Sapiens, _or, to put simply, the rabbit-men."_ He will then tell about the _Secret Fabergé_ and about how he thought on irradiating its energies in the chocolate, which he produces by using a recipe from the ___Wonka Sweets Recipe Book___. The combination of the perfect chocolate recipe and the _Secret Fabergé_'s mystical energies resulted in a chocolate that is irresistible, and that turns those who eats it rabbitmen like the _March Hare_.
 
