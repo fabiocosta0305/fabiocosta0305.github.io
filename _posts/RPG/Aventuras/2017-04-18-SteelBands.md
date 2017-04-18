@@ -1,5 +1,5 @@
 ---
-title: "Th Steel Bands"
+title: "The Steel Bands"
 subtitle: "An Loose Threads Adventure"
 language: en
 layout: aventuras
@@ -25,6 +25,7 @@ If they look for Hassam, he will tell his story and show his chest: everyone can
 > + ___Problem:___ _Faithful Hassam_ is torn between happiness and duty, because his other half was branded as a thief and murderer  by the Sultan;
 > + ___Solution:___ Discover the truth behind all this and try to convince the Sultan to lift the death penalty, so they two could have their Happy Ending
 
+<!-- excerpt -->
 
 ## Investigation
 

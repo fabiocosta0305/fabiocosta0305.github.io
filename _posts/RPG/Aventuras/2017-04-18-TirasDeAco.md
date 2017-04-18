@@ -27,6 +27,8 @@ Se eles procurarem Hassam, ele contará sua história e mostrará que em seu pei
 > + ___Problema:___ O _Fiel Hassam_ está dividido entre a felicidade e o dever, pois sua amada é acusada de ladra e assassina pelo Sultão
 > + ___Solução:___ Descobrir a verdade e tentar convencer o Sultão a desfazer a ordem de morte sob a _Dama Ladra_ e trazer os dois um para o outro
 
+<!-- excerpt -->
+
 ## Investigação
 
 Se procurarem o Sultão, o próprio Hassam arranjará para que eles possam conversar com o Sultão, já que Hassam tem uma posição muito importante entre os serviçais do Sultão. O Sultão irá conversar com a companhia e explicará que o Vizir Hamad descobriu que a _Dama Ladra_ deseja derrubar a ordem no Reino e provocar uma revolução entre o povo. O próprio Sultão negará ter provas, mas o Vizir Hamad é considerado um sábio que trabalhava como Conselheiro e Vizir desde antes de seu Pai. 
