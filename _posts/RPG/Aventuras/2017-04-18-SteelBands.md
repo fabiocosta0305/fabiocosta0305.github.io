@@ -167,4 +167,4 @@ The Company can help Fatima by cleanse her name in front of the Sultan. This can
 + __Traits:__ ___Respectable, Mystic, Traditionalist, Wise, Magical___
 + __Agenda:__ Ad-Demiri wants Hassam to be saved again, for he knows that if he dies and a mighty alchemist gets the Blood and Bands from Hassam's body, he can transmute them into one of the greatest Alchemical taboos, a powerful bracelet that can bind any _Jann_ to the bearer's Will, and that can only be destroyed with thing build with alchemical element's even more powerful than it, such as Orichalcum, Cold Iron or even the Philosopher's Stone!
 + __Cost:__ Ad-Demiri will not put many obstacles to the characters, but he can help by providing powerful items if they pay any price in Promises or Vitality.
-+ __Skills:__  Epic (+7 Magic (Alchemy, Wishes); Fantastic (+6) Magic (Zaps) ; Superb (+5) Empathy, Lore
++ __Skills:__  Epic (+7) Magic (Alchemy, Wishes); Fantastic (+6) Magic (Zaps) ; Superb (+5) Empathy, Lore
