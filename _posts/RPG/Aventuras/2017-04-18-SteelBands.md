@@ -163,7 +163,7 @@ The Company can help Fatima by cleanse her name in front of the Sultan. This can
 ### Ad-Demiri Omar, the Heart Binding  _Jann_ 
 
 + __Description:__ Ad-Demiri Omar is one of the most respected _Janni_ in the region, and no one has ever tried to binding him (or this is what is known ... If someone tried, had not come back). Ad-Demiri is one of the wisest Desert _Janni_, and is respected by all Desert communities. Even Al-Hakam listens to him, being a very important counselor
-+ __Populations:__ _Desert Janni_ (___Magical, Reluctant, Respectable___); Desert Suffis (___Mystical, Wise, Stubborn__); Bedouins and Merchants (___Touchy, Hospitable, Traditionalists___);  Sultanate Court (___Ambitious, Mellifluous, Wise___); _Janni Court_ (___Magical, Traditionalist, Respectable___)
++ __Populations:__ Desert Janni (___Magical, Reluctant, Respectable___); Desert Suffis (___Mystical, Wise, Stubborn___); Bedouins and Merchants (___Touchy, Hospitable, Traditionalists___);  Sultanate Court (___Ambitious, Mellifluous, Wise___); _Janni Court_ (___Magical, Traditionalist, Respectable___)
 + __Traits:__ ___Respectable, Mystic, Traditionalist, Wise, Magical___
 + __Agenda:__ Ad-Demiri wants Hassam to be saved again, for he knows that if he dies and a mighty alchemist gets the Blood and Bands from Hassam's body, he can transmute them into one of the greatest Alchemical taboos, a powerful bracelet that can bind any _Jann_ to the bearer's Will, and that can only be destroyed with thing build with alchemical element's even more powerful than it, such as Orichalcum, Cold Iron or even the Philosopher's Stone!
 + __Cost:__ Ad-Demiri will not put many obstacles to the characters, but he can help by providing powerful items if they pay any price in Promises or Vitality.
