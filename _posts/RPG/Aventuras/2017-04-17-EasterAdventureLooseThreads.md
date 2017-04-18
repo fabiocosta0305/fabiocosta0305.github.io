@@ -87,10 +87,10 @@ The Enchanted Forest surrounding the Chocolate Factory and the nearby village is
 + The ___Villagers___ tend to be ___Orderly, hardworking___ and ___Wary___, being torn between ___helping people___ lost in the woods and ___closing in on their hearts___ because they already have many problems themselves. All of them have _Good (+3) __Rapport___ or better;
 +  The ___Wolf Packs___ are often ___Cruel, Honored___ and ___Territorial___, torn between ___Uphold their Territory___ and accepting what Nature gives them and just keeping outsiders away and ___taking all they can___, not worrying about tomorrow. All of them has _Good (+3) __Stealth___ or better;
 + The ___Forest Gnomes___ are ___Ingenious, Orderly___ and ___Magical___, torn between ___Helping people___ of the forest and __Caring their Own___ life, not taking more problems than they already have. All of them has _Good (+3) __Magic (any kind)___ or better;
-+ The ___Forest Goblins___ are ___Ingenious, Evil__ and __Magical___ , always tending to ___take care of their own life___, leaving the rest in peace, or ___Goes mischief___ against the others, putting them in trouble from which they can derive some benefit. All of them has _Good (+3) __Deceive___ or better;
++ The ___Forest Goblins___ are ___Ingenious, Evil___ and __Magical___ , always tending to ___take care of their own life___, leaving the rest in peace, or ___Goes mischief___ against the others, putting them in trouble from which they can derive some benefit. All of them has _Good (+3) __Deceive___ or better;
 + The ___Goblin Thieves___ are ___Cowards, Thieves___ and ___Numerous___, torn between ___Stealing what they can___ get by hand and let the caravans go ahead more or less unharmed, or ___Looting and Kidnapping the Caravans___, in order to profit the most on the caravans. All of them has _Good (+3) __Fight and Stealth___ or  better;
 + The ___Forest High Elves___ are ___Traditionalists, Arrogant___ and ___Magical___ , torn between ___Helping people___ against their biggest enemies and ___Don't intervene___, except when they go to the preservation of their forest. All of them have _Exceptional (+5) __Lore___ or ___Magic (any kind)___ or better;
-+ The ___Old Wise Men and Women of the Forest___ are ___Wise, Irreverent___ and ___Mystical___ , torn between to ___study more and more___ of their mystical arts and  ___observe the Events____ and occasionally to become involved in them. All of them has _Good (+3) __Lore____ or better;
++ The ___Old Wise Men and Women of the Forest___ are ___Wise, Irreverent___ and ___Mystical___ , torn between to ___study more and more___ of their mystical arts and  ___observe the Events___ and occasionally to become involved in them. All of them has _Good (+3) __Lore___ or better;
 + The ___Fairy Godmothers___ are ___Stubborn, Wise___ and ___Creative___ , being torn between the role of ___Judges___ ,unquestioned entities who decide who is worthy or not of magic help, and ___caretakers___ ,mentors who may fail while offering support, rather than rewards and punishments. All of them have _Exceptional (+5) __Great Magic___ or better;
 + The ___Hunters and Lumberjack___ are ___Traditionalists, Suspicious___ and ___Kind___, being divided between ___Helping people___ who are lost in the Forest or otherwise in need and ___Caring for their own life___, setting their traps  or sharpening their tools. All of them gave _Good (+3) __Lore___ or ___Craft___ or better;
 + The ___Accursed People___ are ___Cursed, Desperate___ and ___Worthy of Penance___, being torn between ___begging for help___ from anyone who appears to be able to help and ___held hostage___ those who can help them and forcing them to do so, even under the danger of putting them under the same situation. All of them have _Good (+3) __Empathy___ or ___Communication___ or better; 
@@ -165,12 +165,12 @@ The ___Enchanted Clothes___ look like a great ___Rabbit Costume___, something li
 + ___Traits:___ _Magical, Wise_
 + ___Agenda:___ She take care that the secrets about the Easter Bunny are not revealed to anyone. In particular, the ___Enchanted Clothes___ are a great secret of the same
 + ___Cost:___ A Promise to protect Easter Bunny's Secret will make her work with the characters
-+ ___Skills:___ _Fantastic (+6) __Magic (Greater, Geasa)___ ; _Superb (+5) __Lore, Empathy, Provoke___ ; _Great (+4) ___Magic (Zaps)___ ; _Good (+3)_ for the Other Skills
++ ___Skills:___ _Fantastic (+6) __Magic (Greater, Geasa)___ ; _Superb (+5) __Lore, Empathy, Provoke___ ; _Great (+4) __Magic (Zaps)___ ; _Good (+3)_ for the Other Skills
 
 ### Rumpelstiltskin the Goblin
 
 + _Description:_ Rumpelstiltskin has the appearance of any Goblin: elusive, low, full-bodied, face with a mischiveous smile and eyes with a greedy glow
-+ ___Populations:___ ___Forest's Magical Creatures___ (___Magical, Gossipy, Mischieveous___); __Leader of the__ ___Forest Goblins___ (___Ingenious, Evil__, __Magical___)
++ ___Populations:___ ___Forest's Magical Creatures___ (___Magical, Gossipy, Mischieveous___); __Leader of the__ ___Forest Goblins___ (___Ingenious, Evil, Magical___)
 + ___Traits:___ _Magical, Evil, Ingenious_
 + ___Agenda:___ He wants everything he can, being extremely stingy and selfish. He recently discovered how to use the ___Easter Bunny Magical Cookbook___ to create a chocolate that would allow him to dominate people and turn them into Goblins
 + ___Cost:___ Characters may be forced to take the risk of sacrificing Progress or Vitality to defeat Rumpelstilstkin, as he knows much about the Company and can use this knowledge against them;
@@ -179,7 +179,7 @@ The ___Enchanted Clothes___ look like a great ___Rabbit Costume___, something li
 ### The Old Hag
 
 + ___Description:___ The Old Hag appears to be an elderly woman with a wrikled face with half-pointed nose and worn-out teeth. In fact, however, she is one of the _Fairy Princesses_ who live in the Forest as a test for travelers
-+ ___Populations:___ ___Forest High Elves___ (___Traditionalists, Arrogant, Magical____); ___Forest's Magical Creatures___ (___Magical, Gossipy, Mischieveous___);  ___Villagers___ (___Orderly, hardworking, Wary___);  ___Old Wise Men and Women of the Forest___ (___Wise, Irreverent, Mystical___);
++ ___Populations:___ ___Forest High Elves___ (___Traditionalists, Arrogant, Magical___); ___Forest's Magical Creatures___ (___Magical, Gossipy, Mischieveous___);  ___Villagers___ (___Orderly, hardworking, Wary___);  ___Old Wise Men and Women of the Forest___ (___Wise, Irreverent, Mystical___);
 + ___Traits:___ _Magic, Traditionalist, Orderly, Wise_
 + ___Agenda:___ She assumes the  Old Hag Façade as a Kindness Test
 + ___Cost:___ If they pass the Kindness Test, they will have your help. If they fail, however, they may be subject to a Transformation or Curse;
