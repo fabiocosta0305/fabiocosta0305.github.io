@@ -86,8 +86,8 @@ The Enchanted Forest surrounding the Chocolate Factory and the nearby village is
 + The ___Trolls___ who live in the darkest parts of the Forest are ___Dumb, Stubborn___ and ___Bullies___, being torn between ___Caring for their own___ and leaving others alone and ___Destroying everything___ in their bloodlust. All of them have _Great (+4) __Fight___ or better;
 + The ___Villagers___ tend to be ___Orderly, hardworking___ and ___Wary___, being torn between ___helping people___ lost in the woods and ___closing in on their hearts___ because they already have many problems themselves. All of them have _Good (+3) __Rapport___ or better;
 +  The ___Wolf Packs___ are often ___Cruel, Honored___ and ___Territorial___, torn between ___Uphold their Territory___ and accepting what Nature gives them and just keeping outsiders away and ___taking all they can___, not worrying about tomorrow. All of them has _Good (+3) __Stealth___ or better;
-+ The ___Forest Gnomes___ are ___Ingenious, Orderly___ and ___Magical___, torn between ___Helping people___ of the forest and __Caring their Own___ life, not taking more problems than they already have. All of them has _Good (+3) __Magic (any kind)___ or better;
-+ The ___Forest Goblins___ are ___Ingenious, Evil___ and __Magical___ , always tending to ___take care of their own life___, leaving the rest in peace, or ___Goes mischief___ against the others, putting them in trouble from which they can derive some benefit. All of them has _Good (+3) __Deceive___ or better;
++ The ___Forest Gnomes___ are ___Ingenious, Orderly___ and ___Magical___, torn between ___Helping people___ of the forest and ___Caring their Own___ life, not taking more problems than they already have. All of them has _Good (+3) __Magic (any kind)___ or better;
++ The ___Forest Goblins___ are ___Ingenious, Evil___ and ___Magical___ , always tending to ___take care of their own life___, leaving the rest in peace, or ___Goes mischief___ against the others, putting them in trouble from which they can derive some benefit. All of them has _Good (+3) __Deceive___ or better;
 + The ___Goblin Thieves___ are ___Cowards, Thieves___ and ___Numerous___, torn between ___Stealing what they can___ get by hand and let the caravans go ahead more or less unharmed, or ___Looting and Kidnapping the Caravans___, in order to profit the most on the caravans. All of them has _Good (+3) __Fight and Stealth___ or  better;
 + The ___Forest High Elves___ are ___Traditionalists, Arrogant___ and ___Magical___ , torn between ___Helping people___ against their biggest enemies and ___Don't intervene___, except when they go to the preservation of their forest. All of them have _Exceptional (+5) __Lore___ or ___Magic (any kind)___ or better;
 + The ___Old Wise Men and Women of the Forest___ are ___Wise, Irreverent___ and ___Mystical___ , torn between to ___study more and more___ of their mystical arts and  ___observe the Events___ and occasionally to become involved in them. All of them has _Good (+3) __Lore___ or better;
@@ -183,7 +183,7 @@ The ___Enchanted Clothes___ look like a great ___Rabbit Costume___, something li
 + ___Traits:___ _Magic, Traditionalist, Orderly, Wise_
 + ___Agenda:___ She assumes the  Old Hag Façade as a Kindness Test
 + ___Cost:___ If they pass the Kindness Test, they will have your help. If they fail, however, they may be subject to a Transformation or Curse;
-+ ___Skills:____ _Superb (+5) __Magic (Great)___ ; _Great (+4) __Lore, Provoke___ ; _Good (+3, in the form of High Fairy)_ or _Mediocre (+0, in the form of Old Hag) __Athletics___ ; 
++ ___Skills:___ _Superb (+5) __Magic (Great)___ ; _Great (+4) __Lore, Provoke___ ; _Good (+3, in the form of High Fairy)_ or _Mediocre (+0, in the form of Old Hag) __Athletics___ ; 
 
 ### The Doppelgäenger
 
@@ -195,14 +195,14 @@ The Doppelgäenger does not have a normal set of stats: it assume  the doubled c
 
 If for some reason the original character dies or otherwise becomes unable to go forward, the Doppelgänger may fully assume its identity, but with the _Tension_ changing to _"Identity Crisis - "_ followed by the _original Tension_. The forces are for ___Original___ (with _Bonus_ in _Override_ and _Penalization_ in _Defense_ ) and ___Double___ (with _Bonus_ in _Create Advantage_ and _Penalization_ in _Attack_);
 
-Doppelgäenger while populations are considered ___Solitary, Mysterious___ and __Magical___. They are torn between ___help people in danger___ by assuming their identity as a form of protection, and ___Stealing the identities of others___, killing them in the process. Every Doppelgäenger has  _Good (+3) __Empathy___ or better
+Doppelgäenger while populations are considered ___Solitary, Mysterious___ and ___Magical___. They are torn between ___help people in danger___ by assuming their identity as a form of protection, and ___Stealing the identities of others___, killing them in the process. Every Doppelgäenger has  _Good (+3) __Empathy___ or better
 
 ### The Man with the Donkey Head
 
 This Man with Donkey Head has been treated by many to be one of the strange magical beasts that inhabit the Forest. However, he is actually a former Lumberjack who unknowingly knocked down a tree that was home of a Pixies community. They accursed him with a donkey head, but when they went to make him a complete donkey, the Fairy Godmothers intervened and told the Pixies that he already had enough punishment. He seeks redemption, trying to convince passerbys about who he is and if they can help him on lifting his curse.
 
 + ___Description:___ A man wearing rags, with donkey's head, hands and feet turned into donkey's paws, up to the knees and elbows, where they are still  human.
-+ ____Populations:___ ___Villagers___ (___Orderly, hardworking, Wary___); ___Hunters and Lumberjack___ (___Traditionalists, Suspicious, Kind___); ___Accursed People___ (___Cursed, Desperate, Worthy of Penance___)
++ ___Populations:___ ___Villagers___ (___Orderly, hardworking, Wary___); ___Hunters and Lumberjack___ (___Traditionalists, Suspicious, Kind___); ___Accursed People___ (___Cursed, Desperate, Worthy of Penance___)
 + ___Traits:___ Kind, Hardworking, Cursed
 + ___Agenda:___ all he wants is to get rid of his Curse, which becomes a Kindness Test for the characters to help him
 + ___Cost:___ Helping him can put the characters on a collision course with the _Forest's Magical Creatures_, potentially bringing a Curse to them. Not helping him, however, can put the characters in trouble with the _Fairy Godmothers_, including  Mirana. Pleasing the two can demand some _Promise_ or even a _Sacrifice_ ...
