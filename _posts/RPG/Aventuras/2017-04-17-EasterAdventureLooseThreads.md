@@ -206,4 +206,4 @@ This Man with Donkey Head has been treated by many to be one of the strange magi
 + ___Traits:___ Kind, Hardworking, Cursed
 + ___Agenda:___ all he wants is to get rid of his Curse, which becomes a Kindness Test for the characters to help him
 + ___Cost:___ Helping him can put the characters on a collision course with the _Forest's Magical Creatures_, potentially bringing a Curse to them. Not helping him, however, can put the characters in trouble with the _Fairy Godmothers_, including  Mirana. Pleasing the two can demand some _Promise_ or even a _Sacrifice_ ...
-+ ___Skills:___ _Good (+3) _Fight, Empathy, Craft___
++ ___Skills:___ _Good (+3) __Fight, Empathy, Craft___
