@@ -12,7 +12,7 @@ excerpt_separator: <!-- excerpt -->
 
 ## Pedido de Ajuda
 
-A Companhia está em um Sultanatom, onde eles chegaram depois de cruzarem um tanto do Deserto pelas rotas comerciais do ___Caminho de Ouro e Seda___, e ouvem histórias sobre o dilema do _Fiel Henry_ (ou _Heny de Ferro_), mas pelo seu nome local, _Hassam_, nos mais diferentes locais. Quando (e se) eles questionarem as pessoas ao redor, elas contarão a história de como o Sultão Hashid foi transformado em sapo por um bruxo do deserto e mandado para uma terra longínqua por um terrível abutre. Mas recentemente, o _Fiel Hassam_ descobriu que seu senhor foi liberto de sua maldição em uma terra distante e o trouxe com a princesa que o libertou.
+A Companhia está em um Sultanato, onde eles chegaram depois de cruzarem um tanto do Deserto pelas rotas comerciais do ___Caminho de Ouro e Seda___, e enquanto estão parados em um _Caravanserai_, eles ouvem histórias sobre o dilema do _Fiel Henry_ (ou _Heny de Ferro_), mas pelo seu nome local, _Hassam_, nos mais diferentes locais. Quando (e se) eles questionarem as pessoas ao redor, elas contarão a história de como o Sultão Hashid foi transformado em sapo por um bruxo do deserto e mandado para uma terra longínqua por um terrível abutre. Mas recentemente, o _Fiel Hassam_ descobriu que seu senhor foi liberto de sua maldição em uma terra distante e o trouxe com a princesa que o libertou.
 
 Recentemente, entretanto, o _Fiel Hassam_ tem sido visto novamente entristecido, e segundo se diz, devido ao fato de seu coração ter sido novamente preso por Tiras de Aço, às quais ele pediu para que fossem colocado por um dos _Jann_ do deserto, para que seu coração não explodisse de tristeza e desolação. 
 
