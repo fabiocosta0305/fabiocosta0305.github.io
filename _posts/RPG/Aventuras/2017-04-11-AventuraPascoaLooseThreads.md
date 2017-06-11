@@ -1,6 +1,6 @@
 ---
-title: "Aventura de Páscoa - Loose Threads"
-subtitle: "Aventura de Páscoa de Young Centurions"
+title: "A Fábrica dos Ovos de Chocolate"
+subtitle: "Aventura de Páscoa de Loose Threads"
 language: br
 layout: aventuras
 categories:
@@ -151,7 +151,7 @@ As _Roupas Encantadas_ parecem uma grande ___Fantasia de Coelho___, similar a al
 ### ___O Coelho da Páscoa___
 
 + **Descrição:** Um Coelho que anda nas duas patas traseiras e usa uma roupa bem comportada de _tweet_ e linho, o Coelho da Páscoa é exatamente como todos imaginam: levemente cheinho na região da barriga, com duas pernas enormes, como suas orelhas, olhos albinos e um focinho branco terminado em um narizinho de botão rosa. Apesar disso, ele fala de maneira tranquila sobre seu passado. Atualmente está um pouco doente, então não pode atuar no seu melhor
-+ **Populações:** ___Líder dos__ Coelhos da Fábrica de Ovos_ (___Laboriosos, Ordeiros, Pacíficos___); _Criaturas Mágicas da Floresta_ (___Mágicas, Mexeriqueiras___, ___Travessas___); _Moradores do Vilarejo Próximo_ (___Ordeiros, Trabalhadores, Desconfiados___)
++ **Populações:** ___Líder dos___ _Coelhos da Fábrica de Ovos_ (___Laboriosos, Ordeiros, Pacíficos___); _Criaturas Mágicas da Floresta_ (___Mágicas, Mexeriqueiras___, ___Travessas___); _Moradores do Vilarejo Próximo_ (___Ordeiros, Trabalhadores, Desconfiados___)
 + **Características:** ___Laborioso, Mágico, Ordeiro, Pacífico___
 + **Agenda:** Ele quer descobrir quem está por trás de todas as coisas que aconteceu com ele e porque isso está acontecendo
 + **Custo:** Uma Promessa será o suficiente para ter o Coelho da Páscoa como Aliado
@@ -169,7 +169,7 @@ As _Roupas Encantadas_ parecem uma grande ___Fantasia de Coelho___, similar a al
 ### ___Rumpelstiltskin, o Duende___
 
 + **Descrição:** Rumpelstiltskin tem a aparência de qualquer Duende: rosto com um sorriso esquivo, baixo e encorpado, com olhos com um brilho ganancioso
-+ **Populações:** _Criaturas Mágicas da Floresta_ (___Mágicas, Mexeriqueiras, Travessas___); ___Lider dos__ Duendes da Floresta_ (___Engenhosos, Malignos, Mágicos___)
++ **Populações:** _Criaturas Mágicas da Floresta_ (___Mágicas, Mexeriqueiras, Travessas___); ___Lider dos___ _Duendes da Floresta_ (___Engenhosos, Malignos, Mágicos___)
 + **Características:** ___Mágico, Maligno, Engenhoso___
 + **Agenda:** Ele quer tudo o que pode, sendo extremamente mesquinho e egoísta. Recentemente, descobriu como utilizar o ___Livro Mágico de Receitas do Coelho da Páscoa___ para criar um chocolate que permita a ele dominar as pessoas e as transformá-las em Duendes
 + **Custo:** Os Personagens podem ser obrigados a correr o risco de sacrificar Progresso ou Vitalidade para vencer Rumpelstilstkin, já que ele conhece muito sobre a Companhia e pode usar isso contra ela;

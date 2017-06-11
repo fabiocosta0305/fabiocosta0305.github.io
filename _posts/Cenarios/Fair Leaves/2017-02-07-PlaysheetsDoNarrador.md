@@ -27,6 +27,7 @@ Como regra opcional, você pode autorizar algumas dessas _Playsheets_ como poden
 
 As _Playsheet_ do Narrador são:
 
++ ___O Animal de Estimação:___ você é um animal de estimação tão, mas ___TÃO BOM___, que você, apesar de não falar, entende e se faz entender ao resto da Turma, sendo tratado como uma parte importante da mesma
 + ___A Autoridade:___ você é como o _Adulto_ em muitas coisas, mas com um detalhe: você é uma autoridade acima de tudo. Seja por seu conhecimento, como um Professor, seja por leis, como um Policial, ou seja por como todos em Fair Leaves o enxerga, como um Banqueiro, você consegue colocar respeito até mesmo em outros Adultos. Não vai ser a Turma que vai dizer o que você deve ou não fazer.
 + ___O Adulto:___ você é bem mais velho que os personagens da Turma, e do que muito dos demais. Ocasionalmente você é ao mesmo tempo um ponto de conciliação e alguém que impede a Turma de se divertir, seja pela segurança da mesma ou porque você não gosta dos mesmos. De qualquer modo, você tem alguma autoridade sobre os mesmos, e faz questão de a usar quando você acha necessário;
 + ___O Esquisito:___ você é o garoto mais estranho da região. Seus hobbies são esquisitos, vcê tem roupas estranhas e/ou seus pais são esquisitos. De qualquer forma, a maioria (senão todos) os garotos da cidade evitam contato com você. Entretanto, você procura amizade como alguém procura água no deserto: você já passou tempo demais isolado, e portanto está disposto a tudo para se enturmar... inclusive se misturar com as pessoas erradas.
