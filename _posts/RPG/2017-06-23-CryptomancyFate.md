@@ -14,7 +14,7 @@ tags:
   - Masters of Umdaar
 excerpt_separator: <!-- excerpt -->
 ---
-
+ 
 ## Version 0.2 - 2017-06-23
 
 ### `/user/fabiocosta/ Disclamer_and_notes`
