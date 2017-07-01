@@ -231,7 +231,7 @@ Para começar, ao invés do _Conceito_ e _Dificuldade_, o personagem cria ao men
 
 + o _Conceito Heróico_, que indica quem você era em Nest, e pode ser as coisas mais absurdas (pense que é uma criança definindo as coisas), desde um ___Bardo de Todos os Bardos, Cantador de todas as Canções___ até mesmo ao ___Coelhal Mestre Sabe Tudo de Todas as Coisas de Bungledyne___. Não importa aqui os erros de português, descreva sempre de maneira épica.
 + a _Vida Mundana_, que indica o que você é agora, como um adulto. Pode ser coisas muito boas, como um ___Nerd vítima de chacotas que tornou-se desenvolvedor e_ CEO dotcom__ ou coisas bem ruins, como um ___Ex-soldado em uma cadeira de rodas, portador de Estresse Pós-Traumático___, mas pense que ele pode ir de encontro ao seu _Conceito heróico_
-+ e o _Gancho_, alguma coisa que ainda mantêm você de alguma forma ligado a Nest e a outros heróis, sejam lembranças da época, como o fato de que você ___"Ainda vai publicar o_ Livro do Coelhal Mestre Sabe-Tudo!"__, um gancho com o mundo real, como o fato de que ___A vida real é o agora, e ela dói como o inferno___, ou ainda uma ligação com outros personagens (conscientemente ou não), como o fato de ___Eu e meus amigos erámos os_ Galandes Guerreiros de Epoch__
++ e o _Gancho_, alguma coisa que ainda mantêm você de alguma forma ligado a Nest e a outros heróis, sejam lembranças da época, como o fato de que você ___"Ainda vai publicar o_ Livro do Coelhal Mestre Sabe-Tudo!"__, um gancho com o mundo real, como o fato de que ___A vida real é o agora, e ela dói como o inferno___, ou ainda uma ligação com outros personagens (conscientemente ou não), como o fato de ___Eu e meus amigos erámos os_ Galandes Guerreiros de Epoch___
 
 E o jogador pode escolher outros dois Aspectos para o personagem.
 
@@ -360,7 +360,7 @@ Por fim, vale a pena acompanhar, pois é um projeto muito estimulante, algo que 
 
 [woa-evilhat]: http://www.evilhat.com/home/fate-worlds-and-adventures/
 [woa-patreon]: https://www.patreon.com/evilhat
-[fmaanalisa-umdaar]: http://fatemasters.github.io/podcast/FateMasters21-AnalisaMastersOfUmdaar/
+[fmanalisa-umdaar]: http://fatemasters.github.io/podcast/FateMasters21-AnalisaMastersOfUmdaar/
 [fate-core-gplus]: https://plus.google.com/communities/117231873544673522940
 [fate-brasil-facebook]: https://www.facebook.com/groups/faterpgbrasil/
 [venture-city]: http://www.drivethrurpg.com/product/127246/Venture-City--A-Superpunk-Sourcebook-for-Fate-Core
