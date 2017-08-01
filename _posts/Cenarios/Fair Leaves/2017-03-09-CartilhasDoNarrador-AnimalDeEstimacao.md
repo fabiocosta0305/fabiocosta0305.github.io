@@ -1,5 +1,5 @@
 ---
-title: Playsheet do Narrador - O Animal de Estimação
+title: Cartilha do Narrador - O Animal de Estimação
 teaser: "Aquele companheiro que sempre está do lado da turma, para o que der e vier!"
 layout: post
 date: 2017-02-07 08:53:00 -0200
@@ -8,8 +8,8 @@ categories:
 tags:
     - Fate
     - FAE
-    - Playsheets
-    - Playsheets do tradutor
+    - Cartilhas
+    - Cartilhas do tradutor
     - Regras
     - Fair Leaves
     - Light Hearted

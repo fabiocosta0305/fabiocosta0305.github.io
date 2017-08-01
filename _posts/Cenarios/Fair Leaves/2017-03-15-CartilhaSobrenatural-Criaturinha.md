@@ -1,5 +1,5 @@
 ---
-title: Playsheet Sobrenatural - A Criaturinha
+title: Cartilha Sobrenatural - A Criaturinha
 teaser: "Sprites, Pixies e Leprechauns para interagirem com a turma"
 layout: post
 date: 2017-02-07 10:15:00 -0200

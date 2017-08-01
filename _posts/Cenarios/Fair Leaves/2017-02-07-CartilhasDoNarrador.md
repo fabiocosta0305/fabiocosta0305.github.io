@@ -1,6 +1,6 @@
 ---
-title: Playsheets do Narrador
-teaser: "As Playsheets das pessoas que interagem junto à Turma!"
+title: Cartilhas do Narrador
+teaser: "As Cartilhas das pessoas que interagem junto à Turma!"
 layout: post
 date: 2017-02-07 08:34:00 -0200
 categories: 
@@ -8,8 +8,8 @@ categories:
 tags:
     - Fate
     - FAE
-    - Playsheets
-    - Playsheets do tradutor
+    - Cartilhas
+    - Cartilhas do tradutor
     - Regras
     - Fair Leaves
     - Light Hearted
@@ -17,15 +17,15 @@ tags:
 header: no
 ---
 
-Assim como os PCs, o Narrador possui suas _Playsheets_ para personagens mais importantes. Para Capangas e NPCs que vão aparecer apenas em uma ou duas Cenas, use o padrão para _Capangas_ descrito no Fate Acelerado, com algumas sugestões que iremos oferecer ao final desse documento.
+Assim como os PCs, o Narrador possui suas _Cartilhas_ para personagens mais importantes. Para Capangas e NPCs que vão aparecer apenas em uma ou duas Cenas, use o padrão para _Capangas_ descrito no Fate Acelerado, com algumas sugestões que iremos oferecer ao final desse documento.
 
-Da mesma forma que as Playsheet dos jogadores, as do Narrador são compostas por três perguntas que definem uma parte dos Aspectos do NPC, assim como o próprio Arquétipo do Playsheet (o nome do mesmo), e uma Façanha Exclusiva que os jogadores não terão acesso.
+Da mesma forma que as Cartilha dos jogadores, as do Narrador são compostas por três perguntas que definem uma parte dos Aspectos do NPC, assim como o próprio Arquétipo do Cartilha (o nome do mesmo), e uma Façanha Exclusiva que os jogadores não terão acesso.
 
 <!-- excerpt -->
 
-Como regra opcional, você pode autorizar algumas dessas _Playsheets_ como podendo ser usada por personagens jogadores. Em especial ___O Esquisito___ tem muito potencial, por sua similaridade com o ___Recém-Chegado___. As demais devem ser aprovadas apenas depois uma avaliação séria pelo Narrador, imaginando-se que se mantenha o foco e o clima da campanha de Fair Leaves.
+Como regra opcional, você pode autorizar algumas dessas _Cartilhas_ como podendo ser usada por personagens jogadores. Em especial ___O Esquisito___ tem muito potencial, por sua similaridade com o ___Recém-Chegado___. As demais devem ser aprovadas apenas depois uma avaliação séria pelo Narrador, imaginando-se que se mantenha o foco e o clima da campanha de Fair Leaves.
 
-As _Playsheet_ do Narrador são:
+As _Cartilha_ do Narrador são:
 
 + ___O Animal de Estimação:___ você é um animal de estimação tão, mas ___TÃO BOM___, que você, apesar de não falar, entende e se faz entender ao resto da Turma, sendo tratado como uma parte importante da mesma
 + ___A Autoridade:___ você é como o _Adulto_ em muitas coisas, mas com um detalhe: você é uma autoridade acima de tudo. Seja por seu conhecimento, como um Professor, seja por leis, como um Policial, ou seja por como todos em Fair Leaves o enxerga, como um Banqueiro, você consegue colocar respeito até mesmo em outros Adultos. Não vai ser a Turma que vai dizer o que você deve ou não fazer.

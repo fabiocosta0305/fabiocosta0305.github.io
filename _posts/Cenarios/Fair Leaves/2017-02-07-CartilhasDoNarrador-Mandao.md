@@ -1,5 +1,5 @@
 ---
-title: Playsheet do Narrador - O Mandão
+title: Cartilha do Narrador - O Mandão
 teaser: "O garoto que sempre vai ter o que quer quando quer, não importa como!"
 layout: post
 date: 2017-02-07 09:43:00 -0200
@@ -8,8 +8,8 @@ categories:
 tags:
     - Fate
     - FAE
-    - Playsheets
-    - Playsheets do tradutor
+    - Cartilhas
+    - Cartilhas do tradutor
     - Regras
     - Fair Leaves
     - Light Hearted
