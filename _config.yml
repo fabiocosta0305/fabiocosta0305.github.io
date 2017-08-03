@@ -1,7 +1,7 @@
 # Dependencies
 markdown:         kramdown
 #highlighter:      pygments
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-seo-tag
   - jekyll-sitemap

@@ -13,7 +13,7 @@ permalink: "/rpg-a-day/2017/"
 
 RPG-a-Day é uma proposta do blog [Autocratik][1]  para postagens sobre RPG durante o mês de agosto, sobre assuntos específicos. Os assuntos sugeridos para este mês são
 
-[![As 31 perguntas do RPG-A-Day 2017](/assets/img/rpg-a-day-2017.jpg)](/assets/img/rpg-a-day-2017.jpg) e a [tradução online das mesmas][2]
+[![As 31 perguntas do RPG-A-Day 2017](/assets/img/rpgaday2017.png)](/assets/img/rpgaday2017.png) a [tradução online das mesmas][2]
 
 Então, vamos nessa!
 
@@ -24,6 +24,10 @@ Bem... Além de Fate, gostaria muito de jogar mesas de [DCC][dcc-br], algum sist
 ### 2. Qual RPG você gostaria de ver publicado?
 
 Sinceramente... No Brasil gostaria de ver mais RPGs com uma temática menos violenta, como [_Golden Sky Stories_][gss], [_Ryuutama_][ryuutama] e [_Little Wizards_][little-wizards] sendo publicados no Brasil. Mas minha expectativa está para ver [_Dungeon Tours LTD_][dtl] ser publicado.
+
+### 3. Como você descobre sobre novos RPGs?
+
+Em geral, descubro sobre novos RPGs via redes sociais, em especial no Google+, onde posso ver coisas que sejam mais do meu interesse. Ocasionalmente, também obtenho informações por meio de _blogs_.
 
 
 [1]: http://autocratik.blogspot.com.br/2017/07/rpgaday-2017-announcing-rpgaday-again.html
