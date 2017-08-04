@@ -29,6 +29,9 @@ Sinceramente... No Brasil gostaria de ver mais RPGs com uma temática menos viol
 
 Em geral, descubro sobre novos RPGs via redes sociais, em especial no Google+, onde posso ver coisas que sejam mais do meu interesse. Ocasionalmente, também obtenho informações por meio de _blogs_.
 
+### 4. Qual RPG você mais jogou desde Agosto de 2016?
+
+Sem sombra de dúvidas, o RPG que mais joguei foi Fate, tanto Básico quanto Acelerado, nos mais diversos cenários. Por cenário, eu diria que tem um empate técnico entre _Masters of Umdaar_, _Young Centurion_ e _Loose Threads_.
 
 [1]: http://autocratik.blogspot.com.br/2017/07/rpgaday-2017-announcing-rpgaday-again.html
 [2]: https://fadingsunsbr.wordpress.com/2017/07/22/rpgaday-uma-pergunta-por-dia/
