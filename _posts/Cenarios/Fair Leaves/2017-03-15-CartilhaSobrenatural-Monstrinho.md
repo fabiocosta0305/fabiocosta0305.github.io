@@ -1,5 +1,5 @@
 ---
-title: Playsheet Sobrenatural - O Monstrinho
+title: Cartilha Sobrenatural - O Monstrinho
 teaser: "Apesar de sua aparência ou hábitos monstruosos, ele quer amigos como qualquer outra criança"
 layout: post
 date: 2017-02-07 10:20:00 -0200

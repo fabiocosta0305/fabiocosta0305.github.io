@@ -1,5 +1,5 @@
 ---
-title:   Playsheet - O Curioso
+title:   Cartilha - O Curioso
 teaser: "O membro da turma que leva os demais para a confusão e para novas aventuras"
 layout: post
 date: 2017-02-06 14:58:00 -0200
@@ -10,7 +10,7 @@ tags:
     - FAE
     - Personagens
     - Arquétipos
-    - Playsheets
+    - Cartilhas
     - Fair Leaves
     - Light Hearted
     - Fair-Leaves

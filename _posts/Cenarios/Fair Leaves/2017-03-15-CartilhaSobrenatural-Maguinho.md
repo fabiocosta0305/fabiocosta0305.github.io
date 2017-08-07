@@ -1,5 +1,5 @@
 ---
-title: Playsheet Sobrenatural - O Maguinho
+title: Cartilha Sobrenatural - O Maguinho
 teaser: "Um jovenzinho que manipula a magia, mas não tem muito controle sobre ela"
 layout: post
 date: 2017-02-07 10:20:00 -0200

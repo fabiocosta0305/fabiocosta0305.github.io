@@ -1,5 +1,5 @@
 ---
-title: Playsheet do Narrador - A Autoridade
+title: Cartilha do Narrador - A Autoridade
 teaser: "As pessoas que vão colocar os personagens na linha "
 layout: post
 date: 2017-02-07 08:52:00 -0200
@@ -8,8 +8,8 @@ categories:
 tags:
     - Fate
     - FAE
-    - Playsheets
-    - Playsheets do tradutor
+    - Cartilhas
+    - Cartilhas do tradutor
     - Regras
     - Fair Leaves
     - Light Hearted

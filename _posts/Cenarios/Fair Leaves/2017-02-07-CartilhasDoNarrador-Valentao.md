@@ -1,5 +1,5 @@
 ---
-title:  Playsheet do Narrador - O Valentão
+title:  Cartilha do Narrador - O Valentão
 teaser: "Alguém que só sabe resolver problemas o espancando até que eles deixem de ser problemas"
 layout: post
 date: 2017-02-07 09:48:00 -0200
@@ -8,8 +8,8 @@ categories:
 tags:
     - Fate
     - FAE
-    - Playsheets
-    - Playsheets do tradutor
+    - Cartilhas
+    - Cartilhas do tradutor
     - Regras
     - Fair Leaves
     - Fair-Leaves

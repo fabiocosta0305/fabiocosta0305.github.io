@@ -1,5 +1,5 @@
 ---
-title: Playsheet do Narrador - O Adulto
+title: Cartilha do Narrador - O Adulto
 teaser: "As pessoas que vão colocar os personagens na linha "
 layout: post
 date: 2017-02-07 08:55:00 -0200
@@ -8,8 +8,8 @@ categories:
 tags:
     - Fate
     - FAE
-    - Playsheets
-    - Playsheets do tradutor
+    - Cartilhas
+    - Cartilhas do tradutor
     - Regras
     - Fair Leaves
     - Light Hearted
@@ -24,7 +24,7 @@ E portanto, você é quem tem que manter essa criançada na linha por algum moti
 
 Mas ao mesmo tempo, você gosta de contar sobre como as coisas eram quando você era pequeno, e mostrar como a vida da Turma é boa comparada ao que era antigamente, ou vice-versa, como era mais fácil ser criança no passado. De quando em quando, você não resiste e acaba voltando para essa época boa: sua criança interior, ainda que adormecida, não está morta. Se deixarem, você ainda ganha dos garotos quando usando um estilingue ou quando brincando de cama-de-gato.
 
-O Adulto é fundamentalmente um centro de autoridade, mesmo quando ele não é uma _Autoridade_  _per se_ (que possui seu próprio _Playsheet_), mas fundamentalmente é um ponto de referência para a Turma, seja para perguntas sobre como resolver problemas, ou como um guia moral para quando eles passam dos limites. O Adulto é, normalmente, alguém em quem a Turma confiará entre todos os Adultos: seja uma boa Professora, o pai ou o avó de um deles que conta histórias incríveis de tempos passados. Entretanto, Adultos podem também ser perigosos, como Ladrões, Sequestradores, ou (GULP) Professores Bravos!
+O Adulto é fundamentalmente um centro de autoridade, mesmo quando ele não é uma _Autoridade_  _per se_ (que possui seu próprio _Cartilha_), mas fundamentalmente é um ponto de referência para a Turma, seja para perguntas sobre como resolver problemas, ou como um guia moral para quando eles passam dos limites. O Adulto é, normalmente, alguém em quem a Turma confiará entre todos os Adultos: seja uma boa Professora, o pai ou o avó de um deles que conta histórias incríveis de tempos passados. Entretanto, Adultos podem também ser perigosos, como Ladrões, Sequestradores, ou (GULP) Professores Bravos!
 
 <!-- excerpt -->
 

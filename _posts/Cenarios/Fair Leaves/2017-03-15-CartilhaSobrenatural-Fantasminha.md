@@ -1,5 +1,5 @@
 ---
-title: Playsheet Sobrenatural - O Fantasminha
+title: Cartilha Sobrenatural - O Fantasminha
 teaser: "Uma criança que perdeu sua vida, mas não a vontade de fazer amigos"
 layout: post
 date: 2017-02-07 10:20:00 -0200
