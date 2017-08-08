@@ -45,6 +45,10 @@ Eu procuraria experimentar o máximo de sistemas e cenários possíveis, em espe
 
 Acho que foi quando narrei _Quem Derreteu o Raposo?_ e o pessoal achou estranho quando citei coisas histórias da época, como a HUAAC, _House Un-Americans Activities Comitee_, o Comitê de Atividades Anti-Americanas do Congresso que, durante o período maior do McCartismo levou a Caça às Bruxas a Hollywood, o que veio a fazer, por exemplo, Charles Chaplin ir embora dos EUA. Quando mostrei como isso se aplicava a desenhos, meus jogadores ficaram realmente perturbados com a possibilidade de uma pessoa achar que a anarquia teoricamente não-política dos desenhos animados poderia ser interpretado por alguns como uma forma de esquerdismo disfarçado, e não como parte da própria natureza dos desenhos.
 
+### 8. Qual é um bom RPG para se jogar em 2 horas ou menos?
+
+Na prática, considero que qualquer coisa baseada em Fate Acelerado ou _Powered by The Apocalypse_ funciona muito bem para narrativas curtas, já que os personagens são facilmente criados. Além disso, para PbTA é interessante pois o cenário e tipo de personagens é mais ou menos padronizado, e no Fate Acelerado você consegue criar cenários é mais simples, além da quantidade de cenários disponíveis, como Masters of Umdaar, Do - Fate of the Flying Temple, Young Centurions ou Chopstick.
+
 [1]: http://autocratik.blogspot.com.br/2017/07/rpgaday-2017-announcing-rpgaday-again.html
 [2]: https://fadingsunsbr.wordpress.com/2017/07/22/rpgaday-uma-pergunta-por-dia/
 [dcc-br]:http://newordereditora.com.br/categoria-produto/rpg/dcc-rpg/
