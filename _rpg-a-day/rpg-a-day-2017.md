@@ -49,6 +49,10 @@ Acho que foi quando narrei _Quem Derreteu o Raposo?_ e o pessoal achou estranho 
 
 Na prática, considero que qualquer coisa baseada em Fate Acelerado ou _Powered by The Apocalypse_ funciona muito bem para narrativas curtas, já que os personagens são facilmente criados. Além disso, para PbTA é interessante pois o cenário e tipo de personagens é mais ou menos padronizado, e no Fate Acelerado você consegue criar cenários é mais simples, além da quantidade de cenários disponíveis, como Masters of Umdaar, Do - Fate of the Flying Temple, Young Centurions ou Chopstick.
 
+### 9. Qual é um bom RPG para se jogar por 10 sessões?
+
+Acho que o que mais influencia nesse caso é o tanto de _Lore_ que pode ser gerado ou explorado, mais que o sistema. Nesse caso, vejo muito uso para Atomic Robo, Part-Time Gods, Baroque Space Opera ou ainda o próprio _Masters of Umdaar_, com a possibilidade de _expansões_ para níveis maiores usando coisas como _Gods and Monsters_, _Aether Sea_ ou _Sail Full of Stars_
+
 [1]: http://autocratik.blogspot.com.br/2017/07/rpgaday-2017-announcing-rpgaday-again.html
 [2]: https://fadingsunsbr.wordpress.com/2017/07/22/rpgaday-uma-pergunta-por-dia/
 [dcc-br]:http://newordereditora.com.br/categoria-produto/rpg/dcc-rpg/
