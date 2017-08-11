@@ -51,7 +51,15 @@ Na prática, considero que qualquer coisa baseada em Fate Acelerado ou _Powered 
 
 ### 9. Qual é um bom RPG para se jogar por 10 sessões?
 
-Acho que o que mais influencia nesse caso é o tanto de _Lore_ que pode ser gerado ou explorado, mais que o sistema. Nesse caso, vejo muito uso para Atomic Robo, Part-Time Gods, Baroque Space Opera ou ainda o próprio _Masters of Umdaar_, com a possibilidade de _expansões_ para níveis maiores usando coisas como _Gods and Monsters_, _Aether Sea_ ou _Sail Full of Stars_
+Acho que o que mais influencia nesse caso é o tanto de _Lore_ que pode ser gerado ou explorado, mais que o sistema. Nesse caso, vejo muito uso para _Atomic Robo_, _Part-Time Gods_, _Baroque Space Opera_ ou ainda o próprio _Masters of Umdaar_, com a possibilidade de _expansões_ para níveis maiores usando coisas como _Gods and Monsters_, _Aether Sea_ ou _Sail Full of Stars_
+
+### 10. Onde você vai para resenhas de RPG?
+
+Eu acabo conseguindo resenhas de RPG via redes sociais. Isso facilita obter informação sobre o que me interessa, sem correr o risco de misturar e ver coisas que que não me interessam.
+
+### 11. Qual “jogo morto” você gostaria de ver renascido?
+
+Os "jogos mortos" que mais gostaria de ver renascidos são _Desafio dos Bandeirantes_ e _Era do Caos_. Além disso, seria muito legal se o RPG de Star Wars oficial voltasse a usar o sistema d6 da AEG.
 
 [1]: http://autocratik.blogspot.com.br/2017/07/rpgaday-2017-announcing-rpgaday-again.html
 [2]: https://fadingsunsbr.wordpress.com/2017/07/22/rpgaday-uma-pergunta-por-dia/
