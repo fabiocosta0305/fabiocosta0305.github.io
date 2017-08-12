@@ -1,5 +1,5 @@
 ---
-title:  Cartilha - O Atleta
+title:  Playsheet - O Atleta
 teaser: "O mais atlético da Turma, que sabe todas as regras de todos os esportes e de como fazer o povo se mexer"
 layout: post
 date: 2017-02-06 14:58:00 -0200
@@ -10,7 +10,7 @@ tags:
     - FAE
     - Personagens
     - Arquétipos
-    - Cartilhas
+    - Playsheets
     - Fair Leaves
     - Light Hearted
     - Fair-Leaves

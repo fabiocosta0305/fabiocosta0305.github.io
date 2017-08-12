@@ -8,8 +8,8 @@ categories:
 tags:
     - Fate
     - FAE
-    - Cartilhas
-    - Cartilhas do tradutor
+    - Playsheets
+    - Playsheets do tradutor
     - Regras
     - Fair Leaves
     - Light Hearted
@@ -109,13 +109,7 @@ Além disso, é no Centro Cívico Löve Bieberaus que a ___Associação Cultural
 
 ### O Grupo Escoteiro de Fair Leaves
 
-Sem uma sede própria (ainda), o Grupo Escoteiro de Fair Leaves divide com o Grupo de Teatro e a Brigada de Palhaços, o grupo de voluntários que atuam como palhaços em eventos cívicos, de Fair Leaves a Associação Cultural de Fair Leaves como sede. O Líder Escoteiro local, o senhor _Leon Orel_ é um dos melhores e mais responsáveis líderes escoteiros da região, e não poucas vezes trabalha em conjunto com os grupos escoteiros de outros cidades, em especial das vizinhas Katchalow , Great Willows e Deep Lake, para atividades divertidas com os escoteiros da cidades. 
-
-### O Circo Comunitário e Brigada de Palhaços dos Cavaleiros da Diversão
-
-Compartilhando o Centro Cívico Bieberaus com os Escoteiros e o Grupo de Teatro, ___O Circo Comunitário e Brigada de Palhaços dos Cavaleiros da Diversão___ é uma das Brigadas de Palhaços da região, ___onde as artes circenses são preservadas e pssadas para as novas gerações___, em especial para aqueles que ___gostam de fazer os outros rirem___. Silvester "Silly Silver" Sälvalner, ___um antigo Foca Palhaço___ aposentado, deixo ou circo quando percebeu que estava velho demais e fixou-se em Fair Leaves. Alguns dizem que ele tem um pouco de sangue das Famílias Fundadoras nele (provavelmente dos Bieberaus) e ainda é ___uma criança no coração___ e conhece muitas piadas engraçadas e truques e troças, e sempre está dispoosto a ensinar as artes circenses para aqueles que estejam dispostos. Entretanto, muitos dos garotos e garotas mais velhos não gostam dele, acham ele um grande idiota e vêem palhaços como uma babaquice.
-
-De qualquer modo, _O Circo Comunitário e Brigada de Palhaços dos Cavaleiros da Diversão_ é ainda assim parte importante de desfiles cívicos, como o do Dia de Ação de Graças, e mesmo aqueles que vêem tudo isso como uma grande piada, acaba sendo um bom momento para por umas roupas engraçadas e fazerem os outros rirem.
+Sem uma sede própria (ainda), o Grupo Escoteiro de Fair Leaves divide com o Grupo de Teatro e o _Clown Alley_, o grupo de voluntários que atuam como palhaços em eventos cívicos, de Fair Leaves a Associação Cultural de Fair Leaves como sede. O Líder Escoteiro local, o senhor _Leon Orel_ é um dos melhores e mais responsáveis líderes escoteiros da região, e não poucas vezes trabalha em conjunto com os grupos escoteiros de outros cidades, em especial das vizinhas Katchalow , Great Willows e Deep Lake, para atividades divertidas com os escoteiros da cidades. 
 
 ## Os campos de Fair Leaves
 

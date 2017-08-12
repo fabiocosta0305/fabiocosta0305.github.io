@@ -1,5 +1,5 @@
 ---
-title:  Cartilha - O Geninho
+title:  Playsheet - O Geninho
 teaser: "O garoto mais esperto da turma, normalmente irá tirar a Turma de  qualquer enrascada quando as coisas dependerem do cérebro!"
 layout: post
 date: 2017-02-06 15:25:00 -0200
@@ -10,7 +10,7 @@ tags:
     - FAE
     - Personagens
     - Arquétipos
-    - Cartilhas
+    - Playsheets
     - Fair Leaves
     - Light Hearted
     - Fair-Leaves

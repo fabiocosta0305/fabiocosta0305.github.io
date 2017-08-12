@@ -18,8 +18,8 @@ header: no
 > ## Criação de Personagem - A versão rápida
 >
 > + Pense em que tipo de personagem que você quer
-> + Escolha seu Arquétipo (e com isso sua _Cartilha_)
-> + Responda as três perguntas da sua _Cartilha_ para obter seus Aspectos
+> + Escolha seu Arquétipo (e com isso sua _Playsheet_)
+> + Responda as três perguntas da sua _Playsheet_ para obter seus Aspectos
 > + Escolha suas _Atitudes_
 > + Anote sua _Façanha Exclusiva_ em seu Ficha
 > + Anote sua Recarga inicial (3)
@@ -31,13 +31,13 @@ header: no
 
 ## Pensando no personagem
 
-Ao criar seu personagem, você deve primeiro ter uma noção de que tipo de personagem você deseja, pois todas suas escolhas vão girar ao redor disso. Pensar no tipo de personagem e o visualizar na sua cabeça irá o tornar mais real no fim das contas e o ajudará a escolher melhor sua _Cartilha_, Aspectos, Façanhas e Atitudes.
+Ao criar seu personagem, você deve primeiro ter uma noção de que tipo de personagem você deseja, pois todas suas escolhas vão girar ao redor disso. Pensar no tipo de personagem e o visualizar na sua cabeça irá o tornar mais real no fim das contas e o ajudará a escolher melhor sua _Playsheet_, Aspectos, Façanhas e Atitudes.
 
 > _"Leandro está querendo criar um personagem para sua nova mesa de_ Fair Leaves. _Dessa vez ele quer jogar com alguém descontraído que seja a pedra de apoio do grupo, mas que não seja o tipo chato e certinho. Ele pensa em personagens ao estilo Huckleberry Finn e Tom Sawyer, então ele decide que criará um tipo calmo, que sabe quando acompanhar o resto da turma, mas que prefira mais ficar em um lago cheio de peixes pescando do que arrumando confusão ou frequentando bibliotecas. O nome __Simeon__ vem à sua mente, e ele parece um nome diferente e divertido, além de soar um pouco caipira, o que para o tipo de personagem que ele está criando é algo realmente interessante."_
 
-## Escolhendo o Arquétipo e preenchendo  a _Cartilha_
+## Escolhendo o Arquétipo e preenchendo  a _Playsheet_
 
-Após pensar no seu personagem, você deve escolher o _Arquétipo_ que mais se encaixa com o seu personagem e responder as perguntas propostas na _Cartilha_ do mesmo, anotando as respostas em sua ficha. Essas respostas são os _Aspectos_ iniciais do seu personagem. 
+Após pensar no seu personagem, você deve escolher o _Arquétipo_ que mais se encaixa com o seu personagem e responder as perguntas propostas na _Playsheet_ do mesmo, anotando as respostas em sua ficha. Essas respostas são os _Aspectos_ iniciais do seu personagem. 
 
 Os Arquétipos disponíveis em _Fair Leaves_ são:
 
@@ -50,9 +50,9 @@ Os Arquétipos disponíveis em _Fair Leaves_ são:
 + ___O Travesso:___ o Travesso é diametralmente oposto ao Certinho, sabendo todos os truques escusos para trapacear e tentar se dar bem. Mas normalmente ele faz isso não apenas para tentar se dar bem, mas para ajudar seus amigos: normalmente é ele quem vai dar um jeito de chamar os valentões para si, fugindo dos valentões.
 + ___O Tímido:___ normalmente recém-chegado ou criado um pouco mais rigidamente que os demais, o Tímido tende a ser mais introspectivo e pragmático. Mas normalmente o Tímido é quem pode dar suporte e apoio à turma quando se faz mais necessário.
 
-Todos os Arquétipos trazem na _Cartilha_ o Aspecto _"O que você pensa da sua Turma?"_. Isso é muito importante, pois a Turma é o seu grupo, são as pessoas das quais, por algum motivo, você escolheu ficar próximo. Essa pergunta representa esse pensamento.
+Todos os Arquétipos trazem na _Playsheet_ o Aspecto _"O que você pensa da sua Turma?"_. Isso é muito importante, pois a Turma é o seu grupo, são as pessoas das quais, por algum motivo, você escolheu ficar próximo. Essa pergunta representa esse pensamento.
 
-> _Leandro agora olha os Arquétipos e Cartilhas e decide escolher ser __Descolado__, o que parece casar com a idéia de Simeon como uma luva. Observando as três perguntas da Cartilha, ele primeiro responde __Por que você é tão calmo?__ com __Tudo sempre vai dar certo, eu sei que vai!__, demonstrando que ele tem uma atitude de certa forma positiva, quase_ naïve _em relação à vida. Em seguida, ele pensa em __O que ou quem te tira do sério?__, e pensa que Simeon não aceita pessoas que judiem dos mais fracos, e ele escreve então __Qualquer um que tenta mexer com os mais fracos__ como resposta. Por fim, ele  procura a resposta sobre __O que você pensa da sua Turma?__, então ele decide que Simeon é o tipo confiável, ainda que meio no ritmo dele, então ele responde que a Turma __São meus amigos para o que der e vier!___
+> _Leandro agora olha os Arquétipos e Playsheets e decide escolher ser __Descolado__, o que parece casar com a idéia de Simeon como uma luva. Observando as três perguntas da Playsheet, ele primeiro responde __Por que você é tão calmo?__ com __Tudo sempre vai dar certo, eu sei que vai!__, demonstrando que ele tem uma atitude de certa forma positiva, quase_ naïve _em relação à vida. Em seguida, ele pensa em __O que ou quem te tira do sério?__, e pensa que Simeon não aceita pessoas que judiem dos mais fracos, e ele escreve então __Qualquer um que tenta mexer com os mais fracos__ como resposta. Por fim, ele  procura a resposta sobre __O que você pensa da sua Turma?__, então ele decide que Simeon é o tipo confiável, ainda que meio no ritmo dele, então ele responde que a Turma __São meus amigos para o que der e vier!___
 >
 > _Com isso, ele termina por agora os Aspectos. No final, ele poderá dar cor maior a Simeon escrevendo outros Aspectos_
 
@@ -74,7 +74,7 @@ Os personagens começam com uma _Atitude_ em +3, duas _Atitudes_ em +2 e duas em
 
 ## Anotando a _Façanha Exclusiva_:
 
-Todo Arquétipo tem em sua _Cartilha_ uma _Façanha Exclusiva_, uma Façanha obviamente poderosa e que só aqueles daquele Arquétipo possuem. Elas tem múltiplas funções e são obviamente mais poderosas que uma Façanha comum de Fate Acelerado. Anote em sua ficha a Façanha Exclusiva e procure ler e entender o que ela faz, pois ela foi feita para que você possa ajudar a sua Turma (e a si mesmo) da melhor maneira possível!
+Todo Arquétipo tem em sua _Playsheet_ uma _Façanha Exclusiva_, uma Façanha obviamente poderosa e que só aqueles daquele Arquétipo possuem. Elas tem múltiplas funções e são obviamente mais poderosas que uma Façanha comum de Fate Acelerado. Anote em sua ficha a Façanha Exclusiva e procure ler e entender o que ela faz, pois ela foi feita para que você possa ajudar a sua Turma (e a si mesmo) da melhor maneira possível!
 
 > _Como um __Descolado__, a __Façanha Exclusiva__ de Simeon é **Todo mundo calmo!**, que permite a ele Defender a Turma contra situações de Pânico e remover esse Aspecto caso os personagens tenham o sofrido. Isso representa a calma de Simeon, quando todo mundo é chamado à razão por ele, com palavras inspiradoras.. ou simplesmente cpm o sorriso acalentador do seu rosto._
 
@@ -86,7 +86,7 @@ A Recarga define o número ___mínimo___ de Pontos de Destino que o personagem r
 
 ## Dê novos Aspectos ao seu personagem (Opcional)
 
-Nesse momento de criação de personagens, os Aspectos obrigatórios ao personagem são aqueles relacionados às respostas do _Cartilha_. Entretanto, você pode adicionar novos Aspectos ao seu personagem, como uma forma de adicionar formas de usar Pontos de Destino (e de ganhar Pontos por meio de Forçadas e Invocações Hostis) e de tornar seu personagem mais rico, divertido, e com mais opções. Perceba que isso não é obrigatório, e você pode preencher os dois Aspectos livres a qualquer momento durantre à aventura
+Nesse momento de criação de personagens, os Aspectos obrigatórios ao personagem são aqueles relacionados às respostas do _Playsheet_. Entretanto, você pode adicionar novos Aspectos ao seu personagem, como uma forma de adicionar formas de usar Pontos de Destino (e de ganhar Pontos por meio de Forçadas e Invocações Hostis) e de tornar seu personagem mais rico, divertido, e com mais opções. Perceba que isso não é obrigatório, e você pode preencher os dois Aspectos livres a qualquer momento durantre à aventura
 
 Algumas opções para adicionar novos Aspectos:
 
@@ -101,7 +101,7 @@ Algumas opções para adicionar novos Aspectos:
 	+ _Will é legal, mas podia parar de pegar no meu pé!_
     + _A senhora Heckett sempre me dá um doce quando eu a ajudo!_
     + _O senhor Goatzeit poderia não exigir tanto de mim em matemática!_
-+ Responda perguntas de outro _Cartilha_. Essa em especial é uma forma de enriquecer um pouco seu personagem, tornando-o, por exemplo, um _Descolado_ com um lado _Geninho_, ou um _Atleta_ que por acaso é um pouco _Travesso_. Perceba, porém, que você NÃO RECEBE a Façanha Exclusiva de outros Cartilha por ter respondido as perguntas de outros Cartilha, ao menos na criação de personagem.
++ Responda perguntas de outro _Playsheet_. Essa em especial é uma forma de enriquecer um pouco seu personagem, tornando-o, por exemplo, um _Descolado_ com um lado _Geninho_, ou um _Atleta_ que por acaso é um pouco _Travesso_. Perceba, porém, que você NÃO RECEBE a Façanha Exclusiva de outros Playsheet por ter respondido as perguntas de outros Playsheet, ao menos na criação de personagem.
 
 > A criação básica de Simeon está acabada em sua base, mas Leandro decide colocar novos Aspectos para Simeon. Primeiro, ele decide que Simeon será um garoto gambá, já que o narrador decidiu que todos os personagens serão animais antropomórficos ao estilo __Nossa Turma__. Ser um garoto gambá é uma coisa que ele sempre achou divertida, ainda mais que ele pode dar uma borrifada fedida em algum valentão. Para denotar essa capacidade, e o fato de ele ser um garoto com um lado um pouco desordeiro, ele coloca o Aspecto __Nem sempre estou cheirando bem, e não é só por causa da minha cauda!__. Isso pode ser positivo quando ele dá uma borrifada fedida em um valentão, o fazendo correr com o rabo entre as pernas, mas às vezes isso o coloca em encrenca quando o senhor Goatzeit decide que ele tem que voltar para casa e tomar um banho (o que ele NÃO QUER!).
 >
@@ -111,7 +111,7 @@ Algumas opções para adicionar novos Aspectos:
 
 Por fim, você pode escolher algumas Façanhas Adicionais, seja da lista de Façanhas Sugeridas que oferecemos, seja criando algumas façanhas em conjunto com o Narrador. Lembre-se sempre que o Narrador tem palavra final sobre se uma Façanha é aceitável ou não.
 
-Todo personagem em _Fair Leaves_ pode escolher até três façanhas adicionais para seu persoagem sem sofrer redução de Recarga, desconsiderando-se nessa conta a _Façanha Exclusiva_ da Cartilha. A partir da quarta façanha, o personagem perde Recarga a um custo de 1 por Façanha, e pode baixar a Recarga até 1 no processo.
+Todo personagem em _Fair Leaves_ pode escolher até três façanhas adicionais para seu persoagem sem sofrer redução de Recarga, desconsiderando-se nessa conta a _Façanha Exclusiva_ da Playsheet. A partir da quarta façanha, o personagem perde Recarga a um custo de 1 por Façanha, e pode baixar a Recarga até 1 no processo.
 
 > _Leandro decide escolher algumas Façanhas para o personagem. No caso, ele escolhe __Mateiro__, __Nós somos a Turma!__ e __Contador de Histórias__, pois ele acha que essas façanhas combinam com o estilo de Simeon: solto, ligado à vida no meio do campo e dos bosques, cheio de histórias e lendas para contar, e sempre com alguma forma de unir todo mundo em um mesmo objetivo, mesmo que todos (incluindo ele) estejam morrendo de medo._
 

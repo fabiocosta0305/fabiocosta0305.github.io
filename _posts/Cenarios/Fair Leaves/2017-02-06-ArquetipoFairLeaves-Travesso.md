@@ -1,5 +1,5 @@
 ---
-title: Cartilha - O Travesso
+title: Playsheet - O Travesso
 teaser: "O membro da Turma que mais arruma confusão, ainda assim tem um espaço entre todos"
 layout: post
 date: 2017-02-06 15:55:00 -0200
@@ -10,7 +10,7 @@ tags:
     - FAE
     - Personagens
     - Arquétipos
-    - Cartilhas
+    - Playsheets
     - Fair Leaves
     - Light Hearted
     - Fair-Leaves

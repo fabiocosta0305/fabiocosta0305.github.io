@@ -1,5 +1,5 @@
 ---
-title: Cartilha - O Tímido
+title: Playsheet - O Tímido
 teaser: "Muito contido, funciona como um ponto de tranquilidade e segurança para a Turma"
 layout: post
 date: 2017-02-06 15:45:00 -0200
@@ -10,7 +10,7 @@ tags:
     - FAE
     - Personagens
     - Arquétipos
-    - Cartilhas
+    - Playsheets
     - Fair Leaves
     - Light Hearted
     - Fair-Leaves

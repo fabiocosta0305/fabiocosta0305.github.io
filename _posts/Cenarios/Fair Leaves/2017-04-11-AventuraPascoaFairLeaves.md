@@ -134,7 +134,7 @@ Ganchos para aventuras futuras:
 
 | ***Pergunta***                               | ***Aspecto*** |
 |----------------------------------------------|---------------|
-| _Cartilha_ | A Criaturinha |
+| _Playsheet_ | A Criaturinha |
 | _Que tipo de poderes você possui?_           | Rápido como um coelho, sei me esconder e esconder doces              |
 | _Quais tabus você deve seguir?_              | Ovos de chocolate por toda a parte na Páscoa, esse é meu dever!           |
 | _Como você se relaciona com a Turma?_        | Será que posso conversar com eles? Meu pai pode ficar bravo!                |

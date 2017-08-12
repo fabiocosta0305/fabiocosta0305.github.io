@@ -1,5 +1,5 @@
 ---
-title:   Cartilha - O Descolado
+title:   Playsheet - O Descolado
 teaser: "Normalmente o líder da Turma, é aquele que consegue manter a cabeça no lugar nos momentos de maior pressão"
 layout: post
 date: 2017-02-06 15:25:00 -0200
@@ -10,7 +10,7 @@ tags:
     - FAE
     - Personagens
     - Arquétipos
-    - Cartilhas
+    - Playsheets
     - Fair Leaves
     - Light Hearted
     - Fair-Leaves

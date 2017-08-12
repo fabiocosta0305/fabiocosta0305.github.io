@@ -27,7 +27,7 @@ header: no
 
 Essa é uma aventura bem simples de Fair Leaves, onde o foco é muito mais em entender e interpretar os personagens. Ela envolve um teste de coragem e a necessidade de um dos personagens da Turma. 
 
-A aventura é preparada para de 2 a 8 jogadores, e aconselha-se que cada um escolha um _Cartilha_ diferente, sendo recomendado pelo menos um mais ativo de maneira física, como um Descolado, Atleta ou Travesso, alguém mais inteligente, como um Curioso ou Geninho, e alguém que possa auxiliar mantendo os dois grupos trabalhando juntos de alguma forma, como um Recém-Chegado, Curioso ou Tímido.
+A aventura é preparada para de 2 a 8 jogadores, e aconselha-se que cada um escolha um _Playsheet_ diferente, sendo recomendado pelo menos um mais ativo de maneira física, como um Descolado, Atleta ou Travesso, alguém mais inteligente, como um Curioso ou Geninho, e alguém que possa auxiliar mantendo os dois grupos trabalhando juntos de alguma forma, como um Recém-Chegado, Curioso ou Tímido.
 
 A aventura é planejada para ser resolvida entre 2 a 4 horas. É interessante que, caso seja jogada em apenas uma sessão de jogo, dê-se um tempo de uns 5 a 15 minutos entre as duas partes da mesma: a Feira de Fair Leaves e o Teste de Coragem. Procure deixar o ritmo fluído, mas tranquilo: essa não é uma aventura projetada para momentos de muita ação. Muitas das coisas serão resolvidas em especial por Desafios e Disputas, e Conflitos serão inexistentes em uma situação normal. Deixe claro para os personagens que Conflitos serão realmente problemáticos e podem resultar em coisas realmente sérias.
 
@@ -231,7 +231,7 @@ Ganchos para próximas aventuras:
 
 ### Henry McBaalian
 
-#### ___Cartilha:___ O Adulto
+#### ___Playsheet:___ O Adulto
 
 #### __Aspectos__
 
@@ -265,7 +265,7 @@ Ganchos para próximas aventuras:
 
 ### Richard McHog
 
-#### ___Cartilha:___ O Mandão
+#### ___Playsheet:___ O Mandão
 
 #### __Aspectos__
 

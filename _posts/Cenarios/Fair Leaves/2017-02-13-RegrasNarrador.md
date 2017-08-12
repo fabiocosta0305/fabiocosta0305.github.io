@@ -34,7 +34,7 @@ Uma opção é permitir que outra pessoa assuma uma Condição "cobrindo o rastr
 
 A Turma é mais do que cada um dos personagens: a Turma é um grupo social, talvez o primeiro que eles tenham escolhido _per se_, ainda que exista algum tipo de ponto em comum entre todos, como irem no mesmo lugar, seus pais se conhecerem, ou ainda serem todos vítimas do mesmo Valentão.
 
-Se o narrador quiser, existe a possibilidade de tratar a Turma dessa forma em termos mecânicos. Para isso, existe uma _Cartilha_ especial que vamos citar aqui, a _Cartilha_ da Turma.
+Se o narrador quiser, existe a possibilidade de tratar a Turma dessa forma em termos mecânicos. Para isso, existe uma _Playsheet_ especial que vamos citar aqui, a _Playsheet_ da Turma.
 
 Primeiro, existem três Perguntas que os jogadores deverão responder de comum acordo, que serão os dois primeiros Aspectos da Turma:
 
@@ -92,13 +92,13 @@ Procure lembrar-se que _Fair Leaves_ é sobre amizade, companheirismo e resolver
 
 Entretanto, se você souber como dar o tom ideal, o sobrenatural pode ser uma ótima forma de ganchos: tipo quando os personagens vão para a mansão mal-assombrada e descobrem que ela ___REALMENTE é mal-assombrada___.
 
-Uma forma interessante é tratar o sobrenatural como _algo que não existe, até existir_. Se você pretende usar alguma coisa nesse estilo, vá adicionando pequenos detalhes. De repente, você pode contar com novos detalhes, como criar algumas _Cartilhas_ de narrador como a do _Maginho, Feiticeirinho_ ou _Fantasminha Camarada_. 
+Uma forma interessante é tratar o sobrenatural como _algo que não existe, até existir_. Se você pretende usar alguma coisa nesse estilo, vá adicionando pequenos detalhes. De repente, você pode contar com novos detalhes, como criar algumas _Playsheets_ de narrador como a do _Maginho, Feiticeirinho_ ou _Fantasminha Camarada_. 
 
 Deixe também claro que a Turma pode ter descoberto um segredo que os demais habitantes de Fair Leaves não desejam conhecer ou desejam que fique em segredo. Procure então determinar como o segredo sobre o sobrenatural é visto pelos adultos: uma fantasia de criança? Algo corriqueiro, que apenas agora os personagens estão descobrindo? Ou talvez um mistério que alguns poucos conhecem...
 
 ## _Fair Leaves_ e formas não-humanas
 
-Fair Leaves não considera formas não-humanas, em especial antropomórficas, como algo determinante. Embora os personagens de exemplo nas _Cartilhas_ sejam animais antropomórficos, isso não é nem um pouco relevante.
+Fair Leaves não considera formas não-humanas, em especial antropomórficas, como algo determinante. Embora os personagens de exemplo nas _Playsheets_ sejam animais antropomórficos, isso não é nem um pouco relevante.
 
 Mas muitas dessas séries que são inspiração para Fair Leaves, em especial de Desenho Animado, possuem personagens com aparência antropomórfica. Nesse caso, é bem interessante que se decidam esses detalhes do personagem antes de começarem a criar os mesmos. 
 
