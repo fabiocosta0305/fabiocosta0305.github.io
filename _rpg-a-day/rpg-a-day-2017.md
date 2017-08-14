@@ -61,6 +61,49 @@ Eu acabo conseguindo resenhas de RPG via redes sociais. Isso facilita obter info
 
 Os "jogos mortos" que mais gostaria de ver renascidos são _Desafio dos Bandeirantes_ e _Era do Caos_. Além disso, seria muito legal se o RPG de Star Wars oficial voltasse a usar o sistema d6 da AEG.
 
+### 12. Qual RPG possui a arte interior mais inspiradora?
+
+Sem sombra de dúvidas, para mim é a de Castelo Falkenstein: ela te traga para o mundo vitoriano, ela mostra o tipo de ação fanfarrona se espera e faz com que você queira mais e mais! Exemplos? Veja abaixo!
+
+![Falkenstein, onde Magia, Ciência e Aço se encontram!](/assets/img/falken13.jpg)
+
+![Capturado pela Magia!](/assets/img/Capturado.png)
+
+![O Magista Illuminati e o Rei das Fadas!](/assets/img/morrolan_auberon.png)
+
+![Castelo Falkenstein](/assets/img/Castelo_Falkenstein.png)
+
+![Um mapa da Baviera](/assets/img/baviera.png)
+
+![O Adversário e suas Hostes!](/assets/img/Adversario_Hostes.png)
+
+![Thomas se apresenta diante de Verithrax Draconis para contar sua história](/assets/img/falkenstein21.png)
+
+![Um dia normal em Falkenstein](/assets/img/Zamek-Falkenstein-Galeria-01.jpg)
+
+![O Dragão e o Aerodirigível Bávaro](/assets/img/falkdrag.jpg)
+
+![A Caçada Selvagem](/assets/img/CacadaSelvagem.png)
+
+![Uma Fortaleza Anã](/assets/img/Fortaleza Ana.png)
+
+
+### 13. Descreva uma experiência durante um jogo que o fez mudar como você joga.
+
+Na realidade, vou descrever como três RPGs mudaram como eu via o jogo. 
+
+Originalmente, eu via o RPG de uma maneira meio tradicional, onde "valia tudo" e tal, e onde o que contava era basicamente o quão épico os personagens eram, subtendendo-se épico como _overpower_.
+
+Foi quando conheci três RPGs:
+
++ [___FUDGE___][fudge] me mostrou como funciona a lógica do _game design_, ao quebrar tudo em sistemas tradicionais e apresentar como reconstruir os mesmos para a sua experiência de jogo. Foi algo marcante para mim/
++ [___Castelo Falkenstein:___][falkenstein] me apresentou a possibilidade de criar uma experiência imersiva a pontos que nunca imaginei que seriam possíveis;
++ [___Changeling - O Sonhar, 1ª Edição:___][changeling] como às vezes por trás de uma aparência fofinha e bonitinha se esconde algo muito mais maduro que alguns cenários que se propõe maduros pelo excesso de violência e de sexualização, e sobre como às vezes, existem armadilhas por baixo de potenciais escolhas;
+
+### 14. Qual RPG você prefere para campanhas sem fim (ou final)?
+
+Acho que qualquer sistema funciona bem para isso, mas para mim, eu ficaria com Fate e Castelo Falkenstein.
+
 [1]: http://autocratik.blogspot.com.br/2017/07/rpgaday-2017-announcing-rpgaday-again.html
 [2]: https://fadingsunsbr.wordpress.com/2017/07/22/rpgaday-uma-pergunta-por-dia/
 [dcc-br]:http://newordereditora.com.br/categoria-produto/rpg/dcc-rpg/
@@ -75,3 +118,6 @@ Os "jogos mortos" que mais gostaria de ver renascidos são _Desafio dos Bandeira
 [ryuutama]: http://kotohi.com/ryuutama/
 [little-wizards]: https://www.crafty-games.com/buy-now/little-wizards/
 [dtl]: https://tatabletop.com/dungeon-tours-ltd/
+[fudge]: https://maisquatro.files.wordpress.com/2008/08/fudge-rediagramado.pdf
+[falkenstein]: http://www.retropunk.net/editora/castelo-falkenstein-esta-de-volta/
+[changeling]: http://whitewolf.wikia.com/wiki/Changeling:_The_Dreaming
