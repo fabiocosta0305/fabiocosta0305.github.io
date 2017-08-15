@@ -104,6 +104,10 @@ Foi quando conheci três RPGs:
 
 Acho que qualquer sistema funciona bem para isso, mas para mim, eu ficaria com Fate e Castelo Falkenstein.
 
+### 15. Qual RPG você gosta mais de adaptar?
+
+Bem, acho que o que eu uso como referência para tentativas de adaptação é _Harry Potter_. Quando ao sistema para o qual eu mais faço adaptações, sem sombra de dúvidas é _Fate_.
+
 [1]: http://autocratik.blogspot.com.br/2017/07/rpgaday-2017-announcing-rpgaday-again.html
 [2]: https://fadingsunsbr.wordpress.com/2017/07/22/rpgaday-uma-pergunta-por-dia/
 [dcc-br]:http://newordereditora.com.br/categoria-produto/rpg/dcc-rpg/
