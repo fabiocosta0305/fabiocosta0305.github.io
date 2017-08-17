@@ -112,6 +112,10 @@ Bem, acho que o que eu uso como referência para tentativas de adaptação é _H
 
 _Castelo Falkenstein_. Afinal de contas, dados são coisa da ralé, dos bôemios ou daquele desvairado do Napoleão II com seus modos desordeiros. :) Falando sério, o Falkenstein oferece do início ao fim uma experiência especial em narrativa: não é difícil imaginar uma aventura do _Grande Jogo_ em meio a chá, biscoitos e _scones_ em frente ao rio Tâmisa ou diante da _Residenz_ do Rei Luiz da Baviera...
 
+### 17. Qual RPG que você adquiriu a mais tempo e nunca jogou?
+
+Certeza: _Changeling: The Dreaming_ 1a. Edição. A única tentativa foi frustrante em níveis homéricos, com os jogadores dizendo "jogo de fadinha fofinha" o tempo todo, o que me levou a ter uma postura um tanto cínica quanto ao jogador de RPG típico.
+
 [1]: http://autocratik.blogspot.com.br/2017/07/rpgaday-2017-announcing-rpgaday-again.html
 [2]: https://fadingsunsbr.wordpress.com/2017/07/22/rpgaday-uma-pergunta-por-dia/
 [dcc-br]:http://newordereditora.com.br/categoria-produto/rpg/dcc-rpg/
