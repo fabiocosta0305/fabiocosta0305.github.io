@@ -51,15 +51,15 @@ Se você quiser, a jornada pode ser mais tranquila, ignorando eventos durante a 
 
 Mas se você quiser dar um pouco mais de textura à história, você sempre pode utilizar-se de um pouco de ação, provocando alguns combates no processo.
 
-Role 3dF: resultados não-positivos indicam um encontro dos personagens com alguma fera da região - crie uma ou então escolha uma no grid abaixo. 
+Role 3dF: resultados não-positivos indicam um encontro dos personagens com alguma fera da região - crie uma ou então escolha uma no _grid_ abaixo, lembrando que cada `+`{: .fate_font} leva uma coluna para direita e cada `-`{: .fate_font} uma linha para baixo. 
 
-|            |  __`0`__    | __`+`__ | __`++`__ | __`+++`__ | __`++++`__ |
+|            |  __`0`{: .fate_font}__    | __`+`{: .fate_font}__ | __`++`{: .fate_font}__ | __`+++`{: .fate_font}__ | __`++++`{: .fate_font}__ |
 |-----------:|:---------:|:----------:|:------------:|:-------------:|:-------------:|
-| __`0`__    | Tectauro Lanceiro | Povo Serpente | Tropa Avançada | Escravistas  |  Tecsauro |
-| __`+`__    | Salteadores | Beduínos de Obsidiana | Monges Mephitas | Salteadores | |
-| __`++`__   | Batalhão Mephita | Oradores dos Mortos | Loucos do Deserto  | |  | 
-| __`+++`__  | Escravistas | Povo Serpente | | |  | 
-| __`++++`__ | Kr'issh |  |  |  |  | 
+| __`0`{: .fate_font}__    | Tectauro Lanceiro | Povo Serpente | Tropa Avançada | Escravistas  |  Tecsauro |
+| __`-`{: .fate_font}__    | Salteadores | Beduínos de Obsidiana | Monges Mephitas | Salteadores | |
+| __`--`{: .fate_font}__   | Batalhão Mephita | Oradores dos Mortos | Loucos do Deserto  | |  | 
+| __`---`{: .fate_font}__  | Escravistas | Povo Serpente | | |  | 
+| __`----`{: .fate_font}__ | Kr'issh |  |  |  |  | 
 
 Os _Beduínos de Obsidiana_, os _Monges Mephita_ e os _Oradores dos Mortos_ não são perigosos _per se_, mas em um local perigosos como o Deserto de Obsidiana, eles ficarão ressabiados e preparados para atacar. Entretanto, se os personagens conseguirem conversar com os mesmos, eles com certeza poderão passar informações (úteis ou não) sobre a região, os Mestres e locais específicos de Umdaar. Pode ser uma ótima hora para ventilar informações que podem ser usadas em aventuras posteriores. Esses três grupos possuem em comum o fato de terem feito do Deserto de Obsidiana seu lar, e se os personagens forem espertos podem querer um ou dois desses grupos como batedores (um teste de _Criar Vantagem_).
 
@@ -194,15 +194,15 @@ Caso os personagens falhem, a explosão e os escombros apenas formarão ___Ponto
 
 Aqui é interessante que você toque a coisa bem rápida. Utilize um Aspecto de ___Tempo___, com cinco invocações gratuitas, mas essas serão as únicas que os personagens poderão usar para Invocar re-rolagens (demonstrando o gasto de Tempo). Se os personagens gastarem todas as invocações gratuitas, considere que já está acontecendo o Ataque ao Vale Verde (situação 1)
 
-Os personagens deverão passar por uma série de desafios: use o grid abaixo para tal.
+Os personagens deverão passar por uma série de desafios: use o _grid_ abaixo para tal. Role algumas vezes (5 ou 6, ou até que os personagens enfrentem alguma das criaturas mais perigosas, as que ficam no `0000`{: .fate_font}, `++++`{: .fate_font} e `----`{: .fate_font}), lembrando que cada `+`{: .fate_font} move uma coluna para a direita e cada `-`{: .fate_font} uma linha para baixo.
 
-|            |  __`0`__    | __`+`__ | __`++`__ | __`+++`__ | __`++++`__ |
+|            |  __`0`{: .fate_font}__    | __`+`{: .fate_font}__ | __`++`{: .fate_font}__ | __`+++`{: .fate_font}__ | __`++++`{: .fate_font}__ |
 |-----------:|:-----------------:|:-------------:|:--------------:|:-------------:|:-------------:|
-| __`0`__    | Tectauro Guardião | Cripto-tranca | Nada | Cripto-tranca | Chimera |
-| __`+`__    | Cripto-tranca | Abelhas de Metal | Abelhas de Metal | Cripto-tranca | |
-| __`++`__   | Nada | Abelhas de Metal | Nada | | |
-| __`+++`__  | Cripto-tranca | Cripto-tranca | | | | 
-| __`++++`__ | Grub | | | | |
+| __`0`{: .fate_font}__    | Tectauro Guardião | Cripto-tranca | Nada | Cripto-tranca | Chimera |
+| __`-`{: .fate_font}__    | Cripto-tranca | Abelhas de Metal | Abelhas de Metal | Cripto-tranca | |
+| __`--`{: .fate_font}__   | Nada | Abelhas de Metal | Nada | | |
+| __`---`{: .fate_font}__  | Cripto-tranca | Cripto-tranca | | | | 
+| __`----`{: .fate_font}__ | Grub | | | | |
 
 Caso tire a _Cripto-tranca_, isso significa que a sala seguinte (ou similar) está bloqueada por uma dessas chaves com _Cristais de comunicação_ atuando como porta. Será necessário descobrir a frase-chave que dá acesso à mesma. Normalmente, uma série de runas ao redor demonstra informações que podem ser analisadas para obter-se essa informação. Além disso, sempre existe a possibilidade de tentar remover o Cristal, mas uma falha no mesmo irá indicar que um sistema de segurança foi acionado, seja chamando outra criatura (role novamente no grid, ignorando resultados de _Cripto-tranca_ e _Nada_) ou cause um ataque de Gás Narcótico como indicado abaixo. A Cripto-tranca é baseada nas _Distrações_ e _Riscos_ de  _Fate Adversary Toolkit_. Use a _Oposição_ como dificuldade para os testes.
 
