@@ -116,6 +116,10 @@ _Castelo Falkenstein_. Afinal de contas, dados são coisa da ralé, dos bôemios
 
 Certeza: _Changeling: The Dreaming_ 1a. Edição. A única tentativa foi frustrante em níveis homéricos, com os jogadores dizendo "jogo de fadinha fofinha" o tempo todo, o que me levou a ter uma postura um tanto cínica quanto ao jogador de RPG típico.
 
+### 18. Qual RPG você jogou mais na sua vida?
+
+Bem, acredito que os RPGs que mais joguei foram 3D&T, Fudge e Fate. 
+
 [1]: http://autocratik.blogspot.com.br/2017/07/rpgaday-2017-announcing-rpgaday-again.html
 [2]: https://fadingsunsbr.wordpress.com/2017/07/22/rpgaday-uma-pergunta-por-dia/
 [dcc-br]:http://newordereditora.com.br/categoria-produto/rpg/dcc-rpg/
