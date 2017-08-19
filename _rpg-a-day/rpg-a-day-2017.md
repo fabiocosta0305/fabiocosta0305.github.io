@@ -120,6 +120,10 @@ Certeza: _Changeling: The Dreaming_ 1a. Edição. A única tentativa foi frustra
 
 Bem, acredito que os RPGs que mais joguei foram 3D&T, Fudge e Fate. 
 
+### 19. Quel RPG tem a melhor escrita?
+
+Fico aqui dividido entre _Castelo Falkenstein_ e _Do: Fate of the Flying Temple_, já que ambos conseguem tragar você pare os cenários em questão.
+
 [1]: http://autocratik.blogspot.com.br/2017/07/rpgaday-2017-announcing-rpgaday-again.html
 [2]: https://fadingsunsbr.wordpress.com/2017/07/22/rpgaday-uma-pergunta-por-dia/
 [dcc-br]:http://newordereditora.com.br/categoria-produto/rpg/dcc-rpg/
