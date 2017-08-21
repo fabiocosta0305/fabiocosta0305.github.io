@@ -124,6 +124,14 @@ Bem, acredito que os RPGs que mais joguei foram 3D&T, Fudge e Fate.
 
 Fico aqui dividido entre _Castelo Falkenstein_ e _Do: Fate of the Flying Temple_, já que ambos conseguem tragar você pare os cenários em questão.
 
+### 20. Onde fica o melhor lugar para se encontrar RPG fora de linha?
+
+Em sebos, inegavelmente... Você tem que ter paciência e gastar um tempo para fazer um garimpo, mas sempre acaba achando coisas interessantes, como eu consegui uma cópia de _Millenia_ e de _Demos Corporation_
+
+### 21. Qual RPG faz mais com menos palavras?
+
+Na minha opinião, Fate Acelerado, 3D&T e Black Hack são os que alcançam essa qualidade de fazer mais com menos palavras. Eles resumem muito bem seus sistemas sendo acessíveis e rápidos.
+
 [1]: http://autocratik.blogspot.com.br/2017/07/rpgaday-2017-announcing-rpgaday-again.html
 [2]: https://fadingsunsbr.wordpress.com/2017/07/22/rpgaday-uma-pergunta-por-dia/
 [dcc-br]:http://newordereditora.com.br/categoria-produto/rpg/dcc-rpg/
