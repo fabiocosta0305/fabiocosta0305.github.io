@@ -132,6 +132,10 @@ Em sebos, inegavelmente... Você tem que ter paciência e gastar um tempo para f
 
 Na minha opinião, Fate Acelerado, 3D&T e Black Hack são os que alcançam essa qualidade de fazer mais com menos palavras. Eles resumem muito bem seus sistemas sendo acessíveis e rápidos.
 
+### 22. Qual o RPG que me é mais fácil de tocar?
+
+Na prática é Fate: suas regras são polidas o bastante para serem rapidamente adaptadas para qualquer situação que eu precise, seja preparando com antecendência ou modificando de maneira emergencial, ainda mais quando se põe junto o Fate Fractal, que permite tratar elementos do cenário e da cena como personagens, o que facilita muito construir novos elementos sem precisar apelar-se para subsistemas que tornam as regras mais complexas.
+
 [1]: http://autocratik.blogspot.com.br/2017/07/rpgaday-2017-announcing-rpgaday-again.html
 [2]: https://fadingsunsbr.wordpress.com/2017/07/22/rpgaday-uma-pergunta-por-dia/
 [dcc-br]:http://newordereditora.com.br/categoria-produto/rpg/dcc-rpg/
