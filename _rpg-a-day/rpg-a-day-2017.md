@@ -136,6 +136,10 @@ Na minha opinião, Fate Acelerado, 3D&T e Black Hack são os que alcançam essa 
 
 Na prática é Fate: suas regras são polidas o bastante para serem rapidamente adaptadas para qualquer situação que eu precise, seja preparando com antecendência ou modificando de maneira emergencial, ainda mais quando se põe junto o Fate Fractal, que permite tratar elementos do cenário e da cena como personagens, o que facilita muito construir novos elementos sem precisar apelar-se para subsistemas que tornam as regras mais complexas.
 
+### 23. Qual RPG possui o layout mais impressionante?
+
+Honestamente... _Castelo Falkenstein_, mas a versão física e clássica, a primeira edição: arte primorosa, aquarelada, com design lembrando livros vitorianos, fontes adequadas, estilo de artes fantástico, a parte de regras em papel sépia, remetendo ao período, diálogos e blocos de texto interessantes, imagens como se fossem os _handouts_ existentes em livros vitorianos... Simplesmente primoroso. Como uma menção honrosa, colocaria também _Changeling: The Dreaming_, 1ª Edição: uma grande quantidade de estilos de arte remetendo a diversos estilos de fantasia, desde as artes ao estilo infantil a coisas que remetem Sandman ou mesmo os Mitos de Cthulhu e até mesmo a Bíblias de Tijuana (!!!!), e claro as artes icônicas de Toni DiTerlizzi em especial para o grupo da Toybox, como as de Leigh, Tor e Rasputin.
+
 [1]: http://autocratik.blogspot.com.br/2017/07/rpgaday-2017-announcing-rpgaday-again.html
 [2]: https://fadingsunsbr.wordpress.com/2017/07/22/rpgaday-uma-pergunta-por-dia/
 [dcc-br]:http://newordereditora.com.br/categoria-produto/rpg/dcc-rpg/
