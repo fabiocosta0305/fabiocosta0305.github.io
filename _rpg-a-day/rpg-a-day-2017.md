@@ -146,7 +146,7 @@ Sem sombra de dúvidas é a _Evil Hat_: eles publicaram o Fate Básico, o Aceler
 
 ### 25. Qual é a melhor maneira de agradecer seu Mestre?
 
-Sendo um cara bacana em mesa em todos os sentidos, desde ajudando no rateio da pizza e colaborando com novos livros e suplementos para o grupo até sendo inclusivo e aprendendo com seus erros, tanto como jogador quanto como pessoa.
+Sendo um cara bacana em mesa em todos os sentidos, desde ajudando no rateio da pizza e colaborando com novos livros e suplementos para o grupo até sendo inclusivo e aprendendo com seus erros, tanto como jogador quanto como pessoa. 
 
 [1]: http://autocratik.blogspot.com.br/2017/07/rpgaday-2017-announcing-rpgaday-again.html
 [2]: https://fadingsunsbr.wordpress.com/2017/07/22/rpgaday-uma-pergunta-por-dia/
