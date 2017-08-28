@@ -148,6 +148,22 @@ Sem sombra de dúvidas é a _Evil Hat_: eles publicaram o Fate Básico, o Aceler
 
 Sendo um cara bacana em mesa em todos os sentidos, desde ajudando no rateio da pizza e colaborando com novos livros e suplementos para o grupo até sendo inclusivo e aprendendo com seus erros, tanto como jogador quanto como pessoa. 
 
+### 26. Qual RPG disponibiliza os recursos mais úteis?
+
+Depende do que você considera útil...
+
+No caso de regras, gosto muito do Fate, quando somado com os _World of Adventure_ e com as _Ferramentas de Sistemas_. Acredito que ele ofereça regras que podem ser combinadas e modificadas à vontade, conforme sua necessidade.
+
+No caso de cenário, acho que _Castelo Falkenstein_ é quem oferece mais, já que ele não procura apenas oferecer novas regras, mas elementos de narrativa, de cenário e até mesmo entendimento de como detalhes de cenários podem tornar tudo mais interessante. Sugiro inclusive a leitura de _Comme Il Faut_, que seria o _Guia do Jogador_ de Castelo Falkenstein, onde muitos detalhes da sociedade vitoriana são desvendados.
+
+### 27. Quais as ferramentas essenciais para um bom jogo?
+
+Acima de qualquer coisa, _IMAGINAÇÃO_. Sem isso, RPG não é RPG.
+
+### 28. Qual o jogo mais antigo que você jogou ou ainda joga?
+
+Como não achava opção para a pergunta do dia, _Qual filme/série é a maior fonte de citações do seu grupo?_, resolvi buscar uma das [Questões alternativas (em inglês)](https://castingshadowsblog.com/2017/07/30/rpgaday-2017-alternate-questions/). O RPG mais antigo que lembro ter jogado, curiosamente não foi Dungeons & Dragons, mas sim o _RPG Aventuras Fantásticas_ da Martins Fontes, a versão brasileira do _Fighting Fantasy_ britânico, pelo outro _Steve Jackson_ e por _Ian Livingstone_.
+
 [1]: http://autocratik.blogspot.com.br/2017/07/rpgaday-2017-announcing-rpgaday-again.html
 [2]: https://fadingsunsbr.wordpress.com/2017/07/22/rpgaday-uma-pergunta-por-dia/
 [dcc-br]:http://newordereditora.com.br/categoria-produto/rpg/dcc-rpg/
