@@ -164,6 +164,10 @@ Acima de qualquer coisa, _IMAGINAÇÃO_. Sem isso, RPG não é RPG.
 
 Como não achava opção para a pergunta do dia, _Qual filme/série é a maior fonte de citações do seu grupo?_, resolvi buscar uma das [Questões alternativas (em inglês)](https://castingshadowsblog.com/2017/07/30/rpgaday-2017-alternate-questions/). O RPG mais antigo que lembro ter jogado, curiosamente não foi Dungeons & Dragons, mas sim o _RPG Aventuras Fantásticas_ da Martins Fontes, a versão brasileira do _Fighting Fantasy_ britânico, pelo outro _Steve Jackson_ e por _Ian Livingstone_.
 
+### 29. Qual foi o melhor RPG que você financiou no Kickstarter/Catarse?
+
+Ponto pacífico, foi a versão brasileira do Fate. Lá fora, foi o RPG de Super-Heróis baseado em Fate _Wearing the Cape_, do qual fui _playtester_
+
 [1]: http://autocratik.blogspot.com.br/2017/07/rpgaday-2017-announcing-rpgaday-again.html
 [2]: https://fadingsunsbr.wordpress.com/2017/07/22/rpgaday-uma-pergunta-por-dia/
 [dcc-br]:http://newordereditora.com.br/categoria-produto/rpg/dcc-rpg/
