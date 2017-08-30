@@ -168,6 +168,10 @@ Como não achava opção para a pergunta do dia, _Qual filme/série é a maior f
 
 Ponto pacífico, foi a versão brasileira do Fate. Lá fora, foi o RPG de Super-Heróis baseado em Fate _Wearing the Cape_, do qual fui _playtester_
 
+### 30. Qual mistura de gêneros de RPG’s que você gostaria de ver?
+
+Na boa... Espero que cada vez mais as pessoas explorem tanto os _"E se"_ quanto às possibilidades de misturas como, por exemplo, _Eagle Eyes_ (Roma + _Noir_), _Nitrate City_ (_Noir_ + Sobrenatural + Hollywood). E na prática ainda quero um RPG de _Hayoire! Nyaruko-San_ (Mitos de Cthulhu + Moe + Nerdices + Pé-de-Cabra do Gordon Freeman... _HALF-LIFE 3 CONFIRMADO!!!!_)
+
 [1]: http://autocratik.blogspot.com.br/2017/07/rpgaday-2017-announcing-rpgaday-again.html
 [2]: https://fadingsunsbr.wordpress.com/2017/07/22/rpgaday-uma-pergunta-por-dia/
 [dcc-br]:http://newordereditora.com.br/categoria-produto/rpg/dcc-rpg/
