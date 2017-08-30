@@ -70,3 +70,14 @@ Por fim, seria interessante que cada personagem adicionasse um _Aspecto da Turma
 >
 > Com isso, temos a Ficha das Turma pronta.
 
+Os ___Aspectos da Turma___, ou seja, os Aspectos qu estão na Cartilha da Turma, podem ser usados por qualquer um dos personagens da Turma. Por exemplo, se William precisa de proteção contra os valentões de Kristoff Dobermann, ele pode usar o fato de _Buster é o melhor cão perdigueiro da região!_ para trazer o velho Buster para dar um susto nos valentões e com isso fazer eles fugirem de medo.
+
+Entretanto, os ___Aspectos da Turma___ também podem atuar contra a turma, tanto via Invocações Hostis quanto via Forçadas. Por exemplo: se todos sabem que _O Carroção perto do Moinho é nossa Base Secreta_, é lógico que os valentões de Kristoff Dobermann podem saber também, e estarem esperando a Turma lá quando todos estiverem achando que escaparam. E sempre tem a possibilidade de precisarem resgatar _Buster_ que resolveu fugir por algum motivo qualquer, justo quando tme aquela tarefa difícil para entregar ao senhor Goatzeit.
+
+No caso de Invocações Hostis ou Forçadas, cada personagem da Turma recebe um Ponto de Destino se todos aceitarem a Forçada. Entretanto, para negar o uso, TODOS devem pagar 1 Ponto de Destino CADA!
+
+> ### ___Regra Opcional:___ Assumindo sozinho a bronca
+>  
+> Quando um dos Aspectos de Turma for Forçado, um dos personagens pode _Assumir Sozinho a Bronca_. Para isso, ele deverá marcar uma Condição apropriada E pagar um Ponto de Destino. Além disso, o resto da Turma não recebem Pontos de Destino: afinal de contas, eles não estão sofrendo os efeitos da mesma
+> 
+> ___Exemplo:___ _Buster, o melhor cão perdigueiro da região!_ resolveu fugir da Turma por algum motivo qualquer. Mas a Turma não pode ir toda atrás do Buster pois precisam preparar um projeto para a Feira de Ciências da Escola. No caso, Sara decide _Assumir sozinha a Bronca_, já que ela é a que em teoria tem menos a contribuir no trabalho. Sara opta por Pagar o Ponto de Destino pela Turma e marcar sua Condição ___Cansado___, descrevendo como Sara vai até quase no limite entre Fair Leaves e Great Willows, perto do Monte Safira para buscar Buster, que apenas estava passeando um pouco por conta (_cachorro malvado!_) e volta completamente cansada enquanto o resto da Turma prepara o trabalho para a Feira de Ciências... Sorte que William já deixou pronto o saco de dormir para que Sara tire um cochilo...
