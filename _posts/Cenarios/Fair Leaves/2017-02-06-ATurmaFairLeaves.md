@@ -41,4 +41,43 @@ _Aspectos da Turma_ podem representar:
 	+ _A Doceria da Senhora Hecket é um bom lugar para ficar!_
 	+ _O Velho Carroção perto da propriedade McBaalian é nossa base secreta!_
 
+## A Cartilha da Turma
 
+Como uma Regra Opcional, mas muito aconselhável, a Turma deveria ser descrita em uma Cartilha própria, ainda que a mesma seja mais uma lista de Aspectos que ligam os personagens.
+
+Primeiramente, os jogadores devem definir _O que uniu a Turma?_ Em que condições a Turma começou a andar junta. Essa primeira condição pode oferecer coisas interessantes sobre o passado dos personagens, como o fato de ___Os nossos pais se conhecem e trabalham juntos___ ou mesmo falar de coisas sobre o presente, como ___Todo mundo odeia Richard McHog___.
+
+Em seguida, os jogadores devem dizer _O que mantem a Turma Unida?_ Se o Aspecto anterior dizia o que uniu os personagens, eese diz o que os mantem unidos. Pode ser desde ___A gente realmente se gosta demais___ até mesmo ___Devemos nos proteger contra os valentões___.
+
+Depois, defina um _Santuário_ para a turma, um ponto de encontro onde eles ficam muito à vontade, mais do que em qualquer lugar. Esse local pode ser qualquer um, como ___O Quarto de William e Sara___, ___O Carroção perto do Lago Donahue___, ou até mesmo ___A Mansão Mal-Assombrada Bieberaus___
+
+Por fim, seria interessante que cada personagem adicionasse um _Aspecto da Turma_, como dito anteriormente, de modo a agregar mais coisas ao cenário.
+
+> ___Exemplo:___ Leandro terminou de criar seu personagem, Simeon, e ele vai jogar com Samantha (jogando como o Certinho William Shepard), Luis (a Travessa Sara Shepard), e Danielle (a Geninha Sally Saintbern). Para ter uma noção do que os personagens desejam, o narrador Sergio puxa uma Cartilha da Turma e decide que ele quer colocar algumas coisas no lugar antes de tudo começar.
+>
+> _Primeiramente, ele pergunta aos jogadores_ O que uniu a Turma? _Luis decide que eles se uniram quando William e Sara chegaram da Cidade Grande, possivelmente para além de Great Willows, a maior cidade da Região, e precisaram se enturmar quando passaram a estudar na Escola do Sr. Goatzeit. No caso, Simeon e Sally foram as pessoas que se aproximaram dos irmãos ovelha e decidiram se manter unidos. No caso, **Sara e William precisavam de amigos** pode ser o Aspecto para essa pergunta._
+>
+> _Em seguida, ele pergunta_ O que mantem a Turma Unida? _A resposta deles é meio automática, já que **Todos odeiam Richard McHog e seus capangas**, o que faz com que eles permaneçam em conjunto evitando os problemas que os mesmos trazem._
+>
+> _Por fim, ele pede que os personagens definam o_ Santuário _da Turma, o local onde todos ficam muito à vontade e podem passar muito tempo, além de ser onde os mesmos guardam todo o tipo de cacareco interessante. Danielle pergunta se poderiam ter alguma coisa meio antiga, que todos pudessem ver, mas que apenas a Turma utilizaria (ou assim eles pensam). Sergio decide que existe um velho Carroção, da época da Corrida do Ouro, que ficou abandonado próximo à Caverna do Urso Malhado, do velho Moinho McBaalian, perto do Lago Donahue que fica um pouco além da cidade, já na zona rural de Fair Leaves. Eles acham legal, e concordam que o Santuário da Turma seja **O Velho Carroção perto do Lago Donahue**_
+>
+> _Agora, Sergio pede que cada um dos personagens crie um_ Aspecto da Turma _para melhorar a descrição da Turma._
+>
+> + _Leandro decide que Simeon cria, junto com a Turma, **Buster, o melhor Cão Perdigueiro da Região**, um cachorro que acompanha a Turma para cima e para baixo e ajuda os personagens sempre que pode. Buster aparenta ser meio largado, mas é um cachorro bem mais esperto do que aparenta_
+> + _Samantha diz que William sempre se envolve, junto com a Turma, no **Circo Comunitário e Brigada de Palhaços dos Cavaleiros da Diversão**, mantido pela Associação Cultural de Fair Leaves, que é comandada pelo velho Sylvester "Silly Silver" Sälvalner, um antigo palhaço de circo que se estabeleceu em Fair Leaves quando ficou mais velho. Esse Circo Comunitário apresenta-se regularmente em desfiles cívicos e eventos da cidade, inclusive na Feira Agrícola, e William adora as apresentações, por achar as mesmas muito divertdas, ainda mais quando ele participa com truques de mágicas e esquetes engraçadas junto com a turma._
+> + _Luis decide que Sara pensa que **O Senhor Goatzeit poderia parar de pegar no pé deles**. Não que eles sejam exatamente problemáticos, mas Sara é o típico espírito livre que acha que sabe mais do qua a maioria (o que não é verdade), e isso acaba colocando a Turma em confusão._
+> + _Por fim, Sally gosta muito dos **Instrumentos musicais do seu avô**, que ela cuida bem e deixa no Carroção para tanto ela quanto a Turma os utilizar. Essa é uma das poucas "coisas de Menina" que Sally gosta de fazer, e ela é muito boa, sempre se apresentando quando pedido._
+>
+> Com isso, temos a Ficha das Turma pronta.
+
+Os ___Aspectos da Turma___, ou seja, os Aspectos qu estão na Cartilha da Turma, podem ser usados por qualquer um dos personagens da Turma. Por exemplo, se William precisa de proteção contra os valentões de Kristoff Dobermann, ele pode usar o fato de _Buster é o melhor cão perdigueiro da região!_ para trazer o velho Buster para dar um susto nos valentões e com isso fazer eles fugirem de medo.
+
+Entretanto, os ___Aspectos da Turma___ também podem atuar contra a turma, tanto via Invocações Hostis quanto via Forçadas. Por exemplo: se todos sabem que _O Carroção perto do Moinho é nossa Base Secreta_, é lógico que os valentões de Kristoff Dobermann podem saber também, e estarem esperando a Turma lá quando todos estiverem achando que escaparam. E sempre tem a possibilidade de precisarem resgatar _Buster_ que resolveu fugir por algum motivo qualquer, justo quando tme aquela tarefa difícil para entregar ao senhor Goatzeit.
+
+No caso de Invocações Hostis ou Forçadas, cada personagem da Turma recebe um Ponto de Destino se todos aceitarem a Forçada. Entretanto, para negar o uso, TODOS devem pagar 1 Ponto de Destino CADA!
+
+> ### ___Regra Opcional:___ Assumindo sozinho a bronca
+>  
+> Quando um dos Aspectos de Turma for Forçado, um dos personagens pode _Assumir Sozinho a Bronca_. Para isso, ele deverá marcar uma Condição apropriada E pagar um Ponto de Destino. Além disso, o resto da Turma não recebem Pontos de Destino: afinal de contas, eles não estão sofrendo os efeitos da mesma
+> 
+> ___Exemplo:___ _Buster, o melhor cão perdigueiro da região!_ resolveu fugir da Turma por algum motivo qualquer. Mas a Turma não pode ir toda atrás do Buster pois precisam preparar um projeto para a Feira de Ciências da Escola. No caso, Sara decide _Assumir sozinha a Bronca_, já que ela é a que em teoria tem menos a contribuir no trabalho. Sara opta por Pagar o Ponto de Destino pela Turma e marcar sua Condição ___Cansado___, descrevendo como Sara vai até quase no limite entre Fair Leaves e Great Willows, perto do Monte Safira para buscar Buster, que apenas estava passeando um pouco por conta (_cachorro malvado!_) e volta completamente cansada enquanto o resto da Turma prepara o trabalho para a Feira de Ciências... Sorte que William já deixou pronto o saco de dormir para que Sara tire um cochilo...

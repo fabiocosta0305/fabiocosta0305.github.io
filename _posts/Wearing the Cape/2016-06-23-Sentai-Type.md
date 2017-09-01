@@ -5,7 +5,7 @@ layout: post
 categories:
   - wtc
 tags:
- - Wearing the Cape (Playtest)
+ - Wearing the Cape
 header: no
 ---
 

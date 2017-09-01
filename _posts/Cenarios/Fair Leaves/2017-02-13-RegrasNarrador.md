@@ -30,39 +30,6 @@ Uma opção é permitir que outra pessoa assuma uma Condição "cobrindo o rastr
 
 > ___Exemplo:__ a Turma está procurando alguma forma de ajudar Sally, que está de castigo, a não perder o concurso de soletrar para o qual ela tanto se preparou. Então, todos procuram ajudar a engabelar os pais de Sally... E então Simeon tenta utilizar sua Abordagem Fofa para tentar convencer os pais de Sally que ela não queria ser má. Entretanto, o rolamento foi um tenebroso_ `----`{: .fate_font}, _o que não dá nem chance de usar Pontos de Destino. Além disso, ele não possui Condições adequadas para marcar em um Sucesso a Custo. É Willian quem vem ao socorro, quando marca sua Condição __Chateado__, descrevendo como ele ficou bravo por ter que ajudar Simeon nesse tipo de trapaça. Obviamente, a viagem para Great Willows vai ser um tanto mais chata agora que William vira a cara toda vez que Simeon tenta chegar perto para se reaproximar... Talvez William esteja melhor quando todos tomarem um bom_ milkshake _em uma lanchonete em Great Willows, colocando a cabeça no lugar._
 
-## _Regra Opcional:_ Aspectos da Turma
-
-A Turma é mais do que cada um dos personagens: a Turma é um grupo social, talvez o primeiro que eles tenham escolhido _per se_, ainda que exista algum tipo de ponto em comum entre todos, como irem no mesmo lugar, seus pais se conhecerem, ou ainda serem todos vítimas do mesmo Valentão.
-
-Se o narrador quiser, existe a possibilidade de tratar a Turma dessa forma em termos mecânicos. Para isso, existe uma _Playsheet_ especial que vamos citar aqui, a _Playsheet_ da Turma.
-
-Primeiro, existem três Perguntas que os jogadores deverão responder de comum acordo, que serão os dois primeiros Aspectos da Turma:
-
-+ ___Por que vocês estão todos juntos?___
-+ ___O que vocês mais valorizam nesse mundo?___
-+ ___O que, não importa o que aconteça vocês jamais fariam?___
-
-Em seguida, cada jogador inclui um Aspecto que provejam detalhes sobre a Turma. Esses detalhes podem ser coisas como:
-
-+ Locais onde os personagens gostem de ficar ou evitem
-	+ _O Carroção perto do Moinho é nossa Base Secreta; O Depósito do senhor Duncee parece assustador_
-+ Pessoas que eles tenham contato, para o bem ou para o mal
-	+ _O Senhor Saintbern é um grande amigo; O Senhor Goatzeit não sabe brincar; Richard McHog é um peste!_
-+ Animais de Estimação criados pela Turma como um todo e coisas que a Turma dividam entre si
-	+ _Adoramos livros!; A velha bola de baseball ainda dá diversão; Buster, o melhor cão perdigueiro da região!_
-
-Esses ___Aspectos da Turma___ podem ser usados por qualquer um dos personagens da Turma. Por exemplo, se William precisa de proteção contra os valentões de Kristoff Dobermann, ele pode usar o fato de _Buster é o melhor cão perdigueiro da região!_ para trazer o velho Buster para dar um susto nos valentões e com isso fazer eles fugirem de medo.
-
-Entretanto, os ___Aspectos da Turma___ também podem atuar contra a turma, tanto via Invocações Hostis quanto via Forçadas. Por exemplo: se todos sabem que _O Carroção perto do Moinho é nossa Base Secreta_, é lógico que os valentões de Kristoff Dobermann podem saber também, e estarem esperando a Turma lá quando todos estiverem achando que escaparam. E sempre tem a possibilidade de precisarem resgatar _Buster_ que resolveu fugir por algum motivo qualquer, justo quando tme aquela tarefa difícil para entregar ao senhor Goatzeit.
-
-No caso de Invocações Hostis ou Forçadas, cada personagem da Turma recebe um Ponto de Destino se todos aceitarem a Forçada. Entretanto, para negar o uso, TODOS devem pagar 1 Ponto de Destino CADA!
-
-> ### ___Regra Opcional:___ Assumindo sozinho a bronca
->  
-> Quando um dos Aspectos de Turma for Forçado, um dos personagens pode _Assumir Sozinho a Bronca_. Para isso, ele deverá marcar uma Condição apropriada E pagar um Ponto de Destino. Além disso, o resto da Turma não recebem Pontos de Destino: afinal de contas, eles não estão sofrendo os efeitos da mesma
-> 
-> ___Exemplo:___ _Buster, o melhor cão perdigueiro da região!_ resolveu fugir da Turma por algum motivo qualquer. Mas a Turma não pode ir toda atrás do Buster pois precisam preparar um projeto para a Feira de Ciências da Escola. No caso, Sara decide _Assumir sozinha a Bronca_, já que ela é a que em teoria tem menos a contribuir no trabalho. Sara opta por Pagar o Ponto de Destino pela Turma e marcar sua Condição ___Cansado___, descrevendo como Sara vai até quase no limite entre Fair Leaves e Great Willows, perto do Monte Safira para buscar Buster, que apenas estava passeando um pouco por conta (_cachorro malvado!_) e volta completamente cansada enquanto o resto da Turma prepara o trabalho para a Feira de Ciências... Sorte que William já deixou pronto o saco de dormir para que Sara tire um cochilo...
-
 ## Como lidar com Armas e Violência em Fair Leaves
 
 Fair Leaves tem um foco o mais avesso possível à violência. O objetivo é deixar claro que ___personagens que usem de violência sempre, SEMPRE se dão mal___. 
@@ -92,7 +59,7 @@ Procure lembrar-se que _Fair Leaves_ é sobre amizade, companheirismo e resolver
 
 Entretanto, se você souber como dar o tom ideal, o sobrenatural pode ser uma ótima forma de ganchos: tipo quando os personagens vão para a mansão mal-assombrada e descobrem que ela ___REALMENTE é mal-assombrada___.
 
-Uma forma interessante é tratar o sobrenatural como _algo que não existe, até existir_. Se você pretende usar alguma coisa nesse estilo, vá adicionando pequenos detalhes. De repente, você pode contar com novos detalhes, como criar algumas _Playsheets_ de narrador como a do _Maginho, Feiticeirinho_ ou _Fantasminha Camarada_. 
+Uma forma interessante é tratar o sobrenatural como _algo que não existe, até existir_. Se você pretende usar alguma coisa nesse estilo, vá adicionando pequenos detalhes. De repente, você pode contar com novos detalhes, como criar algumas _Cartilhas_ de narrador como a do _Maguinho, Monstrinho_ ou _Fantasminha_. 
 
 Deixe também claro que a Turma pode ter descoberto um segredo que os demais habitantes de Fair Leaves não desejam conhecer ou desejam que fique em segredo. Procure então determinar como o segredo sobre o sobrenatural é visto pelos adultos: uma fantasia de criança? Algo corriqueiro, que apenas agora os personagens estão descobrindo? Ou talvez um mistério que alguns poucos conhecem...
 
@@ -154,3 +121,92 @@ Por fim, defina as ___Condições Aplicáveis___, ou seja, quais são as Condiç
 > + __Derrota Total:__ Os personagens terão que garantir algum dinheiro em 24 horas, ou a _Hipoteca_ será executada, e os _Hedginger_ perderão a fazenda e terão que abandonar Fair Leaves!
 > + ___Condições:___ Cansado, Com Fome/Com Sede, Chateado, Bravo
 
+## Alguns princípios de _Fair Leaves_
+
+Para o Narrador que não tem uma noção de como narrar _Fair Leaves_, vamos utilizar a ideia dos _Princípios_ de sistemas _Powered by The Apocalypse_. Os Príncipios não são regras _per se_, mas dicas sobre como lidar com os personagens e como conduzir uma Campanha de Fair Leaves.
+
+Alguns dos princípios já foram mencionados por alto em outras sessões desse livro, mas aqui vamos consolidar os mesmos e falar sobre o que você deve levar em conta durante suas aventuras em Fair Leaves.
+
+### A Turma é o foco
+
+Aconteça o que acontecer, inclua o que incluir, a parte mais importante parte de Fair Leaves é a Turma. Tudo tem que ser pensado com a Turma em foco, e contado pelos olhos da Turma. 
+
+Isso implica em sempre estar atento aos Aspectos da mesma, as interações, tudo, deve focar na Turma como um todo. Sempre envolva os personagens. Se você tem um _Geninho_, dê a ele momentos onde ele demonstre toda a sua inteligência. Se tiver um _Curioso_, coloque-o em encrencas ao ser tão curioso e assim por diante.
+
+### Pequena mas vibrante
+
+Fair Leaves não é uma cidade grande. Para isso, você tem _Great Willows_. Mas o que Fair Leaves tem de pequena, ela tem de interessante. Apesar de descrita como bucólica, isso não quer dizer que ela seja assim: na realidade, a todo momento coisas interessantes, ainda que não explosivas estão acontecendo. 
+
+O padeiro está criando um novo bolo. O Sr. Goatzeit está repreendendo alguns valentões. A Srta. Heckett está modificando receitas tradicionais. Colheitas surgem e pessoas descem na estação de trem. Um carro estranho passa pela cidade vindo de Great Willows para Katchalow. Boatos surgem sobre um tesouro perdido na caverna atrás da Cachoeira do Urso Malhado. 
+
+Enfim, sempre tem alguma coisa acontecendo, e essa coisa sempre terá algo para chamar a atenção da Turma.
+
+### Tudo é novo e interessante!
+
+Como uma enfase do princípio anterior, lembre-se que a Turma são crianças: ainda que possam ser um pouco mais velhas que criancinhas, eles ainda não conhecem todas as histórias de Fair Leaves. Na realidade, elas podem nem sequer conhecer tudo sobre a história ___oficial___ de Fair Leaves, quanto mais lendas urbanas, tradições, folclore e informações escondidas. 
+
+Pode ser que eles ouçam alguma história de terror sendo sussurada pelos adultos em relação ao Moinho McBaalian, ou à Velha Mansão Bieberaus que está caindo aos pedaços e ninguém, exceto os mais corajosos ou malucos, passa mais que uma noite na mesma. Ou talvez alguns acreditem que fadas possam existir na Floresta do Casebre (_"esses irlandeses: deixe-os beber e verão fadas em todos os lugares"_").
+
+Além disso, o mundo segue e novidades chegam: cada nova tecnologia, história, evento, música, filme, viajante, enfim... Tudo pode ser uma fonte de novidades e diversão para a Turma.
+
+### Tudo o que acontece pode ter uma razão
+
+Por mais que a Turma seja o foco, as coisas não necessariamente acontecem por causa da mesma, mas seja como for, tudo tem uma razão de ser e de acontecer. Se o Curioso avistar um garoto castor, em roupas antiquadas e meio translúcido, existe um motivo. Se ele perceber que existem luzes estranhas quando um velho senhor passa por eles, existe um motivo. Se ele vê alguns homens estranhos confabulando perto do banco, existe um motivo.
+
+Nada em Fair Leaves acontece _por acaso_. Por acaso não é algo que defina o que acontece em Fair Leaves de maneira alguma. Sempre que algo acontece, é porque tem uma razão, mesmo que ela seja algo como Destino ou Karma. Ao envolver a Turma, você já tem a implicação de que o que quer que aconteça, está acontecendo por algum motivo, mesmo que ele seja simplesmente o envolvimento da Turma.
+
+### Fair Leaves é atemporal e em qualquer lugar
+
+Fair Leaves foi pensada nos moldes da _Green Meadows_ de _Nossa Turma_ (The Get Along Gang). Mas isso não implica em ela ser uma representação de algo dos anos 80, que foi quando _Nossa Turma_ foi criado. E nem mesmo precisa ser nos Estados Unidos.
+
+Pode ser que você queira usar a vila de Tara, de _Jakers! As aventuras de Piggley Winks_. Ou mesmo no _Sítio do Picapau Amarelo_. Ou em uma pequena vila japonesa chamada _Yamazakura_, que fica em uma montanha cheia de tradições Youkai, mas com acesso ao _Shinkansen_, o trem-bala japonês.
+
+Por outro lado, qualquer citação a coisas tecnológicas não tira o ar bucólico de Fair Leaves (ou de onde quer que você queira que seja  ___A SUA___ Fair Leaves). Ter acesso a tecnologias (e até mesmo _CONSTRUÍ-LAS_) não é a parte mais importante de Fair Leaves. Fair Leaves é sobre o crescimento da Turma, é sobre a Turma, então qualquer outra coisa, ainda que não deva pura e simplesmente ser relegada a segundo plano, deve ser enfatizada apenas conforme a Turma esteja envolvida. 
+
+De resto, Fair Leaves é atemporal, não antiquada. _As coisas mudam, mas sempre são as mesmas_, isso vale muito para Fair Leaves: você sempre terá professores, valentões, pais e mães, lendas, mitos, doceiras, Florestas, Cavernas, casas e coisas para explorar, e Fair Leaves tem tudo a ver com isso.
+
+### Explorações são sempre legais
+
+Fair Leaves é sobre crescimento, e cresce-se explorando o mundo, e vendo que o mesmo é maior que você.
+
+Já diria o famoso filósofo _Calvin_: há tesouros em todos os lugares. Todo dia é dia e toda hora é hora de se aprender e se explorar, e os personagens sempre devem ter algo interessante para fazer.
+
+Perceba que interessante pode significar qualquer coisa: ver plantas crescerem, aprender a fazer queijo, colher maçãs, ajudar a consertar um carro, fingir construir um foguete para a Lua (ou realmente construir!), costurar fantasias para o Halloween, atuar em uma peça de teatro... Enfim, qualquer coisa.
+
+Pode parecer não muito aventureiro, mas a "mágica" de Fair Leaves é essa: _Tudo é novo e interessante!_ As aulas de teatro podem ser dadas por uma famosa atriz aposentada, ao ajudar a consertar um carro eles podem estar ajudando um prisioneiro procurado a fugir, ao aprender a fazer queijo eles podem descobrir sobre a saborosa culinária de fora de Fair Leaves... Enfim, tudo é interessante e relevante de alguma forma.
+
+### Tudo pode ser feito...
+
+Isso é importante: deixe a Turma agir a vontade. Eles podem fazer qualquer coisas, inclusive coisas que crianças normais não deveriam fazer. Não tente impedir, mas sim aproveite a deixa: lembre-se dos princípios que estão aqui. Tudo é interessante, inclusive as decisões dos personagens. Desloque situações, pense em alternativas, improvise e use todos os recursos para manter as coisas interessantes e a idéia de que eles podem fazer o que quiser.
+
+### ...mas tudo tem consequências
+
+Por outro lado... Nunca deixe os personagens sairem sem resultado nenhum baseado em suas decisões. 
+
+Boas ações devem atrair recompensas, mesmo que elas não sejam imediatas. Ao mesmo tempo, má ações devem ter consequências, mesmo que elas também não sejam imediatas. Deixe claro isso, que aconteça o que acontecer as coisas vão sempre ter consequências positivas ou negativas, dependendo das ações ou inações dos mesmos. Isso mantem as coisas vivas e interessantes.
+
+Deixe de ajudar na colheita de maçãs, e seu melhor amigo pode ter que ir embora de Fair Leaves.
+
+Ajude no conserto do carro e descubra uma pessoa que conhece muto de algo que lhe interesse.
+
+Participe de uma peça de teatro e descubra mais sobre a história dos Quatro Fundadores.
+
+Enfim, tudo o que os personagens fizerem ou deixarem de fazer trarão consequências.
+
+### Envolva os personagens
+
+Isso é uma forma de "segunda versão" do princípio que diz que _A Turma é o foco_. 
+
+Todos os personagens podem se interessar em algo por algum motivo. Se um velho senhor precisa carregar alguns baús velhos pode ser que cada um dos personagens queira o ajudar por algum motivo: o Curioso pode querer saber o que tem nesses baús velhos e coloridos, o Geninho pode ver nisso uma chance de testar sua nova invenção, o Descolado pode achar uma boa ajudar um velhinho em uma situação ruim, mesmo o Travesso pode pensar que o velhinho pode lhe ajudar caso se meta em confusão no futuro.
+
+Procure sempre manter os personagens envolvidos de maneira além ao "A Turma está fazendo": eles são indivíduos e, embora possam gostar do resto da Turma, eles também podem ter alguma coisa que lhes interesase em cada ação e cada aventura. Dê a eles algo interessante para fazer.
+
+### Salva-se o mundo salvando sua casa
+
+Isso é importante:
+
+Por um lado, isso quer dizer que as ações dos personagens em Fair Leaves poderão ter reflexos no resto do mundo. Se eles ajudarem na colheita de maçãs, o dono do pomar pode ficar conhecido em Great Willows por suas maçãs saborosas, e isso poderá ajudar Fair Leaves como um todo.
+
+Por outro lado, pode ser que coisas que afetem o mundo externo comecem a afetar Fair Leaves. Uma ameaça de rompimento de uma barragem em Deep Lakes pode demandar todo o apoio da Turma para ajudar em uma evacuação. Um velho sovina de fora da cidade pode se unir aos McHog para tentar comprar o resto de Fair Leaves que ainda não é deles.
+
+Tudo em Fair Leaves tem um reflexo fora de Fair Leaves e vice-versa: Fair Leaves é um _microcosmos_ que reflete, em tons mais suaves, o que acontece fora de Fair Leaves. Fair Leaves não é perfeita: ela possui problemas para lidar, ainda que em menor nível. Por outro lado, resoluções de Fair Leaves podem se aplicar ao mundo fora de Fair Leaves.

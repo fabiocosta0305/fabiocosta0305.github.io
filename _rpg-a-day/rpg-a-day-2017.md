@@ -61,6 +61,125 @@ Eu acabo conseguindo resenhas de RPG via redes sociais. Isso facilita obter info
 
 Os "jogos mortos" que mais gostaria de ver renascidos são _Desafio dos Bandeirantes_ e _Era do Caos_. Além disso, seria muito legal se o RPG de Star Wars oficial voltasse a usar o sistema d6 da AEG.
 
+### 12. Qual RPG possui a arte interior mais inspiradora?
+
+Sem sombra de dúvidas, para mim é a de Castelo Falkenstein: ela te traga para o mundo vitoriano, ela mostra o tipo de ação fanfarrona se espera e faz com que você queira mais e mais! Exemplos? Veja abaixo!
+
+![Falkenstein, onde Magia, Ciência e Aço se encontram!](/assets/img/falken13.jpg)
+
+![Capturado pela Magia!](/assets/img/Capturado.png)
+
+![O Magista Illuminati e o Rei das Fadas!](/assets/img/morrolan_auberon.png)
+
+![Castelo Falkenstein](/assets/img/Castelo_Falkenstein.png)
+
+![Um mapa da Baviera](/assets/img/baviera.png)
+
+![O Adversário e suas Hostes!](/assets/img/Adversario_Hostes.png)
+
+![Thomas se apresenta diante de Verithrax Draconis para contar sua história](/assets/img/falkenstein21.png)
+
+![Um dia normal em Falkenstein](/assets/img/Zamek-Falkenstein-Galeria-01.jpg)
+
+![O Dragão e o Aerodirigível Bávaro](/assets/img/falkdrag.jpg)
+
+![A Caçada Selvagem](/assets/img/CacadaSelvagem.png)
+
+![Uma Fortaleza Anã](/assets/img/Fortaleza Ana.png)
+
+
+### 13. Descreva uma experiência durante um jogo que o fez mudar como você joga.
+
+Na realidade, vou descrever como três RPGs mudaram como eu via o jogo. 
+
+Originalmente, eu via o RPG de uma maneira meio tradicional, onde "valia tudo" e tal, e onde o que contava era basicamente o quão épico os personagens eram, subtendendo-se épico como _overpower_.
+
+Foi quando conheci três RPGs:
+
++ [___FUDGE___][fudge] me mostrou como funciona a lógica do _game design_, ao quebrar tudo em sistemas tradicionais e apresentar como reconstruir os mesmos para a sua experiência de jogo. Foi algo marcante para mim/
++ [___Castelo Falkenstein:___][falkenstein] me apresentou a possibilidade de criar uma experiência imersiva a pontos que nunca imaginei que seriam possíveis;
++ [___Changeling - O Sonhar, 1ª Edição:___][changeling] como às vezes por trás de uma aparência fofinha e bonitinha se esconde algo muito mais maduro que alguns cenários que se propõe maduros pelo excesso de violência e de sexualização, e sobre como às vezes, existem armadilhas por baixo de potenciais escolhas;
+
+### 14. Qual RPG você prefere para campanhas sem fim (ou final)?
+
+Acho que qualquer sistema funciona bem para isso, mas para mim, eu ficaria com Fate e Castelo Falkenstein.
+
+### 15. Qual RPG você gosta mais de adaptar?
+
+Bem, acho que o que eu uso como referência para tentativas de adaptação é _Harry Potter_. Quando ao sistema para o qual eu mais faço adaptações, sem sombra de dúvidas é _Fate_.
+
+### 16. Qual RPG você gosta de usar sem fazer adaptações?
+
+_Castelo Falkenstein_. Afinal de contas, dados são coisa da ralé, dos bôemios ou daquele desvairado do Napoleão II com seus modos desordeiros. :) Falando sério, o Falkenstein oferece do início ao fim uma experiência especial em narrativa: não é difícil imaginar uma aventura do _Grande Jogo_ em meio a chá, biscoitos e _scones_ em frente ao rio Tâmisa ou diante da _Residenz_ do Rei Luiz da Baviera...
+
+### 17. Qual RPG que você adquiriu a mais tempo e nunca jogou?
+
+Certeza: _Changeling: The Dreaming_ 1a. Edição. A única tentativa foi frustrante em níveis homéricos, com os jogadores dizendo "jogo de fadinha fofinha" o tempo todo, o que me levou a ter uma postura um tanto cínica quanto ao jogador de RPG típico.
+
+### 18. Qual RPG você jogou mais na sua vida?
+
+Bem, acredito que os RPGs que mais joguei foram 3D&T, Fudge e Fate. 
+
+### 19. Quel RPG tem a melhor escrita?
+
+Fico aqui dividido entre _Castelo Falkenstein_ e _Do: Fate of the Flying Temple_, já que ambos conseguem tragar você pare os cenários em questão.
+
+### 20. Onde fica o melhor lugar para se encontrar RPG fora de linha?
+
+Em sebos, inegavelmente... Você tem que ter paciência e gastar um tempo para fazer um garimpo, mas sempre acaba achando coisas interessantes, como eu consegui uma cópia de _Millenia_ e de _Demos Corporation_
+
+### 21. Qual RPG faz mais com menos palavras?
+
+Na minha opinião, Fate Acelerado, 3D&T e Black Hack são os que alcançam essa qualidade de fazer mais com menos palavras. Eles resumem muito bem seus sistemas sendo acessíveis e rápidos.
+
+### 22. Qual o RPG que me é mais fácil de tocar?
+
+Na prática é Fate: suas regras são polidas o bastante para serem rapidamente adaptadas para qualquer situação que eu precise, seja preparando com antecendência ou modificando de maneira emergencial, ainda mais quando se põe junto o Fate Fractal, que permite tratar elementos do cenário e da cena como personagens, o que facilita muito construir novos elementos sem precisar apelar-se para subsistemas que tornam as regras mais complexas.
+
+### 23. Qual RPG possui o layout mais impressionante?
+
+Honestamente... _Castelo Falkenstein_, mas a versão física e clássica, a primeira edição: arte primorosa, aquarelada, com design lembrando livros vitorianos, fontes adequadas, estilo de artes fantástico, a parte de regras em papel sépia, remetendo ao período, diálogos e blocos de texto interessantes, imagens como se fossem os _handouts_ existentes em livros vitorianos... Simplesmente primoroso. Como uma menção honrosa, colocaria também _Changeling: The Dreaming_, 1ª Edição: uma grande quantidade de estilos de arte remetendo a diversos estilos de fantasia, desde as artes ao estilo infantil a coisas que remetem Sandman ou mesmo os Mitos de Cthulhu e até mesmo a Bíblias de Tijuana (!!!!), e claro as artes icônicas de Toni DiTerlizzi em especial para o grupo da Toybox, como as de Leigh, Tor e Rasputin.
+
+### 24. Compartilhe uma editora de “Pague o Quanto Quiser” (PWYW) deveria estar cobrando mais
+
+Sem sombra de dúvidas é a _Evil Hat_: eles publicaram o Fate Básico, o Acelerado, o Ferramentas de Sistemas e mais de 27 mini-cenários de RPG tudo em Pague o Quanto Quiser... E mesmo seus produtos pagos não costumam ser caros. Eles merecem mais amor (e dinheiro) que muitas companhias de RPG por aí.
+
+### 25. Qual é a melhor maneira de agradecer seu Mestre?
+
+Sendo um cara bacana em mesa em todos os sentidos, desde ajudando no rateio da pizza e colaborando com novos livros e suplementos para o grupo até sendo inclusivo e aprendendo com seus erros, tanto como jogador quanto como pessoa. 
+
+### 26. Qual RPG disponibiliza os recursos mais úteis?
+
+Depende do que você considera útil...
+
+No caso de regras, gosto muito do Fate, quando somado com os _World of Adventure_ e com as _Ferramentas de Sistemas_. Acredito que ele ofereça regras que podem ser combinadas e modificadas à vontade, conforme sua necessidade.
+
+No caso de cenário, acho que _Castelo Falkenstein_ é quem oferece mais, já que ele não procura apenas oferecer novas regras, mas elementos de narrativa, de cenário e até mesmo entendimento de como detalhes de cenários podem tornar tudo mais interessante. Sugiro inclusive a leitura de _Comme Il Faut_, que seria o _Guia do Jogador_ de Castelo Falkenstein, onde muitos detalhes da sociedade vitoriana são desvendados.
+
+### 27. Quais as ferramentas essenciais para um bom jogo?
+
+Acima de qualquer coisa, _IMAGINAÇÃO_. Sem isso, RPG não é RPG.
+
+### 28. Qual o jogo mais antigo que você jogou ou ainda joga?
+
+Como não achava opção para a pergunta do dia, _Qual filme/série é a maior fonte de citações do seu grupo?_, resolvi buscar uma das [Questões alternativas (em inglês)](https://castingshadowsblog.com/2017/07/30/rpgaday-2017-alternate-questions/). O RPG mais antigo que lembro ter jogado, curiosamente não foi Dungeons & Dragons, mas sim o _RPG Aventuras Fantásticas_ da Martins Fontes, a versão brasileira do _Fighting Fantasy_ britânico, pelo outro _Steve Jackson_ e por _Ian Livingstone_.
+
+### 29. Qual foi o melhor RPG que você financiou no Kickstarter/Catarse?
+
+Ponto pacífico, foi a versão brasileira do Fate. Lá fora, foi o RPG de Super-Heróis baseado em Fate _Wearing the Cape_, do qual fui _playtester_
+
+### 30. Qual mistura de gêneros de RPG’s que você gostaria de ver?
+
+Na boa... Espero que cada vez mais as pessoas explorem tanto os _"E se"_ quanto às possibilidades de misturas como, por exemplo, _Eagle Eyes_ (Roma + _Noir_), _Nitrate City_ (_Noir_ + Sobrenatural + Hollywood). E na prática ainda quero um RPG de _Hayoire! Nyaruko-San_ (Mitos de Cthulhu + Moe + Nerdices + Pé-de-Cabra do Gordon Freeman... _HALF-LIFE 3 CONFIRMADO!!!!_)
+
+### 31. O que você mais espera relacionado a jogos em 2018?
+
+Bem, vamos lá:
+
++ Vem aí _Castelo Falkenstein_ pela Retropunk! Novamente no Brasil teremos o Grande Jogo!
++ _Shadow of the Century_ deve sair no fim do ano, trazendo o final épico do cenário de _Espírito do Século_, com os Heróis da Nova Era prontos para chutar bundas e mascar chiclete... Sendo que o Chiclete acabou.
++ Espero mais editoras e cenários e sistemas surgindo, não apenas em Fate, mas em tudo. Quanto mais RPG melhor!
+
 [1]: http://autocratik.blogspot.com.br/2017/07/rpgaday-2017-announcing-rpgaday-again.html
 [2]: https://fadingsunsbr.wordpress.com/2017/07/22/rpgaday-uma-pergunta-por-dia/
 [dcc-br]:http://newordereditora.com.br/categoria-produto/rpg/dcc-rpg/
@@ -75,3 +194,6 @@ Os "jogos mortos" que mais gostaria de ver renascidos são _Desafio dos Bandeira
 [ryuutama]: http://kotohi.com/ryuutama/
 [little-wizards]: https://www.crafty-games.com/buy-now/little-wizards/
 [dtl]: https://tatabletop.com/dungeon-tours-ltd/
+[fudge]: https://maisquatro.files.wordpress.com/2008/08/fudge-rediagramado.pdf
+[falkenstein]: http://www.retropunk.net/editora/castelo-falkenstein-esta-de-volta/
+[changeling]: http://whitewolf.wikia.com/wiki/Changeling:_The_Dreaming

@@ -1,12 +1,12 @@
 ---
 title: "Luchador Type"
 language: en
-subheadline: A Sample Character for Wearing the Cape (Playtest)
+subheadline: A Sample Character for Wearing the Cape
 layout: post
 categories:
   - wtc
 tags:
- - Wearing the Cape (Playtest)
+ - Wearing the Cape
 header: no
 ---
 
