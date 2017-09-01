@@ -172,6 +172,14 @@ Ponto pacífico, foi a versão brasileira do Fate. Lá fora, foi o RPG de Super-
 
 Na boa... Espero que cada vez mais as pessoas explorem tanto os _"E se"_ quanto às possibilidades de misturas como, por exemplo, _Eagle Eyes_ (Roma + _Noir_), _Nitrate City_ (_Noir_ + Sobrenatural + Hollywood). E na prática ainda quero um RPG de _Hayoire! Nyaruko-San_ (Mitos de Cthulhu + Moe + Nerdices + Pé-de-Cabra do Gordon Freeman... _HALF-LIFE 3 CONFIRMADO!!!!_)
 
+### 31. O que você mais espera relacionado a jogos em 2018?
+
+Bem, vamos lá:
+
++ Vem aí _Castelo Falkenstein_ pela Retropunk! Novamente no Brasil teremos o Grande Jogo!
++ _Shadow of the Century_ deve sair no fim do ano, trazendo o final épico do cenário de _Espírito do Século_, com os Heróis da Nova Era prontos para chutar bundas e mascar chiclete... Sendo que o Chiclete acabou.
++ Espero mais editoras e cenários e sistemas surgindo, não apenas em Fate, mas em tudo. Quanto mais RPG melhor!
+
 [1]: http://autocratik.blogspot.com.br/2017/07/rpgaday-2017-announcing-rpgaday-again.html
 [2]: https://fadingsunsbr.wordpress.com/2017/07/22/rpgaday-uma-pergunta-por-dia/
 [dcc-br]:http://newordereditora.com.br/categoria-produto/rpg/dcc-rpg/
