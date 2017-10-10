@@ -1,5 +1,5 @@
 ---
-title: Playsheet - O Recém-Chegado
+title: Cartilha - O Recém-Chegado
 teaser: "Apesar de ainda tentar se enturmar, o Recém-Chegado apresenta novas formas da Turma se divertir"
 layout: post
 date: 2017-02-06 15:41:00 -0200
@@ -10,7 +10,7 @@ tags:
     - FAE
     - Personagens
     - Arquétipos
-    - Playsheets
+    - Cartilhas
     - Fair Leaves
     - Fair-Leaves
     - Light Hearted

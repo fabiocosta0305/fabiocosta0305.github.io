@@ -65,7 +65,7 @@ Deixe também claro que a Turma pode ter descoberto um segredo que os demais hab
 
 ## _Fair Leaves_ e formas não-humanas
 
-Fair Leaves não considera formas não-humanas, em especial antropomórficas, como algo determinante. Embora os personagens de exemplo nas _Playsheets_ sejam animais antropomórficos, isso não é nem um pouco relevante.
+Fair Leaves não considera formas não-humanas, em especial antropomórficas, como algo determinante. Embora os personagens de exemplo nas _Cartilhas_ sejam animais antropomórficos, isso não é nem um pouco relevante.
 
 Mas muitas dessas séries que são inspiração para Fair Leaves, em especial de Desenho Animado, possuem personagens com aparência antropomórfica. Nesse caso, é bem interessante que se decidam esses detalhes do personagem antes de começarem a criar os mesmos. 
 
