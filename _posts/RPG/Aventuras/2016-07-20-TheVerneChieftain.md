@@ -3,6 +3,7 @@ title: The Verne Chieftain
 subheadline: "An _Wearing the Cape: The Roleplaying Game_ Adventure"
 date: 2016-07-20 08:00:00 -0300
 layout: post
+language: en
 categories:
   - Adventures
 tags:

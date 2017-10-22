@@ -1,5 +1,5 @@
 ---
-title:   Playsheet - O Certinho
+title:   Cartilha - O Certinho
 teaser: "Normalmente o mais responsável e correto da Turma, o Grilo Falante que mantem todo mundo nos eixos"
 layout: post
 date: 2017-02-06 14:58:00 -0200
@@ -10,7 +10,7 @@ tags:
     - FAE
     - Personagens
     - Arquétipos
-    - Playsheets
+    - Cartilhas
     - Fair Leaves
     - Light Hearted
     - Fair-Leaves

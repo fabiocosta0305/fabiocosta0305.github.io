@@ -10,7 +10,7 @@ tags:
     - FAE
     - Personagens
     - Arquétipos
-    - Playsheets
+    - Cartilhas
     - Fair Leaves
     - Light Hearted
     - Fair-Leaves
