@@ -16,7 +16,7 @@ encoding: utf-8
 title:            Os Cacarecos do Fábio
 tagline:          'Onde coloco tudo o que dá na telha'
 description:      ''
-url:              http://fabiocosta0305.github.io/
+url:              http://fabiocosta0305.gitlab.io/
 baseurl:          '/'
 
 author:
