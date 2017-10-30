@@ -6,24 +6,26 @@ categories:
  - Aventuras
 tags:
  - Distrito da Desenholândia
+ - Fate
+ - Fate-Acelerado
 header: no
 excerpt_separator: <!-- excerpt -->
 ---
 
 ## Introdução
 
-> "OK, filho... Esse deve ser teu primeiro dia aqui. O uniforme tá no jeito? Estou falando das orelhas de coelho também! O que? Tá achando que é xpalhaçada? Entenda uma coisa, filho: quanto um desenho maluco arremessa uma bigorna de 100 Toneladas contra a tua cabeça, essas orelhas podem ser uma proteção maior que um boné ou mesmo uma arma. 
+> "OK, filho... Esse deve ser teu primeiro dia aqui. O uniforme tá no jeito? Estou falando das orelhas de coelho também! O que? Tá achando que é palhaçada? Entenda uma coisa, filho: quanto um desenho maluco arremessa uma bigorna de 100 Toneladas contra a tua cabeça, essas orelhas podem ser uma proteção maior que um boné ou mesmo uma arma. 
 <!-- excerpt -->
 > 
 > Falo isso de experiência própria: um desses malucos do _Beco Nada Bom_ me arremessou um machado contra o peito. Eu peguei um Buraco Portátil e enfiei na camisa, e a droga do machado atravessou meu peito pelo Buraco e saiu pelas coisas. Quem pagou o pato foi o Mousekevitch. Não se preocupa, ele ficou de boa. Apesar que levar duas metades de desenho para o Distrito depois foi mais complicado que levar um desenho inteiro.
 >
 > Agora tu acredita, né? Continua usando essas orelhas por agora. Creia-me: logo você não vai precisar, quando acostumar-se com a loucura daqui.
 >
-> Esse aqui é o _Distrito de Polícia da Desenholândia_, ligada à _Polícia Metropolitana de Los Angeles_. Faz apenas alguns poucos anos que criaram essa coisa: antes os desenhos se resolviam entre eles, mas com a bagunça toda que houve nos últimos tempos, e a maior frequência de humanos na Desenholândia, decidiram que era uma boa idéia colocar um Distrito de Polícia aqui: creia-me, você não vai querer ter que resolver as coisas direto com a Sininho quando ela decidir que você passou dos limites e resolver usar seu pozinho mágico para te sacanear.
+> Esse aqui é o _Distrito de Polícia da Desenholândia_, ligada à _Polícia Metropolitana de Los Angeles_. Faz apenas alguns poucos anos que criaram essa coisa: antes os desenhos se resolviam entre eles, mas com a bagunça toda que houve nos últimos tempos, e a maior frequência de humanos na Desenholândia, decidiram que era uma boa ideia colocar um Distrito de Polícia aqui: creia-me, você não vai querer ter que resolver as coisas direto com a Sininho quando ela decidir que você passou dos limites e resolver usar seu pozinho mágico para te sacanear.
 >
 > Mas ela não é tão ruim: ela é bacana, mas pega leve com ela.
 >
-> Tu deve ter ouvido todo o blablabla de quando fundaram o Distrito, sobre os... Como é mesmo? Ah... _"Abnegados e Dedicados heróis da Justiça que procuram manter a Paz, a Lei, a Ordem e a Boa Vizinhança na Desenholândia."_ Vamos falar a real, aqui só tem três tipos de pessoas: as que arrumaram confusão com os grandões, os doidos o bastante para gostarem de lidar com desenhos e os que o resto da polícia acham que são incompetentes.
+> Tu deve ter ouvido todo o blablablá de quando fundaram o Distrito, sobre os... Como é mesmo? Ah... _"Abnegados e Dedicados heróis da Justiça que procuram manter a Paz, a Lei, a Ordem e a Boa Vizinhança na Desenholândia."_ Vamos falar a real, aqui só tem três tipos de pessoas: as que arrumaram confusão com os grandões, os doidos o bastante para gostarem de lidar com desenhos e os que o resto da polícia acham que são incompetentes.
 > 
 > De fato, muita gente boa.
 > 
@@ -48,7 +50,7 @@ excerpt_separator: <!-- excerpt -->
 > 
 > Fundamentalmente, existem duas regras básicas para entender a cabeça dos Desenhos:
 > 
-> 1. Desenhos ___NÃO PODEM SER MORTOS___. Ao menos não normalmente: pegue um desses fulanos, leve-o até o Atol de Bikini, coloque ele num fosso de testes de bombas e detone a bomba-H com ele dentro. É bem mais provável que o ATOL se desintegre que aconteça qualquer coisa com o bendito. E ele também não contamina os outros com Radioatividade... Existem formas de se matar um desenho, mas a recente _Toon Acceptance and Protection Act_ (TAPA) declarou que apenas o Governo, sob circunstâncias MUITO especifícas pode matar um desenho de uma vez por todas;
+> 1. Desenhos ___NÃO PODEM SER MORTOS___. Ao menos não normalmente: pegue um desses fulanos, leve-o até o Atol de Bikini, coloque ele num fosso de testes de bombas e detone a bomba-H com ele dentro. É bem mais provável que o ATOL se desintegre que aconteça qualquer coisa com o bendito. E ele também não contamina os outros com Radioatividade... Existem formas de se matar um desenho, mas a recente _Toon Acceptance and Protection Act_ (TAPA) declarou que apenas o Governo, sob circunstâncias MUITO especificas pode matar um desenho de uma vez por todas;
 > 1. Desenho ___SEMPRE SÃO ENGRAÇADOS___, ou ao menos tentam: mesmo os mais sérios dos seus companheiros Desenhos Policiais irá usar coisas como Buracos Portáteis, Espadas Cantantes, Bombas, Bigornas e Cascas de Banana (sim, as malditas de novo!) para enfrentar os bandidos da região. E não pense que os bandidos vão ficar apenas nas mesmas: eles possuem pistolas que fazem um estrago do diabo. Meu ombro até hoje se lembra de um desses malditos tiros: foi no meu primeiro dia e nenhum dos outros era muito mais experiente do que eu.
 >
 > _"E como pará-los?"_, você deve estar se perguntando. Se for isso, você pelo menos faz as perguntas certas, o que pode ser a diferença entre a vida e a morte aqui.
@@ -103,7 +105,7 @@ Próxima a Hollywood e aos principais estúdios de cinema, se você seguir até 
 
 A Desenholândia é um ___bairro Enorme e Estranho___, em especial por suas cores vivas e pelas pessoas que habitam o mesmo: todos os _Desenhos Animados_ que são conhecidos vivem ou de alguma forma são conectados à Desenholândia.
 
-Entretanto, sempre tem aqueles que desejam impor sua vontade ou acham que o que não podem controlar é perigoso e maligno. E isso levou a uma série de disputas, inclusive da ___Cruzada Moralista que continua perseguindo Desenhos___. Entretanto, em um processo recente envolvendo a Prefeitura de Los Angeles e os Desenhos Animados, os Desenhos Animados foram considerados cidadões americanos plenos, e a Desenholândia como lar dos mesmos, tornado um bairro de Los Angeles.
+Entretanto, sempre tem aqueles que desejam impor sua vontade ou acham que o que não podem controlar é perigoso e maligno. E isso levou a uma série de disputas, inclusive da ___Cruzada Moralista que continua perseguindo Desenhos___. Entretanto, em um processo recente envolvendo a Prefeitura de Los Angeles e os Desenhos Animados, os Desenhos Animados foram considerados cidadães americanos plenos, e a Desenholândia como lar dos mesmos, tornado um bairro de Los Angeles.
 
 ### O Crime na Desenholândia
 
@@ -130,7 +132,7 @@ A criação do Distrito é cercada de mistérios: muitos dizem que o Distrito é
 > + ***Comandante:*** Sargento Pericles Adamastor "Pinky" Stout
 > + ***Detetive:*** Matthew "Matty" McCormick
 > + ***Recepção e Administrativo:*** Oficial Manny Lindberg
-> + ***Oficial de Choque:*** Oficial Edward "Eddy" Gorilla
+> + ***Oficial de Choque:*** Oficial Edward "Edy" Gorilla
 > + ***Oficial de Perseguições:*** Oficial Samantha "Sammy" Fastti
 > + ***Batedor:*** Oficial Till Lasker
 > + ***Legista:*** Connor McRabbit
@@ -158,11 +160,11 @@ O Dodo é basicamente um ponto de encontro, um daqueles ___Elísios___ que todo 
 
 A base secreta de Helmut von Latzen é ___tudo, menos secreta___: o ___endereço pode ser encontrado no Guia Turístico da Desenholândia___. O mais curioso é que na frente do grande castelo que é base secreta de von Latzen tem uma placa escrita: _“Base Secreta de Doktor von Latzen. Proibida a Entrada. Não nos responsabilizamos por invasores. Visitas Monitoradas todas as Quintas e Sábados.”_ E, embora “secreta”, a base de von Latzen é vista no alto de uma montanha na Desenholândia.
 
-A Base parece a típica base de Cientista Louco de Desenho Animado, um castelo assustador quase despencando perto de um desfiladeiro, com raios caindo ao redor, algumas árvores ressequidas e assustadoras no caminho entre o portão e a porta do castelo, corujas por todos os lados. Dentro do mesmo, as coisas não são muito melhores: eles verão raios, trovões, grandes chaves-faca e tudo o mais, como em um filme B de Frankenstein... Gritos histéricos conforme passam pelos corredores e adentram o castelo, normalmente eles verão isso acompanhados pelo serviçal de von Lazten, Hugo (_“Igor é muito demodê”_, segundo von Latzen), que parece uma versão de carne (ou melhor, Tinta) do Puxa-frango do Pica-pau, e não muito mais esperto que ele. 
+A Base parece a típica base de Cientista Louco de Desenho Animado, um castelo assustador quase despencando perto de um desfiladeiro, com raios caindo ao redor, algumas árvores ressequidas e assustadoras no caminho entre o portão e a porta do castelo, corujas por todos os lados. Dentro do mesmo, as coisas não são muito melhores: eles verão raios, trovões, grandes chaves-faca e tudo o mais, como em um filme B de Frankenstein... Gritos histéricos conforme passam pelos corredores e adentram o castelo, normalmente eles verão isso acompanhados pelo serviçal de von Latzen, Hugo (_“Igor é muito démodé”_, segundo von Latzen), que parece uma versão de carne (ou melhor, Tinta) do Puxa-frango do Pica-pau, e não muito mais esperto que ele. 
 
 Helmut von Latzen é um humano desenhado (ou seja, um desenho de Forma Humana). Ele parece muito louco normalmente, quando ele é visto em suas experiências, mas ao conversar ele parece uma pessoa muito normal, embora mencione o tempo todo pesquisas com zumbis assassinos (na verdade, mais animadores de festas infantis fazendo malabarismos com serras elétricas do que qualquer outra coisa) ou qualquer outra coisa divertidamente insana na qual ele esteja envolvido.
 
-Ele está em dia com a lei e, apesar de sua cara insana e tudo o mais, ele é um dos cidadãos mais queridos da Desenholândia, já que ter seu cientista maluco residente dá respeitabilidade à Desenhoçândia, na concepção dos desenhos... Vai entender.
+Ele está em dia com a lei e, apesar de sua cara insana e tudo o mais, ele é um dos cidadãos mais queridos da Desenholândia, já que ter seu cientista maluco residente dá respeitabilidade à Desenholândia, na concepção dos desenhos... Vai entender.
 
 #### O Beco Nada Bom
 
@@ -178,7 +180,7 @@ Recentemente corre boatos que um antigo dono de uma empresa de Desenhos Animados
 
 ## Regras novas
 
-Personagens humanos na 1ª Delelegacia de Polícia da Desenholândia são criados da mesma forma que os Personagens de Fate Acelerado. Aqui veremos as novas regras, incluindo como criar personagens de Desenhos Animados e as regras relacionadas à _Lógica de Desenho_, seus usos e como permitir que personagens humanos a use.
+Personagens humanos na 1ª Delegacia de Polícia da Desenholândia são criados da mesma forma que os Personagens de Fate Acelerado. Aqui veremos as novas regras, incluindo como criar personagens de Desenhos Animados e as regras relacionadas à _Lógica de Desenho_, seus usos e como permitir que personagens humanos a use.
 
 ### Criando Desenhos Animados
 
@@ -219,7 +221,7 @@ A Física e a Lógica dos desenhos animados não funciona como o normal… Ela �
 
 A ___Lógica de Desenho___ é quando personagens de Desenho Animados querem fazer coisas ilógicas de maneira consciente e engraçada. Normalmente um personagem Desenho Animado para recorrer à _Lógica de desenho_ precisa apenas realizar uma ação de Criar Vantagem usando _Logro_, ou simplesmente pagar um ponto de destino para isso (ou não, se ele conseguir __Quebrar a Quarta Parede__)
 
-> ___Por exemplo:___ Mackie quer ir para o Japão mas não tem grana para viajar de avião, então tem uma idéia: ele pega um envelope de carta e escreve nele __Tóquio, Japão__, se espremendo nele até que apenas sua mão pode ser vista colocando o selo no envelope e empurrando a carta para dentro da caixa de correio. Normalmente um personagem de Fate Acelerado não seria capaz de fazer isso (a física não permite que pessoas façam isso). No entanto, como um _Desenho Animado_, Mackie pode usar a _Lógica de Desenho_ para dar um jeitinho nas coisas. Para isso, ele precisa ser bem-sucedido em um teste de _Logro_ para usar-se a _Lógica de Desenho_
+> ___Por exemplo:___ Mackie quer ir para o Japão mas não tem grana para viajar de avião, então tem uma ideia: ele pega um envelope de carta e escreve nele __Tóquio, Japão__, se espremendo nele até que apenas sua mão pode ser vista colocando o selo no envelope e empurrando a carta para dentro da caixa de correio. Normalmente um personagem de Fate Acelerado não seria capaz de fazer isso (a física não permite que pessoas façam isso). No entanto, como um _Desenho Animado_, Mackie pode usar a _Lógica de Desenho_ para dar um jeitinho nas coisas. Para isso, ele precisa ser bem-sucedido em um teste de _Logro_ para usar-se a _Lógica de Desenho_
 
 #### Lógica Ilógica
 
@@ -301,7 +303,7 @@ Quando usado por uma pessoa (como o bebendo, por exemplo), faz com que o cabelo 
 
 ### Tônico Lapilar
 
-Esse poderoso tônico especial para Coelhos (e Lebres) restaura a saúde dos mesmos. Beber o mesmo faz com que o coelho/lebre apague automaticamente sua pior Consequência ___ou___ todo o Estresse sofrido no conflito até o moemnto (APENAS UM DELES). 
+Esse poderoso tônico especial para Coelhos (e Lebres) restaura a saúde dos mesmos. Beber o mesmo faz com que o coelho/lebre apague automaticamente sua pior Consequência ___ou___ todo o Estresse sofrido no conflito até o momento (APENAS UM DELES). 
 
 Porém, se algum personagem que não seja um coelho beber esse tônico, ele se transformará automaticamente em um coelho (ou não: você pode criar uma transformação lobiscoelho bem divertida se desejar), recebendo uma _Consequência Moderada_ adequada, como ___Louco por uma Cenoura___, ___O que é que há, velhinho?___ ou qualquer outra que seja apropriadamente divertida segundo o Mestre, até que ele _Caia_ novamente (perceba que ele não pode ser apenas _Derrotado_ — ele precisa _Cair_).
 
@@ -390,13 +392,13 @@ Esses são apenas alguns exemplos de Façanhas de desenhos animados, uma vez que
 
 Um personagem pode utilizar uma Caneta para _Criar Vantagens_ ao utilizar _Logro_ para adicionar novos elementos ao cenário, desenhando-os. Perceba que isso é considerado recorrer à _Lógica de Desenho_ com todas as suas implicações. Isso também quer dizer que qualquer Desenho pode fazer isso naturalmente.
 
-> ___Exemplo:___ Sylvester Gambá está em um beco escuro, quando um dos capangas de Don Cabezone grita para ele: _"Saque sua arma, detetive, que eu nunca mato um homem desarmado!"_ A questão é que na realidade ele não está armado, mas Roger, seu jogador, pensa em usar um clássico da _Lógica de Desenho_: ele saca seu bloco de anotações de detetive, rabisca uma arma bem tosca e aponta para o capanga. O Narrador pede um teste simples de _Criar Vantagem_ por _Logro_, e Sylvester é bem sucedido, o que permite que ele tenha uma _Arma_ como um Aspecto com uma Invocação Gratuíta.
+> ___Exemplo:___ Sylvester Gambá está em um beco escuro, quando um dos capangas de Don Cabezone grita para ele: _"Saque sua arma, detetive, que eu nunca mato um homem desarmado!"_ A questão é que na realidade ele não está armado, mas Roger, seu jogador, pensa em usar um clássico da _Lógica de Desenho_: ele saca seu bloco de anotações de detetive, rabisca uma arma bem tosca e aponta para o capanga. O Narrador pede um teste simples de _Criar Vantagem_ por _Logro_, e Sylvester é bem sucedido, o que permite que ele tenha uma _Arma_ como um Aspecto com uma Invocação Gratuita.
 
 Se o narrador considerar isso muito apelão, considere que o uso de Canetas conta como uma ação de _Superar_ a ausência de algo que os personagens precisem.
 
 O uso de Canetas permite eliminar Consequências provocadas por Apagadores, com um teste de _Superar_ com uma dificuldade igual ao nível da Consequência. Como uma ação diferenciada, você pode "redesenhar" um alvo e apenas trocar suas consequências por outras como uma ação de _Criar Vantagem_
 
-> ___Exemplo:___ Sylvester Gambá capturou Rolf McWolf, mas ele está dando na paciência, então Sylvester tem a idéia de, aproveitando que ele "apagou" algumas partes de Rolf, redesenhá-lo como um ___Carneirinho fofo e indefeso___. O Narrador gosta da idéia e Sylvester Gambá apenas tem que rolar contra _Raozável (+2)_, para trocar a Consequência Suave de _Sem Calda_ de Rolf para o ___Carneirinho fofo e indefeso___ 
+> ___Exemplo:___ Sylvester Gambá capturou Rolf McWolf, mas ele está dando na paciência, então Sylvester tem a ideia de, aproveitando que ele "apagou" algumas partes de Rolf, redesenhá-lo como um ___Carneirinho fofo e indefeso___. O Narrador gosta da ideia e Sylvester Gambá apenas tem que rolar contra _Razoável (+2)_, para trocar a Consequência Suave de _Sem Calda_ de Rolf para o ___Carneirinho fofo e indefeso___ 
 
 ### Apagador/Removedor de Tinta/_Liquid Paper_
 
@@ -420,7 +422,7 @@ Humanos “Reais” são criados da mesma forma que qualquer outro personagem �
 
 Entretanto, toda vez que um Humano “Real” entra em uma ___Área de Desenho___ (como a Desenholândia), ele pode invocar o Aspecto de ___Área de Desenho___ para usar qualquer característica típica de um desenho animado. Se a campanha envolver muitas interações entre humanos e desenhos, um personagem pode obter uma Façanha para evitar esse gasto de Pontos de Destino nos rolamentos se puder explicar isso ao Mestre.
 
-> ___Exemplo:___ O Sargento Pericles Stout está perseguindo alguns capangas de Don Rinozzo, o Gangster da Desenholândia, e eles resolvem tentar fugir, correndo. O Sargento poderia atirar, mas além de não muito agradável, seria inefetivos contra a velocidade dos capangas. Ele então recorre à ___Lógica de Desenho___ da ___Desenholândia___, uma ___Área de Desenho___, e convoca alguns amiguinhos deles, os cachorros do Oficial O'Marra... Ele utiliza 1 Ponto de Destino para isso, e assim que os capangas vão fugir eles são ATROPELADOS por uma horda de cães fofos com instinto de brincadeira e números igual ao dos soldados enviados para o Front do Dia D!
+> ___Exemplo:___ O Sargento Pericles Stout está perseguindo alguns capangas de Don Rinozzo, o Gangster da Desenholândia, e eles resolvem tentar fugir, correndo. O Sargento poderia atirar, mas além de não muito agradável, seria inefetivos contra a velocidade dos capangas. Ele então recorre à ___Lógica de Desenho___ da ___Desenholândia___, uma ___Área de Desenho___, e convoca alguns amiguinhos deles, os cachorros do Oficial O'Mara... Ele utiliza 1 Ponto de Destino para isso, e assim que os capangas vão fugir eles são ATROPELADOS por uma horda de cães fofos com instinto de brincadeira e números igual ao dos soldados enviados para o Front do Dia D!
 
 Humanos recebem dano de qualquer arma que um desenho use contra ele e sofre ___Consequências___ normalmente de tais ataques. Porém, um humano pode ser morto quando atacado por um desenho, especialmente quando atingido por coisas pesadas, como um piano de cauda ou uma bigorna direto na cabeça. Em combates normais isso porém não é importante, uma vez que as chances de derrotas são as mesmas, seja o personagem um humano “real” ou um desenho. Entretanto, ele não pode _Cair_ por si.
 
@@ -432,13 +434,13 @@ Humanos em ___Áreas de Desenho___ podem recorrer à _Lógica de Desenho_ e à _
 
 > ___Exemplo:___ O Comandante Stout se enfiou em uma bela de uma Enrascada ao perseguir Don Rinozzo: ele entrou em um poço de elevador no alto do 43593º andar do Ritz Hotel da Desenholândia sem observar se o elevador estava no mesmo (_spoiler:_ não estava), e está despencando quase da estratosfera direto para a Morte! Nessa hora, ele utiliza o Aspecto da Desenholândia ser uma ___Área de Desenho___ para não se esborrachar e morrer no processo. O Narrador aceita, e Pinky paga 1 PD. Ele despenca em uma velocidade alucinante e vai se esborrachar no chão do poço do elevador... Mas vai sair vivo e de boa...
 >
-> ... só que ele não contava que o jogador de Andraas Mousekevitch teve a idéia de fazer Pinky _Cair_ para ambos conseguirem Pontos de Destino: ele declara que, na pressa de salvar seu Comandante, Andraas entra no elevador (que estava um andar acima) e aciona a chave para o Térreo, o elevador despencando desgovernado com Mousekevitch colado no teto do mesmo! Quando Pinky está prestes a bater no fundo do fosso do elevador, o elevador chega e se esborracha contra a cabeça de Pinky, fazendo-o sair do fundo do chão do elevador destroçado, totalmente achatado igual uma sanfona, com estrelinhas rodando ao redor de sua cabeça.
+> ... só que ele não contava que o jogador de Andraas Mousekevitch teve a ideia de fazer Pinky _Cair_ para ambos conseguirem Pontos de Destino: ele declara que, na pressa de salvar seu Comandante, Andraas entra no elevador (que estava um andar acima) e aciona a chave para o Térreo, o elevador despencando desgovernado com Mousekevitch colado no teto do mesmo! Quando Pinky está prestes a bater no fundo do fosso do elevador, o elevador chega e se esborracha contra a cabeça de Pinky, fazendo-o sair do fundo do chão do elevador destroçado, totalmente achatado igual uma sanfona, com estrelinhas rodando ao redor de sua cabeça.
 
 ### Regra opcional: Desenhificação
 
 Segundo essa regra, um humano “real” pode ser desenhificado, dado tempo e circunstâncias. 
 
-Cada vez que um humano "real" (a) invoca o Aspecto de Área de Desenho para se beneficiar da física ou lógica dos desenhos e falhar em um teste de Defesa com dificuldade __Razoável (+2)__ ou melhor, normalmente usando _Cuidadoso_ ou _Sorrateiro_ ou (b) sofrer uma Consequência devido a um ataque de desenho e esse Ataque resultar em Consequencias, o personagem deverá escolher um fato sobre como ele está se transformando em um desenho animado. Esse fato torna-se uma Consequência que não pode ser removida normalmente (o Mestre deverá definir como/se é possível remover essa Consequência). 
+Cada vez que um humano "real" (a) invoca o Aspecto de Área de Desenho para se beneficiar da física ou lógica dos desenhos e falhar em um teste de Defesa com dificuldade __Razoável (+2)__ ou melhor, normalmente usando _Cuidadoso_ ou _Sorrateiro_ ou (b) sofrer uma Consequência devido a um ataque de desenho e esse Ataque resultar em Consequências, o personagem deverá escolher um fato sobre como ele está se transformando em um desenho animado. Esse fato torna-se uma Consequência que não pode ser removida normalmente (o Mestre deverá definir como/se é possível remover essa Consequência). 
 
 Se, a qualquer momento, ele sofrer uma Consequência Severa por causa disso e isso o Derrotar, essas Consequências viram uma _Consequência Extrema_, indicando que ele tornou-se um desenho animado mudando seu Conceito para representar a mudança. Esses “fatos” precisam ser associados ao tipo de Desenho no qual ele está se tornando: se _John Callaway_ está virando um Coelho, alguns dos fatos podem ser ___Orelhas Enormes___, ___Cauda de Algodão___ ou ___Desejo por uma Cenoura___, por exemplo. Esse tipo não precisa ser definido imediatamente, mas deve ser condizente com todos os fatos colocados.
 
@@ -452,7 +454,7 @@ No início do século descobriu-se que, se um humano permanecer por longo tempo 
 
 Entretanto, essa circunstância é muitíssimo rara: existem apenas algumas dúzias de relatos de pessoas que obtiveram orelhas de coelho ou caudas de gambá, e menos ainda foram os relatos de pessoas que se tornaram TOTALMENTE Desenhos.
 
-Aparentemente, alguém achou que é uma boa idéia tentar transformar uma pessoa em desenho de maneira forçada. E isso não acabou bem, como aconteceu em Fort Lauderdale, em uma pesquisa militar que deu MUITO errado.
+Aparentemente, alguém achou que é uma boa ideia tentar transformar uma pessoa em desenho de maneira forçada. E isso não acabou bem, como aconteceu em Fort Lauderdale, em uma pesquisa militar que deu MUITO errado.
 
 O medo começa a se espalhar, em especial porque ninguém sabe o que está acontecendo: uma doença, uma macabra conspiração? Os desenhos estão se voltando contra os seres humanos de vez? Ou alguns humanos estão tentando obter algum tipo de vida eterna, trocando sua sanidade pela mesma.
 
@@ -476,7 +478,7 @@ Ele agradecerá o fato dos personagens o ajudar. Se algum deles for um desenho, 
 
 Ele mencionará que seu pai está desaparecido há vários anos, e que ele sabe que seu pai está virando um tipo de híbrido de humano e desenho, como se fosse um primo distante do Pernalonga (isso ao menos na cabeça desse ___Moleque com alguns parafusos a menos___). Luka confirmará que seu pai desapareceu quando pouco antes da empresa onde ele trabalhava, a _McGrath Toon Shows_ foi à falência.
 
-McGrath era dono de uma antiga companhia de cinema, especializada em desenhos, mas que não teve nenhum sucesso. O dono pirou quando a companhia faliu. Isso é fato conhecido, e pode dar algumas idéias para os personagens. Nesse caso, eles podem seguir para a Cena _"Hospício Bedlam"_.
+McGrath era dono de uma antiga companhia de cinema, especializada em desenhos, mas que não teve nenhum sucesso. O dono pirou quando a companhia faliu. Isso é fato conhecido, e pode dar algumas ideias para os personagens. Nesse caso, eles podem seguir para a Cena _"Hospício Bedlam"_.
 
 Nesse momento, eles irão encontra a mãe de Luka, Anneke (ou Anne, como ela usa o nome na América). Ela não acrescentará nada, apenas deixando a entender que, no ponto de vista dela, o filho pode estar ficando maluco após o desaparecimento do pai dele. Ela dirá que o ___Estúdio McGrath___ foi adquirido por alguma pessoa que comprou o mesmo à vista.
 
@@ -502,15 +504,15 @@ Por fim, quando alcançarem o alto do prédio, verão que nele, devido à poeira
 
 A ___base secreta de von Latzen___ é ___tudo, menos secreta___: o ___endereço pode ser encontrado no Guia Turístico da Desenholândia___. O mais curioso é que na frente do grande castelo que é base secreta de von Latzen tem uma placa escrita: _“Base Secreta de Doktor von Latzen. Proibida a Entrada. Não nos responsabilizamos por invasores. Visitas Monitoradas todas as Quintas e Sábados.”_ E, embora “secreta”, a base de von Latzen é vista no alto de uma montanha na Desenholândia.
 
-Ao chegarem lá, eles serão recepcionados pelo serviçal de von Lazten, Hugo (_“Igor é muito demodê”_, segundo von Latzen), que parece uma versão de carne (ou melhor, Tinta), do Puxa-frango do Pica-pau, e não muito mais esperto que ele. Os personagens serão conduzidos até o local de experiências, onde eles verão raios, trovões, grandes chaves-faca e tudo o mais, como em um filme B de Frankenstein...
+Ao chegarem lá, eles serão recepcionados pelo serviçal de von Latzen, Hugo (_“Igor é muito démodé”_, segundo von Latzen), que parece uma versão de carne (ou melhor, Tinta), do Puxa-frango do Pica-pau, e não muito mais esperto que ele. Os personagens serão conduzidos até o local de experiências, onde eles verão raios, trovões, grandes chaves-faca e tudo o mais, como em um filme B de Frankenstein...
 
-Von Latzen ri enloquecidamente, gritando _“Descobri! Descobri!!!!! Mwahahahahahhahaha!!!!”_. Quando os personagens observam, na verdade ele está fazendo café usando um béquer para o líquido e bureta como filtro. Ele perceberá que está sendo observado e convidará os personagens a tomarem uma xícara desse café. Apesar da cara de maluco de von Latzen, o café e normal, não tendo veneno ou qualquer coisa do gênero, exceto pelo fato de ser MUITO forte e MUITO DOCE!!! (_“preto como a escuridão, forte como o Diabo e doce como um beijo, esse é o verdadeiro café!”_). Se for mencionado o caso, ele aceitará conversar com os personagens (_“Um caso bastante curioso, cientificamente falando!”_). 
+Von Latzen ri enlouquecidamente, gritando _“Descobri! Descobri!!!!! Mwahahahahahhahaha!!!!”_. Quando os personagens observam, na verdade ele está fazendo café usando um béquer para o líquido e bureta como filtro. Ele perceberá que está sendo observado e convidará os personagens a tomarem uma xícara desse café. Apesar da cara de maluco de von Latzen, o café e normal, não tendo veneno ou qualquer coisa do gênero, exceto pelo fato de ser MUITO forte e MUITO DOCE!!! (_“preto como a escuridão, forte como o Diabo e doce como um beijo, esse é o verdadeiro café!”_). Se for mencionado o caso, ele aceitará conversar com os personagens (_“Um caso bastante curioso, cientificamente falando!”_). 
 
 Ele afirmará que durante o período entre Guerras, em especial antes da ___Tragédia de Fort Lauderdale___, von Latzen era conhecido por se envolver nas pesquisas sobre desenhificação forçada. Atualmente, porém, ele se afastou desse ramo, entrando de cabeça no ramo de cientista maluco, com seus robôs e zumbis “assassinos” (que na verdade são mais animadores de festa infantil que assassinos). Ele explicará que o processo de desenhificação forçada torna o processo irreversível, diferentemente do caso da desenhificação natural, onde a pessoa, enquanto tiver alguma coisa humana nela, pode voltar para sua forma humana normal. Além disso, o processo de desenhificação forçada é extremamente doloroso e quase enlouquecedor, podendo destruir a mente de um ser humano.
 
 Von Latzen mencionará que _papers_ de pesquisas envolvendo desenhificação são unânimes na característica da Tinta de manter e reforçar a desenhificação. Não sabe ainda, porém, porque depois de algum tempo fora de uma região de desenho animado, pessoas que estavam em processo de desenhificação voltam ao normal, desde que essa desenhificação seja feita naturalmente.
 
-Além disso, ele afirmará que pesquisas sobre o fato de que as pesquisas sobre desenhificação são estimuladas pelo interesse das pessoas em saberem mais sobre como é a vida de um Desenho Animado, inclusive mencionado as _Fantasias_ que podem auxiliar humanos no uso da _Lógica de Desenho_ em _Áreas de Desenho_, e como isso gerou um négocio lucrativo.
+Além disso, ele afirmará que pesquisas sobre o fato de que as pesquisas sobre desenhificação são estimuladas pelo interesse das pessoas em saberem mais sobre como é a vida de um Desenho Animado, inclusive mencionado as _Fantasias_ que podem auxiliar humanos no uso da _Lógica de Desenho_ em _Áreas de Desenho_, e como isso gerou um negocio lucrativo.
 
 Von Latzen mencionará, caso questionado, que ouviu dizer que um certo Lasiek continua trabalhando nas pesquisas da Desenhificação Forçada _"isso se você considerar aquele charlatão irrelevante um cientista."_ Ele mostra total desprezo a Lasiek, a quem ele chama de _"ser insignificante"_, e isso deve sempre ficar bem claro. Ele também mencionará que Lasiek trabalho com o Senhor Colin McGrath, e que na opinião dele algo aconteceu em que Lasiek conseguiu trapacear o senhor McGrath e tomar-lhe tudo
 
@@ -536,7 +538,7 @@ Ao chegar ao quarto de McGrath, eles perceberão uma coisa curiosa: ele está ve
 
 O Dr. Austena deixará os personagens com McGrath por alguns instantes. É importante deixar claro para os personagens que ___eles estão pisando em ovos___: forçar a barra com McGrath no seu estado mental atual pode o levar a se tornar agressivo ou a “se fechar em copas”, fazendo com que ele não responda mais nenhuma pergunta. Mas se eles souberem como encaminhar as coisas, eles conseguirão descobrir muita coisa.
 
-A McGrath Toon Shows faliu porque seus desenhos eram eram chaaaaaaaatos, sendo que o melhorzinho era _Seymor, a Morsa_, que não era nem de longe tão maluco quanto os clássicos da Acme, Maroon ou Looney Tunes. Isso se deve ao fato de que eles nunca conseguiriam contratar os grandes astros dos desenhos, mantidos junto às empresas por meio de contratos draconianos e por uma variação do _Star System_. E foi pouco antes da falência que ele teve a idéia de apelar para a desenhificação forçada, quando Lasiek mostrou-lhe os _papers_ e disse que teria uma forma de criar um novo super-astro dos desenhos, usando comediantes humanos. Antes, entretanto, ele precisaria ver se a coisa funcionava. Então, a idéia de Lasiek e McGrath era transformar comediantes humanos em desenhos animados, contando que eles gerariam um super-astro capaz de salvar a _McGrath Toon Shows_, sem saber que estava praticamente vendendo a alma ao demônio.
+A McGrath Toon Shows faliu porque seus desenhos eram eram chaaaaaaaatos, sendo que o melhorzinho era _Seymor, a Morsa_, que não era nem de longe tão maluco quanto os clássicos da Acme, Maroon ou Looney Tunes. Isso se deve ao fato de que eles nunca conseguiriam contratar os grandes astros dos desenhos, mantidos junto às empresas por meio de contratos draconianos e por uma variação do _Star System_. E foi pouco antes da falência que ele teve a ideia de apelar para a desenhificação forçada, quando Lasiek mostrou-lhe os _papers_ e disse que teria uma forma de criar um novo super-astro dos desenhos, usando comediantes humanos. Antes, entretanto, ele precisaria ver se a coisa funcionava. Então, a ideia de Lasiek e McGrath era transformar comediantes humanos em desenhos animados, contando que eles gerariam um super-astro capaz de salvar a _McGrath Toon Shows_, sem saber que estava praticamente vendendo a alma ao demônio.
 
 Ele parece estar com um ___tom de culpa___, mas ___em certos momentos parece mais um apostador___ falando sobre as chances de conseguir um Royal Flush. Mas de qualquer modo, o que ele está falando é verdade: durante a Grande Depressão, os ___principais nomes dos desenhos animados investiram tudo o que podiam___ (e muito do que não podiam) para contratar os melhores desenhos e trazer fama para seus estúdios. ___Desenhos como Mickey, Roger Rabbit e outros eram disputados a peso de ouro___ e tratado como estrelas do calibre de Clark Gable, Lauren Bacall e Ava Gardner.
 
@@ -562,13 +564,13 @@ O local parece escuro e soturno. A antiga placa de metal McGrath Toon Shows est�
 
 Obviamente os personagens estranharão o personagem. Nesse momento, as luzes do beco irão revelar um ___coelho branco de desenho animado___, usando  uma jardineira vermelha e grandes tênis azuis, quase como se fosse um ___primo distante de Roger Rabbit___. Porém, algo está errado nesse desenho: talvez seja a ___falta dos dentes enormes de um coelho___, ou os ___olhos humanos___ que não parecem pertencer àquele rosto. De qualquer modo, esse personagem estranho poderá ser questionado pelos personagens e ele contará sua história:
 
-Ele é Gellert Steinmeier, e trabalhou  o senhor McGrath, antes de virar essa coisa que sou hoje, sendo o pai daquele garoto que eles achavam que tinha um parafuso a menos lá no início da aventura. Ele confirmará ser o pai do mesmo e se sentirá grato se mencionarem que o mesmo está bem. Ele é o "vilão" da história, pois é ele quem está matando os híbridos humano/desenhos, pois os mesmos são manipulados por aquele que os crio, e que tambémo tornaram essa coisa. Ele não  pode fazer muito mais por eles, e ele decidiu  impedir esses monstros de trazerem mais pessoas para serem 'convertidas' em aberrações. Aparentemente só o desejo de proteger a família dele manteve sua sanidade e humanidade intacta, já que aparentemente ele foi a experiência de desenhificação forçada mais bem-sucedida recentemente, não perdendo sua mente.
+Ele é Gellert Steinmeier, e trabalhou  o senhor McGrath, antes de virar essa coisa que sou hoje, sendo o pai daquele garoto que eles achavam que tinha um parafuso a menos lá no início da aventura. Ele confirmará ser o pai do mesmo e se sentirá grato se mencionarem que o mesmo está bem. Ele é o "vilão" da história, pois é ele quem está matando os híbridos humano/desenhos, pois os mesmos são manipulados por aquele que os crio, e que também o tornaram essa coisa. Ele não  pode fazer muito mais por eles, e ele decidiu  impedir esses monstros de trazerem mais pessoas para serem 'convertidas' em aberrações. Aparentemente só o desejo de proteger a família dele manteve sua sanidade e humanidade intacta, já que aparentemente ele foi a experiência de desenhificação forçada mais bem-sucedida recentemente, não perdendo sua mente.
 
 Ao mencionar que ele procurou se afastar da família para impedir que aquele que o transformou nisso pudessem os capturar e usar os mesmos como chantagem revelam o ___lado mais carinhoso de Gellert___. Os personagens perceberão o olhar de dor e saudade do mesmo: ele mais do que qualquer outro adoraria poder abraçar sua família, mas o risco para eles seria enorme. Então ele ___deve agir nas sombras___, mesmo mediante o risco que corre. A dor e a saudade da família, porém, o faz sofrer demais.
 
-Ele sabe sobre o processo da desenhificação forçada e o envolvimento de Lasiek no mesmo, confirmando ser ele o responsável por tudo isso. Lasiek procurou capturar andarilhos e vagabundos, desenhos e humanos. Os desenhos ele meio que "derretia", usando sua Tinta como base de um composto que ele usava para transformar os humanos. Ele se envolveu em tudo isso quando percebeu que Benzeno e nanquim estavam estranhamente desaparecendo do almoxarifado da McGrath, onde ele trabalhava. Quando ele procurou pegar aquele que estava roubando tais coisas, foi nocauteado e capturado, quando ele acordou, foi submetido à desenhificação forçada, um processo extremamente doloroso onde a Tinta do composto corroia sua carne e sangue (o que explica o fato dos Híbridos serem meio zumbis: suas mentes foram destruídas pela dor do processo). Note que ele mencionou Benzeno e nanquim: ___Benzeno é um poderoso solvente___ capaz de corroer quase todo o tipo de substância, incluindo Tinta, e é ___parte do Caldo Fatal___ , usado como forma de matar de uma vez por todas um Desenho. Já ___nanquim pode ser usado para reparar a Tinta___ de desenhos que tenham partes derretidas com Caldo Fatal, já que recupera parcialmente a Tinta da pessoa, funcionando como uma espécie de "Sangue Artificial" para desenhos.
+Ele sabe sobre o processo da desenhificação forçada e o envolvimento de Lasiek no mesmo, confirmando ser ele o responsável por tudo isso. Lasiek procurou capturar andarilhos e vagabundos, desenhos e humanos. Os desenhos ele meio que "derretia", usando sua Tinta como base de um composto que ele usava para transformar os humanos. Ele se envolveu em tudo isso quando percebeu que Benzeno e nanquim estavam estranhamente desaparecendo do almoxarifado da McGrath, onde ele trabalhava. Quando ele procurou pegar aquele que estava roubando tais coisas, foi nocauteado e capturado, quando ele acordou, foi submetido à desenhificação forçada, um processo extremamente doloroso onde a Tinta do composto corroía sua carne e sangue (o que explica o fato dos Híbridos serem meio zumbis: suas mentes foram destruídas pela dor do processo). Note que ele mencionou Benzeno e nanquim: ___Benzeno é um poderoso solvente___ capaz de corroer quase todo o tipo de substância, incluindo Tinta, e é ___parte do Caldo Fatal___ , usado como forma de matar de uma vez por todas um Desenho. Já ___nanquim pode ser usado para reparar a Tinta___ de desenhos que tenham partes derretidas com Caldo Fatal, já que recupera parcialmente a Tinta da pessoa, funcionando como uma espécie de "Sangue Artificial" para desenhos.
 
-Ele dirá que está disposto a ajudar e que foi ele quem lançou as marcas de andarilho na região: ele viveu algum tempo entre andarilhos enquanto procurava emprego, antes de chamar sua esposa e filho para a Costa Oeste, e portanto aprendeu alguma coisa sobre como se comunicar com os mesmos. Ele não sabe, entretando, que a passagem secreta pela qual eles suregirá ir (que é por onde ele entra na McGrath quando necessário) está sendo monitorada, mas testes _Sorrateiros_ ou de _Ligeireza  __Regulares (+1)___ bastarão para evitar qualquer tipo de problema ao entrar.
+Ele dirá que está disposto a ajudar e que foi ele quem lançou as marcas de andarilho na região: ele viveu algum tempo entre andarilhos enquanto procurava emprego, antes de chamar sua esposa e filho para a Costa Oeste, e portanto aprendeu alguma coisa sobre como se comunicar com os mesmos. Ele não sabe, entretando, que a passagem secreta pela qual ele sugerirá (que é por onde ele entra na McGrath quando necessário) está sendo monitorada, mas testes _Sorrateiros_ ou de _Ligeireza  __Regulares (+1)___ bastarão para evitar qualquer tipo de problema ao entrar.
 
 Agora os personagens poderão invadir a ___McGrath Toon Shows___
 
@@ -576,7 +578,7 @@ Agora os personagens poderão invadir a ___McGrath Toon Shows___
 
 Agora a invasão dependerá de se os personagens contarão com a ajuda de Gellert ou não, e se eles tentarão entrar de frente ou tentarão dar a volta e entrar pelos fundos.
 
-A ___McGrath Toon Shows___ é um estúdio cinematográfico pequeno para os padrões de Hollywood. De qualquer modo, ele ainda é mais ou menos o mesmo do passado, ainda que exista algo de decrépito e decadente nas imagens (se o Mestre precisar de uma referência ao descrever, parece um pouco com a Rapture de Bioshock). Existem muitas ___caixas espalhadas___ e ___muitos dos_ props _de desenho animado___ estão espalhados, mas muitos ainda funcionam: existem bombinhas, martelos com luvas de boxe e buracos portáteis o bastante para dar aos personagens munição para como resolver de maneiras divertidas e efetivas todo tipo de problema. Os personagens poderão utilizar alguns turnos para se prepararem e recolherem ___Coisas de Desenho Animado___ (trate como Ações de Criar Vantagem, com dificuldade dependendo do tipo de item e quantidade deseajados: uma ___Bombinha___ podem ter dificuldade _Regular (+1)_, enquanto obter alguns ___Buracos Portáteis___ ou uma ___Marreta com Luva___ pode demandar um teste _Bom (+3)_).
+A ___McGrath Toon Shows___ é um estúdio cinematográfico pequeno para os padrões de Hollywood. De qualquer modo, ele ainda é mais ou menos o mesmo do passado, ainda que exista algo de decrépito e decadente nas imagens (se o Mestre precisar de uma referência ao descrever, parece um pouco com a Rapture de Bioshock). Existem muitas ___caixas espalhadas___ e ___muitos dos_ props _de desenho animado___ estão espalhados, mas muitos ainda funcionam: existem bombinhas, martelos com luvas de boxe e buracos portáteis o bastante para dar aos personagens munição para como resolver de maneiras divertidas e efetivas todo tipo de problema. Os personagens poderão utilizar alguns turnos para se prepararem e recolherem ___Coisas de Desenho Animado___ (trate como Ações de Criar Vantagem, com dificuldade dependendo do tipo de item e quantidade desejados: uma ___Bombinha___ podem ter dificuldade _Regular (+1)_, enquanto obter alguns ___Buracos Portáteis___ ou uma ___Marreta com Luva___ pode demandar um teste _Bom (+3)_).
 
 De qualquer modo, as coisas serão bem diferentes, se entrarem pela frente ou por trás do estúdio. Caso venham pela frente, eles perceberão a existência de guardas nessa forma de aberração: ao menos um para cada PC. Caso um deles perceba a entrada dos personagens, ele irá ___Soar o Alarme___, e mais dois para cada PC chegarão em uma rodada. Caso venham por trás, ainda existe uma possibilidade de passarem sem chamar a atenção, com testes _Sorrateiros_ ou de _Ligeireza __Regulares (+1)___. Caso chamem a atenção, as coisas acontecerão como acima.
 
@@ -588,9 +590,9 @@ O laboratório é bem parecido com o de von Latzen, com uma diferença: é mais 
 
 Em um canto, a única risada no recinto pode ser ouvida da boca de Lasiek: ele é ___realmente insano___, deixe isso bem claro, mas um insano psicótico, não o insano de certa forma engraçado de von Latzen,' que ainda possui um mínimo de empatia com outrem. Diferentemente de von Latzen, Lasiek não sabe o que é empatia.
 
-Ele obviamente fará um discurso sobre como ele revolucionará a ciência e usará seu exército de mutantes humano/desenho para conquistar a América e depois o mundo. E obviamente ele mandará seus capangas atacarem os personagens. Aqui vale uma coisa, Mestre: a cada dois minutos (tempo real), uma nova pessoa será imersa nos tonéis de tinta e um mutante sairá de um deles. São um total de ___cinco tonéis que não são facilmente destruíveis___, pois são feitos de vidro à prova de bala. Se algum dos personagens tentar destruir um deles por meio de dinamite, além de matar a pessoa que está dentro do tonel, o próprio personagem será banhado em alguns litros de Tinta concentrada: normalmente isso bastará para o personagem sofrer uma ___Consequência Severa de Desenhificação___ ou até mesmo uma ___Consequeência Extrema___, tornando-se um Desenho. De qualquer modo, os personagens deveriam se focar em Lasiek, já que os mutantes agirão apenas enquanto Lasiek estiver no comando: caso o mesmo seja derrotado, os mutantes ficarão estáticos, já que não possuam que lhe dêem ordens.
+Ele obviamente fará um discurso sobre como ele revolucionará a ciência e usará seu exército de mutantes humano/desenho para conquistar a América e depois o mundo. E obviamente ele mandará seus capangas atacarem os personagens. Aqui vale uma coisa, Mestre: a cada dois minutos (tempo real), uma nova pessoa será imersa nos tonéis de tinta e um mutante sairá de um deles. São um total de ___cinco tonéis que não são facilmente destruíveis___, pois são feitos de vidro à prova de bala. Se algum dos personagens tentar destruir um deles por meio de dinamite, além de matar a pessoa que está dentro do tonel, o próprio personagem será banhado em alguns litros de Tinta concentrada: normalmente isso bastará para o personagem sofrer uma ___Consequência Severa de Desenhificação___ ou até mesmo uma ___Consequência Extrema___, tornando-se um Desenho. De qualquer modo, os personagens deveriam se focar em Lasiek, já que os mutantes agirão apenas enquanto Lasiek estiver no comando: caso o mesmo seja derrotado, os mutantes ficarão estáticos, já que não possuam que lhe deem ordens.
 
-Os capangas de desenho (ao menos alguns) possuem “armas naturais” como uma cauda fedida de gambá ou o bico de um picapau, e eles podem as usar para atacar, mas sem bônus. Além desses capangas (ao menos dois para cada PC), Lasiek conta com capangas humanos, 1 para cada personagem, armados de metralhadoras reais.
+Os capangas de desenho (ao menos alguns) possuem “armas naturais” como uma cauda fedida de gambá ou o bico de um Pica-Pau, e eles podem as usar para atacar, mas sem bônus. Além desses capangas (ao menos dois para cada PC), Lasiek conta com capangas humanos, 1 para cada personagem, armados de metralhadoras reais.
 
 Caso os personagens vençam Lasiek (e esperamos que isso aconteça), ainda terão o problema das pessoas transformadas. Um personagem com um bom resultado em um teste _Esperto_ ou _Argúcia_ poderá determinar que os mutantes que já receberam essa Tinta concentrada poderão terminar a transformação e se tornarem desenhos de verdade, já que remover essa Tinta é tecnicamente impossível, e que será a única forma de impedir que aconteça com eles o que aconteceu com os Híbridos.
 
@@ -601,3 +603,50 @@ Caso os personagens vençam Lasiek (e esperamos que isso aconteça), ainda terã
 + Colin McGrath continuará sobre tratamento em Bedlam, mas aparentemente a resolução desse caso trará um certo alívio ao mesmo, permitindo que sua recuperação se acelere. Se ele se curará ou não, ninguém sabe, pois a mente dele ainda tem muito o que se perdoar antes de ele poder voltar a ter uma vida normal... Ou quase tanto quanto possível.
 
 
+
+<!--  LocalWords:  Fate-Acelerado excerpt separator Mousekevitch big
+ -->
+<!--  LocalWords:  kahuna Squama Animegaoka Toons McCow Bikini Toon
+ -->
+<!--  LocalWords:  bomba-H Acceptance and Protection Act Shave Fastii
+ -->
+<!--  LocalWords:  Haircut Ringling Bros Front Pinky Pericles Sammy
+ -->
+<!--  LocalWords:  Samantha Tutti-frutti dragster Queen Bee Manny Edy
+ -->
+<!--  LocalWords:  Lindberg Matthew McCormick Matty Andraas Till vaya
+ -->
+<!--  LocalWords:  Lasker Gorilla con dios Panchito Terrance McClown
+ -->
+<!--  LocalWords:  Terry Silly Bebop Jimmy Cho Alvin McDaggert O'Shea
+ -->
+<!--  LocalWords:  Toby booze Connor McRabbit Cody O'Mara Fastti Dodô
+ -->
+<!--  LocalWords:  Colin Suzan Foxxy Le bartender sommelier Jeanne Ok
+ -->
+<!--  LocalWords:  Wooly Woolima Craig Kiddy McBaalian Spike Helmut
+ -->
+<!--  LocalWords:  Latzen Doktor chaves-faca Puxa-frango Rinozzo Carl
+ -->
+<!--  LocalWords:  Langley O'Toole Bedlam Empire State Building Hyde
+ -->
+<!--  LocalWords:  Austena Mackie Gorillaconda Lorraine lobispato Dan
+ -->
+<!--  LocalWords:  Squash Jekyll Mackiezilla King poft Rory Coyote
+ -->
+<!--  LocalWords:  AAAAAAAAAAAAAAAAAAAaaaaaaaaaaaahhhhhhhhhhhhh Kiwi
+ -->
+<!--  LocalWords:  Kelly Josh McPhee arremesá-lo Sylvester Cabezone
+ -->
+<!--  LocalWords:  Anna German Suplex Cachorrovitch Kuak Roy Rocket
+ -->
+<!--  LocalWords:  laboratório-em-uma-pasta NASCAR Octopovna Hair
+ -->
+<!--  LocalWords:  não-Defensivas Lapilar lobiscoelho Toelho Rápio
+ -->
+<!--  LocalWords:  não-Coelho BBBBBBEEEEEEEMMMMMMMMMMM Luis slots
+ -->
+<!--  LocalWords:  apelona Deus-Sabe-Onde Roger Rolf McWolf Liquid
+ -->
+<!--  LocalWords:  Paper YIKES Eddie Valiant
+ -->
