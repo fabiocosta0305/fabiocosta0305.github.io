@@ -427,7 +427,7 @@ _Nota:_ As Consequências de Gellert estão marcadas com Desenhificação para i
 | | Base secreta... bem, mais ou menos… Visitas monitoradas todas as quintas e sábados. |
 
 
-#### Façanhas:
+#### Abordagens:
 
 | __Abordagem__ | __Nível__ |
 |-|-|
@@ -436,6 +436,9 @@ _Nota:_ As Consequências de Gellert estão marcadas com Desenhificação para i
 | __Astúcia__ | Fantástico (+6) |
 | __Caradura__ | Bom (+3) |
 | __Charme__ | Regular (+1) |
+
+#### Façanhas:
+
 
 - ___Ciência Insana:___  como _Cientista Maluco de Desenho_, _recebo +2 para Criar Vantagens com Astúcia_ ao desenvolver teorias “científicas”
 - ___Capangas:___  como _Cientista Maluco de Desenho_, criei meus diversos tipos de capangas, que posso usar uma vez por sessão como _Subalternos_
