@@ -108,13 +108,13 @@ De certa forma isso é verdadeiro: embora Rinozzo seja durão e forte, ele tamb�
 
 Aqui Foxxy não está dizendo totalmente a verdade: o _Dodô_ realmente é um Elíseo (Elíseos são locais onde a violência entre desenhos é terminantemente proibida), e desenhos levam essa tradição dos Elíseos muito a sério. Porém, ela _tem_ algo contra O'Toole. Testes de _Astúcia_ ou _Espertos_ podem indicar que a linguagem corporal dela demonstra que ela tem algo contra O'Toole. Se pressionada, ela suspirará e dizer:
 
->_"Tudo bem: na realidade, eu realmente quero o pelo do O'Toole. Ele tentou coletar propinas por 'proteção' do_ Dodô _e tentou gracinhas com as meninas daqui, chegando a tentar as estuprar. Ele não tem honra: mesmo Rinozzo me deixa cuidar dos meus próprios negócios. A única vez que ele veio no_ Dodô_, ele tentou fazer confusão e tive que o colocar para fora, aquele idiota."_
+>_"Tudo bem: na realidade, eu realmente quero o pelo do O'Toole. Ele tentou coletar propinas por 'proteção' do_ Dodô _e tentou gracinhas com as meninas daqui, chegando a tentar as estuprar. Ele não tem honra: mesmo Rinozzo me deixa cuidar dos meus próprios negócios. A única vez que ele veio no _Dodô_, ele tentou fazer confusão e tive que o colocar para fora, aquele idiota."_
 
 Agora temos a verdade: recentemente, O'Toole foi expulso do _Dodô_ após quebrar algumas das regras implícitas do mesmo. Foram necessários outros 10 caras (!!!) para ajudar os leões de chácara para colocar O'Toole para fora do _Dodô_.
 
 + ___"E você acha que ele deseja se vingar de você? Por isso da caixa de fósforo?"___
 
-> _"Acho que sim, mas mesmo O'Toole não seria imbecil a esse ponto: ele sabe que se mexer com o_ Dodô_, ele mexerá com, pelo menos, metade da Desenholândia. Em especial, temos o apoio de Rinozzo, que gosta muito daqui."_
+> _"Acho que sim, mas mesmo O'Toole não seria imbecil a esse ponto: ele sabe que se mexer com o _Dodô_, ele mexerá com, pelo menos, metade da Desenholândia. Em especial, temos o apoio de Rinozzo, que gosta muito daqui."_
 
 Verdade total: O _Dodô Pirado_ é um dos bares de diversão adulta mais importantes da Desenholândia, sendo que metade da população adulta da Desenholândia já esteve pelo menos uma vez nele e todos se importam com ele. Se O'Toole tentar pegar pesado com o _Dodô_, ele provavelmente vai pegar mais encrenca do que ele poderia aguentar.
 
@@ -167,11 +167,11 @@ De fato, Foxxy usa as caixas de fósforo como _merchandise_ e lembrança do _Dod
 
 Nem Foxxy nem Rinozzo sabem qualquer coisa sobre elas, por serem luvas comuns de latex que qualquer um pode comprar em um mercado.
 
-+ ___O lenço salmão:__
++ ___O lenço salmão:___
 
 > __Rinozzo:__ _"Isso é da esposa de Michelle, Andrea. Ela está sofrendo muito com a perda do marido, coitada. Dei-lhe isso no dia do casamento dos dois."_
 
-Rinozzo mostrará aos personagens em um canto do lenço as letras A&amp;M bordadas... E então vai ficar claro que a letra M foi queimada com Caldo, por este ser um lenço salmão. Rinozzo fornecerá o endereço da Sra. Volpe, em uma região mais comum da Desenholândia.
+Rinozzo mostrará aos personagens em um canto do lenço as letras A&amp;M bordadas... E então vai ficar claro que a letra M foi queimada com Caldo, por este ser um lenço de desenho. Rinozzo fornecerá o endereço da Sra. Volpe, em uma região mais comum da Desenholândia.
 
 + ___O galão:___
 
@@ -241,11 +241,11 @@ Agora só resta ir à Hillibill Chemicals investigar essa empresa.
 
 Caso os personagens façam sua lição de casa corretamente, consultando jornais na biblioteca local, conversando com as pessoas e investigando a região, eles descobrirão como Aspectos alguns fatos importantes sobre a Hillibill Chemicals:
 
-- A _Hillibill Chemicals_ é uma ___grande fornecedora para o Departamento de Defesa__ desde a 1ª Guerra Mundial, fornecendo todo tipo de suprimento químico para armas e equipamentos de combate;
+- A _Hillibill Chemicals_ é uma ___grande fornecedora para o Departamento de Defesa___ desde a 1ª Guerra Mundial, fornecendo todo tipo de suprimento químico para armas e equipamentos de combate;
 - A _Hillibill Chemicals_ não é uma grande empresa, mas ___muitas outras se envolvem em negócios com eles vez por outra___;
 - A _Hillibill Chemicals_ recentemente andou contratando muitos desenhos, tanto no chão de fábrica quanto para Pesquisa e Desenvolvimento. De fato, o infame desenho cientista maluco, ___Doktor von Latzen chegou a ser convidado, mas ele se recusou a trabalhar para a Hillibill Chemicals___;
 - Algumas investigações sobre o caso do Juiz Doom e do assassinato do Sr. Acme, feitas após os eventos, mostraram que havia ___Relações entre o Juiz Doom e a Hillibill Chemicals___, por meio de ___Alfred Corming, dono da Hillibill Chemicals___.Porém os casos foram arquivados antes de que qualquer conclusão pudesse ser alcançada;
-- Alfred Corming é __conhecido apoiador do Comitê de Investigação de Atividades Não-Americanas do Congresso___ (_House Un-American Activities Comittee_, HUAC), em especial no quesito da inclusão de desenhos na lista negra da HUAC, sendo um defensor convicto da teoria de que ___"Desenhos são Comunas"___. Isso pode parecer maluco, mas é um reflexo do Macarthismo e da ___Histeria do "Perigo Vermelho"___. As pessoas sabem que a maioria dos desenhos são totalmente apolíticos, mas alguns (incluindo Corming) são adeptos da teoria _Conosco ou Contra nós_, e como muitos desenhos explicitamente fazem piada dos integrantes do Velho e Bom Partido (_Good Old Party –_ GOP – referência ao Partido Republicano), eles acham que os desenhos deveriam ser incluídos na lista negra como comunistas. De fato, muitos dizem que o primeiro a ser intimado a depor no Comitê seria Roger Rabbit, mas muitos dizem que isso só não ocorreu que os desenhos "super-heróis" eram vistos como mais perigosos que os desenhos normais.
+- Alfred Corming é ___conhecido apoiador do Comitê de Investigação de Atividades Não-Americanas do Congresso___ (_House Un-American Activities Comittee_, HUAC), em especial no quesito da inclusão de desenhos na lista negra da HUAC, sendo um defensor convicto da teoria de que ___"Desenhos são Comunas"___. Isso pode parecer maluco, mas é um reflexo do Macarthismo e da ___Histeria do "Perigo Vermelho"___. As pessoas sabem que a maioria dos desenhos são totalmente apolíticos, mas alguns (incluindo Corming) são adeptos da teoria _Conosco ou Contra nós_, e como muitos desenhos explicitamente fazem piada dos integrantes do Velho e Bom Partido (_Good Old Party –_ GOP – referência ao Partido Republicano), eles acham que os desenhos deveriam ser incluídos na lista negra como comunistas. De fato, muitos dizem que o primeiro a ser intimado a depor no Comitê seria Roger Rabbit, mas muitos dizem que isso só não ocorreu que os desenhos "super-heróis" eram vistos como mais perigosos que os desenhos normais.
 - Um Boato bem sombrio diz que a Hillibill Chemicals anda fazendo dinheiro ___fornecendo material químico no mercado negro___, incluindo substâncias que seriam usadas para a produção de drogas como a anfetamina.
 - Uma teoria da conspiração diz que a ___Hillibill Chemicals foi na verdade a primeira produtora real do Caldo___. Embora o Juiz Doom tenha sido ele mesmo o criador do Caldo, as quantidades enormes dessa substância que ele possuía quando ameaçou destruir a Desenholândia não poderia ser produzida artesanalmente. Portanto, muitos acreditam que Doom teve algum apoio, e que esse apoio seria por meio da Hillibill Chemicals;
 - É dito que o ___"Time de segurança"___ da Hillibill Chemicals é basicamente composto por gangsteres da gangue de O'Toole e alguns criminosos da ralé humana de Los Angeles;
@@ -295,7 +295,7 @@ Mas... Se os personagens investigarem um pouco mais, vão descobrir que a coisa 
 
 ## Capítulo A – Opcional: Teia de Intrigas
 
-Conforme os personagens forem investigando as coisas (ou depois da aventura "principal"), eles poderão achar o ___Escritório de Corming___. Nele, um teste de _Astúcia_ ou _Esperto_ revelará um fundo falso em uma das gavetas da escrivaninha. Nela, uma pasta ira revelar documentos sobre um ___plano para uma guerra de gangues estourar na Desenholândia___ e se espalhar para a cidade de Los Angeles, e alguns panfletos ___propaganda anti-desenho__ estilo ___"Desenhos São Comunas"___. Os planos e panfletos estão assinado no nome de uma organização chamada ___Comunidade Dos Verdadeiros Seres___, aparentemente uma organização de humanos que odeiam desenhos... E nos panfletos aparece constantemente o nome do Deputado Kevin McNish.
+Conforme os personagens forem investigando as coisas (ou depois da aventura "principal"), eles poderão achar o ___Escritório de Corming___. Nele, um teste de _Astúcia_ ou _Esperto_ revelará um fundo falso em uma das gavetas da escrivaninha. Nela, uma pasta ira revelar documentos sobre um ___plano para uma guerra de gangues estourar na Desenholândia___ e se espalhar para a cidade de Los Angeles, e alguns panfletos ___propaganda anti-desenho___ estilo ___"Desenhos São Comunas"___. Os planos e panfletos estão assinado no nome de uma organização chamada ___Comunidade Dos Verdadeiros Seres___, aparentemente uma organização de humanos que odeiam desenhos... E nos panfletos aparece constantemente o nome do Deputado Kevin McNish.
 
 Se os personagens colocarem McNish contra a parede usando essa ___Pasta de Segredos Terríveis___, McNish irá primeiro negar tudo e então tentará matar todos os personagens (inclusive matando os desenhos com Caldo) e recuperar a pasta. McNish tem seus próprios capangas (um por personagem, todos humanos – ele não confia em desenhos). Se próximo de ser derrotado, ele concederá _a vitória_, escapando e deixando pasta para trás. Os personagens terão então nitroglicerina pura para desmascarar esse grupo em Los Angeles... Ou não... A critério do Mestre.
 
@@ -391,11 +391,11 @@ Os personagens que chegarem até aqui receberão um _Marco Significativo_
 
 - _Sacola de Surpresas –_ Veja _Destino dos Desenhos Animados_
 - _Chefão da Gangue:_ Como _Líder de Gangue_, recebo +2 para _Criar Vantagens_ com _Caradura_
-- _Poder do Goró:_ Devido ao _Álcool e ao Ouro,__uma vez por sessão_ posso usar um Aspecto _Briga de Bêbado_ enquanto estiver _Embriagado de whisky_. Quando estiver assim, recebo +2 em todos os meus _Ataques_ com _Muque_
+- _Poder do Goró:_ Devido ao _Álcool e ao Ouro_, _uma vez por sessão_ posso usar um Aspecto _Briga de Bêbado_ enquanto estiver _Embriagado de whisky_. Quando estiver assim, recebo +2 em todos os meus _Ataques_ com _Muque_
 
 ### ​ Capangas de Rinozzo:
 
-- _Capangas,_ Famiglia_, Bem calmos para mafiosos_
+- _Capangas,_ Famiglia, _Bem calmos para mafiosos_
   - __Perito (+2) em:__ ameaças veladas, terem estilo, trabalho em equipe
   - __Ruim (-2) em:__ Lutarem sozinhos
   - __Façanha:__ _Chamado da_ Famiglia – podem invocar mais alguns capangas como subalternos
