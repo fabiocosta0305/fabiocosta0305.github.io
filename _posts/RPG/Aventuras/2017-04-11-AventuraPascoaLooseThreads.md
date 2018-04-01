@@ -164,7 +164,7 @@ As _Roupas Encantadas_ parecem uma grande ___Fantasia de Coelho___, similar a al
 + **Características:** ___Mágica, Sábia___
 + **Agenda:** Ela cuida para que os segredos sobre o Coelho da Páscoa não sejam revelados para qualquer um. Em especial, as ___Roupas Encantadas___ são um segredo de marca maior da mesma
 + **Custo:** Uma Promessa de proteger o Segredo do Coelho da Páscoa a fará trabalhar em conjunto com os personagens
-+ **Perícias:** ___Magias (Maior, Geasa)__ Fantástico (+6)_; ___Conhecimento, Empatia, Provocar__ Excepcional (+5)_ ;___Magia (Zaps)__ Ótimo (+4)_; Demais perícias em _Bom (+3)_
++ **Perícias:** *__Magias (Maior, Geasa)__ Fantástico (+6); __Conhecimento, Empatia, Provocar__ Excepcional (+5) ;__Magia (Zaps)__ Ótimo (+4)*; Demais perícias em _Bom (+3)_
 
 ### ___Rumpelstiltskin, o Duende___
 
